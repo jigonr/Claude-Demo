@@ -32,13 +32,13 @@ src/
     ui/                             Button, Badge, Card, DimensionBar, LoadingPulse (ALL DONE)
   data/
     questions.ts                    22 questions -- adversarial + redirecting, interleaved (DONE)
-    careers-mock.ts                 5 placeholder careers for UI dev (PLACEHOLDER)
+    jobs.ts                          Job data with dimension vectors (TODO -- David)
   lib/
     types.ts                        Career, CareerMatch, Reflection, RevealedPreferences, etc. (DONE)
     store.ts                        Zustand: answers, preferences, reflections, careerMatches (DONE)
     scoring.ts                      derivePreferences() + matchCareers() with cosine similarity (DONE)
     contradictions.ts               6 deterministic rules for local reflection (DONE)
-job_data/                           10 job postings as JSON + MD (David adding more)
+job_data/                           456 job postings as JSON + MD (DONE -- read-only source)
 ```
 
 ---
@@ -118,13 +118,15 @@ git worktree remove .worktrees/my-feature
 - [x] Path page with micro-experiments + learning paths
 - [x] All UI components (Button, Badge, Card, DimensionBar, LoadingPulse)
 - [x] Design system (editorial palette, dark mode, Framer Motion animations)
+- [x] 456 job postings dataset (tech, business, healthcare) in `job_data/`
+- [x] Generation script + TypeScript partial data files
 
 ### TWO BLOCKERS TO MVP
 
 | # | Blocker | What's needed | Owner |
 |---|---------|---------------|-------|
 | 1 | **No Claude API route** | `/api/reflect` doesn't exist. Lens page uses local contradictions.ts only. Need to build the route and upgrade lens page to call it. | **Maks** |
-| 2 | **No real career data** | Map/Path pages use `careers-mock.ts` (5 fake careers). Need `careers.ts` with 20+ real careers with dimension vectors. | **David** |
+| 2 | **Job data not integrated** | 456 job postings exist in `job_data/` but need transformation into `src/data/jobs.ts` with dimension vectors. Map/Path pages still use mock data. | **David** |
 
 ---
 
@@ -139,14 +141,15 @@ git worktree remove .worktrees/my-feature
 - Keep local contradictions.ts as fallback if API fails
 - See prompt spec below
 
-### David -- Career Database
-**Priority 1: Replace `careers-mock.ts` with real `careers.ts`**
-- Create `src/data/careers.ts` exporting `Career[]` (use existing Career interface in types.ts)
-- Each career needs a `dimensions: RevealedPreferences` vector for cosine similarity matching
-- Target 20-30 careers spanning: tech, creative, finance, trades, social impact, emerging fields
-- Include "hidden gem" careers most 18-year-olds wouldn't know
-- The `job_data/` flat files can inform this but careers.ts is the structured source
-- See Career interface and dimension guidance below
+### David -- Job Database Integration
+**Priority 1: Transform `job_data/` into `src/data/jobs.ts` with dimension vectors**
+- 456 job postings already exist in `job_data/*.json` (read-only source data)
+- Create `src/data/jobs.ts` that imports job data and adds `dimensions` + `tags` to each
+- Update `src/lib/types.ts`: replace `Career`/`CareerMatch` with `Job`/`JobMatch` (mirrors job_data JSON schema + dimensions + tags)
+- Update `src/lib/scoring.ts`: rename `matchCareers()` -> `matchJobs()`
+- Update `src/lib/store.ts`: rename `careerMatches` -> `jobMatches`
+- Each job posting is its own entry (no deduplication)
+- See dimension mapping guidance below
 
 ### Jose -- QA, Integration, Coordination
 - Audit questions for weight correctness and dimension coverage
@@ -213,27 +216,32 @@ OUTPUT FORMAT: JSON array:
 
 ---
 
-## INSTRUCTIONS FOR DAVID: Career Database
+## INSTRUCTIONS FOR DAVID: Job Database Integration
 
-**File:** `src/data/careers.ts` -- must export `careers: Career[]`
+**Source:** `job_data/*.json` (456 postings, read-only) -> **Output:** `src/data/jobs.ts`
 
-Use the existing `Career` interface from `src/lib/types.ts`:
+The `Job` type should mirror the `job_data` JSON schema directly, plus `dimensions` and `tags`:
 ```typescript
-interface Career {
-  id: string;                    // kebab-case
-  title: string;
-  description: string;           // what this job ACTUALLY involves
-  dayInLife: string;             // vivid typical day, 2-3 sentences
-  dimensions: RevealedPreferences; // 9D vector for matching
-  surpriseFactor: string;        // why a 19-year-old wouldn't know this
-  learningPath: LearningStep[];  // 3 steps
-  microExperiment: string;       // try THIS WEEK
-  optionValue: string[];         // other careers this path opens
-  incomeTrajectory: { year: number; amount: number }[];
-  stories: CareerStory[];
-  tags: string[];
+interface Job {
+  // Fields from job_data/*.json (pass through directly)
+  id: string; title: string; category: string; company: string; industry: string;
+  location: { city: string; state: string; country: string; remote: string };
+  salary: { min: number; max: number; currency: string; period: string };
+  employment_type: string; posted_date: string; description: string;
+  responsibilities: string[]; requirements: { education: string; experience_years: string; skills: string[]; certifications: string[] };
+  benefits: string[];
+  // Fields David adds for matching
+  dimensions: RevealedPreferences;  // 9D vector for cosine similarity
+  tags: string[];                    // [category, ...derived from skills/industry]
 }
+interface JobMatch { job: Job; score: number; matchExplanation: string; }
 ```
+
+### Files to update:
+1. `src/data/jobs.ts` -- create, import job_data, add dimensions + tags
+2. `src/lib/types.ts` -- replace Career/CareerMatch with Job/JobMatch
+3. `src/lib/scoring.ts` -- matchCareers() -> matchJobs()
+4. `src/lib/store.ts` -- careerMatches -> jobMatches
 
 ### Dimension mapping:
 | Dimension | Low (-1) | High (+1) |
@@ -249,8 +257,6 @@ interface Career {
 | geographicFlex | Lab technician | Remote cloud engineer |
 
 *These range 0-1, not -1 to 1.
-
-Target 20-30 careers. Include hidden gems: actuarial science, computational linguistics, industrial design, forensic accounting, climate adaptation consulting, etc.
 
 ---
 
@@ -304,5 +310,5 @@ Cosine similarity between user's 9D preference vector and each career's dimensio
 ## Environment Variables
 - `ANTHROPIC_API_KEY` -- required for `/api/reflect`
 
-## Job Postings Reference (`job_data/`)
-10 entry-level postings (JSON + MD). Naming: `{id}_{category}_{title}_{city-state}.{ext}`. Categories: tech, business, healthcare. David can use these as reference when building careers.ts.
+## Job Postings Dataset (`job_data/`)
+456 entry-level postings (JSON + MD). Naming: `{id}_{category}_{title-slug}_{city-state}.{ext}`. Categories: tech (156), business (146), healthcare (154). This is the read-only source data that David transforms into `src/data/jobs.ts`.
