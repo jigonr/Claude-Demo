@@ -35,12 +35,12 @@ export function BinaryChoice({
               transition-all duration-200 cursor-pointer
               ${
                 isSelected
-                  ? "border-2 border-accent bg-accent text-white shadow-lg shadow-accent/20"
-                  : "border-2 border-gray-300 bg-white hover:border-accent hover:shadow-md"
+                  ? "border-2 border-accent bg-accent text-white shadow-lg shadow-accent/30"
+                  : "border-2 border-border bg-surface hover:border-accent hover:shadow-md text-white"
               }
             `}
           >
-            <span className={`block ${isSelected ? "text-white" : "text-black"}`}>{option.label}</span>
+            <span className="block">{option.label}</span>
             {isSelected && (
               <motion.div
                 layoutId="selected-check"

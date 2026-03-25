@@ -1,17 +1,16 @@
 @import "tailwindcss";
 
 :root {
-  /* Clean, high-contrast palette */
-  --background: #FFFFFF;
-  --foreground: #111111;
-  --color-surface: #EAEDF0;
-  --color-charcoal: #111111;
+  --background: #0F0F0F;
+  --foreground: #FFFFFF;
+  --color-surface: #1A1A1A;
+  --color-charcoal: #FFFFFF;
   --color-accent: #E85D04;
   --color-accent-light: #FF8C42;
-  --color-accent-subtle: #FFF3E0;
-  --color-muted: #6B7280;
-  --color-border: #D4D4D4;
-  --color-highlight: #1A1A2E;
+  --color-accent-subtle: #2A1A08;
+  --color-muted: #A0A0A0;
+  --color-border: #333333;
+  --color-highlight: #0F0F0F;
   --font-heading: 'Geist', system-ui, -apple-system, sans-serif;
 }
 
@@ -31,32 +30,16 @@
   --font-heading: var(--font-heading);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0A0A0A;
-    --foreground: #F5F5F0;
-    --color-surface: #1A1A1A;
-    --color-charcoal: #F5F5F0;
-    --color-muted: #9CA3AF;
-    --color-border: #2A2A2A;
-    --color-accent-subtle: #1A1008;
-    --color-highlight: #F5F5F0;
-  }
-}
-
 body {
   background: var(--background);
   color: var(--foreground);
-  font-feature-settings: "ss01", "ss02";
 }
 
-/* Custom selection */
 ::selection {
   background: var(--color-accent);
   color: white;
 }
 
-/* Smooth slider track */
 input[type="range"] {
   -webkit-appearance: none;
   appearance: none;
@@ -75,13 +58,12 @@ input[type="range"]::-webkit-slider-thumb {
   height: 24px;
   border-radius: 50%;
   background: var(--color-accent);
-  border: 3px solid white;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  border: 3px solid var(--background);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
   cursor: pointer;
   margin-top: -9px;
 }
 
-/* Textarea focus */
 textarea:focus {
   outline: none;
   border-color: var(--color-accent) !important;

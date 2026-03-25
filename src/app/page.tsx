@@ -147,7 +147,7 @@ export default function Home() {
       </section>
 
       {/* Approach cards */}
-      <section className="px-6 py-24 sm:py-32 bg-white">
+      <section className="px-6 py-24 sm:py-32 bg-surface">
         <div className="mx-auto max-w-3xl">
           <motion.p
             className="text-sm font-semibold uppercase tracking-widest text-accent mb-4"
