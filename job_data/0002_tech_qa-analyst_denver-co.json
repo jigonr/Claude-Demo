@@ -1,0 +1,49 @@
+{
+  "id": "0002",
+  "title": "QA Analyst",
+  "category": "tech",
+  "company": "Datadog",
+  "industry": "Cloud Monitoring",
+  "location": {
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 70000,
+    "max": 90000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Datadog is the monitoring and security platform for cloud applications. Our platform ingests trillions of events per day from over 28,000 customers, giving engineering teams real-time visibility into their entire stack. As a QA Analyst, you'll be the quality backbone of our product — building and running test strategies that keep our observability platform rock-solid as we scale. You'll work directly with engineers to ship features that millions of developers rely on every day, and you'll have a real say in how we define and measure quality.",
+  "responsibilities": [
+    "Design and execute comprehensive test plans for new features and enhancements across the Datadog platform",
+    "Build and maintain automated test suites using Selenium and Python to ensure reliable regression coverage across releases",
+    "Validate API endpoints and integrations through systematic API testing, ensuring data integrity at trillion-event scale",
+    "Collaborate with engineering and product teams to identify edge cases, define acceptance criteria, and triage bugs in JIRA",
+    "Continuously improve our CI/CD test pipeline by identifying gaps in coverage and advocating for quality-first development practices"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Information Technology, or equivalent hands-on experience",
+    "experience_years": "0-2",
+    "skills": [
+      "Selenium",
+      "Python",
+      "JIRA",
+      "SQL",
+      "API testing",
+      "CI/CD"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) retirement plan",
+    "Competitive stock options so you share in what we build together",
+    "Unlimited PTO — recharge when you need to, no questions asked",
+    "Dog-friendly office — yes, we really mean it"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-08"
+}

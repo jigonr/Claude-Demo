@@ -1,0 +1,51 @@
+{
+  "id": "0009",
+  "title": "Clinical Research Coordinator",
+  "category": "healthcare",
+  "company": "IQVIA",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Durham",
+    "state": "NC",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 50000,
+    "max": 62000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "IQVIA is the world's leading contract research organization, powered by technology and driven by the mission to accelerate the development of innovative treatments that improve patient outcomes globally. We partner with life sciences companies of all sizes to design and execute clinical trials at a scale and speed unmatched in the industry. As a Clinical Research Coordinator, you will serve as a critical link between study sponsors, investigators, and patients, ensuring that clinical trials are conducted with the highest standards of data quality, regulatory compliance, and participant safety. This hybrid role offers the opportunity to contribute to data-driven clinical research programs that shape the future of medicine.",
+  "responsibilities": [
+    "Coordinate and manage day-to-day clinical trial activities in accordance with study protocols, GCP/ICH guidelines, and applicable regulatory requirements",
+    "Screen, recruit, and enroll study participants, conducting informed consent processes and ensuring eligibility criteria are met",
+    "Collect, enter, and verify clinical data using electronic data capture (EDC) systems, maintaining accuracy, completeness, and audit readiness",
+    "Prepare, organize, and maintain regulatory documentation including IRB submissions, protocol amendments, and essential regulatory binders",
+    "Serve as the primary point of contact for study participants, clinical staff, sponsors, and monitors, facilitating clear communication and timely resolution of queries"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Life Sciences, Nursing, Public Health, or a related field",
+    "experience_years": "0-2",
+    "skills": [
+      "clinical trial protocols",
+      "GCP/ICH guidelines",
+      "electronic data capture (EDC)",
+      "patient recruitment",
+      "regulatory documentation",
+      "Microsoft Office"
+    ],
+    "certifications": [
+      "ACRP (CCRC) or SOCRA (CCRP) certification preferred but not required"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision insurance",
+    "401(k) retirement plan with employer contributions",
+    "Professional development programs and continuing education support",
+    "Flexible scheduling to support work-life balance in a hybrid environment",
+    "Employee assistance program (EAP) for personal and professional well-being"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-11"
+}

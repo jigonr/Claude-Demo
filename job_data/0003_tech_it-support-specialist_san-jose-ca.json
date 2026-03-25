@@ -1,0 +1,52 @@
+{
+  "id": "0003",
+  "title": "IT Support Specialist",
+  "category": "tech",
+  "company": "Cisco",
+  "industry": "Networking & Infrastructure",
+  "location": {
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 65000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "At Cisco, we power the internet. Our technology connects people, secures enterprises, and automates networks across every industry and every corner of the globe. As an IT Support Specialist at our San Jose headquarters, you'll be the go-to person keeping our internal teams productive and connected. You'll troubleshoot across platforms, manage infrastructure at enterprise scale, and collaborate with teams across the company to deliver the seamless technology experience that Cisco employees — and our mission — depend on.",
+  "responsibilities": [
+    "Provide hands-on technical support for hardware, software, and network issues across Windows, macOS, and Linux environments",
+    "Manage and administer Active Directory accounts, group policies, and access permissions for internal users",
+    "Diagnose and resolve network connectivity issues involving TCP/IP, DNS, DHCP, and VPN configurations",
+    "Track, prioritize, and resolve support tickets in ServiceNow, maintaining SLA targets and clear communication with end users",
+    "Collaborate with infrastructure and security teams to deploy system updates, patches, and new endpoint configurations across the organization"
+  ],
+  "requirements": {
+    "education": "Associate's or Bachelor's degree in Information Technology, Computer Science, or equivalent practical experience",
+    "experience_years": "0-2",
+    "skills": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Active Directory",
+      "TCP/IP",
+      "DNS",
+      "DHCP",
+      "ServiceNow",
+      "Troubleshooting"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance covering medical, dental, and vision",
+    "401(k) with company match to help you plan for the future",
+    "Tuition reimbursement for continued education and professional development",
+    "Employee Stock Purchase Plan (ESPP) at a discounted rate",
+    "On-site fitness center and wellness programs at our San Jose campus"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-28"
+}

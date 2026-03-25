@@ -1,0 +1,52 @@
+{
+  "id": "0007",
+  "title": "Medical Laboratory Technician",
+  "category": "healthcare",
+  "company": "Mayo Clinic",
+  "industry": "Healthcare",
+  "location": {
+    "city": "Rochester",
+    "state": "MN",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "At Mayo Clinic, the needs of the patient come first. Our Department of Laboratory Medicine and Pathology is one of the largest and most respected clinical laboratories in the world, processing millions of tests annually to support accurate diagnosis and treatment. As a Medical Laboratory Technician, you will perform critical laboratory testing across multiple disciplines, contributing directly to the diagnostic process that guides clinical decision-making. You will join a collaborative team of laboratory professionals dedicated to delivering world-class results with precision and care.",
+  "responsibilities": [
+    "Perform routine and specialized laboratory testing in hematology, clinical chemistry, urinalysis, and coagulation following established Mayo Clinic protocols",
+    "Collect, process, and prepare patient specimens while maintaining strict chain-of-custody and specimen integrity standards",
+    "Operate and maintain laboratory instrumentation, performing daily calibrations, quality control checks, and basic troubleshooting as required",
+    "Accurately enter, verify, and release test results through the laboratory information system (LIS), ensuring timely reporting to clinical teams",
+    "Adhere to all quality assurance and safety protocols, including participation in proficiency testing programs and compliance with CAP and CLIA regulations",
+    "Collaborate with pathologists, medical technologists, and clinical staff to resolve discrepant results and support patient care across Mayo Clinic's integrated practice"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Medical Laboratory Technology or related clinical laboratory science program",
+    "experience_years": "0-2",
+    "skills": [
+      "specimen processing",
+      "hematology",
+      "clinical chemistry",
+      "laboratory information systems (LIS)",
+      "quality control",
+      "phlebotomy"
+    ],
+    "certifications": [
+      "ASCP Medical Laboratory Technician (MLT) certification required, or eligibility to obtain within 12 months of hire"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision insurance",
+    "Mayo Clinic pension plan with employer contributions",
+    "Tuition assistance for continuing education and professional development",
+    "Relocation assistance for eligible candidates",
+    "Generous paid time off including holidays, vacation, and sick leave"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-01"
+}

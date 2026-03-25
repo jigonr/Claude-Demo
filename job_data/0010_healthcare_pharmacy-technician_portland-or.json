@@ -1,0 +1,52 @@
+{
+  "id": "0010",
+  "title": "Pharmacy Technician",
+  "category": "healthcare",
+  "company": "Kaiser Permanente",
+  "industry": "Healthcare",
+  "location": {
+    "city": "Portland",
+    "state": "OR",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "At Kaiser Permanente, we believe that health is a right, not a privilege, and we thrive together by delivering integrated, member-centered care that emphasizes prevention and whole-person wellness. Our pharmacy teams are an essential part of this model, working side by side with physicians, nurses, and specialists to ensure that every member receives safe, effective, and affordable medications. As a Pharmacy Technician in our Portland pharmacy, you will support prescription processing, medication dispensing, and patient communication within a team-based environment dedicated to exceptional pharmacy services. This role offers the chance to grow your career within one of the nation's leading integrated healthcare systems.",
+  "responsibilities": [
+    "Receive, process, and fill prescription orders accurately using Kaiser Permanente's pharmacy dispensing systems, verifying patient information, dosage, and drug interactions under pharmacist supervision",
+    "Manage medication inventory including ordering, receiving, stocking, and rotating pharmaceutical supplies while maintaining proper storage conditions and minimizing waste",
+    "Verify insurance eligibility and process prescription claims, resolving rejected claims and communicating coverage options to members with clarity and compassion",
+    "Assist members at the pharmacy counter and via phone, answering questions about prescription status, refill procedures, and general pharmacy services in accordance with HIPAA compliance requirements",
+    "Support pharmacists in maintaining accurate records, performing quality assurance checks, and ensuring compliance with all federal, state, and Kaiser Permanente pharmacy regulations"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED required; completion of a pharmacy technician training program preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "prescription processing",
+      "pharmacy dispensing systems",
+      "medication inventory",
+      "insurance verification",
+      "patient communication",
+      "HIPAA compliance"
+    ],
+    "certifications": [
+      "Oregon Pharmacy Technician license required",
+      "PTCB (Pharmacy Technician Certification Board) certification preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision insurance for employees and eligible dependents",
+    "Kaiser Permanente pension plan with employer contributions",
+    "Tuition reimbursement for continuing education and career advancement",
+    "Transit subsidy to support sustainable commuting options",
+    "Wellness programs including fitness center discounts, mental health resources, and preventive care incentives"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-25"
+}

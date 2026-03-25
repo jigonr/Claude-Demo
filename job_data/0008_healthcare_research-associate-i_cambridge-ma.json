@@ -1,0 +1,50 @@
+{
+  "id": "0008",
+  "title": "Research Associate I",
+  "category": "healthcare",
+  "company": "Pfizer",
+  "industry": "Pharmaceutical",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 68000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "At Pfizer, we are driven by breakthroughs that change patients' lives. Our research and development engine is at the heart of everything we do, advancing a diverse pipeline of medicines, vaccines, and therapies that address the world's most pressing health challenges. As a Research Associate I in our Cambridge research facility, you will contribute to early-stage drug discovery programs by executing laboratory experiments, analyzing data, and collaborating with multidisciplinary scientific teams. This is an opportunity to launch your career in pharmaceutical research within a rigorous, innovation-focused environment committed to scientific excellence.",
+  "responsibilities": [
+    "Execute cell-based assays including cell culture maintenance, passage, and experimental setup in support of drug discovery and target validation programs",
+    "Perform molecular and immunological techniques including PCR, ELISA, and flow cytometry according to established protocols and GLP compliance standards",
+    "Collect, organize, and analyze experimental data using GraphPad Prism, R, or equivalent statistical tools, and present findings to project teams",
+    "Maintain accurate and detailed electronic laboratory notebooks and documentation in compliance with Pfizer's research data integrity standards",
+    "Contribute to the optimization and troubleshooting of experimental protocols, identifying opportunities to improve assay sensitivity, reproducibility, and throughput",
+    "Collaborate with scientists, principal investigators, and cross-functional teams to support pipeline advancement from target identification through lead optimization"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Biology, Biochemistry, Molecular Biology, or a related life sciences discipline",
+    "experience_years": "0-2",
+    "skills": [
+      "cell culture",
+      "PCR",
+      "ELISA",
+      "flow cytometry",
+      "data analysis (GraphPad/R)",
+      "GLP compliance"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance including medical, dental, and vision coverage",
+    "401(k) retirement plan with competitive company match",
+    "Pfizer Employee Stock Purchase Plan (ESPP) at discounted rates",
+    "Funding for scientific conference attendance and professional development",
+    "Relocation support for eligible candidates"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-06"
+}

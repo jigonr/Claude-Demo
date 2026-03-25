@@ -1,0 +1,49 @@
+{
+  "id": "0006",
+  "title": "Marketing Coordinator",
+  "category": "business",
+  "company": "Procter & Gamble",
+  "industry": "Consumer Goods",
+  "location": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 62000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Procter & Gamble is one of the world's largest consumer goods companies, home to iconic brands that billions of people use every day — from household care to personal health to beauty. For nearly two centuries, P&G has been built on a foundation of innovation, consumer understanding, and a commitment to making everyday life a little better. As a Marketing Coordinator, you will take ownership from day one, contributing to brand strategies that reach consumers in over 180 countries. You will collaborate with cross-functional teams spanning brand management, sales, and R&D to bring consumer-centric campaigns to life across digital and traditional channels. This is an opportunity to build your career at the company that invented brand management, with direct exposure to some of the most recognized brands in the world.",
+  "responsibilities": [
+    "Coordinate the planning and execution of integrated marketing campaigns across digital, social, and traditional media channels for assigned brand portfolios",
+    "Analyze campaign performance metrics using Google Analytics and internal dashboards, translating data into actionable insights and optimization recommendations",
+    "Manage social media content calendars and community engagement across platforms, ensuring consistent brand voice and alignment with global brand guidelines",
+    "Support the brand management team in developing consumer-facing materials, promotional assets, and sales collateral through close collaboration with creative agencies",
+    "Track project timelines, budgets, and deliverables across multiple concurrent initiatives, proactively identifying risks and ensuring on-time execution"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, Business Administration, Communications, or a related field from an accredited institution",
+    "experience_years": "0-2",
+    "skills": [
+      "Google Analytics",
+      "social media platforms",
+      "Salesforce",
+      "copywriting",
+      "project management",
+      "Microsoft Office"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision insurance coverage",
+    "401(k) retirement plan with competitive company match",
+    "Profit sharing program based on company performance",
+    "Product discounts across the full P&G brand portfolio",
+    "Relocation assistance for eligible candidates"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-14"
+}
