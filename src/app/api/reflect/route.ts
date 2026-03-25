@@ -1,5 +1,6 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { questions } from "@/data/questions";
+import { jobs } from "@/data/jobs";
 
 const client = new Anthropic();
 
@@ -11,7 +12,9 @@ Return exactly 4 reflections as a JSON array. Each reflection must be one of the
 - "contradiction": Where their answers conflict with each other — they said one thing but revealed another
 - "assumption": An unexamined belief about work/careers that their answers expose
 - "surprise": Something unexpected their answers reveal about what they actually value
-- "reframe": A new way to think about their career direction based on the data
+- "reframe": A new way to think about their career direction based on the data. You have access to real job postings — for reframe reflections, reference specific jobs that might surprise the user.
+
+You have access to real job postings from the labor market. Use them to ground your "reframe" reflections in concrete opportunities the user likely hasn't considered.
 
 Format your response as a JSON array of objects with these fields:
 - id: a short kebab-case identifier
@@ -37,6 +40,11 @@ export async function POST(request: Request) {
     .filter(Boolean)
     .join("\n");
 
+  const jobSummary = jobs
+    .slice(0, 30)
+    .map((j) => `${j.title} at ${j.company} (${j.category}) — ${j.location.city}, ${j.location.state} — $${(j.salary.min/1000).toFixed(0)}K-$${(j.salary.max/1000).toFixed(0)}K`)
+    .join("\n");
+
   const userMessage = `Here are the user's answers:
 
 ${answerSummary}
@@ -52,10 +60,13 @@ Computed preference vector:
 - Meaning Weight: ${preferences.meaningWeight.toFixed(2)} (0-1, how much purpose matters)
 - Geographic Flexibility: ${preferences.geographicFlex.toFixed(2)} (-1 = stay put, 1 = will go anywhere)
 
+Available job postings:
+${jobSummary}
+
 Analyze the pattern across ALL answers. Look for contradictions, unexamined assumptions, surprises, and reframes.`;
 
   const stream = await client.messages.stream({
-    model: "claude-sonnet-4-6",
+    model: "claude-opus-4-6",
     max_tokens: 2048,
     system: SYSTEM_PROMPT,
     messages: [{ role: "user", content: userMessage }],
