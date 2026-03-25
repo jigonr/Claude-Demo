@@ -11,11 +11,14 @@ export interface DimensionWeight {
   weight: number;
 }
 
+export type QuestionPhase = 'adversarial' | 'redirecting';
+
 export interface Question {
   id: string;
   text: string;
   subtext?: string;
   type: QuestionType;
+  phase: QuestionPhase;
   options?: QuestionOption[];
   dimensionWeights: Record<string, DimensionWeight[]>;
   sliderMin?: string;

@@ -1,182 +1,410 @@
 import { Question } from '@/lib/types';
 
-export const questions: Question[] = [
+// ─────────────────────────────────────────────────────────
+// PHASE 1: ADVERSARIAL — Challenge assumptions, expose
+// contradictions, force uncomfortable honesty.
+// These are NOT career counselor questions. They're designed
+// to make you squirm, then think.
+// ─────────────────────────────────────────────────────────
+
+const adversarial: Question[] = [
   {
-    id: 'autonomy-tuesday',
-    text: "It's 10am on a Tuesday. In your ideal life, did someone else decide what you're doing right now, or did you?",
+    id: 'dream-job-pay-cut',
+    text: 'Your dream job exists — but it pays 40% less than you expected. Do you still want it?',
+    subtext: 'Most people say yes here. Most people are lying.',
     type: 'binary',
+    phase: 'adversarial',
     options: [
-      { id: 'structured', label: 'Someone else decided' },
-      { id: 'autonomous', label: 'I decided' },
+      { id: 'still-want', label: 'Yes, I still want it' },
+      { id: 'nope', label: 'Honestly? No' },
     ],
     dimensionWeights: {
-      structured: [{ dimension: 'autonomy', weight: -0.8 }],
-      autonomous: [{ dimension: 'autonomy', weight: 0.8 }],
-    },
-  },
-  {
-    id: 'social-convince-coordinate',
-    text: 'Would you rather convince one skeptical person or coordinate 50 willing ones?',
-    type: 'binary',
-    options: [
-      { id: 'convince', label: 'Convince one skeptic' },
-      { id: 'coordinate', label: 'Coordinate fifty' },
-    ],
-    dimensionWeights: {
-      convince: [
-        { dimension: 'socialDensity', weight: -0.5 },
-        { dimension: 'cognitiveStyle', weight: 0.3 },
+      'still-want': [
+        { dimension: 'meaningWeight', weight: 0.8 },
+        { dimension: 'incomeWeight', weight: -0.6 },
       ],
-      coordinate: [
-        { dimension: 'socialDensity', weight: 0.7 },
-        { dimension: 'cognitiveStyle', weight: -0.2 },
-      ],
-    },
-  },
-  {
-    id: 'time-horizon-results',
-    text: 'Would you rather see the result of your work today, or in 10 years?',
-    type: 'slider',
-    sliderMin: 'Today',
-    sliderMax: 'In 10 years',
-    dimensionWeights: {
-      __slider__: [{ dimension: 'timeHorizon', weight: 1.0 }],
-    },
-  },
-  {
-    id: 'cognitive-right-answer',
-    text: 'Do you prefer problems with one right answer, or problems where the answer depends?',
-    type: 'binary',
-    options: [
-      { id: 'one-answer', label: 'One right answer' },
-      { id: 'it-depends', label: 'It depends' },
-    ],
-    dimensionWeights: {
-      'one-answer': [{ dimension: 'cognitiveStyle', weight: -0.7 }],
-      'it-depends': [{ dimension: 'cognitiveStyle', weight: 0.7 }],
-    },
-  },
-  {
-    id: 'risk-gamble',
-    text: 'Would you rather have a guaranteed €50K/year forever, or a 50% chance of €150K and 50% chance of €20K?',
-    type: 'slider',
-    sliderMin: 'Guaranteed €50K',
-    sliderMax: 'Take the gamble',
-    dimensionWeights: {
-      __slider__: [{ dimension: 'riskTolerance', weight: 1.0 }],
-    },
-  },
-  {
-    id: 'income-vs-time',
-    text: 'If two jobs paid the same, but one gave you 3 extra hours of free time per day, which would you pick?',
-    type: 'binary',
-    options: [
-      { id: 'money', label: 'The one with more money potential' },
-      { id: 'time', label: 'The one with more free time' },
-    ],
-    dimensionWeights: {
-      money: [
+      nope: [
         { dimension: 'incomeWeight', weight: 0.8 },
-        { dimension: 'autonomy', weight: -0.2 },
+        { dimension: 'meaningWeight', weight: -0.3 },
       ],
-      time: [
-        { dimension: 'autonomy', weight: 0.6 },
+    },
+  },
+  {
+    id: 'parent-disappointment',
+    text: "You've found a career you love. Your parents think it's a waste of your potential. What do you actually do?",
+    subtext: "Not what you'd like to do. What you'd actually do.",
+    type: 'binary',
+    phase: 'adversarial',
+    options: [
+      { id: 'do-it-anyway', label: 'Do it anyway' },
+      { id: 'fold', label: 'Find something they approve of' },
+    ],
+    dimensionWeights: {
+      'do-it-anyway': [
+        { dimension: 'autonomy', weight: 0.9 },
+        { dimension: 'riskTolerance', weight: 0.4 },
+        { dimension: 'statusWeight', weight: -0.3 },
+      ],
+      fold: [
+        { dimension: 'autonomy', weight: -0.7 },
+        { dimension: 'statusWeight', weight: 0.5 },
+        { dimension: 'riskTolerance', weight: -0.4 },
+      ],
+    },
+  },
+  {
+    id: 'linkedin-invisible',
+    text: "If nobody could ever see your job title — no LinkedIn, no dinner party introductions — would you still want the career you're considering?",
+    type: 'binary',
+    phase: 'adversarial',
+    options: [
+      { id: 'yes-still', label: 'Yes, it was never about the title' },
+      { id: 'honestly-no', label: "I have to be honest — the title matters" },
+    ],
+    dimensionWeights: {
+      'yes-still': [
+        { dimension: 'statusWeight', weight: -0.7 },
+        { dimension: 'meaningWeight', weight: 0.6 },
+      ],
+      'honestly-no': [
+        { dimension: 'statusWeight', weight: 0.8 },
+        { dimension: 'meaningWeight', weight: -0.2 },
+      ],
+    },
+  },
+  {
+    id: 'seventy-hour-weeks',
+    text: 'Everyone you admire in the field you like worked 70-hour weeks for a decade before they "made it." Still interested?',
+    type: 'slider',
+    phase: 'adversarial',
+    sliderMin: 'Absolutely not',
+    sliderMax: 'Bring it on',
+    dimensionWeights: {
+      __slider__: [
+        { dimension: 'timeHorizon', weight: 0.8 },
+        { dimension: 'riskTolerance', weight: 0.5 },
+        { dimension: 'incomeWeight', weight: -0.3 },
+      ],
+    },
+  },
+  {
+    id: 'friend-got-dream-job',
+    text: "Your best friend just landed the career you've been dreaming about. What's the first thing you feel?",
+    type: 'binary',
+    phase: 'adversarial',
+    options: [
+      { id: 'happy', label: 'Genuinely happy for them' },
+      { id: 'gutted', label: 'A knot in my stomach' },
+    ],
+    dimensionWeights: {
+      happy: [
+        { dimension: 'statusWeight', weight: -0.4 },
         { dimension: 'meaningWeight', weight: 0.3 },
       ],
+      gutted: [
+        { dimension: 'statusWeight', weight: 0.6 },
+        { dimension: 'riskTolerance', weight: 0.4 },
+      ],
     },
   },
   {
-    id: 'hidden-dream',
-    text: "Is there a job you've secretly thought about but felt embarrassed to say out loud?",
-    subtext: 'There are no wrong answers here. This stays between us.',
+    id: 'automation-threat',
+    text: "The career you're most drawn to has a 60% chance of being automated in 15 years. Do you still pursue it?",
+    subtext: "This isn't hypothetical for most fields anymore.",
+    type: 'binary',
+    phase: 'adversarial',
+    options: [
+      { id: 'pursue-anyway', label: "Yes — I'll adapt when the time comes" },
+      { id: 'pivot-now', label: "No — I'd rather pick something future-proof" },
+    ],
+    dimensionWeights: {
+      'pursue-anyway': [
+        { dimension: 'riskTolerance', weight: 0.7 },
+        { dimension: 'meaningWeight', weight: 0.5 },
+        { dimension: 'timeHorizon', weight: -0.3 },
+      ],
+      'pivot-now': [
+        { dimension: 'riskTolerance', weight: -0.6 },
+        { dimension: 'incomeWeight', weight: 0.4 },
+        { dimension: 'timeHorizon', weight: 0.5 },
+      ],
+    },
+  },
+  {
+    id: 'worst-at-table',
+    text: 'Would you rather be the least talented person in a room of geniuses, or the smartest person everywhere you go?',
+    type: 'binary',
+    phase: 'adversarial',
+    options: [
+      { id: 'least-talented', label: 'Least talented among geniuses' },
+      { id: 'smartest', label: 'Smartest in the room' },
+    ],
+    dimensionWeights: {
+      'least-talented': [
+        { dimension: 'cognitiveStyle', weight: 0.5 },
+        { dimension: 'riskTolerance', weight: 0.4 },
+        { dimension: 'statusWeight', weight: -0.5 },
+      ],
+      smartest: [
+        { dimension: 'statusWeight', weight: 0.7 },
+        { dimension: 'riskTolerance', weight: -0.4 },
+        { dimension: 'autonomy', weight: 0.3 },
+      ],
+    },
+  },
+  {
+    id: 'creative-poverty-boring-wealth',
+    text: 'You get two offers on the same day. One: total creative freedom, €25K/year. Two: mind-numbing work, €90K/year. Which do you take?',
+    subtext: "You can't negotiate. You can't switch for 5 years.",
+    type: 'slider',
+    phase: 'adversarial',
+    sliderMin: 'Creative freedom at €25K',
+    sliderMax: 'Boring stability at €90K',
+    dimensionWeights: {
+      __slider__: [
+        { dimension: 'incomeWeight', weight: 0.9 },
+        { dimension: 'meaningWeight', weight: -0.7 },
+        { dimension: 'autonomy', weight: -0.6 },
+      ],
+    },
+  },
+  {
+    id: 'move-to-nowhere',
+    text: "The perfect opportunity appears — but it's in a city where you know absolutely nobody, 4,000km from home. Do you go?",
+    type: 'binary',
+    phase: 'adversarial',
+    options: [
+      { id: 'go', label: "I'd go" },
+      { id: 'stay', label: 'Not worth it' },
+    ],
+    dimensionWeights: {
+      go: [
+        { dimension: 'geographicFlex', weight: 0.9 },
+        { dimension: 'riskTolerance', weight: 0.5 },
+        { dimension: 'socialDensity', weight: -0.3 },
+      ],
+      stay: [
+        { dimension: 'geographicFlex', weight: -0.8 },
+        { dimension: 'socialDensity', weight: 0.4 },
+        { dimension: 'riskTolerance', weight: -0.3 },
+      ],
+    },
+  },
+  {
+    id: 'quitting-signal',
+    text: "You're two years into a career and you hate it. What do you do?",
+    subtext: "Sunk cost fallacy is the #1 reason people stay in careers they despise.",
+    type: 'binary',
+    phase: 'adversarial',
+    options: [
+      { id: 'quit', label: 'Quit and start over' },
+      { id: 'grind', label: "Push through — I've invested too much" },
+    ],
+    dimensionWeights: {
+      quit: [
+        { dimension: 'riskTolerance', weight: 0.6 },
+        { dimension: 'autonomy', weight: 0.5 },
+        { dimension: 'timeHorizon', weight: -0.4 },
+      ],
+      grind: [
+        { dimension: 'riskTolerance', weight: -0.5 },
+        { dimension: 'timeHorizon', weight: 0.6 },
+        { dimension: 'autonomy', weight: -0.3 },
+      ],
+    },
+  },
+  {
+    id: 'why-really',
+    text: 'What career are you "supposed" to pursue? And who decided that — you or someone else?',
+    subtext: 'Name the career. Then name the person. Be specific.',
     type: 'open',
+    phase: 'adversarial',
     dimensionWeights: {},
   },
   {
-    id: 'fame-vs-impact',
-    text: 'Would you rather be famous in a small field or anonymous in a big one?',
+    id: 'success-definition',
+    text: 'Be honest: when you picture yourself "successful" in 10 years, what does the image look like?',
+    subtext: "Don't describe what you think we want to hear. Describe the actual image in your head.",
+    type: 'open',
+    phase: 'adversarial',
+    dimensionWeights: {},
+  },
+];
+
+// ─────────────────────────────────────────────────────────
+// PHASE 2: REDIRECTING — Surface hidden preferences, reveal
+// what you actually care about (not what you say you care
+// about), and map to career dimensions for matching.
+// The student has been destabilized. Now we rebuild.
+// ─────────────────────────────────────────────────────────
+
+const redirecting: Question[] = [
+  {
+    id: 'lost-track-of-time',
+    text: 'Think of the last time you completely lost track of time doing something. What were you doing?',
+    subtext: "Not Netflix. Not scrolling. Something where hours vanished and you didn't notice.",
+    type: 'open',
+    phase: 'redirecting',
+    dimensionWeights: {},
+  },
+  {
+    id: 'problems-cant-ignore',
+    text: 'What kind of problems make you angry that nobody is fixing?',
     type: 'binary',
+    phase: 'redirecting',
     options: [
-      { id: 'famous-niche', label: 'Famous in a niche' },
-      { id: 'anonymous-big', label: 'Anonymous but impactful' },
+      { id: 'systems', label: 'Broken systems and inefficiencies' },
+      { id: 'people', label: 'People being failed or ignored' },
     ],
     dimensionWeights: {
-      'famous-niche': [
-        { dimension: 'statusWeight', weight: 0.7 },
-        { dimension: 'socialDensity', weight: -0.3 },
+      systems: [
+        { dimension: 'cognitiveStyle', weight: -0.6 },
+        { dimension: 'socialDensity', weight: -0.4 },
       ],
-      'anonymous-big': [
-        { dimension: 'statusWeight', weight: -0.3 },
+      people: [
+        { dimension: 'socialDensity', weight: 0.7 },
         { dimension: 'meaningWeight', weight: 0.6 },
       ],
     },
   },
   {
-    id: 'geographic-flex',
-    text: 'If you could move anywhere in the world for the right opportunity, would you?',
-    type: 'slider',
-    sliderMin: 'I want to stay put',
-    sliderMax: 'Anywhere, anytime',
-    dimensionWeights: {
-      __slider__: [{ dimension: 'geographicFlex', weight: 1.0 }],
-    },
-  },
-  {
-    id: 'fix-problem-people',
-    text: 'When something goes wrong in a group, do you want to fix the problem or fix the people?',
+    id: 'explain-or-build',
+    text: 'After learning something fascinating, do you want to explain it to someone or go build something with it?',
     type: 'binary',
+    phase: 'redirecting',
     options: [
-      { id: 'fix-problem', label: 'Fix the problem' },
-      { id: 'fix-people', label: 'Fix the people' },
+      { id: 'explain', label: 'Explain it' },
+      { id: 'build', label: 'Build with it' },
     ],
     dimensionWeights: {
-      'fix-problem': [
-        { dimension: 'cognitiveStyle', weight: -0.4 },
+      explain: [
+        { dimension: 'socialDensity', weight: 0.5 },
+        { dimension: 'cognitiveStyle', weight: 0.4 },
+      ],
+      build: [
+        { dimension: 'cognitiveStyle', weight: -0.3 },
+        { dimension: 'autonomy', weight: 0.5 },
         { dimension: 'socialDensity', weight: -0.4 },
       ],
-      'fix-people': [
-        { dimension: 'socialDensity', weight: 0.6 },
-        { dimension: 'meaningWeight', weight: 0.4 },
-      ],
     },
   },
   {
-    id: 'patience-learning',
-    text: 'Could you spend 3 years learning something with no guarantee it pays off?',
-    type: 'slider',
-    sliderMin: 'That sounds terrible',
-    sliderMax: 'Absolutely',
-    dimensionWeights: {
-      __slider__: [
-        { dimension: 'timeHorizon', weight: 0.7 },
-        { dimension: 'riskTolerance', weight: 0.5 },
-      ],
-    },
-  },
-  {
-    id: 'optimize-invent',
-    text: 'Would you rather optimize something that exists or invent something new?',
+    id: 'chaos-or-order',
+    text: 'Your ideal Monday morning:',
     type: 'binary',
+    phase: 'redirecting',
     options: [
-      { id: 'optimize', label: 'Optimize what exists' },
-      { id: 'invent', label: 'Invent something new' },
+      { id: 'chaos', label: "No idea what's coming — and I like it that way" },
+      { id: 'order', label: 'A clear plan I made last Friday' },
     ],
     dimensionWeights: {
-      optimize: [
-        { dimension: 'cognitiveStyle', weight: -0.6 },
-        { dimension: 'riskTolerance', weight: -0.3 },
-      ],
-      invent: [
-        { dimension: 'cognitiveStyle', weight: 0.8 },
+      chaos: [
+        { dimension: 'autonomy', weight: 0.7 },
         { dimension: 'riskTolerance', weight: 0.5 },
+        { dimension: 'cognitiveStyle', weight: 0.4 },
+      ],
+      order: [
+        { dimension: 'autonomy', weight: -0.3 },
+        { dimension: 'riskTolerance', weight: -0.5 },
+        { dimension: 'cognitiveStyle', weight: -0.4 },
       ],
     },
   },
   {
-    id: 'parental-influence',
-    text: "What do your parents do for work? And honestly — how much has that shaped what you think you should do?",
-    subtext: "We ask because parental occupation is one of the strongest predictors of career choice. That's not always a bad thing — but it's worth noticing.",
+    id: 'audience-size',
+    text: 'Would you rather change 3 lives profoundly or improve 10,000 lives a little?',
+    type: 'slider',
+    phase: 'redirecting',
+    sliderMin: '3 lives, deeply',
+    sliderMax: '10,000 lives, slightly',
+    dimensionWeights: {
+      __slider__: [
+        { dimension: 'socialDensity', weight: 0.7 },
+        { dimension: 'meaningWeight', weight: -0.3 },
+      ],
+    },
+  },
+  {
+    id: 'mastery-or-variety',
+    text: 'Would you rather master one skill so deeply nobody can touch you, or be decent at 20 different things?',
+    type: 'slider',
+    phase: 'redirecting',
+    sliderMin: 'One deep mastery',
+    sliderMax: 'Twenty decent skills',
+    dimensionWeights: {
+      __slider__: [
+        { dimension: 'cognitiveStyle', weight: 0.8 },
+        { dimension: 'timeHorizon', weight: -0.5 },
+        { dimension: 'riskTolerance', weight: 0.3 },
+      ],
+    },
+  },
+  {
+    id: 'legacy-question',
+    text: "You die at 80. One sentence describes your life's work. Which do you want it to be?",
+    type: 'binary',
+    phase: 'redirecting',
+    options: [
+      { id: 'built', label: '"They built something that lasted"' },
+      { id: 'helped', label: '"They helped people nobody else would"' },
+      { id: 'discovered', label: '"They figured out something nobody understood"' },
+      { id: 'led', label: '"They changed how things were done"' },
+    ],
+    dimensionWeights: {
+      built: [
+        { dimension: 'cognitiveStyle', weight: -0.5 },
+        { dimension: 'timeHorizon', weight: 0.7 },
+        { dimension: 'autonomy', weight: 0.4 },
+      ],
+      helped: [
+        { dimension: 'meaningWeight', weight: 0.9 },
+        { dimension: 'socialDensity', weight: 0.5 },
+        { dimension: 'incomeWeight', weight: -0.4 },
+      ],
+      discovered: [
+        { dimension: 'cognitiveStyle', weight: 0.8 },
+        { dimension: 'timeHorizon', weight: 0.6 },
+        { dimension: 'socialDensity', weight: -0.6 },
+      ],
+      led: [
+        { dimension: 'statusWeight', weight: 0.6 },
+        { dimension: 'socialDensity', weight: 0.5 },
+        { dimension: 'autonomy', weight: 0.7 },
+      ],
+    },
+  },
+  {
+    id: 'team-or-alone',
+    text: 'Your best work happens:',
+    type: 'slider',
+    phase: 'redirecting',
+    sliderMin: 'Completely alone',
+    sliderMax: 'Deep in a team',
+    dimensionWeights: {
+      __slider__: [{ dimension: 'socialDensity', weight: 1.0 }],
+    },
+  },
+  {
+    id: 'saturday-night-work',
+    text: "It's Saturday night and you're voluntarily working on something. What is it?",
+    subtext: "This is the thing you'd do even if nobody paid you. Name it.",
     type: 'open',
+    phase: 'redirecting',
+    dimensionWeights: {},
+  },
+  {
+    id: 'uncomfortable-truth',
+    text: "What's the career you've secretly thought about but would never say out loud?",
+    subtext: "The one you'd be embarrassed to put on a university application. That one.",
+    type: 'open',
+    phase: 'redirecting',
     dimensionWeights: {},
   },
 ];
+
+// ─────────────────────────────────────────────────────────
+// EXPORT: Adversarial first, then redirecting.
+// The flow is intentional: destabilize, then rebuild.
+// ─────────────────────────────────────────────────────────
+
+export const questions: Question[] = [...adversarial, ...redirecting];
