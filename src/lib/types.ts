@@ -75,41 +75,6 @@ export interface JobMatch {
   matchExplanation: string;
 }
 
-export interface LearningStep {
-  title: string;
-  description: string;
-  timeframe: string;
-  resources?: string[];
-}
-
-export interface CareerStory {
-  name: string;
-  background: string;
-  journey: string;
-  currentRole: string;
-}
-
-export interface Career {
-  id: string;
-  title: string;
-  description: string;
-  dayInLife: string;
-  dimensions: RevealedPreferences;
-  surpriseFactor: string;
-  learningPath: LearningStep[];
-  microExperiment: string;
-  optionValue: string[];
-  incomeTrajectory: { year: number; amount: number }[];
-  stories: CareerStory[];
-  tags: string[];
-}
-
-export interface CareerMatch {
-  career: Career;
-  score: number;
-  matchExplanation: string;
-}
-
 export interface UserProfile {
   answers: Answer[];
   revealedPreferences: RevealedPreferences;
