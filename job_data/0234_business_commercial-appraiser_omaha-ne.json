@@ -1,0 +1,54 @@
+{
+  "id": "0234",
+  "title": "Commercial Appraiser",
+  "category": "business",
+  "company": "UPS",
+  "industry": "Logistics",
+  "location": {
+    "city": "Omaha",
+    "state": "NE",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 38000,
+    "max": 49000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Commercial Appraiser at UPS. This is an exciting opportunity to join our operational, reliable, efficiency-driven team and make a direct impact on our mission. If you have 3-5 years years of experience and are passionate about Logistics, we'd love to hear from you.",
+  "responsibilities": [
+    "Conduct real estate valuations using market and income approaches",
+    "Research comparable properties and economic indicators",
+    "Prepare detailed appraisal reports meeting APPRAISAL standards",
+    "Interview property managers and owners regarding operating metrics",
+    "Analyze real estate market trends and economic factors",
+    "Provide expert opinions on property value for lending and investment decisions"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Real Estate, Finance, or related field",
+    "experience_years": "3-5 years",
+    "skills": [
+      "Real estate valuation",
+      "Financial analysis",
+      "Market research",
+      "Report writing",
+      "Excel"
+    ],
+    "certifications": [
+      "MAI or SRA designation preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule",
+    "Career development opportunities",
+    "Employee recognition programs",
+    "Community involvement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-20"
+}

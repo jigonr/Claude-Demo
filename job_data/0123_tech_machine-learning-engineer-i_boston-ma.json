@@ -1,0 +1,50 @@
+{
+  "id": "0123",
+  "title": "Machine Learning Engineer I",
+  "category": "tech",
+  "company": "Asana",
+  "industry": "Project Management",
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 106000,
+    "max": 137000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Asana's work management platform helps millions track and collaborate on work. We're making it possible for teams to achieve more together.\n\nWe're seeking a Machine Learning Engineer I to join our Project Management team in Boston. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Design and implement machine learning models for production systems",
+    "Develop data pipelines for model training and feature engineering",
+    "Evaluate model performance and optimize for accuracy, latency, and resource efficiency",
+    "Collaborate with data scientists and engineers on end-to-end ML system design",
+    "Maintain documentation and implement MLOps best practices",
+    "Participate in code reviews and contribute to ML infrastructure improvements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Mathematics, Physics, or related field",
+    "experience_years": "1-3 years in machine learning, data science, or software engineering with ML focus",
+    "skills": [
+      "Python",
+      "TensorFlow or PyTorch",
+      "SQL",
+      "Git",
+      "Statistics and linear algebra"
+    ],
+    "certifications": [
+      "Machine learning certifications or Kaggle competitions appreciated"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and equity",
+    "Onsite work in Boston (with flexibility)",
+    "Learning budget",
+    "Comprehensive health coverage"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-05"
+}

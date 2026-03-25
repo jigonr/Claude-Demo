@@ -1,0 +1,49 @@
+{
+  "id": "0376",
+  "title": "Biostatistician I",
+  "category": "healthcare",
+  "company": "Memorial Sloan Kettering",
+  "industry": "Oncology",
+  "location": {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 57000,
+    "max": 74000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Memorial Sloan Kettering seeks a Biostatistician I to support clinical and translational research with rigorous statistical analysis and study design.",
+  "responsibilities": [
+    "Design statistical analysis plans for clinical trials and research studies",
+    "Analyze complex datasets using advanced statistical methods",
+    "Prepare statistical reports and presentations for researchers and sponsors",
+    "Collaborate on protocol development and regulatory submissions",
+    "Validate data quality and troubleshoot analytical issues",
+    "Stay current with statistical methodologies and oncology research trends"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "1-3",
+    "skills": [
+      "Biostatistics",
+      "R or SAS",
+      "Clinical trial design",
+      "SQL",
+      "Regulatory knowledge"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive compensation package",
+    "Health, dental, and vision coverage",
+    "401(k) or retirement benefits",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-13"
+}

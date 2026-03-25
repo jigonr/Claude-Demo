@@ -1,0 +1,52 @@
+{
+  "id": "0245",
+  "title": "Financial Analyst",
+  "category": "business",
+  "company": "Procter & Gamble",
+  "industry": "Consumer Goods",
+  "location": {
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 72000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "P&G is the world's largest consumer goods company, touching 5 billion lives daily with trusted brands. As a Financial Analyst, you'll drive financial planning and analysis across our portfolio.",
+  "responsibilities": [
+    "Support financial planning and analysis activities",
+    "Create variance reports comparing actuals to forecasts",
+    "Analyze business unit financial performance",
+    "Support investment evaluation and ROI analysis",
+    "Prepare financial presentations for management",
+    "Maintain financial models and tracking spreadsheets"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Accounting, or Business Administration",
+    "experience_years": "1-3 years of financial analysis or accounting experience",
+    "skills": [
+      "Financial modeling",
+      "Variance analysis",
+      "Excel",
+      "Business analysis",
+      "Presentation skills"
+    ],
+    "certifications": [
+      "CFA (pursuing preferred)",
+      "Financial analysis certification"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health and wellness benefits",
+    "401(k) retirement savings plan with matching",
+    "Paid vacation, holidays, and personal days",
+    "Career advancement and training opportunities",
+    "Employee recognition and incentive programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-15"
+}

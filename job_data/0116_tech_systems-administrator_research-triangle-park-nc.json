@@ -1,0 +1,52 @@
+{
+  "id": "0116",
+  "title": "Systems Administrator",
+  "category": "tech",
+  "company": "Figma",
+  "industry": "Design Tools",
+  "location": {
+    "city": "Research Triangle Park",
+    "state": "NC",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 71000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Systems Administrator at Figma. This is an exciting opportunity to join our creative, remote-first, ambitious team and make a direct impact on our mission. If you have 0-2 years years of experience and are passionate about Design Tools, we'd love to hear from you.",
+  "responsibilities": [
+    "Manage cloud infrastructure provisioning and configuration",
+    "Implement security controls and access management policies",
+    "Monitor system performance and optimize resource utilization",
+    "Automate routine administrative tasks using scripting languages",
+    "Manage identity and access provisioning for users and systems",
+    "Maintain documentation and disaster recovery procedures"
+  ],
+  "requirements": {
+    "education": "High School Diploma or equivalent",
+    "experience_years": "0-2 years",
+    "skills": [
+      "Linux/Windows administration",
+      "Networking",
+      "Cloud platforms",
+      "Security",
+      "Scripting"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule and remote work options",
+    "Stock options or equity compensation",
+    "Wellness programs and gym membership reimbursement",
+    "Product discounts and free subscriptions"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-15"
+}

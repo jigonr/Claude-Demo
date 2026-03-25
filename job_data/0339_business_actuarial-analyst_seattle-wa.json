@@ -1,0 +1,50 @@
+{
+  "id": "0339",
+  "title": "Actuarial Analyst",
+  "category": "business",
+  "company": "PwC",
+  "industry": "Professional Services",
+  "location": {
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 85000,
+    "max": 106000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "PwC's Actuarial Services practice is expanding in the Pacific Northwest, and we're seeking an Actuarial Analyst to support our insurance and pension consulting projects. This role offers exposure to complex actuarial problems, mentorship from credentialed actuaries, and the support needed to pass actuarial examinations. You'll contribute meaningfully to client projects while building the technical foundation for a successful actuarial career.",
+  "responsibilities": [
+    "Perform actuarial valuations and analyses for pension plans, insurance products, and healthcare programs",
+    "Develop financial projections and scenario analyses using actuarial software platforms",
+    "Prepare technical documentation, assumptions memos, and client-facing reports",
+    "Review and validate data; perform quality assurance on models and calculations",
+    "Support senior actuaries in client meetings and proposal development"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Actuarial Science, Mathematics, Economics, or related quantitative field",
+    "experience_years": "0-2",
+    "skills": [
+      "Strong mathematical and statistical abilities",
+      "Proficiency with Excel and VBA",
+      "Familiarity with actuarial software (Prophet, Moses, or similar)",
+      "Excellent analytical and problem-solving skills",
+      "Clear communication of complex technical concepts"
+    ],
+    "certifications": [
+      "Progress toward actuarial exams (SOA or CAS) expected"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health and wellness benefits",
+    "401(k) with 5% company match",
+    "Actuarial exam study support and exam fee reimbursement",
+    "Professional development and mentorship programs",
+    "Hybrid work arrangement with flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-04"
+}

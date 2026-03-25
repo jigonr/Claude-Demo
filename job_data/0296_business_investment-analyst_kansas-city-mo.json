@@ -1,0 +1,48 @@
+{
+  "id": "0296",
+  "title": "Investment Analyst",
+  "category": "business",
+  "company": "Unilever",
+  "industry": "Consumer Goods",
+  "location": {
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 59000,
+    "max": 76000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Unilever is seeking an Investment Analyst to support capital allocation and mergers & acquisitions activities. Evaluate market opportunities, conduct financial due diligence, and develop investment theses for strategic acquisitions and partnerships. Work remotely for a global FMCG leader managing a diverse portfolio from beauty to nutrition.",
+  "responsibilities": [
+    "Analyze potential acquisition targets and market entry opportunities",
+    "Develop financial models and valuation analyses for investment decisions",
+    "Conduct due diligence on target companies including financial, operational, and strategic fit assessments",
+    "Prepare investment memos and recommendations for senior management",
+    "Monitor portfolio companies post-acquisition and track investment performance"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Business, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Financial modeling (DCF, comparable companies, precedent transactions)",
+      "Advanced Excel and financial analysis",
+      "Valuation methodologies",
+      "Business research and market analysis",
+      "Professional presentation skills"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive base salary plus performance incentives",
+    "Comprehensive health and wellness benefits",
+    "401(k) with company matching",
+    "Professional development and MBA sponsorship",
+    "Remote flexibility with networking opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-14"
+}

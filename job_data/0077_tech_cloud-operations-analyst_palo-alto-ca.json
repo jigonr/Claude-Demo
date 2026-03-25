@@ -1,0 +1,50 @@
+{
+  "id": "0077",
+  "title": "Cloud Operations Analyst",
+  "category": "tech",
+  "company": "Stripe",
+  "industry": "Fintech",
+  "location": {
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 86000,
+    "max": 112000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Stripe processes hundreds of billions in payments annually for the world's best companies. We're building the financial infrastructure for the internet.\n\nWe're seeking a Cloud Operations Analyst to join our Fintech team in Palo Alto. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Monitor cloud infrastructure health, performance, and cost optimization across multi-cloud environments",
+    "Analyze cloud billing and identify cost-saving opportunities without impacting performance",
+    "Support infrastructure troubleshooting and participate in incident response",
+    "Automate routine operational tasks using Terraform, CloudFormation, or equivalent tools",
+    "Document system architecture, runbooks, and operational procedures",
+    "Collaborate with development teams on deployment strategies and best practices"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or equivalent hands-on experience",
+    "experience_years": "1-3 years in cloud operations, DevOps, or systems engineering roles",
+    "skills": [
+      "AWS or Google Cloud Platform",
+      "Kubernetes or Docker",
+      "Infrastructure as Code",
+      "Monitoring tools (Prometheus, DataDog)",
+      "Linux administration"
+    ],
+    "certifications": [
+      "AWS Certified Solutions Architect Associate or Google Cloud Associate Cloud Engineer"
+    ]
+  },
+  "benefits": [
+    "Equity and competitive salary",
+    "Unlimited PTO",
+    "Remote-first work model",
+    "Learning and development budget"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-10"
+}

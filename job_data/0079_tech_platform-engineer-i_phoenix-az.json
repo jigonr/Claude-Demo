@@ -1,0 +1,48 @@
+{
+  "id": "0079",
+  "title": "Platform Engineer I",
+  "category": "tech",
+  "company": "Plaid",
+  "industry": "Fintech",
+  "location": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 70000,
+    "max": 88000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Plaid is the financial services infrastructure powering innovation in fintech. We're building the systems that connect millions of consumers to their financial data safely and securely. Join our Platform Engineering team in Phoenix to scale infrastructure supporting thousands of integrated applications and billions in annual transactions.",
+  "responsibilities": [
+    "Develop and maintain platform infrastructure supporting Plaid's API ecosystem",
+    "Optimize system performance, reliability, and security across distributed services",
+    "Collaborate with product teams to design APIs that enable developer success",
+    "Implement monitoring, logging, and alerting systems for production infrastructure",
+    "Contribute to infrastructure documentation and operational runbooks"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or equivalent experience",
+    "experience_years": "1-2",
+    "skills": [
+      "Backend languages (Java, Python, or Go)",
+      "Kubernetes and containerization",
+      "Cloud platforms (AWS, GCP, or Azure)",
+      "SQL and NoSQL databases",
+      "API design and REST principles"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with equity upside",
+    "Comprehensive health, dental, and vision plans",
+    "Flexible hybrid schedule with Phoenix office",
+    "Professional development budget",
+    "Generous PTO and parental leave"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-20"
+}

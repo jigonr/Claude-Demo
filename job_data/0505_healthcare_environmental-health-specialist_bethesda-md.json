@@ -1,0 +1,52 @@
+{
+  "id": "0505",
+  "title": "Environmental Health Specialist",
+  "category": "healthcare",
+  "company": "Fortrea",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Bethesda",
+    "state": "MD",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 57000,
+    "max": 74000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Fortrea is a global provider of integrated clinical research services with operations in 100+ countries. You'll ensure environmental and occupational health compliance across our research sites.",
+  "responsibilities": [
+    "Conduct environmental audits and health assessments of clinical research sites",
+    "Ensure compliance with OSHA and EPA regulations at all facilities",
+    "Develop and implement occupational health and safety protocols",
+    "Investigate incidents and recommend corrective actions",
+    "Train staff on environmental health best practices",
+    "Maintain documentation and regulatory correspondence"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Environmental Health, Public Health, or related field",
+    "experience_years": "2-4 years of occupational or environmental health experience",
+    "skills": [
+      "OSHA regulations",
+      "Environmental auditing",
+      "Health and safety",
+      "Compliance",
+      "Documentation"
+    ],
+    "certifications": [
+      "CIH (Certified Industrial Hygienist) or working toward",
+      "CESY (Certified Environmental Safety & Health)"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (18-22 days annually)",
+    "Professional development and continuing education support",
+    "Employee assistance program (EAP) with mental health services"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-02"
+}

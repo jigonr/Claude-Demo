@@ -1,0 +1,51 @@
+{
+  "id": "0480",
+  "title": "Cytotechnologist",
+  "category": "healthcare",
+  "company": "AstraZeneca",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Bethesda",
+    "state": "MD",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 66000,
+    "max": 84000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "AstraZeneca's Oncology Division seeks a Cytotechnologist to examine cellular specimens and contribute to drug development research. Working remotely from anywhere in the US, you'll analyze histopathology and cytology samples using advanced laboratory techniques, prepare microscopy reports, and support clinical trial pathology. This role requires expertise in identifying cellular abnormalities and a commitment to precision in diagnostic work.",
+  "responsibilities": [
+    "Prepare, stain, and examine tissue and body fluid specimens using microscopy techniques",
+    "Identify and document cellular abnormalities and morphological changes under supervision",
+    "Maintain detailed laboratory records and quality assurance documentation",
+    "Collaborate with pathologists and research scientists on specimen analysis and interpretation",
+    "Perform special staining procedures and immunohistochemical techniques as needed",
+    "Adhere to strict protocol standards for research-grade specimen handling and analysis"
+  ],
+  "requirements": {
+    "education": "Associate degree in cytotechnology or related field; Bachelor's degree preferred",
+    "experience_years": "2-4",
+    "skills": [
+      "Microscopy and specimen preparation",
+      "Cytology and histology techniques",
+      "Medical terminology and pathology knowledge",
+      "Laboratory information systems (LIS)",
+      "Data documentation and reporting",
+      "Quality assurance procedures"
+    ],
+    "certifications": [
+      "ASCP certification or eligible to obtain"
+    ]
+  },
+  "benefits": [
+    "Fully remote position with flexibility",
+    "Health, dental, vision, and mental health coverage",
+    "401(k) with company match",
+    "Professional development and continuing education support"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-23"
+}

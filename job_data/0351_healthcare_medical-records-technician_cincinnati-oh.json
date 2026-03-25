@@ -1,0 +1,50 @@
+{
+  "id": "0351",
+  "title": "Medical Records Technician",
+  "category": "healthcare",
+  "company": "HCA Healthcare",
+  "industry": "Hospital System",
+  "location": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 29000,
+    "max": 38000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-08",
+  "description": "HCA Healthcare is hiring a Medical Records Technician to maintain accurate and secure patient health records for our Cincinnati hospital facility. You will abstract medical information, ensure HIPAA compliance, organize records for quality review and legal matters, and support the clinical team by maintaining the integrity of patient documentation.",
+  "responsibilities": [
+    "Abstract clinical information from medical records and enter into EHR systems",
+    "Organize and file medical records according to facility protocols",
+    "Verify completeness of medical records and identify missing documentation",
+    "Scan and digitize paper records for electronic storage",
+    "Prepare records for quality review, audits, and legal proceedings",
+    "Ensure confidentiality and comply with HIPAA regulations"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; medical records program completion preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Medical terminology and anatomy knowledge",
+      "Electronic health record (EHR) systems",
+      "Data entry and attention to accuracy",
+      "Understanding of HIPAA and patient privacy",
+      "File organization and retrieval systems"
+    ],
+    "certifications": [
+      "RHIT or RHIA certification preferred or in-progress"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision insurance",
+    "Tuition reimbursement for medical records certification",
+    "Flexible scheduling options",
+    "Employee discount on health services"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0019",
+  "title": "Database Administrator I",
+  "category": "tech",
+  "company": "Cisco",
+  "industry": "Networking",
+  "location": {
+    "city": "Provo",
+    "state": "UT",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 69000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Cisco is seeking a Database Administrator I for our Provo operations center. You'll manage database systems that support our networking products and infrastructure. This hybrid role offers the opportunity to develop database administration expertise with a global leader in networking technology.",
+  "responsibilities": [
+    "Administer SQL Server and Oracle databases; perform patches, updates, and maintenance",
+    "Monitor database performance and implement optimization strategies",
+    "Execute and test backup and recovery procedures regularly",
+    "Manage user access and database security policies",
+    "Support development teams with schema design and performance tuning"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, IT, or related field; or equivalent experience",
+    "experience_years": "1-3",
+    "skills": [
+      "SQL Server or Oracle database administration",
+      "Windows Server and Linux system administration",
+      "T-SQL or PL/SQL query writing",
+      "Backup and recovery technologies",
+      "Strong troubleshooting and problem-solving abilities"
+    ],
+    "certifications": [
+      "SQL Server or Oracle certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Professional development and certification support",
+    "Hybrid work arrangement",
+    "Learning and development budget"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-18"
+}

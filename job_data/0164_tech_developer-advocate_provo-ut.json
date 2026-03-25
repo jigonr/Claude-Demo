@@ -1,0 +1,48 @@
+{
+  "id": "0164",
+  "title": "Developer Advocate",
+  "category": "tech",
+  "company": "Block",
+  "industry": "Fintech",
+  "location": {
+    "city": "Provo",
+    "state": "UT",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 63000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Block is seeking a Developer Advocate to engage with our developer community and amplify adoption of our APIs and services. You'll create content, conduct outreach, and support developers building with Block. Work remotely for the fintech company creating financial services for creators and sellers.",
+  "responsibilities": [
+    "Create technical content including blog posts, tutorials, and documentation",
+    "Engage with developers through community events, webinars, and social channels",
+    "Gather developer feedback and communicate needs to product teams",
+    "Build sample applications and code examples showcasing API capabilities",
+    "Support developer onboarding and provide technical guidance"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Strong technical communication and writing",
+      "API documentation and sample code",
+      "Community engagement and relationship building",
+      "Public speaking and presentation skills",
+      "Familiarity with payment APIs (preferred)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with equity upside",
+    "Health, dental, and vision coverage",
+    "Remote-first with flexibility",
+    "Learning budget and conference attendance",
+    "Generous PTO and professional development"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-25"
+}

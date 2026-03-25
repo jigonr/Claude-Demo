@@ -1,0 +1,48 @@
+{
+  "id": "0134",
+  "title": "Test Automation Engineer",
+  "category": "tech",
+  "company": "Cloudflare",
+  "industry": "Cybersecurity",
+  "location": {
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 61000,
+    "max": 77000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Cloudflare is seeking a Test Automation Engineer to ensure the reliability and security of our global network infrastructure. You'll design automated tests, improve test coverage, and collaborate with development teams to catch issues early. Work hybrid from Houston for a cybersecurity leader protecting millions of internet properties.",
+  "responsibilities": [
+    "Design and develop automated test scripts using industry-standard frameworks",
+    "Expand test coverage across critical platform components",
+    "Execute test plans and report findings with detailed documentation",
+    "Collaborate with engineering teams on test strategy and requirements",
+    "Maintain and improve automated test infrastructure and CI/CD pipelines"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Test automation frameworks (Selenium, Cypress, Jest, or similar)",
+      "Python, JavaScript, or Go programming",
+      "CI/CD pipeline experience",
+      "API testing and validation",
+      "Linux/Unix command line proficiency"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with stock options",
+    "Comprehensive health, dental, and vision coverage",
+    "Flexible hybrid Houston office schedule",
+    "Professional development and learning budget",
+    "Generous PTO and parental leave"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-11"
+}

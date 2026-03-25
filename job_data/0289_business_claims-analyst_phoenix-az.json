@@ -1,0 +1,50 @@
+{
+  "id": "0289",
+  "title": "Claims Analyst",
+  "category": "business",
+  "company": "Honeywell",
+  "industry": "Industrial",
+  "location": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 40000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Honeywell is a Fortune 100 diversified technology and manufacturing company serving aerospace, buildings, and industrial sectors globally.\n\nWe're seeking a Claims Analyst to join our Industrial team in Phoenix. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Investigate and process insurance claims for accuracy and policy compliance",
+    "Review claim documentation and verify coverage eligibility",
+    "Communicate with claimants, healthcare providers, and third parties to resolve discrepancies",
+    "Document findings and maintain detailed claim records in management systems",
+    "Identify patterns in claims data and report fraud indicators",
+    "Meet processing timelines while maintaining high accuracy standards"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; Associate's degree in Business preferred",
+    "experience_years": "2-4 years in claims processing, insurance, or risk management",
+    "skills": [
+      "Claims management systems",
+      "Attention to detail",
+      "Communication",
+      "Problem-solving",
+      "Data entry proficiency"
+    ],
+    "certifications": [
+      "ARM (Associate in Risk Management) preferred"
+    ]
+  },
+  "benefits": [
+    "Health and dental insurance",
+    "401(k) matching",
+    "Paid time off",
+    "Career advancement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-06"
+}

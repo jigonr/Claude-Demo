@@ -1,0 +1,52 @@
+{
+  "id": "0510",
+  "title": "Clinical Research Associate",
+  "category": "healthcare",
+  "company": "Genentech",
+  "industry": "Biotechnology",
+  "location": {
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 61000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-02",
+  "description": "Genentech is seeking a Clinical Research Associate to support clinical trials in our Raleigh facility. You'll work hybrid coordinating research studies that advance breakthrough cancer and genetic disease treatments. Help bring life-changing medicines to patients.",
+  "responsibilities": [
+    "Coordinate clinical trial activities including patient enrollment and scheduling",
+    "Assist with informed consent process and document collection",
+    "Monitor patient safety and report adverse events",
+    "Maintain regulatory documentation and trial records",
+    "Communicate with research team and study sites",
+    "Ensure compliance with study protocols and regulatory requirements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Life Sciences, Healthcare, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Knowledge of clinical research and GCP guidelines",
+      "Strong organizational and detail-oriented skills",
+      "Excellent communication and interpersonal abilities",
+      "Proficiency with electronic case report forms (eCRF)",
+      "Ability to manage multiple priorities",
+      "Understanding of medical terminology and safety reporting"
+    ],
+    "certifications": [
+      "GCP certification required or within 30 days of hire"
+    ]
+  },
+  "benefits": [
+    "Hybrid schedule with flexibility",
+    "Competitive salary and benefits",
+    "Health, dental, and vision insurance",
+    "Tuition reimbursement for continuing education",
+    "Professional development opportunities"
+  ]
+}

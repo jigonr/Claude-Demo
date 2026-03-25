@@ -1,0 +1,49 @@
+{
+  "id": "0428",
+  "title": "Speech-Language Pathology Assistant",
+  "category": "healthcare",
+  "company": "Abbott Laboratories",
+  "industry": "Medical Devices",
+  "location": {
+    "city": "Columbus",
+    "state": "OH",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Support our speech-language pathologists at Abbott Laboratories in delivering therapy and rehabilitation to patients with communication and swallowing disorders.",
+  "responsibilities": [
+    "Assist with patient assessments and therapy sessions under SLP supervision",
+    "Implement therapeutic activities and exercises with patients",
+    "Maintain therapy materials and maintain organized treatment spaces",
+    "Document patient progress and communicate updates to therapists",
+    "Provide emotional support and encouragement to patients",
+    "Help with scheduling and administrative support"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "0-3",
+    "skills": [
+      "Patient care",
+      "Communication disorders knowledge",
+      "Empathy",
+      "Organization",
+      "HIPAA compliance"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive compensation package",
+    "Health, dental, and vision coverage",
+    "401(k) or retirement benefits",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-02"
+}

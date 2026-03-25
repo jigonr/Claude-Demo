@@ -1,0 +1,49 @@
+{
+  "id": "0341",
+  "title": "Client Services Coordinator",
+  "category": "business",
+  "company": "Deloitte",
+  "industry": "Professional Services",
+  "location": {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Support Deloitte's client success as a Client Services Coordinator, ensuring seamless engagement and satisfaction with our consulting services.",
+  "responsibilities": [
+    "Coordinate project logistics and timelines for client engagements",
+    "Prepare client deliverables and manage communication",
+    "Track project budgets and resource allocation",
+    "Maintain client relationships and address inquiries",
+    "Gather feedback and support continuous improvement initiatives",
+    "Assist with proposal development and contract management"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "0-3",
+    "skills": [
+      "Client management",
+      "Organization",
+      "Communication",
+      "Project coordination",
+      "Attention to detail"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive compensation package",
+    "Health, dental, and vision coverage",
+    "401(k) or retirement benefits",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-05"
+}

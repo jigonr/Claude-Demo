@@ -1,0 +1,48 @@
+{
+  "id": "0476",
+  "title": "Physical Therapy Aide",
+  "category": "healthcare",
+  "company": "Mount Sinai Health",
+  "industry": "Academic Medicine",
+  "location": {
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 37000,
+    "max": 51000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Mount Sinai Health System is recruiting a Physical Therapy Aide to support patient rehabilitation and recovery at our New York location. In this hybrid role, you'll work alongside licensed therapists to deliver compassionate patient care, maintain therapy spaces, and contribute to patient outcomes. Mount Sinai offers excellent training and advancement opportunities.",
+  "responsibilities": [
+    "Assist physical therapists with patient care, helping patients perform exercises and mobility activities safely",
+    "Prepare therapy rooms and equipment; maintain cleanliness and organization of treatment spaces",
+    "Support patient comfort and safety; communicate patient concerns to supervising therapists",
+    "Maintain accurate records of patient sessions and treatment progress",
+    "Assist with equipment maintenance and supply inventory management"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED",
+    "experience_years": "0-2",
+    "skills": [
+      "Patient assistance",
+      "Communication and empathy",
+      "Basic medical terminology",
+      "Organization",
+      "Physical stamina"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with employer match",
+    "Paid time off (15 days)",
+    "Tuition reimbursement",
+    "Fitness center access"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-13"
+}

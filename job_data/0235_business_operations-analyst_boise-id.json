@@ -1,0 +1,51 @@
+{
+  "id": "0235",
+  "title": "Operations Analyst",
+  "category": "business",
+  "company": "Johnson & Johnson",
+  "industry": "Consumer Health",
+  "location": {
+    "city": "Boise",
+    "state": "ID",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 44000,
+    "max": 57000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Johnson & Johnson is one of the world's most trusted healthcare companies, serving 1.3 billion people across pharmaceutical, medical device, and consumer health. We're seeking talented professionals to support our risk management and operational excellence initiatives.",
+  "responsibilities": [
+    "Analyze operational processes to identify efficiency improvements",
+    "Collect and analyze data on supply chain and manufacturing performance",
+    "Develop metrics dashboards tracking operational KPIs",
+    "Support implementation of process improvement initiatives",
+    "Create documentation of standard operating procedures",
+    "Work with cross-functional teams to solve operational problems"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Operations, Engineering, or related field",
+    "experience_years": "2-4 years of operations, supply chain, or business analysis experience",
+    "skills": [
+      "Process improvement",
+      "Data analysis",
+      "Excel",
+      "Supply chain",
+      "Six Sigma (preferred)"
+    ],
+    "certifications": [
+      "Six Sigma Green Belt (preferred)"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health and wellness benefits",
+    "401(k) retirement savings plan with matching",
+    "Paid vacation, holidays, and personal days",
+    "Career advancement and training opportunities",
+    "Employee recognition and incentive programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-20"
+}

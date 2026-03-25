@@ -1,0 +1,50 @@
+{
+  "id": "0131",
+  "title": "Security Analyst",
+  "category": "tech",
+  "company": "Brex",
+  "industry": "Fintech",
+  "location": {
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 74000,
+    "max": 97000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Brex provides financial products for ambitious companies. We've issued billions in credit to fast-growing businesses.\n\nWe're seeking a Security Analyst to join our Fintech team in San Diego. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Monitor network and application security using SIEM and security tools",
+    "Investigate security incidents and conduct root cause analysis",
+    "Implement security controls and vulnerability assessments",
+    "Support security compliance and audit activities",
+    "Develop security documentation and incident response procedures",
+    "Collaborate with development teams on secure coding practices"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Cybersecurity, Computer Science, or related field",
+    "experience_years": "2-4 years in security operations, penetration testing, or security engineering",
+    "skills": [
+      "Security tools (Splunk, Snort, or similar)",
+      "Network fundamentals",
+      "Linux/Windows administration",
+      "Vulnerability assessment",
+      "Incident response"
+    ],
+    "certifications": [
+      "Security+, CEH, or CISSP preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and equity",
+    "Hybrid work arrangement in San Diego",
+    "Security training budget",
+    "Health and wellness coverage"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-05"
+}

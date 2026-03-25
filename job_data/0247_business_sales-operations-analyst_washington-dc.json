@@ -1,0 +1,52 @@
+{
+  "id": "0247",
+  "title": "Sales Operations Analyst",
+  "category": "business",
+  "company": "Under Armour",
+  "industry": "Apparel",
+  "location": {
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 62000,
+    "max": 81000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Sales Operations Analyst at Under Armour. This is an exciting opportunity to join our fast-paced, ambitious, data-driven team and make a direct impact on our mission. If you have 2-4 years years of experience and are passionate about Apparel, we'd love to hear from you.",
+  "responsibilities": [
+    "Contribute to team projects and strategic initiatives",
+    "Collaborate with cross-functional teams on deliverables",
+    "Support management with analysis and reporting",
+    "Identify process improvements and efficiency opportunities",
+    "Maintain accurate documentation and records",
+    "Participate in professional development and training activities"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Business, Economics, or related field",
+    "experience_years": "2-4 years",
+    "skills": [
+      "Sales analytics",
+      "Excel",
+      "CRM systems",
+      "Data analysis",
+      "Communication"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule",
+    "Career development opportunities",
+    "Employee recognition programs",
+    "Community involvement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-08"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0408",
+  "title": "Phlebotomy Technician",
+  "category": "healthcare",
+  "company": "CDC",
+  "industry": "Government/Public Health",
+  "location": {
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 30000,
+    "max": 39000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "The Centers for Disease Control and Prevention seeks a dedicated Phlebotomy Technician to support critical public health research and disease surveillance efforts. In this role, you will collect, process, and handle biological specimens with the highest standards of precision and safety. Your work contributes directly to protecting population health through improved diagnostic and epidemiological capabilities. This position offers the opportunity to serve your country while developing expertise in clinical laboratory practices.",
+  "responsibilities": [
+    "Perform venipuncture and other specimen collection procedures in accordance with CDC and CLIA standards, maintaining meticulous record-keeping",
+    "Process biological specimens for laboratory analysis, ensuring proper handling, labeling, and storage protocols",
+    "Maintain sterile technique and adherence to infection control procedures to safeguard patient and staff safety",
+    "Communicate effectively with patients and research participants, explaining procedures and addressing concerns with professionalism",
+    "Monitor inventory of phlebotomy supplies and equipment; report equipment malfunctions to supervisory staff"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; completion of accredited phlebotomy program",
+    "experience_years": "0-2",
+    "skills": [
+      "Venipuncture technique",
+      "Specimen handling and processing",
+      "CLIA and OSHA compliance knowledge",
+      "Electronic medical records systems",
+      "Patient communication"
+    ],
+    "certifications": [
+      "Phlebotomy Technician Certification (ASCP or equivalent)"
+    ]
+  },
+  "benefits": [
+    "Federal health insurance (BCBS, Aetna, and others)",
+    "401(k) with agency match",
+    "13 days annual leave + 13 days sick leave",
+    "Federal employee pension (FERS)",
+    "Life insurance and disability coverage"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-18"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0283",
+  "title": "Digital Marketing Analyst",
+  "category": "business",
+  "company": "Caterpillar",
+  "industry": "Manufacturing",
+  "location": {
+    "city": "Des Moines",
+    "state": "IA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 40000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Caterpillar, the global manufacturing leader, seeks a Digital Marketing Analyst to support our B2B marketing efforts. Working hybrid in Des Moines, you'll analyze digital campaign performance, track marketing metrics, and provide insights that drive strategy. This role combines analytics with exposure to heavy equipment and construction industry marketing.",
+  "responsibilities": [
+    "Track and analyze digital marketing campaign performance across channels",
+    "Generate reports on website traffic, lead generation, and conversion metrics",
+    "Conduct A/B testing and performance optimization for digital campaigns",
+    "Maintain marketing databases and manage campaign data",
+    "Collaborate with marketing and sales teams on performance insights",
+    "Support SEO and content marketing analytics"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, Business, Analytics, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Google Analytics and marketing analytics tools",
+      "Excel and data analysis",
+      "Understanding of digital marketing channels",
+      "Basic SQL or data querying",
+      "Communication and reporting skills",
+      "Project management and attention to detail"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision insurance",
+    "401(k) with company match",
+    "Tuition reimbursement",
+    "Hybrid work flexibility",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-24"
+}

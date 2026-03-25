@@ -1,0 +1,50 @@
+{
+  "id": "0167",
+  "title": "Data Analyst",
+  "category": "tech",
+  "company": "Cisco",
+  "industry": "Networking",
+  "location": {
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 69000,
+    "max": 90000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Cisco powers the Internet with secure, intelligent networking solutions serving billions of users worldwide. We process over 5 zettabytes of data annually across our platform, connecting organizations of all sizes.\n\nWe're seeking a Data Analyst to join our Networking team in Los Angeles. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Analyze complex datasets to identify trends and actionable business insights",
+    "Develop SQL queries and optimize database performance across production systems",
+    "Create dashboards and visualizations in Tableau/Power BI for stakeholder reporting",
+    "Collaborate with product and engineering teams to inform data-driven decisions",
+    "Document data models and analytical methodologies for team knowledge sharing",
+    "Troubleshoot data quality issues and implement preventive validation controls"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Mathematics, Statistics, Computer Science, or related field",
+    "experience_years": "1-3 years of data analysis or business intelligence experience",
+    "skills": [
+      "SQL",
+      "Python or R",
+      "Tableau or Power BI",
+      "Data modeling",
+      "Statistical analysis"
+    ],
+    "certifications": [
+      "Tableau Desktop Specialist or equivalent preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health coverage",
+    "Stock options",
+    "Remote work flexibility",
+    "Professional development budget"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-10"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0183",
+  "title": "Risk Analyst",
+  "category": "business",
+  "company": "EY",
+  "industry": "Professional Services",
+  "location": {
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 58000,
+    "max": 76000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "EY's Risk & Compliance Solutions practice is expanding and seeking a Risk Analyst for our Raleigh office. You'll work on enterprise risk assessments, compliance audits, and governance initiatives with major corporate clients. This role offers exposure to diverse industries and risk management frameworks, with strong mentorship from experienced consultants.",
+  "responsibilities": [
+    "Conduct risk assessments and identify control gaps across client processes and systems",
+    "Document business processes and develop risk matrices aligned with industry standards",
+    "Perform compliance reviews against regulatory requirements and internal policies",
+    "Develop risk mitigation recommendations and implementation roadmaps",
+    "Prepare client reports, presentations, and governance documentation"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, Accounting, or related discipline",
+    "experience_years": "1-3",
+    "skills": [
+      "Knowledge of enterprise risk management frameworks (COSO, ISO 31000)",
+      "Proficiency with Excel and data analysis",
+      "Strong writing and presentation abilities",
+      "Ability to synthesize complex information for diverse audiences",
+      "Understanding of internal audit and compliance processes"
+    ],
+    "certifications": [
+      "CIA, CRMA, or similar risk/audit certification preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with employer match",
+    "Flexible remote work arrangement",
+    "Professional certification and development support",
+    "Training and mentorship from senior consultants"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-24"
+}

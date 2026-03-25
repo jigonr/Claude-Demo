@@ -1,0 +1,50 @@
+{
+  "id": "0269",
+  "title": "Claims Analyst",
+  "category": "business",
+  "company": "Vanguard",
+  "industry": "Asset Management",
+  "location": {
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Vanguard, a global investment firm serving millions of investors, seeks a Claims Analyst to manage investor claims and inquiries. Working hybrid in Raleigh, you'll evaluate claims, resolve disputes, and ensure accurate processing. Join an organization committed to putting investors first.",
+  "responsibilities": [
+    "Review and analyze investor claims and documented issues",
+    "Evaluate claim merit and determine appropriate resolution",
+    "Research client account transactions and documentation",
+    "Coordinate with internal departments to gather information",
+    "Document findings and recommendations clearly",
+    "Follow up with claimants and ensure timely resolution"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Business, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Analytical thinking and attention to detail",
+      "Knowledge of investment products and account operations",
+      "Written and verbal communication",
+      "Microsoft Office and financial systems",
+      "Problem-solving and documentation skills",
+      "Understanding of customer service standards"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, vision, and FSA coverage",
+    "401(k) with company match",
+    "Paid time off and flexible scheduling",
+    "Professional development opportunities",
+    "Hybrid work flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-21"
+}

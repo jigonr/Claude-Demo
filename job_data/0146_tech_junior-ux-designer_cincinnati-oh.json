@@ -1,0 +1,50 @@
+{
+  "id": "0146",
+  "title": "Junior UX Designer",
+  "category": "tech",
+  "company": "Asana",
+  "industry": "Project Management",
+  "location": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 72000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-01-12",
+  "description": "Asana is hiring a Junior UX Designer to help teams work together more effectively through intuitive product experiences. You will work on user research, wireframing, and design iteration for features used by millions worldwide. This role provides mentorship and growth opportunities in a design-forward organization where your work directly impacts user satisfaction and productivity.",
+  "responsibilities": [
+    "Conduct user research including interviews, surveys, and usability testing to understand user needs",
+    "Create wireframes and prototypes to explore design concepts and solutions",
+    "Collaborate with product managers and engineers to refine designs before development",
+    "Iterate designs based on user feedback and usage analytics",
+    "Document design decisions and create design specifications for engineering teams",
+    "Participate in design critiques and contribute to design system evolution"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Design, Computer Science, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Figma or similar design tools (XD, Sketch)",
+      "Wireframing and prototyping",
+      "Basic understanding of UX principles and usability",
+      "Communication and collaboration skills",
+      "Attention to visual and interaction detail"
+    ],
+    "certifications": [
+      "None required"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and equity options",
+    "Health, dental, vision, and mental health coverage",
+    "Design education and conference attendance budget",
+    "Flexible remote work and unlimited PTO"
+  ]
+}

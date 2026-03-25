@@ -1,0 +1,51 @@
+{
+  "id": "0199",
+  "title": "Training Coordinator",
+  "category": "business",
+  "company": "Honeywell",
+  "industry": "Industrial",
+  "location": {
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 43000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Honeywell is a Fortune 100 industrial technology leader serving aerospace, building automation, and specialty materials globally. We invest heavily in developing talent through structured training and mentorship.",
+  "responsibilities": [
+    "Design and deliver technical training programs for operations staff",
+    "Manage training schedules, materials, and participant registrations",
+    "Evaluate training effectiveness through assessments and feedback",
+    "Maintain training records and certifications for compliance",
+    "Identify skills gaps and develop targeted training curriculum",
+    "Partner with department heads to align training with business needs"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Human Resources, Education, Business, or related field",
+    "experience_years": "2-4 years of training coordination or instructional design experience",
+    "skills": [
+      "Adult learning principles",
+      "Training evaluation",
+      "Program management",
+      "Presentation skills",
+      "Learning management systems"
+    ],
+    "certifications": [
+      "ATD certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health and wellness benefits",
+    "401(k) retirement savings plan with matching",
+    "Paid vacation, holidays, and personal days",
+    "Career advancement and training opportunities",
+    "Employee recognition and incentive programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-01"
+}

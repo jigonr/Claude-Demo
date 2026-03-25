@@ -1,0 +1,52 @@
+{
+  "id": "0173",
+  "title": "Systems Administrator",
+  "category": "tech",
+  "company": "Anduril",
+  "industry": "Defense Tech",
+  "location": {
+    "city": "Detroit",
+    "state": "MI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 49000,
+    "max": 63000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-15",
+  "description": "Anduril is looking for a Systems Administrator to support our Detroit operations in defense technology. You'll manage critical systems in a hybrid environment, ensuring reliability and security across our infrastructure. Help advance technology that protects national security.",
+  "responsibilities": [
+    "Deploy, configure, and maintain Windows and Linux servers",
+    "Manage active directory, user accounts, and access controls",
+    "Monitor system performance and implement capacity planning improvements",
+    "Implement and maintain security patches and system hardening standards",
+    "Troubleshoot infrastructure issues and provide technical support",
+    "Document system configurations and maintain disaster recovery procedures"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, IT, or related field; or equivalent hands-on experience",
+    "experience_years": "2-3",
+    "skills": [
+      "Windows Server and Active Directory administration",
+      "Linux system administration",
+      "Network configuration and management",
+      "Knowledge of security best practices and compliance",
+      "Scripting skills (PowerShell, Bash, or Python)",
+      "Troubleshooting and problem-solving abilities"
+    ],
+    "certifications": [
+      "CompTIA Security+ recommended"
+    ]
+  },
+  "benefits": [
+    "Hybrid work arrangement (3 days on-site)",
+    "Competitive salary and benefits",
+    "Health, dental, and vision insurance",
+    "Tuition reimbursement and professional development",
+    "Security clearance sponsorship (if eligible)"
+  ]
+}

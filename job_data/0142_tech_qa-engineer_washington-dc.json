@@ -1,0 +1,50 @@
+{
+  "id": "0142",
+  "title": "QA Engineer",
+  "category": "tech",
+  "company": "Elastic",
+  "industry": "Search",
+  "location": {
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 72000,
+    "max": 93000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Elastic is hiring a QA Engineer to ensure our search and analytics platform delivers a seamless, reliable experience for millions of users. You'll design and execute comprehensive test strategies, work closely with developers, and contribute to a culture where quality is everyone's responsibility. If you're detail-oriented, curious about edge cases, and passionate about shipping excellent software, let's talk.",
+  "responsibilities": [
+    "Design and execute automated and manual test cases covering functional, integration, and performance requirements",
+    "Write Python or Java test automation scripts using pytest or JUnit frameworks",
+    "Collaborate with product and engineering teams to understand requirements and identify test scenarios",
+    "Monitor and report on test coverage, defect trends, and quality metrics",
+    "Reproduce and document bugs, working with engineers to verify fixes"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field, or equivalent practical experience",
+    "experience_years": "2-4",
+    "skills": [
+      "Test automation using Python, Java, or JavaScript",
+      "SQL for data validation and query testing",
+      "Experience with continuous integration/continuous deployment tools",
+      "Strong analytical and problem-solving capabilities",
+      "Excellent documentation and communication skills"
+    ],
+    "certifications": [
+      "ISTQB certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and equity options",
+    "Comprehensive health, vision, and dental coverage",
+    "401(k) with matching contributions",
+    "Unlimited paid time off",
+    "Annual learning and development allowance"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-01"
+}

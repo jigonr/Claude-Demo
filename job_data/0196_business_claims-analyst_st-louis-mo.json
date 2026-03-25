@@ -1,0 +1,50 @@
+{
+  "id": "0196",
+  "title": "Claims Analyst",
+  "category": "business",
+  "company": "BlackRock",
+  "industry": "Asset Management",
+  "location": {
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 38000,
+    "max": 49000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-01-02",
+  "description": "BlackRock is seeking a Claims Analyst to support client claims processing and dispute resolution. Work hybrid at our St. Louis office, managing client relationships and ensuring accurate claims resolution.",
+  "responsibilities": [
+    "Process and review client claims submissions for eligibility and completeness",
+    "Investigate claims discrepancies and coordinate resolutions",
+    "Maintain detailed claims records and documentation",
+    "Communicate with clients regarding claim status and requirements",
+    "Assist with claims data analysis and reporting",
+    "Support compliance with industry standards and regulations"
+  ],
+  "requirements": {
+    "education": "High School diploma or GED; Associate's degree preferred",
+    "experience_years": "1-2",
+    "skills": [
+      "Claims processing and investigation",
+      "Customer service and communication skills",
+      "Attention to detail and accuracy",
+      "Excel and database proficiency",
+      "Understanding of asset management or financial services (preferred)",
+      "Ability to manage multiple priorities"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Hybrid schedule (2-3 days on-site)",
+    "Competitive salary and benefits",
+    "Health, dental, and vision insurance",
+    "401(k) with company matching",
+    "Professional development opportunities"
+  ]
+}

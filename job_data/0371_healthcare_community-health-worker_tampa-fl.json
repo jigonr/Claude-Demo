@@ -1,0 +1,50 @@
+{
+  "id": "0371",
+  "title": "Community Health Worker",
+  "category": "healthcare",
+  "company": "Medtronic",
+  "industry": "Medical Devices",
+  "location": {
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 31000,
+    "max": 40000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Medtronic seeks Community Health Workers to extend our impact by supporting underserved populations in accessing medical device therapies and care. Working remotely, you'll educate communities about disease management, connect patients with resources, and serve as a bridge between healthcare systems and the people we serve. This role is mission-driven and requires cultural competency, compassion, and a commitment to health equity.",
+  "responsibilities": [
+    "Conduct health education sessions in community settings, addressing disease prevention and management strategies",
+    "Build relationships with community members and refer patients to appropriate healthcare resources and programs",
+    "Collect data on community health needs and barriers to care, reporting findings to clinical and program teams",
+    "Serve as a cultural liaison, ensuring healthcare communications are accessible and appropriate for diverse populations",
+    "Participate in community outreach events and health fairs to increase awareness of available medical device therapies"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; Community Health Worker certification or equivalent experience preferred",
+    "experience_years": "1-3",
+    "skills": [
+      "Community engagement",
+      "Health education",
+      "Cultural competency",
+      "Data documentation",
+      "Spanish language (preferred)"
+    ],
+    "certifications": [
+      "Community Health Worker Certificate (preferred)"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Paid time off (18 days)",
+    "CHW training and advancement opportunities",
+    "Flexible remote work schedule"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-06"
+}

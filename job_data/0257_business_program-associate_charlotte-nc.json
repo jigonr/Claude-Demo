@@ -1,0 +1,50 @@
+{
+  "id": "0257",
+  "title": "Program Associate",
+  "category": "business",
+  "company": "JLL",
+  "industry": "Real Estate Services",
+  "location": {
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-13",
+  "description": "JLL (Jones Lang LaSalle) is seeking a Program Associate to support our Charlotte commercial real estate operations and client programs. You will manage project timelines, coordinate stakeholder communications, track deliverables, and ensure projects stay on schedule and within budget. This role requires precision, strong organizational skills, and the ability to manage multiple concurrent initiatives.",
+  "responsibilities": [
+    "Maintain project schedules and monitor progress against key milestones",
+    "Coordinate communication between clients, contractors, and internal teams",
+    "Track project expenditures and maintain budget documentation",
+    "Prepare status reports and presentations for stakeholder review",
+    "Document project decisions and maintain comprehensive project files",
+    "Assist with RFP preparation and vendor coordination for facility services"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business Administration, Real Estate, Project Management, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Project management and scheduling",
+      "Stakeholder coordination and communication",
+      "Budget tracking and financial documentation",
+      "Microsoft Office proficiency (Excel, Word, Project)",
+      "Attention to detail and organizational skills"
+    ],
+    "certifications": [
+      "None required; CPM or CAPM in-progress preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive base salary with performance bonus potential",
+    "Health, dental, vision, and 401(k) benefits",
+    "Professional development and tuition reimbursement",
+    "Commuter benefits and wellness programs"
+  ]
+}

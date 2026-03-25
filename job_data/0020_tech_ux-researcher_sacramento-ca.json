@@ -1,0 +1,51 @@
+{
+  "id": "0020",
+  "title": "UX Researcher",
+  "category": "tech",
+  "company": "Shopify",
+  "industry": "E-Commerce",
+  "location": {
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 68000,
+    "max": 89000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Shopify powers over 5 million merchant stores across 175+ countries, from independent creators to enterprise brands. We're obsessed with empowering entrepreneurs with best-in-class commerce infrastructure. As a UX Researcher, you'll uncover hidden patterns in how merchants and customers interact with our platform.",
+  "responsibilities": [
+    "Conduct user research through interviews, surveys, and usability testing",
+    "Analyze user behavior patterns to inform product strategy",
+    "Create research reports and present findings to product teams",
+    "Collaborate with designers to validate design assumptions",
+    "Track user satisfaction metrics and identify pain points",
+    "Recommend feature priorities based on user research insights"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Psychology, HCI, Communication, or related field",
+    "experience_years": "2-4 years of UX research, user research, or product research experience",
+    "skills": [
+      "User research methodologies",
+      "Data analysis",
+      "Qualitative analysis",
+      "Prototyping",
+      "Presentation"
+    ],
+    "certifications": [
+      "Nielsen NN/g certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match (up to 4%)",
+    "Unlimited PTO and remote work flexibility",
+    "Professional development budget ($2,000+/year)",
+    "Equity options and/or stock purchase plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-21"
+}

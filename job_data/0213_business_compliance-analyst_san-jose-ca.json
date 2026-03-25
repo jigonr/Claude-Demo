@@ -1,0 +1,52 @@
+{
+  "id": "0213",
+  "title": "Compliance Analyst",
+  "category": "business",
+  "company": "Charles Schwab",
+  "industry": "Brokerage",
+  "location": {
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 74000,
+    "max": 97000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-17",
+  "description": "Charles Schwab is seeking a Compliance Analyst for our San Jose headquarters to ensure regulatory adherence across operations. You'll work on-site in a critical role, monitoring compliance and protecting client interests.",
+  "responsibilities": [
+    "Monitor compliance with financial regulations and internal policies",
+    "Review transactions and communications for regulatory violations",
+    "Prepare compliance reports and documentation for regulatory bodies",
+    "Conduct training on compliance requirements for staff",
+    "Investigate potential compliance breaches and recommend corrective actions",
+    "Stay current with changing regulations and industry standards"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Law, Compliance, or related field",
+    "experience_years": "3-5",
+    "skills": [
+      "Knowledge of financial regulations (SEC, FINRA, etc.)",
+      "Compliance monitoring and risk assessment",
+      "Documentation and report writing skills",
+      "Attention to detail and regulatory awareness",
+      "Communication and training abilities",
+      "Proficiency with compliance software systems"
+    ],
+    "certifications": [
+      "Certified Compliance Officer (CCO) or Series 7/63 preferred"
+    ]
+  },
+  "benefits": [
+    "On-site position at San Jose headquarters",
+    "Competitive salary and bonus",
+    "Comprehensive health, dental, and vision coverage",
+    "Professional development and compliance certifications",
+    "401(k) matching and employee stock purchase"
+  ]
+}

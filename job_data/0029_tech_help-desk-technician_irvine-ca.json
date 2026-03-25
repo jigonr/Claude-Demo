@@ -1,0 +1,52 @@
+{
+  "id": "0029",
+  "title": "Help Desk Technician",
+  "category": "tech",
+  "company": "Canva",
+  "industry": "Design",
+  "location": {
+    "city": "Irvine",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 48000,
+    "max": 63000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Help Desk Technician at Canva. This is an exciting opportunity to join our creative, user-focused, democratizing team and make a direct impact on our mission. If you have 0-2 years years of experience and are passionate about Design, we'd love to hear from you.",
+  "responsibilities": [
+    "Contribute to team projects and strategic initiatives",
+    "Collaborate with cross-functional teams on deliverables",
+    "Support management with analysis and reporting",
+    "Identify process improvements and efficiency opportunities",
+    "Maintain accurate documentation and records",
+    "Participate in professional development and training activities"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree or relevant certification",
+    "experience_years": "0-2 years",
+    "skills": [
+      "Troubleshooting",
+      "Customer service",
+      "Windows/Mac",
+      "Hardware",
+      "Ticketing systems"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule and remote work options",
+    "Stock options or equity compensation",
+    "Wellness programs and gym membership reimbursement",
+    "Product discounts and free subscriptions"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-07"
+}

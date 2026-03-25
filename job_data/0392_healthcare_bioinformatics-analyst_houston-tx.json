@@ -1,0 +1,50 @@
+{
+  "id": "0392",
+  "title": "Bioinformatics Analyst",
+  "category": "healthcare",
+  "company": "Baxter International",
+  "industry": "Medical Products",
+  "location": {
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 58000,
+    "max": 76000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Baxter International, a global healthcare company, seeks a Bioinformatics Analyst to support our research and development efforts. Working fully remote, you'll analyze genomic and proteomic data, develop analytical pipelines, and contribute to medical product innovation. Join a team advancing healthcare through biotechnology.",
+  "responsibilities": [
+    "Analyze genomic, proteomic, and sequencing data using bioinformatics tools",
+    "Develop and maintain data analysis pipelines and workflows",
+    "Perform statistical analysis and interpret biological data",
+    "Collaborate with research scientists on data requirements and analysis",
+    "Maintain data quality and implement validation procedures",
+    "Document analyses and contribute to research publications"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Bioinformatics, Biology, Computer Science, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Bioinformatics tools and databases (BLAST, KEGG, Ensembl)",
+      "Programming languages (Python, R, or Perl)",
+      "Statistical analysis and data visualization",
+      "Linux/Unix command line proficiency",
+      "Knowledge of genomics and molecular biology",
+      "Data management and documentation"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Fully remote position",
+    "Health, dental, vision, and life insurance",
+    "401(k) with company match",
+    "Professional development and training budget",
+    "Flexible time off"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-15"
+}

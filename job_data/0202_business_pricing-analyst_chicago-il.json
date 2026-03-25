@@ -1,0 +1,50 @@
+{
+  "id": "0202",
+  "title": "Pricing Analyst",
+  "category": "business",
+  "company": "Liberty Mutual",
+  "industry": "Insurance",
+  "location": {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 60000,
+    "max": 78000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Liberty Mutual, one of America's largest insurance companies, seeks a Pricing Analyst to support our insurance products and rate development. Working fully remote, you'll analyze actuarial data, conduct pricing studies, and contribute to rate-setting strategies. This role combines data analysis with business acumen in the insurance industry.",
+  "responsibilities": [
+    "Analyze rating data and develop loss trend projections",
+    "Support actuarial teams with pricing model development",
+    "Prepare pricing analyses and rate justification documentation",
+    "Conduct competitor and market research for pricing strategy",
+    "Maintain pricing databases and analytical tools",
+    "Present findings and recommendations to management"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Actuarial Science, Mathematics, Statistics, or related field",
+    "experience_years": "2-3",
+    "skills": [
+      "Statistical analysis and actuarial knowledge",
+      "Proficiency in Excel and data analysis tools",
+      "Understanding of insurance fundamentals",
+      "Strong written and verbal communication",
+      "Attention to detail and accuracy",
+      "Problem-solving and analytical thinking"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Fully remote position",
+    "Health, dental, vision, and life insurance",
+    "401(k) with company match",
+    "Professional development and actuarial exam support",
+    "Flexible paid time off"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-05"
+}

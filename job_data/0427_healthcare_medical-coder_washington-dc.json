@@ -1,0 +1,53 @@
+{
+  "id": "0427",
+  "title": "Medical Coder",
+  "category": "healthcare",
+  "company": "Mayo Clinic",
+  "industry": "Healthcare",
+  "location": {
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 48000,
+    "max": 62000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-05",
+  "description": "Mayo Clinic's Washington, DC location is seeking a Medical Coder to support our mission of providing comprehensive patient care. You'll translate clinical documentation into standardized medical codes, ensuring accurate billing and meaningful health data. This hybrid role allows you to work with our clinical team while maintaining flexibility. Join Mayo's legacy of excellence in healthcare.",
+  "responsibilities": [
+    "Review patient medical records and clinical documentation to accurately assign ICD-10, CPT, and HCPCS codes",
+    "Verify coding accuracy and compliance with coding guidelines and regulatory standards",
+    "Communicate with physicians and clinical staff regarding documentation deficiencies or clarifications needed",
+    "Maintain current knowledge of coding standards, payer guidelines, and regulatory changes",
+    "Audit coded records for accuracy and completeness, documenting findings and recommendations",
+    "Achieve departmental targets for productivity while maintaining accuracy standards of 98% or higher"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Health Information Management or Medical Coding; or High School diploma with completion of accredited medical coding program",
+    "experience_years": "1-3",
+    "skills": [
+      "Proficiency with ICD-10, CPT, and HCPCS coding systems",
+      "Knowledge of medical terminology and anatomy",
+      "Attention to detail and accuracy",
+      "Familiarity with EHR systems (Epic preferred)",
+      "Strong organizational skills",
+      "Ability to work independently and meet deadlines"
+    ],
+    "certifications": [
+      "RHIT (Registered Health Information Technician) or AAPC CPC (Certified Professional Coder) preferred",
+      "AHIMA or AAPC membership required within 6 months of hire"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision coverage",
+    "Tuition reimbursement for certification maintenance and continuing education",
+    "Hybrid schedule with flexibility",
+    "Retirement plans with employer matching",
+    "Access to Mayo Clinic's employee health programs and wellness initiatives"
+  ]
+}

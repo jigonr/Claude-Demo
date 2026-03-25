@@ -1,0 +1,52 @@
+{
+  "id": "0497",
+  "title": "Nursing Aide",
+  "category": "healthcare",
+  "company": "Scripps Research",
+  "industry": "Research",
+  "location": {
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 56000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Scripps Research is one of the world's premier independent biomedical research institutes with groundbreaking discoveries in immunology, neuroscience, and infectious disease. You'll provide direct patient care support in our clinical research and patient services.",
+  "responsibilities": [
+    "Provide direct patient care and support to clinical research participants",
+    "Assist with vital signs monitoring and specimen collection",
+    "Maintain clean, safe clinical environments adhering to protocols",
+    "Document patient observations and report concerns to nursing staff",
+    "Support patient comfort and address basic care needs",
+    "Assist with medical equipment operation and sterilization"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; CNA certification preferred",
+    "experience_years": "0-2 years of direct patient care or clinical research experience",
+    "skills": [
+      "Patient care",
+      "Vital signs monitoring",
+      "Communication",
+      "Empathy",
+      "Technical competence"
+    ],
+    "certifications": [
+      "CNA certification (preferred)",
+      "CPR/BLS"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (18-22 days annually)",
+    "Professional development and continuing education support",
+    "Employee assistance program (EAP) with mental health services"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-05"
+}

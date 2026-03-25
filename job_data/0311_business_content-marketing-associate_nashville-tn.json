@@ -1,0 +1,48 @@
+{
+  "id": "0311",
+  "title": "Content Marketing Associate",
+  "category": "business",
+  "company": "BCG",
+  "industry": "Management Consulting",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Boston Consulting Group is seeking a Content Marketing Associate to support client and corporate marketing initiatives from our Nashville office. You'll develop thought leadership content, case studies, and marketing materials that showcase BCG's expertise. This onsite role offers exposure to world-class consulting and marketing excellence.",
+  "responsibilities": [
+    "Develop compelling content including blog posts, case studies, and whitepapers showcasing BCG expertise",
+    "Conduct research on industry trends and competitive landscape; synthesize insights into marketing narratives",
+    "Collaborate with consultants and clients to understand and articulate complex solutions for audiences",
+    "Manage content calendars and ensure consistent messaging across marketing channels",
+    "Measure content performance; recommend optimization based on engagement metrics and feedback"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, Communications, Journalism, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Content writing and editing",
+      "Research and synthesis",
+      "Project management",
+      "SEO and digital marketing basics",
+      "Analytical thinking"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + bonus",
+    "Health, dental, vision coverage",
+    "401(k) with company match",
+    "Paid time off (15 days)",
+    "Professional development and tuition assistance"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-03"
+}

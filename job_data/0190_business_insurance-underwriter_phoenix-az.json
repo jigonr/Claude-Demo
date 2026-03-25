@@ -1,0 +1,50 @@
+{
+  "id": "0190",
+  "title": "Insurance Underwriter",
+  "category": "business",
+  "company": "Travelers",
+  "industry": "Insurance",
+  "location": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-19",
+  "description": "Travelers is seeking an Insurance Underwriter for our Phoenix office to evaluate commercial insurance applications, assess risk, and make underwriting decisions. You will review policy applications, order inspections and reports, and communicate underwriting decisions to brokers and customers.",
+  "responsibilities": [
+    "Review commercial insurance applications and identify required documentation",
+    "Order property inspections, loss control assessments, and third-party reports",
+    "Analyze risk factors and make underwriting decisions per guidelines",
+    "Negotiate terms and conditions with brokers and risk managers",
+    "Communicate underwriting decisions and rationale clearly",
+    "Maintain accurate records and track performance metrics"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, Insurance, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Risk assessment and evaluation",
+      "Commercial insurance knowledge",
+      "Policy analysis and interpretation",
+      "Communication and negotiation skills",
+      "Attention to detail and accuracy"
+    ],
+    "certifications": [
+      "Arizona insurance license preferred or in-progress"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and performance bonus",
+    "Comprehensive health, dental, and vision insurance",
+    "Travelers 401(k) plan with company match",
+    "Licensing fee reimbursement and professional development"
+  ]
+}

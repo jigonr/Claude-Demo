@@ -1,0 +1,48 @@
+{
+  "id": "0040",
+  "title": "Business Intelligence Analyst",
+  "category": "tech",
+  "company": "Workday",
+  "industry": "HR Tech",
+  "location": {
+    "city": "Baltimore",
+    "state": "MD",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 62000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Workday is seeking a Business Intelligence Analyst to transform data into actionable insights. You'll build dashboards, develop analytics solutions, and support data-driven decision-making across the organization. Work remotely for the world's leading cloud platform for finance and human resources.",
+  "responsibilities": [
+    "Design and develop interactive dashboards and reports using BI tools",
+    "Extract, transform, and analyze data from multiple sources",
+    "Support business stakeholders with ad hoc analysis and insights",
+    "Monitor data quality and recommend data governance improvements",
+    "Document technical specifications and maintain analytics libraries"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Analytics, Computer Science, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Tableau, Power BI, or Looker (BI platform proficiency)",
+      "SQL for data querying and manipulation",
+      "Data visualization and storytelling",
+      "Excel and statistical analysis",
+      "Strong problem-solving skills"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with performance bonuses",
+    "Comprehensive health, dental, and vision plans",
+    "401(k) with company match",
+    "Professional development and BI tool certifications",
+    "Remote-first culture with flexible scheduling"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-07"
+}

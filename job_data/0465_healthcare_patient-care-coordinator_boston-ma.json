@@ -1,0 +1,52 @@
+{
+  "id": "0465",
+  "title": "Patient Care Coordinator",
+  "category": "healthcare",
+  "company": "Baxter International",
+  "industry": "Medical Products",
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 68000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Patient Care Coordinator at Baxter International. This is an exciting opportunity to join our patient-focused, medical-device, quality-driven team and make a direct impact on our mission. If you have 0-2 years years of experience and are passionate about Medical Products, we'd love to hear from you.",
+  "responsibilities": [
+    "Coordinate patient scheduling and manage medical records systems",
+    "Communicate with patients regarding appointments and care instructions",
+    "Process insurance authorizations and manage patient billing inquiries",
+    "Support clinical teams by managing workflow and administrative tasks",
+    "Track patient outcomes and provide reports to quality assurance teams",
+    "Resolve patient concerns and escalate issues to appropriate departments"
+  ],
+  "requirements": {
+    "education": "High School Diploma or equivalent",
+    "experience_years": "0-2 years",
+    "skills": [
+      "Patient communication",
+      "Medical records",
+      "Scheduling systems",
+      "Insurance knowledge",
+      "Organization"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule",
+    "Career development opportunities",
+    "Employee recognition programs",
+    "Community involvement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-19"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0093",
+  "title": "Business Intelligence Analyst",
+  "category": "tech",
+  "company": "SpaceX",
+  "industry": "Aerospace",
+  "location": {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 58000,
+    "max": 76000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "SpaceX is advancing aerospace technology to enable human space exploration and satellite internet. We've revolutionized space transport.\n\nWe're seeking a Business Intelligence Analyst to join our Aerospace team in Atlanta. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Design and optimize data warehouse schemas for analytics and reporting",
+    "Develop complex SQL queries and stored procedures for business intelligence platforms",
+    "Build interactive dashboards and reports for executive and operational decision-making",
+    "Partner with stakeholders to understand business requirements and translate to technical specifications",
+    "Monitor data quality and implement automated validation frameworks",
+    "Support analytics platform upgrades and infrastructure optimization"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Data Science, or Business Analytics",
+    "experience_years": "2-4 years of business intelligence or analytics development experience",
+    "skills": [
+      "SQL (advanced)",
+      "Data warehouse concepts",
+      "BI tools (Tableau/Power BI/Looker)",
+      "Python/R",
+      "ETL processes"
+    ],
+    "certifications": [
+      "Tableau Desktop Specialist or equivalent BI platform certification"
+    ]
+  },
+  "benefits": [
+    "Competitive compensation and equity",
+    "Professional growth opportunities",
+    "Health and wellness coverage",
+    "Onsite work environment"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-01"
+}

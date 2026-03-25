@@ -1,0 +1,50 @@
+{
+  "id": "0398",
+  "title": "Research Associate I",
+  "category": "healthcare",
+  "company": "Kaiser Permanente",
+  "industry": "Integrated Healthcare",
+  "location": {
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 61000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Kaiser Permanente is an integrated healthcare system serving 12M+ members. We deliver high-quality, evidence-based care across prevention and treatment.\n\nWe're seeking a Research Associate I to join our Integrated Healthcare team in Dallas. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Conduct clinical research studies and coordinate participant enrollment",
+    "Maintain regulatory documentation and ensure protocol compliance",
+    "Collect and manage study data with attention to accuracy and confidentiality",
+    "Assist with data analysis and preparation of research reports",
+    "Communicate with study participants and healthcare providers",
+    "Support principal investigator and research team activities"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Life Sciences, Public Health, or related field",
+    "experience_years": "1-2 years in clinical research, epidemiology, or biomedical research",
+    "skills": [
+      "Research methodology",
+      "Data collection and management",
+      "Regulatory compliance",
+      "Communication",
+      "Attention to detail"
+    ],
+    "certifications": [
+      "CITI Research training completion required"
+    ]
+  },
+  "benefits": [
+    "Hybrid work arrangement",
+    "Health and wellness coverage",
+    "Professional development support",
+    "Competitive salary"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-01"
+}

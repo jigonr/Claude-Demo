@@ -1,0 +1,51 @@
+{
+  "id": "0177",
+  "title": "Test Automation Engineer",
+  "category": "tech",
+  "company": "Monday.com",
+  "industry": "Work Management",
+  "location": {
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 81000,
+    "max": 102000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Monday.com is the Work OS powering over 200K teams globally. We're building the operating system for work itself\u2014where work management, productivity, and automation converge. We're looking for talent that thrives on solving complex problems at scale.",
+  "responsibilities": [
+    "Develop and maintain automated test frameworks",
+    "Design test strategies for new product features",
+    "Execute test automation and analyze results",
+    "Identify and document defects",
+    "Collaborate with developers on test coverage",
+    "Continuously improve test automation processes"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "2-4 years of QA, test automation, or software testing experience",
+    "skills": [
+      "Selenium/Cypress",
+      "Test scripting",
+      "Python/Java",
+      "CI/CD",
+      "Agile testing"
+    ],
+    "certifications": [
+      "ISTQB certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match (up to 4%)",
+    "Unlimited PTO and remote work flexibility",
+    "Professional development budget ($2,000+/year)",
+    "Equity options and/or stock purchase plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-01"
+}

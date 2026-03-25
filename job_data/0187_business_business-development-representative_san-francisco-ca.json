@@ -1,0 +1,48 @@
+{
+  "id": "0187",
+  "title": "Business Development Representative",
+  "category": "business",
+  "company": "Procter & Gamble",
+  "industry": "Consumer Goods",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 62000,
+    "max": 84000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Procter & Gamble is seeking a Business Development Representative to identify and develop partnership opportunities. You'll engage with potential partners, analyze market opportunities, and support deal execution. Work onsite in San Francisco for the global consumer goods leader.",
+  "responsibilities": [
+    "Identify and qualify new business partnership opportunities",
+    "Conduct market and competitive analysis",
+    "Develop business proposals and pitch presentations",
+    "Negotiate terms and support contract execution",
+    "Maintain relationships with partners and stakeholders"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Business development and sales acumen",
+      "Strong communication and negotiation skills",
+      "Market research and analysis",
+      "Relationship building and partnership development",
+      "Project management and follow-through"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with performance bonuses",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "On-site San Francisco office",
+    "Professional development and mentorship"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-08"
+}

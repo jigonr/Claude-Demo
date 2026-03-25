@@ -1,0 +1,50 @@
+{
+  "id": "0490",
+  "title": "Community Health Worker",
+  "category": "healthcare",
+  "company": "Kaiser Permanente",
+  "industry": "Integrated Healthcare",
+  "location": {
+    "city": "Baltimore",
+    "state": "MD",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 35000,
+    "max": 45000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Kaiser Permanente seeks Community Health Workers to strengthen health equity in Baltimore and surrounding communities. You'll work hybrid across community centers and offices, providing health education, connecting patients with resources, and advocating for health access. This role offers meaningful impact in a healthcare organization committed to the health of its communities and members.",
+  "responsibilities": [
+    "Develop and deliver culturally tailored health education programs on chronic disease management, prevention, and wellness",
+    "Engage with community members to assess health needs and barriers; build trust and relationships across diverse populations",
+    "Connect individuals to Kaiser Permanente services, insurance programs, and community resources",
+    "Collect and report data on community health outcomes and program participation to drive continuous improvement",
+    "Support health equity initiatives and work collaboratively with clinical and community teams"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; Community Health Worker certification preferred",
+    "experience_years": "0-3",
+    "skills": [
+      "Health education and promotion",
+      "Community engagement",
+      "Cultural awareness",
+      "Data collection",
+      "Bilingual capability (preferred)"
+    ],
+    "certifications": [
+      "Community Health Worker Certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Kaiser Permanente medical, dental, and vision coverage",
+    "Retirement plan with company match",
+    "Paid time off (18 days)",
+    "Tuition reimbursement",
+    "Health and wellness programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-15"
+}

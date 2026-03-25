@@ -1,0 +1,50 @@
+{
+  "id": "0024",
+  "title": "Junior UI Developer",
+  "category": "tech",
+  "company": "HashiCorp",
+  "industry": "Infrastructure",
+  "location": {
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 71000,
+    "max": 92000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-09",
+  "description": "HashiCorp is hiring a Junior UI Developer to build user interfaces for infrastructure-as-code tools used by thousands of teams. Work fully remote developing experiences that empower engineers to automate infrastructure at scale.",
+  "responsibilities": [
+    "Build responsive user interfaces using modern frontend frameworks",
+    "Implement design specifications and improve user experience",
+    "Write clean, well-tested JavaScript and CSS code",
+    "Collaborate with product and design teams on feature development",
+    "Debug and troubleshoot frontend issues",
+    "Contribute to our design system and component library"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field; or equivalent experience",
+    "experience_years": "1-2",
+    "skills": [
+      "Proficiency in JavaScript and modern frontend frameworks",
+      "HTML5 and CSS3 knowledge",
+      "Git version control and development workflows",
+      "Problem-solving and attention to detail",
+      "Communication and collaboration skills",
+      "Familiarity with testing frameworks (Jest, Enzyme, or similar)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Fully remote work opportunity",
+    "Competitive salary and equity options",
+    "Comprehensive health, dental, and vision insurance",
+    "Learning and development budget",
+    "Flexible hours and work-life balance"
+  ]
+}

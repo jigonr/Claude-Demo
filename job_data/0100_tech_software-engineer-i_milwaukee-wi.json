@@ -1,0 +1,48 @@
+{
+  "id": "0100",
+  "title": "Software Engineer I",
+  "category": "tech",
+  "company": "Slack",
+  "industry": "Collaboration",
+  "location": {
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 63000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Slack is seeking a Software Engineer I to build features that power collaboration for millions of teams. You'll write code, contribute to platform improvements, and grow your skills with experienced mentors. Work remotely for the leader in workplace collaboration.",
+  "responsibilities": [
+    "Develop new features and improvements to the Slack platform",
+    "Write clean, maintainable code with thorough testing",
+    "Collaborate with product and design teams on implementation",
+    "Participate in code reviews and architectural discussions",
+    "Debug issues and optimize performance"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "experience_years": "0-2",
+    "skills": [
+      "Java, JavaScript, or TypeScript",
+      "Software design and architecture fundamentals",
+      "Git and version control",
+      "Database design and SQL",
+      "Problem-solving and communication"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with equity upside",
+    "Health, dental, and vision coverage",
+    "Remote-first with flexible scheduling",
+    "Learning budget and conference attendance",
+    "Generous PTO and professional development"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-24"
+}

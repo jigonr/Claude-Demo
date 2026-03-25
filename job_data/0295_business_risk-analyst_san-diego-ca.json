@@ -1,0 +1,50 @@
+{
+  "id": "0295",
+  "title": "Risk Analyst",
+  "category": "business",
+  "company": "PwC",
+  "industry": "Professional Services",
+  "location": {
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 71000,
+    "max": 92000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "PwC is seeking a Risk Analyst to support consulting engagements focused on risk management and compliance. You'll assess enterprise risks, develop mitigation strategies, and support client decision-making. Work remotely for a global professional services firm.",
+  "responsibilities": [
+    "Assess enterprise risk landscapes and identify vulnerabilities",
+    "Develop risk mitigation and remediation strategies",
+    "Analyze controls and compliance frameworks",
+    "Prepare risk assessment reports and presentations",
+    "Support client engagements with risk expertise"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, Risk Management, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Risk assessment and mitigation strategies",
+      "Compliance and regulatory knowledge",
+      "Data analysis and reporting",
+      "Business writing and presentation",
+      "Critical thinking and problem-solving"
+    ],
+    "certifications": [
+      "CRISC or PMP (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary with performance bonuses",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Remote work flexibility",
+    "Professional development and certifications"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-02"
+}

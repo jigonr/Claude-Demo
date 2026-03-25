@@ -1,0 +1,52 @@
+{
+  "id": "0475",
+  "title": "Public Health Analyst",
+  "category": "healthcare",
+  "company": "Broad Institute",
+  "industry": "Research",
+  "location": {
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 57000,
+    "max": 74000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-05",
+  "description": "The Broad Institute of MIT and Harvard is seeking a Public Health Analyst to support our research initiatives in disease prevention and epidemiology. You'll work on-site in our Washington, DC office, contributing to groundbreaking research that improves public health outcomes. Join a mission-driven organization advancing scientific discovery.",
+  "responsibilities": [
+    "Analyze epidemiological data and public health surveillance information",
+    "Prepare research reports and presentations on disease trends and prevention strategies",
+    "Collaborate with researchers on study design and data collection protocols",
+    "Manage databases and ensure data quality and integrity in research projects",
+    "Support grant writing and research proposal development",
+    "Communicate findings to stakeholders including public health agencies and policymakers"
+  ],
+  "requirements": {
+    "education": "Master's degree in Public Health, Epidemiology, or related field preferred; Bachelor's required",
+    "experience_years": "2-4",
+    "skills": [
+      "Data analysis and statistical software (R, Python, or SAS)",
+      "Epidemiological research methods and study design",
+      "Knowledge of infectious and chronic disease epidemiology",
+      "Excellent written and presentation skills",
+      "Database management and data quality assurance",
+      "Ability to work collaboratively in research environments"
+    ],
+    "certifications": [
+      "CHES (Certified Health Education Specialist) preferred"
+    ]
+  },
+  "benefits": [
+    "On-site position at prestigious research institution",
+    "Competitive salary and benefits package",
+    "Health, dental, and vision coverage",
+    "Retirement and pension plans",
+    "Professional development and research opportunities"
+  ]
+}

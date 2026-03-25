@@ -1,0 +1,48 @@
+{
+  "id": "0174",
+  "title": "Business Intelligence Analyst",
+  "category": "tech",
+  "company": "Adobe",
+  "industry": "Creative Software",
+  "location": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 68000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Adobe is seeking a Business Intelligence Analyst to provide data-driven insights across our organization. You'll build dashboards, analyze performance metrics, and support decision-making for business units. Work hybrid in Cincinnati for the global leader in creative, marketing, and document solutions.",
+  "responsibilities": [
+    "Design and develop business intelligence dashboards and reports",
+    "Analyze business metrics and identify performance trends",
+    "Collaborate with stakeholders to define analytics requirements",
+    "Optimize database queries and improve data pipeline efficiency",
+    "Document analytical methodologies and maintain data documentation"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Analytics, Computer Science, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "BI tools (Tableau, Power BI, or Looker)",
+      "SQL for data analysis",
+      "Excel and statistical analysis",
+      "Data visualization and storytelling",
+      "Problem-solving and analytical thinking"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Flexible hybrid Cincinnati schedule",
+    "Professional development and learning opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-19"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0096",
+  "title": "AI Research Assistant",
+  "category": "tech",
+  "company": "Datadog",
+  "industry": "Cloud Monitoring",
+  "location": {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 84000,
+    "max": 110000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Datadog's platform monitors infrastructure and applications for 20,000+ customers processing billions of events daily. We make monitoring intelligent and accessible.\n\nWe're seeking a AI Research Assistant to join our Cloud Monitoring team in Chicago. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Support ML engineers with data preparation and feature engineering for AI models",
+    "Run experiments and document results from AI research initiatives",
+    "Collaborate on literature reviews and implement research papers in production code",
+    "Contribute to open-source AI projects and share learnings with the team",
+    "Assist in evaluating new AI/ML frameworks and libraries",
+    "Help scale successful research projects from prototype to production"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Mathematics, Physics, or related field",
+    "experience_years": "0-2 years in machine learning, data science, or AI research (intern/academic preferred)",
+    "skills": [
+      "Python",
+      "PyTorch or TensorFlow",
+      "Linear algebra and statistics",
+      "Git and version control",
+      "Deep learning fundamentals"
+    ],
+    "certifications": [
+      "None required; relevant competitions or projects appreciated"
+    ]
+  },
+  "benefits": [
+    "Mentorship from AI/ML leaders",
+    "Learning budget for courses and conferences",
+    "Hybrid flexibility",
+    "Stock options"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-06"
+}

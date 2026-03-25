@@ -1,0 +1,50 @@
+{
+  "id": "0239",
+  "title": "Market Research Analyst",
+  "category": "business",
+  "company": "Lockheed Martin",
+  "industry": "Defense",
+  "location": {
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 54000,
+    "max": 71000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Lockheed Martin is a global aerospace and defense company serving government and commercial customers with advanced technologies.\n\nWe're seeking a Market Research Analyst to join our Defense team in Austin. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Conduct market research and competitive analysis to inform strategic planning",
+    "Design and execute market surveys and research methodologies",
+    "Analyze market data and develop insights on customer behavior and preferences",
+    "Prepare detailed research reports and executive presentations",
+    "Monitor industry trends and economic indicators",
+    "Support business development with market sizing and opportunity assessments"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Marketing, Economics, or related field",
+    "experience_years": "2-4 years in market research, business analysis, or business development",
+    "skills": [
+      "Market research methodologies",
+      "Data analysis",
+      "Statistical knowledge",
+      "Report writing",
+      "Presentation skills"
+    ],
+    "certifications": [
+      "PRC or QRCA certification preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive compensation",
+    "Onsite work in Austin",
+    "Professional development fund",
+    "Health and wellness benefits"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-10"
+}

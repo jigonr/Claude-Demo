@@ -1,0 +1,52 @@
+{
+  "id": "0064",
+  "title": "SOC Analyst",
+  "category": "tech",
+  "company": "Amplitude",
+  "industry": "Product Analytics",
+  "location": {
+    "city": "Provo",
+    "state": "UT",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 49000,
+    "max": 63000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Amplitude is the Product Intelligence platform trusted by 5000+ customers including Spotify, Instacart, and DraftKings. We help product teams understand user behavior and ship winning features. You'll drive security and stability while our platform processes trillions of analytics events.",
+  "responsibilities": [
+    "Monitor security alerts and investigate potential security incidents",
+    "Analyze logs and network traffic for anomalous behavior",
+    "Document incident details and escalate critical findings",
+    "Support incident response and recovery procedures",
+    "Maintain security baselines and detection rule libraries",
+    "Contribute to security training and awareness programs"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Cybersecurity, Computer Science, or related field",
+    "experience_years": "1-2 years of security monitoring or incident response experience",
+    "skills": [
+      "SIEM tools",
+      "Log analysis",
+      "Incident response",
+      "Network protocols",
+      "Security frameworks"
+    ],
+    "certifications": [
+      "Security+",
+      "CompTIA A+"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match (up to 4%)",
+    "Unlimited PTO and remote work flexibility",
+    "Professional development budget ($2,000+/year)",
+    "Equity options and/or stock purchase plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-22"
+}

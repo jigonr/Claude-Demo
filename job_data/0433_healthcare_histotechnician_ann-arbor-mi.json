@@ -1,0 +1,50 @@
+{
+  "id": "0433",
+  "title": "Histotechnician",
+  "category": "healthcare",
+  "company": "Providence Health",
+  "industry": "Hospital System",
+  "location": {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Providence Health is seeking a remote Histotechnician to support our pathology laboratory operations across Michigan. You'll process tissue specimens, prepare microscope slides, and ensure quality throughout the histology workflow. This remote role is ideal for someone seeking flexibility while contributing to diagnostic excellence across our health system.",
+  "responsibilities": [
+    "Process tissue specimens using automated and manual techniques, following established protocols and quality standards",
+    "Prepare slides through staining, mounting, and cover-slipping processes; ensure consistent slide quality",
+    "Operate and maintain histology equipment; perform preventive maintenance and troubleshoot issues",
+    "Track specimens through the workflow system and maintain accurate documentation",
+    "Collaborate with laboratory supervisors to improve efficiency and maintain laboratory certifications"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; completion of accredited histotechnology program",
+    "experience_years": "1-3",
+    "skills": [
+      "Tissue processing and preparation",
+      "Staining and mounting techniques",
+      "Laboratory equipment operation",
+      "Data documentation",
+      "Quality assurance"
+    ],
+    "certifications": [
+      "Histotechnician certification (HT/HTL, ASCP)"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with company contribution",
+    "Paid time off (18 days)",
+    "Remote work flexibility",
+    "Professional development support"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-13"
+}

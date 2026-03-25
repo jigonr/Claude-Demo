@@ -1,0 +1,50 @@
+{
+  "id": "0463",
+  "title": "Cytotechnologist",
+  "category": "healthcare",
+  "company": "Genentech",
+  "industry": "Biotechnology",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 71000,
+    "max": 91000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Genentech is seeking a Cytotechnologist to support our research operations in Cambridge. You'll prepare and examine cellular specimens using advanced microscopy and diagnostic techniques, contributing to our understanding of disease mechanisms. This hybrid role combines laboratory precision with collaborative research science, offering exposure to cutting-edge biotechnology and oncology research.",
+  "responsibilities": [
+    "Prepare tissue and cellular specimens according to standardized protocols, using staining, fixation, and processing techniques",
+    "Examine slides under microscopes, identifying abnormal cells and morphological features with precision",
+    "Document findings and prepare detailed reports for review by pathologists and researchers",
+    "Maintain laboratory equipment and quality control standards; troubleshoot technical issues",
+    "Collaborate with research teams and participate in continuous improvement of cytology methods"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Biological Sciences, Medical Technology, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Microscopy and specimen preparation",
+      "Laboratory techniques and procedures",
+      "Quality control and documentation",
+      "Data management systems",
+      "Attention to detail"
+    ],
+    "certifications": [
+      "Cytotechnologist certification (ASCP, preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary + bonus potential",
+    "Health, dental, vision, and hearing coverage",
+    "401(k) plan with match",
+    "$5,000/year learning budget",
+    "Gym membership subsidy"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-16"
+}

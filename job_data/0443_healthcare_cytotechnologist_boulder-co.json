@@ -1,0 +1,52 @@
+{
+  "id": "0443",
+  "title": "Cytotechnologist",
+  "category": "healthcare",
+  "company": "Sanofi",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Boulder",
+    "state": "CO",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 60000,
+    "max": 77000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-20",
+  "description": "Sanofi is seeking a Cytotechnologist to analyze cell samples supporting pharmaceutical research and quality control. Work fully remote in this specialized healthcare role, contributing to the development of life-saving medicines.",
+  "responsibilities": [
+    "Examine and analyze cytological specimens using microscopy",
+    "Identify abnormal cells and cellular structures",
+    "Prepare slide samples according to established protocols",
+    "Maintain detailed records and documentation of findings",
+    "Support quality control and regulatory compliance procedures",
+    "Communicate findings to supervising pathologists and researchers"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Medical Laboratory Science or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Cytology analysis and microscopy techniques",
+      "Knowledge of cell biology and pathology",
+      "Attention to detail and accuracy",
+      "Laboratory safety and quality control",
+      "Computer skills for reporting and data entry",
+      "Professional communication abilities"
+    ],
+    "certifications": [
+      "ASCP Cytotechnologist (CT) certification required"
+    ]
+  },
+  "benefits": [
+    "Fully remote work arrangement",
+    "Competitive salary and benefits",
+    "Health, dental, and vision insurance",
+    "Continuing education and certification support",
+    "Flexible scheduling options"
+  ]
+}

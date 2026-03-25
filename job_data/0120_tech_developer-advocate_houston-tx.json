@@ -1,0 +1,50 @@
+{
+  "id": "0120",
+  "title": "Developer Advocate",
+  "category": "tech",
+  "company": "Fastly",
+  "industry": "Edge Computing",
+  "location": {
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 71000,
+    "max": 90000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Fastly's edge cloud platform serves content to 190 countries, with 99.99% uptime. We power the next generation of digital experiences at the edge.\n\nWe're seeking a Developer Advocate to join our Edge Computing team in Houston. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Create technical content (blogs, tutorials, videos) showcasing Fastly platform capabilities",
+    "Build and share code examples, SDKs, and developer tools with the community",
+    "Engage with developers at conferences, meetups, and online communities",
+    "Gather developer feedback and advocate for product improvements",
+    "Respond to technical questions and provide guidance on platform usage",
+    "Collaborate with product and engineering teams on developer experience"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or equivalent professional experience",
+    "experience_years": "2-4 years in software development, developer relations, or developer marketing",
+    "skills": [
+      "Full-stack web development",
+      "Technical writing",
+      "Public speaking",
+      "API design knowledge",
+      "Community engagement"
+    ],
+    "certifications": [
+      "None required; public speaking or technical certification appreciated"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Conference budget and speaking opportunities",
+    "Onsite in Houston",
+    "Health and wellness coverage"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-21"
+}

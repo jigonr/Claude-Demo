@@ -1,0 +1,48 @@
+{
+  "id": "0310",
+  "title": "HR Coordinator",
+  "category": "business",
+  "company": "Vanguard",
+  "industry": "Asset Management",
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 56000,
+    "max": 72000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Vanguard is seeking an HR Coordinator for our Boston office to support human resources functions across the region. You'll manage employee records, coordinate benefits administration, and support various HR initiatives. This hybrid role offers exposure to human resources operations and the chance to contribute to our people-focused culture.",
+  "responsibilities": [
+    "Maintain employee records and ensure HRIS data accuracy; process updates and changes",
+    "Coordinate benefits administration, open enrollment, and employee communications",
+    "Support onboarding and offboarding processes for new and departing employees",
+    "Prepare HR reports and documentation for management review",
+    "Assist with employee relations matters and grievance tracking"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Human Resources, Business Administration, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "HRIS system proficiency (Workday or similar)",
+      "Strong organizational and administrative abilities",
+      "Excellent written and verbal communication",
+      "Attention to detail with ability to maintain confidentiality",
+      "Ability to work with diverse employee populations"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with employer match",
+    "Paid time off and paid holidays",
+    "Professional development and HR certification support",
+    "Hybrid work flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-10"
+}

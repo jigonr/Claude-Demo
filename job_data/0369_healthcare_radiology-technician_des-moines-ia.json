@@ -1,0 +1,51 @@
+{
+  "id": "0369",
+  "title": "Radiology Technician",
+  "category": "healthcare",
+  "company": "Intuitive Surgical",
+  "industry": "Medical Devices",
+  "location": {
+    "city": "Des Moines",
+    "state": "IA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 38000,
+    "max": 49000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-01-05",
+  "description": "Intuitive Surgical is seeking a Radiology Technician to support our medical device research and development operations in Des Moines. You'll operate diagnostic imaging equipment, assist with device testing and validation, and ensure compliance with radiation safety standards. This role combines clinical expertise with technical innovation, supporting the advancement of minimally invasive surgical solutions.",
+  "responsibilities": [
+    "Operate X-ray, CT, and ultrasound equipment for device testing and clinical evaluation",
+    "Prepare imaging protocols and assist with imaging procedure optimization",
+    "Maintain and calibrate diagnostic imaging equipment according to manufacturer specifications",
+    "Document imaging results and maintain equipment logs for regulatory compliance",
+    "Support clinical studies by positioning devices and capturing high-quality diagnostic images",
+    "Ensure proper radiation safety protocols and maintain ALARA standards"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Radiologic Technology from an accredited program",
+    "experience_years": "1-3",
+    "skills": [
+      "Diagnostic imaging equipment operation and troubleshooting",
+      "Patient safety and positioning techniques",
+      "Radiation safety and ALARA principles",
+      "Medical device knowledge and technical documentation",
+      "Data management and imaging system software"
+    ],
+    "certifications": [
+      "ARRT (American Registry of Radiologic Technologists) certification required",
+      "State radiology license or ability to obtain"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision insurance coverage",
+    "Continuing education support and conference attendance",
+    "Flexible hybrid schedule with collaborative work environment",
+    "Tuition reimbursement for additional certifications"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0066",
+  "title": "Infrastructure Engineer I",
+  "category": "tech",
+  "company": "Cloudflare",
+  "industry": "Cybersecurity",
+  "location": {
+    "city": "Omaha",
+    "state": "NE",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 57000,
+    "max": 73000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-01-02",
+  "description": "Cloudflare is building the foundation of a faster, more secure internet. We're looking for an Infrastructure Engineer I to help design, deploy, and maintain the edge computing infrastructure that powers our global network. You'll work with cutting-edge technology and learn from senior engineers in a supportive environment.",
+  "responsibilities": [
+    "Deploy and configure compute resources across Cloudflare's edge data centers",
+    "Write automation scripts in Python or Go to streamline infrastructure operations",
+    "Monitor system performance and troubleshoot infrastructure issues",
+    "Participate in capacity planning and infrastructure scaling decisions",
+    "Collaborate with security and networking teams on infrastructure hardening",
+    "Document infrastructure architecture and create runbooks for operational procedures"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Linux/Unix system administration",
+      "Networking fundamentals and TCP/IP",
+      "Infrastructure automation and scripting",
+      "Basic cloud platform knowledge",
+      "Problem-solving and debugging skills"
+    ],
+    "certifications": [
+      "None required; certifications in Linux or cloud platforms are a plus"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and stock options",
+    "Comprehensive health, dental, and vision coverage",
+    "Generous time off policy with flexible schedule",
+    "Home office setup stipend and equipment allowance"
+  ]
+}

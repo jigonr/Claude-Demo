@@ -1,0 +1,48 @@
+{
+  "id": "0155",
+  "title": "Data Analyst",
+  "category": "tech",
+  "company": "Monday.com",
+  "industry": "Work Management",
+  "location": {
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 78000,
+    "max": 101000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Join Monday.com's Data team and help us understand how teams around the world collaborate. We're building the future of work, and data is at the heart of everything we do. As a Data Analyst, you'll work with cross-functional teams to uncover insights that drive product decisions, improve customer outcomes, and scale our platform. You'll turn raw data into stories that matter, working with stakeholders at every level.",
+  "responsibilities": [
+    "Design and maintain dashboards that track key product metrics, user behavior, and platform performance across millions of active users",
+    "Conduct exploratory analysis on customer engagement patterns to identify growth opportunities and feature adoption trends",
+    "Collaborate with product and engineering teams to define success metrics and validate hypotheses through A/B testing",
+    "Build data pipelines and automate reporting processes to enable self-service analytics across teams",
+    "Present findings and recommendations to leadership, translating complex data into actionable insights"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Data Science, Statistics, Computer Science, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "SQL (expert level)",
+      "Python or R",
+      "Data visualization (Tableau, Looker, or similar)",
+      "A/B testing and experimental design",
+      "Google Analytics or equivalent"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + equity packages",
+    "Unlimited PTO policy",
+    "Health, dental, and vision coverage",
+    "Professional development budget for courses and conferences",
+    "Flexible work hours with collaborative team culture"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-07"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0189",
+  "title": "Credit Analyst",
+  "category": "business",
+  "company": "FedEx",
+  "industry": "Logistics",
+  "location": {
+    "city": "Des Moines",
+    "state": "IA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 44000,
+    "max": 57000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "FedEx operates the world's largest express delivery network, shipping to 220+ countries with cutting-edge logistics technology.\n\nWe're seeking a Credit Analyst to join our Logistics team in Des Moines. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Evaluate creditworthiness of corporate and commercial borrowers",
+    "Analyze financial statements and assess credit risk",
+    "Prepare credit reports and recommendations for loan decisions",
+    "Monitor existing credit relationships and flag early warning indicators",
+    "Support loan portfolio management and risk mitigation",
+    "Maintain accurate credit documentation and compliance files"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Accounting, or Business",
+    "experience_years": "2-4 years in credit analysis, commercial lending, or financial analysis",
+    "skills": [
+      "Financial analysis",
+      "Credit modeling",
+      "Regulatory knowledge",
+      "Excel proficiency",
+      "Risk assessment"
+    ],
+    "certifications": [
+      "CFA or accounting designation preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Onsite work in Des Moines",
+    "Health and wellness programs",
+    "Retirement plan matching"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-16"
+}

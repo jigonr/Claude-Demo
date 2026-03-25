@@ -1,0 +1,52 @@
+{
+  "id": "0016",
+  "title": "Systems Administrator",
+  "category": "tech",
+  "company": "Fastly",
+  "industry": "Edge Computing",
+  "location": {
+    "city": "Rochester",
+    "state": "MN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 67000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Fastly powers the digital experiences of 99% of the top 100 global sites. Our edge computing platform delivers content and compute in milliseconds. You'll maintain systems supporting some of the world's most trafficked websites.",
+  "responsibilities": [
+    "Manage user accounts, access controls, and security policies",
+    "Deploy and maintain servers, networks, and IT infrastructure",
+    "Monitor system performance and troubleshoot technical issues",
+    "Implement backup and disaster recovery procedures",
+    "Maintain IT documentation and runbooks",
+    "Support hardware procurement and lifecycle management"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, IT, or related field",
+    "experience_years": "2-4 years of systems administration or IT infrastructure experience",
+    "skills": [
+      "Windows/Linux",
+      "Active Directory",
+      "Networking",
+      "Virtualization",
+      "Scripting"
+    ],
+    "certifications": [
+      "CompTIA Security+",
+      "Microsoft Azure Administrator"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match (up to 4%)",
+    "Unlimited PTO and remote work flexibility",
+    "Professional development budget ($2,000+/year)",
+    "Equity options and/or stock purchase plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-01"
+}

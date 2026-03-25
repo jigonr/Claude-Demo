@@ -1,0 +1,50 @@
+{
+  "id": "0114",
+  "title": "UX Researcher",
+  "category": "tech",
+  "company": "Dropbox",
+  "industry": "Cloud Storage",
+  "location": {
+    "city": "Columbus",
+    "state": "OH",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 72000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Dropbox helps 700M+ people and teams move work forward. We've fundamentally changed how people collaborate on files.\n\nWe're seeking a UX Researcher to join our Cloud Storage team in Columbus. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Design and conduct user research studies (interviews, surveys, usability tests) to inform product decisions",
+    "Analyze qualitative and quantitative user data to identify patterns and insights",
+    "Create user personas, journey maps, and research documentation",
+    "Collaborate with product and design teams to translate findings into actionable recommendations",
+    "Present research findings to cross-functional stakeholders",
+    "Evaluate prototypes and new features through user testing methodologies"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Psychology, Human Factors, or related field",
+    "experience_years": "2-4 years in UX research, user experience, or product research",
+    "skills": [
+      "Qualitative research methods",
+      "Usability testing",
+      "Data analysis",
+      "Figma/design tools",
+      "Communication and presentation"
+    ],
+    "certifications": [
+      "UX research certification preferred"
+    ]
+  },
+  "benefits": [
+    "Hybrid work schedule",
+    "Professional development budget",
+    "Stock options",
+    "Comprehensive health coverage"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-05"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0346",
+  "title": "Research Associate I",
+  "category": "healthcare",
+  "company": "Roche",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Bethesda",
+    "state": "MD",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 60000,
+    "max": 78000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Roche is seeking a Research Associate I to support our early-stage drug discovery programs in the Bethesda area. You'll contribute to cutting-edge pharmaceutical research, working alongside PhD-level scientists and contributing to projects that may transform patient outcomes. This is an excellent opportunity to launch a career in biopharmaceutical research.",
+  "responsibilities": [
+    "Conduct laboratory experiments following established protocols and standard operating procedures",
+    "Maintain detailed laboratory notebooks and prepare research summaries for documentation",
+    "Perform data analysis and contribute to research publications and presentations",
+    "Manage laboratory supplies, equipment, and inventory; assist with equipment maintenance",
+    "Collaborate with cross-functional teams to support project milestones"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Chemistry, Biology, Biochemistry, or related life sciences field",
+    "experience_years": "1-2",
+    "skills": [
+      "Laboratory techniques in chemistry, cell biology, or molecular biology",
+      "Proficiency with laboratory information management systems",
+      "Strong scientific writing and technical communication",
+      "Attention to detail and commitment to data integrity",
+      "Ability to work independently and as part of a team"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) plan with company match",
+    "Flexible remote work arrangement",
+    "Professional development and conference attendance support",
+    "Opportunities for career growth within research leadership"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-15"
+}

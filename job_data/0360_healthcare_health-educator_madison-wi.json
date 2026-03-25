@@ -1,0 +1,51 @@
+{
+  "id": "0360",
+  "title": "Health Educator",
+  "category": "healthcare",
+  "company": "CDC",
+  "industry": "Government/Public Health",
+  "location": {
+    "city": "Madison",
+    "state": "WI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 37000,
+    "max": 49000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "The CDC is the nation's premier public health institute, protecting Americans from infectious diseases, environmental hazards, and health threats. You'll develop and deliver health education programs impacting millions.",
+  "responsibilities": [
+    "Develop and deliver health education programs on disease prevention",
+    "Create educational materials for diverse audiences",
+    "Track program participation and health outcomes",
+    "Partner with community organizations to reach target populations",
+    "Evaluate program effectiveness and recommend improvements",
+    "Support surveillance and data collection efforts"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Public Health, Health Education, or related field",
+    "experience_years": "1-3 years of health education or community health experience",
+    "skills": [
+      "Health communication",
+      "Program development",
+      "Community engagement",
+      "Data collection",
+      "Cultural competence"
+    ],
+    "certifications": [
+      "CHES (Certified Health Education Specialist) or pursuing"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (18-22 days annually)",
+    "Professional development and continuing education support",
+    "Employee assistance program (EAP) with mental health services"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-03"
+}

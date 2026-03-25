@@ -1,0 +1,50 @@
+{
+  "id": "0242",
+  "title": "Marketing Coordinator",
+  "category": "business",
+  "company": "Raytheon",
+  "industry": "Defense",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-01-15",
+  "description": "Raytheon is seeking a Marketing Coordinator to support our Nashville facility's corporate communications and marketing initiatives. You will manage marketing campaigns, organize events, create promotional materials, and coordinate with internal stakeholders to amplify our employer brand and business communications. This role requires meticulous attention to detail and strong organizational capabilities.",
+  "responsibilities": [
+    "Develop and execute marketing campaigns for recruitment and corporate initiatives",
+    "Coordinate with graphic designers and vendors for promotional materials",
+    "Manage event planning and logistics for recruitment fairs and open houses",
+    "Maintain marketing calendar and track campaign metrics",
+    "Prepare marketing reports and analysis for management review",
+    "Support social media content creation and employee engagement initiatives"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, Communications, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Marketing campaign planning and execution",
+      "Event coordination and logistics",
+      "Content creation and basic copywriting",
+      "Microsoft Office proficiency",
+      "Organizational and time management skills"
+    ],
+    "certifications": [
+      "None required"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision benefits",
+    "Raytheon 401(k) plan with company match",
+    "Professional development and training opportunities"
+  ]
+}

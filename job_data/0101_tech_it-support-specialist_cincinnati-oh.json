@@ -1,0 +1,54 @@
+{
+  "id": "0101",
+  "title": "IT Support Specialist",
+  "category": "tech",
+  "company": "Okta",
+  "industry": "Identity",
+  "location": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 40000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a IT Support Specialist at Okta. This is an exciting opportunity to join our security-conscious, developer-friendly, scaling team and make a direct impact on our mission. If you have 2-3 years years of experience and are passionate about Identity, we'd love to hear from you.",
+  "responsibilities": [
+    "Provide technical support to end users via phone, email, and ticketing systems",
+    "Troubleshoot hardware and software issues, escalating complex problems appropriately",
+    "Install and configure computers, peripherals, and software applications",
+    "Maintain IT asset inventory and manage hardware lifecycle",
+    "Document common issues and solutions in knowledge base for user self-service",
+    "Contribute to IT security by enforcing password policies and security awareness"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Environmental Health, Public Health, or related field",
+    "experience_years": "2-3 years",
+    "skills": [
+      "Environmental compliance",
+      "Inspection procedures",
+      "Report writing",
+      "Communication",
+      "Attention to detail"
+    ],
+    "certifications": [
+      "Registered Environmental Health Specialist (REHS) preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule and remote work options",
+    "Stock options or equity compensation",
+    "Wellness programs and gym membership reimbursement",
+    "Product discounts and free subscriptions"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-22"
+}

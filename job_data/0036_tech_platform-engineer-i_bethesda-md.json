@@ -1,0 +1,50 @@
+{
+  "id": "0036",
+  "title": "Platform Engineer I",
+  "category": "tech",
+  "company": "Stripe",
+  "industry": "Fintech",
+  "location": {
+    "city": "Bethesda",
+    "state": "MD",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 93000,
+    "max": 117000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-04",
+  "description": "Stripe is seeking a Platform Engineer I to build infrastructure and platforms that power payments globally. Work fully remote developing systems used by millions of businesses and developers. Help scale the financial infrastructure of the internet.",
+  "responsibilities": [
+    "Design and implement platform infrastructure and tools for scale",
+    "Develop APIs and services that support our payment processing",
+    "Improve system reliability, performance, and observability",
+    "Collaborate with product and engineering teams on platform improvements",
+    "Document systems and best practices for the engineering team",
+    "Participate in oncall rotation for production systems"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Backend development experience with Go, Java, or Python",
+      "Distributed systems and microservices architecture",
+      "Database design and optimization",
+      "Strong debugging and troubleshooting skills",
+      "Understanding of financial systems and payments (preferred)",
+      "Clear communication and collaborative skills"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Fully remote work with flexible hours",
+    "Competitive salary and equity",
+    "Comprehensive health, dental, and vision coverage",
+    "Professional development and conference budgets",
+    "Unlimited PTO and flexible time off"
+  ]
+}

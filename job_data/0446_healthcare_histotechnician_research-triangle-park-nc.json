@@ -1,0 +1,52 @@
+{
+  "id": "0446",
+  "title": "Histotechnician",
+  "category": "healthcare",
+  "company": "Genentech",
+  "industry": "Biotechnology",
+  "location": {
+    "city": "Research Triangle Park",
+    "state": "NC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-14",
+  "description": "Genentech is seeking a Histotechnician for our Research Triangle Park facility to support cancer and genetic disease research. You'll prepare and analyze tissue samples that advance breakthrough therapies. Work on-site in a cutting-edge research environment.",
+  "responsibilities": [
+    "Prepare tissue specimens for microscopic examination",
+    "Operate histology laboratory equipment and instruments",
+    "Follow standardized protocols and maintain quality standards",
+    "Document specimen information and maintain sample tracking systems",
+    "Support immunohistochemistry and special staining procedures",
+    "Assist with sample analysis and data collection for research projects"
+  ],
+  "requirements": {
+    "education": "High School diploma or Associate's degree in Histology or Medical Laboratory Technology",
+    "experience_years": "1-3",
+    "skills": [
+      "Tissue sample preparation and staining techniques",
+      "Laboratory equipment operation",
+      "Knowledge of histological procedures and protocols",
+      "Attention to detail and accuracy",
+      "Ability to follow complex procedures",
+      "Laboratory safety and quality control awareness"
+    ],
+    "certifications": [
+      "ASCP Histotechnician (HT) certification required or within 12 months"
+    ]
+  },
+  "benefits": [
+    "On-site position at Genentech Research Triangle Park",
+    "Competitive salary and comprehensive benefits",
+    "Health, dental, and vision insurance",
+    "Tuition reimbursement for certification programs",
+    "Access to Genentech's research and development resources"
+  ]
+}

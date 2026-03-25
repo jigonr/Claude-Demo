@@ -1,0 +1,48 @@
+{
+  "id": "0307",
+  "title": "Sales Operations Analyst",
+  "category": "business",
+  "company": "State Farm",
+  "industry": "Insurance",
+  "location": {
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 68000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "State Farm is seeking a Sales Operations Analyst for our Minneapolis regional office. You'll optimize our sales processes, manage customer data, and support our insurance sales teams. Working onsite with a team dedicated to helping customers manage risk, you'll develop valuable expertise in insurance operations and sales management.",
+  "responsibilities": [
+    "Manage customer databases and CRM systems; ensure data accuracy and integrity",
+    "Create sales reports and dashboards tracking pipeline, conversion, and performance metrics",
+    "Analyze sales data to identify trends and recommend process improvements",
+    "Coordinate sales training sessions and process documentation",
+    "Support sales team with commission calculations and incentive program management"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, or related field",
+    "experience_years": "2-3",
+    "skills": [
+      "CRM system management (Salesforce, Microsoft Dynamics, or similar)",
+      "Strong Excel and data analysis capabilities",
+      "Understanding of insurance products or sales processes",
+      "Excellent attention to detail and organizational abilities",
+      "Clear communication and stakeholder management"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Paid time off and paid holidays",
+    "Professional development opportunities",
+    "Onsite workplace with team benefits"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-13"
+}

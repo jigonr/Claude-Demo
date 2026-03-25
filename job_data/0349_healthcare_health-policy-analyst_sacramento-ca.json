@@ -1,0 +1,50 @@
+{
+  "id": "0349",
+  "title": "Health Policy Analyst",
+  "category": "healthcare",
+  "company": "Roche",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 54000,
+    "max": 71000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Roche is a global healthcare leader in diagnostics and pharmaceuticals. We're committed to advancing personalized healthcare across all therapeutic areas.\n\nWe're seeking a Health Policy Analyst to join our Pharmaceuticals team in Sacramento. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Research healthcare policy developments and regulatory changes affecting pharmaceutical market access",
+    "Analyze health economic data to inform evidence-based policy recommendations",
+    "Prepare policy briefs and white papers for stakeholder communication",
+    "Monitor legislative and regulatory activities across federal and state levels",
+    "Collaborate with external policy consultants and healthcare organizations",
+    "Support payer and provider relationship management with policy insights"
+  ],
+  "requirements": {
+    "education": "Master's degree in Public Health, Health Policy, or related field preferred; Bachelor's required",
+    "experience_years": "2-4 years in healthcare policy, health economics, or pharma regulatory affairs",
+    "skills": [
+      "Policy analysis",
+      "Health economics",
+      "Regulatory knowledge",
+      "Writing and communication",
+      "Data analysis"
+    ],
+    "certifications": [
+      "None required; CMS or FDA knowledge a plus"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health coverage",
+    "Professional development fund",
+    "Onsite location in Sacramento",
+    "Retirement plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-23"
+}

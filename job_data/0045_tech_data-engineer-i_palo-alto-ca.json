@@ -1,0 +1,50 @@
+{
+  "id": "0045",
+  "title": "Data Engineer I",
+  "category": "tech",
+  "company": "Ramp",
+  "industry": "Fintech",
+  "location": {
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 105000,
+    "max": 133000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Ramp, the financial automation platform transforming how companies manage expenses, seeks a Data Engineer I to build scalable data infrastructure. Working hybrid in Palo Alto, you'll design data pipelines, manage data warehouses, and enable analytics at scale. Help finance teams make better decisions with real-time data.",
+  "responsibilities": [
+    "Design and build data pipelines using Python and SQL",
+    "Develop ETL processes for financial transaction data",
+    "Manage and optimize data warehouse infrastructure",
+    "Collaborate with analytics and product teams on data requirements",
+    "Monitor data quality and implement validation checks",
+    "Contribute to data architecture improvements and scaling"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Python and SQL for data processing",
+      "Data warehouse technologies (Snowflake, BigQuery, or similar)",
+      "ETL and data pipeline design",
+      "Cloud platforms (AWS, GCP, or Azure)",
+      "Version control and software engineering practices",
+      "Understanding of fintech or financial data (preferred)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary and equity package",
+    "Health, dental, vision, and life insurance",
+    "401(k) with match",
+    "Learning and development budget",
+    "Hybrid flexibility and paid time off"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-18"
+}

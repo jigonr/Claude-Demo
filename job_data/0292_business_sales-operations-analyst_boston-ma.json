@@ -1,0 +1,50 @@
+{
+  "id": "0292",
+  "title": "Sales Operations Analyst",
+  "category": "business",
+  "company": "Goldman Sachs",
+  "industry": "Investment Banking",
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 65000,
+    "max": 85000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Goldman Sachs is seeking a Sales Operations Analyst to optimize revenue operations for our Boston-based institutional sales team. You'll design systems, manage data flows, and drive process improvements that enhance sales effectiveness. This role offers exposure to sophisticated financial systems and the opportunity to work with world-class sales leaders.",
+  "responsibilities": [
+    "Design and maintain Salesforce configurations that align with sales team workflows and reporting requirements",
+    "Build and manage sales dashboards, pipeline reports, and forecast tracking systems",
+    "Analyze sales data to identify trends, opportunities, and operational inefficiencies",
+    "Coordinate system implementations and conduct user training sessions",
+    "Conduct quarterly reviews with sales leadership to assess tool adoption and process effectiveness"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, Computer Science, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Salesforce administration and advanced configuration",
+      "SQL and Excel for data analysis and reporting",
+      "Understanding of sales processes and metrics",
+      "Problem-solving and process design abilities",
+      "Strong stakeholder communication skills"
+    ],
+    "certifications": [
+      "Salesforce Administrator or Advanced Administrator certification (required)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and performance bonus",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with generous match",
+    "Professional development opportunities",
+    "Remote work flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-17"
+}

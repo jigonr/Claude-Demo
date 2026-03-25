@@ -1,0 +1,52 @@
+{
+  "id": "0193",
+  "title": "Recruiting Coordinator",
+  "category": "business",
+  "company": "Honeywell",
+  "industry": "Industrial",
+  "location": {
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 40000,
+    "max": 54000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Recruiting Coordinator at Honeywell. This is an exciting opportunity to join our engineering-focused, global, innovation-oriented team and make a direct impact on our mission. If you have 0-2 years years of experience and are passionate about Industrial, we'd love to hear from you.",
+  "responsibilities": [
+    "Contribute to team projects and strategic initiatives",
+    "Collaborate with cross-functional teams on deliverables",
+    "Support management with analysis and reporting",
+    "Identify process improvements and efficiency opportunities",
+    "Maintain accurate documentation and records",
+    "Participate in professional development and training activities"
+  ],
+  "requirements": {
+    "education": "High School Diploma or equivalent",
+    "experience_years": "0-2 years",
+    "skills": [
+      "Recruitment",
+      "Job posting",
+      "Applicant tracking",
+      "Candidate screening",
+      "Communication"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule",
+    "Career development opportunities",
+    "Employee recognition programs",
+    "Community involvement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-22"
+}

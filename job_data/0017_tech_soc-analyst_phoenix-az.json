@@ -1,0 +1,52 @@
+{
+  "id": "0017",
+  "title": "SOC Analyst",
+  "category": "tech",
+  "company": "Confluent",
+  "industry": "Data Streaming",
+  "location": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 67000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Confluent, the data streaming platform company, seeks a SOC Analyst to monitor and secure our infrastructure and customer environments. Working onsite in Phoenix, you'll detect security incidents, respond to alerts, and protect the platform trusted by thousands of enterprises. Grow your security career in a dynamic environment where data streaming security is critical.",
+  "responsibilities": [
+    "Monitor security alerts and investigate suspicious activity in real-time",
+    "Analyze logs and network traffic to identify anomalies and threats",
+    "Respond to and escalate security incidents according to procedures",
+    "Document incidents and maintain audit trails",
+    "Collaborate with engineering teams on security improvements",
+    "Participate in security drills and incident response exercises"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Cybersecurity, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Security monitoring and SIEM tools",
+      "Network and systems knowledge",
+      "Log analysis and troubleshooting",
+      "Incident response procedures",
+      "Attention to detail and pattern recognition",
+      "Linux and basic scripting (Python or Bash preferred)"
+    ],
+    "certifications": [
+      "CompTIA Security+ or similar entry-level security certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Security training and certification support",
+    "Onsite free meals and beverages",
+    "Flexible paid time off"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-07"
+}

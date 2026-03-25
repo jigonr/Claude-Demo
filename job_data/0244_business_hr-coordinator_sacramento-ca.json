@@ -1,0 +1,50 @@
+{
+  "id": "0244",
+  "title": "HR Coordinator",
+  "category": "business",
+  "company": "Costco",
+  "industry": "Retail",
+  "location": {
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 60000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Costco, known for treating employees exceptionally well, seeks an HR Coordinator for our Sacramento facility. Working hybrid, you'll support recruitment, onboarding, employee relations, and HR operations. Join an organization that values its employees and offers clear advancement opportunities.",
+  "responsibilities": [
+    "Support recruiting efforts including job postings and candidate screening",
+    "Coordinate new employee onboarding and orientation programs",
+    "Maintain personnel records and ensure HRIS system accuracy",
+    "Process employee paperwork including benefits and payroll updates",
+    "Assist with employee relations matters and conflict resolution",
+    "Support compliance with employment laws and company policies"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; Associate degree in HR or related field preferred",
+    "experience_years": "1-3",
+    "skills": [
+      "Human resources fundamentals and employment law",
+      "Organizational and administrative skills",
+      "Customer service and interpersonal communication",
+      "HRIS and Microsoft Office proficiency",
+      "Attention to detail and confidentiality",
+      "Problem-solving and multitasking ability"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision insurance",
+    "401(k) with company match",
+    "Employee discount on Costco merchandise",
+    "Paid time off and shift flexibility",
+    "Advancement opportunities within HR"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-03"
+}

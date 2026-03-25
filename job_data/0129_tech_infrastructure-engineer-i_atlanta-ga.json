@@ -1,0 +1,50 @@
+{
+  "id": "0129",
+  "title": "Infrastructure Engineer I",
+  "category": "tech",
+  "company": "Salesforce",
+  "industry": "CRM",
+  "location": {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 68000,
+    "max": 87000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Salesforce, the world's leading CRM platform, seeks an Infrastructure Engineer I to support our cloud operations at scale. Working hybrid in Atlanta, you'll manage servers, troubleshoot infrastructure issues, and contribute to system reliability. Help power the platform serving millions of Salesforce customers globally.",
+  "responsibilities": [
+    "Monitor and maintain cloud infrastructure and server systems",
+    "Troubleshoot infrastructure and networking issues",
+    "Implement infrastructure automation and monitoring tools",
+    "Support infrastructure deployments and migrations",
+    "Collaborate with teams on capacity planning and optimization",
+    "Maintain documentation and runbooks for infrastructure"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Cloud infrastructure (AWS, Azure, or Google Cloud)",
+      "Linux/Unix system administration",
+      "Networking fundamentals and TCP/IP",
+      "Monitoring and alerting tools",
+      "Infrastructure automation and IaC",
+      "Shell scripting (Bash or Python)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, vision, and life insurance",
+    "401(k) with company match",
+    "Tuition reimbursement and learning budget",
+    "Hybrid work flexibility",
+    "Employee benefits including equipment and wellness"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-08"
+}

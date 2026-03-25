@@ -1,0 +1,48 @@
+{
+  "id": "0302",
+  "title": "Marketing Coordinator",
+  "category": "business",
+  "company": "PepsiCo",
+  "industry": "Food & Beverage",
+  "location": {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 60000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "PepsiCo is seeking a Marketing Coordinator to support our North American regional marketing operations in Chicago. You'll coordinate campaigns, manage marketing assets, and collaborate with cross-functional teams to bring our brands to market. This role offers exposure to marketing strategy and execution at a Fortune 500 company.",
+  "responsibilities": [
+    "Coordinate marketing campaigns from concept through execution, managing timelines and deliverables",
+    "Organize and maintain marketing asset libraries, ensuring accessibility and brand compliance",
+    "Assist with event planning, promotional activities, and brand activation initiatives",
+    "Track marketing metrics and compile reporting data for leadership review",
+    "Support market research and competitive analysis activities"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, Communications, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Project management and strong organizational abilities",
+      "Proficiency with Microsoft Office and marketing software",
+      "Strong written and verbal communication skills",
+      "Creativity and attention to brand guidelines",
+      "Ability to manage multiple projects simultaneously"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Paid time off and paid holidays",
+    "Marketing training and professional development",
+    "Tuition reimbursement for job-related courses"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-16"
+}

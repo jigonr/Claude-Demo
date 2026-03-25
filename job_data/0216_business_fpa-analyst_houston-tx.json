@@ -1,0 +1,52 @@
+{
+  "id": "0216",
+  "title": "FP&A Analyst",
+  "category": "business",
+  "company": "Fidelity Investments",
+  "industry": "Asset Management",
+  "location": {
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 61000,
+    "max": 77000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Fidelity is a diversified financial services leader managing $13.3T in assets globally with trusted expertise since 1946. As an FP&A Analyst, you'll provide financial analysis driving strategic planning.",
+  "responsibilities": [
+    "Build financial models for strategic planning and forecasting",
+    "Analyze actuals vs. budget and identify variances",
+    "Support annual budgeting and quarterly reforecasting cycles",
+    "Create financial analyses supporting investment decisions",
+    "Present findings to CFO and management team",
+    "Maintain financial data integrity and consolidation systems"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Accounting, or Business Administration",
+    "experience_years": "2-4 years of financial planning, analysis, or corporate finance experience",
+    "skills": [
+      "Financial modeling",
+      "Forecasting",
+      "Variance analysis",
+      "Excel",
+      "Business acumen"
+    ],
+    "certifications": [
+      "CFA (preferred)",
+      "FP&A certification"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health and wellness benefits",
+    "401(k) retirement savings plan with matching",
+    "Paid vacation, holidays, and personal days",
+    "Career advancement and training opportunities",
+    "Employee recognition and incentive programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-20"
+}

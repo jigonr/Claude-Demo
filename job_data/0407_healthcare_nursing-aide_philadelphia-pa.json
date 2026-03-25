@@ -1,0 +1,51 @@
+{
+  "id": "0407",
+  "title": "Nursing Aide",
+  "category": "healthcare",
+  "company": "Pfizer",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 30000,
+    "max": 40000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Pfizer is one of the world's largest biopharmaceutical companies, developing medicines that save and improve lives across therapeutic areas.\n\nWe're seeking a Nursing Aide to join our Pharmaceuticals team in Philadelphia. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Provide direct patient care including hygiene, toileting, and mobility assistance",
+    "Monitor and report patient condition changes to nursing staff",
+    "Maintain clean, safe patient environments and equipment",
+    "Take vital signs and document findings in electronic health records",
+    "Support nursing staff with clinical procedures and patient comfort measures",
+    "Communicate compassionately with patients and families"
+  ],
+  "requirements": {
+    "education": "High school diploma; Nursing Aide certification (CNA) required",
+    "experience_years": "0-2 years of patient care or healthcare support experience",
+    "skills": [
+      "Patient care",
+      "Communication",
+      "Attention to detail",
+      "Empathy",
+      "Physical stamina"
+    ],
+    "certifications": [
+      "Certified Nursing Assistant (CNA)",
+      "BLS/CPR"
+    ]
+  },
+  "benefits": [
+    "Tuition reimbursement for RN programs",
+    "Health insurance",
+    "Employee wellness program",
+    "Shift differentials"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-18"
+}

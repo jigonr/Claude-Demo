@@ -1,0 +1,50 @@
+{
+  "id": "0322",
+  "title": "Client Services Coordinator",
+  "category": "business",
+  "company": "Marsh McLennan",
+  "industry": "Risk Management",
+  "location": {
+    "city": "Baltimore",
+    "state": "MD",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Marsh McLennan is a leader in risk, strategy, and human capital consulting, serving Fortune 500 companies globally.\n\nWe're seeking a Client Services Coordinator to join our Risk Management team in Baltimore. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Serve as primary point of contact for client inquiries and service requests",
+    "Coordinate with internal teams to ensure timely resolution of client issues",
+    "Maintain client relationships and support contract renewals",
+    "Prepare client reports and communication materials",
+    "Track client satisfaction and identify opportunities for service improvement",
+    "Manage administrative tasks related to client onboarding and offboarding"
+  ],
+  "requirements": {
+    "education": "High school diploma or Associate's degree in Business or related field",
+    "experience_years": "1-3 years in customer service, account coordination, or administrative support",
+    "skills": [
+      "Customer service",
+      "Communication",
+      "Organization",
+      "CRM systems",
+      "Problem-solving"
+    ],
+    "certifications": [
+      "None required; certification in client service appreciated"
+    ]
+  },
+  "benefits": [
+    "Hybrid work arrangement",
+    "Health and dental insurance",
+    "401(k) matching",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-15"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0297",
+  "title": "Business Development Representative",
+  "category": "business",
+  "company": "Travelers",
+  "industry": "Insurance",
+  "location": {
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 38000,
+    "max": 51000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Travelers Insurance is seeking a Business Development Representative to identify and cultivate new business opportunities in the Indianapolis market. You'll build relationships with prospects, qualify leads, and support our growth strategy. This hybrid role combines sales, relationship management, and strategic thinking.",
+  "responsibilities": [
+    "Identify and prospect new business opportunities in assigned territory; conduct outreach via phone, email, and in-person meetings",
+    "Qualify leads based on pain points and fit with Travelers' products and services",
+    "Build relationships with prospects and referral sources; maintain database of opportunities",
+    "Present Travelers' products and solutions; coordinate proposals and quotes with internal teams",
+    "Track pipeline and report on business development activities; achieve quarterly growth targets"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Sales, Marketing, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Sales and prospecting",
+      "Relationship building",
+      "CRM systems",
+      "Communication and presentation",
+      "Insurance knowledge (preferred)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Base salary + commission and performance bonuses",
+    "Health, dental, vision coverage",
+    "401(k) with match",
+    "Paid time off (14 days)",
+    "Sales training and development"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-07"
+}

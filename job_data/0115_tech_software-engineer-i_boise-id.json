@@ -1,0 +1,47 @@
+{
+  "id": "0115",
+  "title": "Software Engineer I",
+  "category": "tech",
+  "company": "Rippling",
+  "industry": "HR Tech",
+  "location": {
+    "city": "Boise",
+    "state": "ID",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 63000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Rippling is building the one app your company runs on. We're creating an all-in-one platform that manages everything from payroll and benefits to IT and security. Our mission is to eliminate the chaos of work infrastructure. We're hiring a Software Engineer I to join our Boise office and help us build the next generation of HR technology.",
+  "responsibilities": [
+    "Build and maintain backend services for our core platform using Python and Go",
+    "Collaborate with product managers and designers to turn requirements into scalable solutions",
+    "Participate in code reviews and contribute to raising engineering standards",
+    "Write clear, testable code with comprehensive documentation",
+    "Debug production issues and implement monitoring/alerting improvements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "experience_years": "0-2",
+    "skills": [
+      "Python or Go",
+      "SQL and relational databases",
+      "Git and version control",
+      "API design and REST principles",
+      "Unit testing and testing frameworks"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive equity package with meaningful upside",
+    "Medical, dental, and vision coverage (100% company-paid for employee)",
+    "Unlimited PTO plus 10 company holidays",
+    "Learning budget and conference attendance support"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-25"
+}

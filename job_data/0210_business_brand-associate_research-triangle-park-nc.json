@@ -1,0 +1,50 @@
+{
+  "id": "0210",
+  "title": "Brand Associate",
+  "category": "business",
+  "company": "McKinsey",
+  "industry": "Management Consulting",
+  "location": {
+    "city": "Research Triangle Park",
+    "state": "NC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "McKinsey & Company is a leading global management consulting firm advising C-suite executives at Fortune 500 companies.\n\nWe're seeking a Brand Associate to join our Management Consulting team in Research Triangle Park. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Support brand strategy and marketing initiatives",
+    "Analyze brand performance metrics and market research data",
+    "Develop marketing materials and communication content",
+    "Coordinate brand compliance and messaging across channels",
+    "Support client engagement and relationship management",
+    "Assist with brand positioning and competitive differentiation"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Marketing, Communications, or related field",
+    "experience_years": "1-2 years in brand management, marketing, or consulting",
+    "skills": [
+      "Brand strategy knowledge",
+      "Marketing analysis",
+      "Communication",
+      "Attention to detail",
+      "Project management"
+    ],
+    "certifications": [
+      "None required"
+    ]
+  },
+  "benefits": [
+    "Onsite work in Research Triangle Park",
+    "Competitive salary",
+    "Professional development budget",
+    "Health and wellness coverage"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-19"
+}

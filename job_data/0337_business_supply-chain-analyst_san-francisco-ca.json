@@ -1,0 +1,49 @@
+{
+  "id": "0337",
+  "title": "Supply Chain Analyst",
+  "category": "business",
+  "company": "Under Armour",
+  "industry": "Apparel",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 72000,
+    "max": 95000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Under Armour seeks a Supply Chain Analyst to optimize procurement and supply chain operations supporting global growth.",
+  "responsibilities": [
+    "Analyze supply chain metrics and identify optimization opportunities",
+    "Develop supplier relationships and manage negotiations",
+    "Forecast demand and optimize inventory management",
+    "Create supply chain reports and dashboards",
+    "Support cost reduction initiatives and process improvements",
+    "Collaborate with operations and product teams"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "2-5",
+    "skills": [
+      "Supply chain",
+      "Data analysis",
+      "Excel",
+      "Supplier management",
+      "Process improvement"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive compensation package",
+    "Health, dental, and vision coverage",
+    "401(k) or retirement benefits",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-10"
+}

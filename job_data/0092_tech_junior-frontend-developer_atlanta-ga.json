@@ -1,0 +1,53 @@
+{
+  "id": "0092",
+  "title": "Junior Frontend Developer",
+  "category": "tech",
+  "company": "Atlassian",
+  "industry": "Collaboration",
+  "location": {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 66000,
+    "max": 85000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Junior Frontend Developer at Atlassian. This is an exciting opportunity to join our open, team-focused, transparent team and make a direct impact on our mission. If you have 0-2 years years of experience and are passionate about Collaboration, we'd love to hear from you.",
+  "responsibilities": [
+    "Build responsive and performant user interfaces using React and modern web technologies",
+    "Collaborate with product and design teams to translate mockups into functional code",
+    "Optimize application performance through code splitting and efficient rendering",
+    "Write unit and integration tests ensuring code quality and reliability",
+    "Implement analytics and monitoring to track user behavior and application health",
+    "Participate in code reviews and contribute to frontend best practices documentation"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience_years": "0-2 years",
+    "skills": [
+      "JavaScript/TypeScript",
+      "React",
+      "HTML/CSS",
+      "Git",
+      "REST APIs",
+      "Testing"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule and remote work options",
+    "Stock options or equity compensation",
+    "Wellness programs and gym membership reimbursement",
+    "Product discounts and free subscriptions"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-15"
+}

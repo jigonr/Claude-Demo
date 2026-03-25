@@ -1,0 +1,49 @@
+{
+  "id": "0219",
+  "title": "Program Associate",
+  "category": "business",
+  "company": "Morgan Stanley",
+  "industry": "Investment Banking",
+  "location": {
+    "city": "Madison",
+    "state": "WI",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Morgan Stanley is a leading global financial services firm serving institutional and individual clients worldwide.\n\nWe're seeking a Program Associate to join our Investment Banking team in Madison. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Perform primary duties related to program associate",
+    "Collaborate with team members to achieve goals",
+    "Maintain high quality standards in all work",
+    "Support organizational objectives and initiatives",
+    "Participate in continuous improvement efforts",
+    "Ensure compliance with relevant policies and procedures"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree preferred",
+    "experience_years": "1-2 years of relevant experience",
+    "skills": [
+      "Communication",
+      "Problem-solving",
+      "Teamwork",
+      "Attention to detail"
+    ],
+    "certifications": [
+      "None required"
+    ]
+  },
+  "benefits": [
+    "Health insurance",
+    "Retirement plan",
+    "Professional development",
+    "Competitive salary"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-08"
+}

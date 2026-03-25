@@ -1,0 +1,48 @@
+{
+  "id": "0286",
+  "title": "Tax Analyst",
+  "category": "business",
+  "company": "Nike",
+  "industry": "Apparel",
+  "location": {
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 57000,
+    "max": 73000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Nike is seeking a Tax Analyst to support tax compliance and planning initiatives. You'll prepare tax documents, research tax positions, and ensure compliance with federal and state tax regulations. Work hybrid in Sacramento and contribute to Nike's global tax strategy.",
+  "responsibilities": [
+    "Prepare and review tax returns and supporting schedules",
+    "Conduct tax research on complex compliance matters",
+    "Calculate and document tax provisions and accruals",
+    "Monitor changes in tax law and recommend policy updates",
+    "Support tax audits and provide documentation as needed"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Accounting, Finance, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Federal and state tax knowledge",
+      "Tax software and research tools",
+      "Advanced Excel modeling",
+      "Attention to detail and accuracy",
+      "Understanding of corporate tax structures"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Flexible hybrid schedule",
+    "Professional development and CPA exam support"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-04"
+}

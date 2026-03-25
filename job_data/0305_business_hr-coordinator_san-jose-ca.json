@@ -1,0 +1,50 @@
+{
+  "id": "0305",
+  "title": "HR Coordinator",
+  "category": "business",
+  "company": "Raytheon",
+  "industry": "Defense",
+  "location": {
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 60000,
+    "max": 78000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Raytheon is a major aerospace and defense contractor supplying technology to government and commercial customers globally.\n\nWe're seeking a HR Coordinator to join our Defense team in San Jose. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Support employee recruitment, onboarding, and offboarding processes",
+    "Maintain personnel files and ensure compliance with HR regulations",
+    "Coordinate benefits administration and employee relations activities",
+    "Prepare HR reports and maintain HRIS database",
+    "Assist with employee engagement initiatives and training programs",
+    "Support payroll and tax compliance activities"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Human Resources, Business, or related field",
+    "experience_years": "1-3 years in HR operations, HR administration, or recruiting",
+    "skills": [
+      "HRIS systems",
+      "HR regulations",
+      "Attention to detail",
+      "Communication",
+      "Organization"
+    ],
+    "certifications": [
+      "SHRM-CP preferred"
+    ]
+  },
+  "benefits": [
+    "Hybrid work arrangement in San Jose",
+    "Health and dental coverage",
+    "401(k) matching",
+    "Professional development budget"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-01"
+}

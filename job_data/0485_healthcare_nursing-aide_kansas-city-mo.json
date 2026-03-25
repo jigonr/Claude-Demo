@@ -1,0 +1,55 @@
+{
+  "id": "0485",
+  "title": "Nursing Aide",
+  "category": "healthcare",
+  "company": "Sanofi",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 25000,
+    "max": 34000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Nursing Aide at Sanofi. This is an exciting opportunity to join our regulated, quality-focused, international team and make a direct impact on our mission. If you have 0-2 years years of experience and are passionate about Pharmaceuticals, we'd love to hear from you.",
+  "responsibilities": [
+    "Contribute to team projects and strategic initiatives",
+    "Collaborate with cross-functional teams on deliverables",
+    "Support management with analysis and reporting",
+    "Identify process improvements and efficiency opportunities",
+    "Maintain accurate documentation and records",
+    "Participate in professional development and training activities"
+  ],
+  "requirements": {
+    "education": "High School Diploma or GED",
+    "experience_years": "0-2 years",
+    "skills": [
+      "Patient care",
+      "Compassion",
+      "Communication",
+      "Medical terminology",
+      "Basic computer skills"
+    ],
+    "certifications": [
+      "Certified Nursing Assistant (CNA)",
+      "CPR/BLS"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Employee wellness programs",
+    "Tuition reimbursement",
+    "On-site health services",
+    "Charitable giving match program"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-23"
+}

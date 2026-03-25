@@ -1,0 +1,50 @@
+{
+  "id": "0220",
+  "title": "Commercial Appraiser",
+  "category": "business",
+  "company": "Johnson & Johnson",
+  "industry": "Consumer Health",
+  "location": {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Johnson & Johnson is seeking a Commercial Appraiser to assess property value for our real estate portfolio. You'll conduct appraisals, research market conditions, and develop valuation reports. Work remotely for a diversified healthcare company managing a global portfolio of facilities.",
+  "responsibilities": [
+    "Conduct commercial property appraisals following industry standards",
+    "Research market conditions and comparable property sales",
+    "Analyze property characteristics and prepare valuation reports",
+    "Maintain current knowledge of real estate laws and regulations",
+    "Document findings and support property transactions"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, or Real Estate",
+    "experience_years": "0-2",
+    "skills": [
+      "Real estate valuation methods",
+      "Commercial property analysis",
+      "Strong research and analytical skills",
+      "Attention to detail and accuracy",
+      "Proficiency with appraisal software"
+    ],
+    "certifications": [
+      "State appraiser license (or eligible)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Remote work flexibility",
+    "Professional certification support"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-03"
+}

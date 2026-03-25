@@ -1,0 +1,48 @@
+{
+  "id": "0122",
+  "title": "Mobile Developer",
+  "category": "tech",
+  "company": "Mixpanel",
+  "industry": "Analytics",
+  "location": {
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 72000,
+    "max": 92000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Mixpanel is seeking a Mobile Developer to build analytics experiences on iOS and Android. Based in Minneapolis, you'll develop mobile SDKs and applications that help customers understand user behavior at scale. This onsite role offers the opportunity to work on products used by millions of developers worldwide.",
+  "responsibilities": [
+    "Develop and maintain iOS and Android applications; build responsive, performant mobile experiences",
+    "Create and improve mobile SDKs that integrate with Mixpanel's analytics platform",
+    "Collaborate with product and backend teams to design features and APIs",
+    "Write unit tests and maintain high code quality standards across the codebase",
+    "Debug mobile performance issues and optimize app for various devices and network conditions"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Swift or Kotlin",
+      "Mobile app development (iOS/Android)",
+      "REST APIs and networking",
+      "Git and version control",
+      "Testing and debugging tools"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + equity",
+    "Health, dental, vision coverage",
+    "401(k) with match",
+    "$1,500/year professional development",
+    "Casual dress code and flexible hours"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-09"
+}

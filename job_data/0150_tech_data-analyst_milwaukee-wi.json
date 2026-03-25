@@ -1,0 +1,52 @@
+{
+  "id": "0150",
+  "title": "Data Analyst",
+  "category": "tech",
+  "company": "ServiceNow",
+  "industry": "IT Management",
+  "location": {
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 49000,
+    "max": 63000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "ServiceNow is the platform of choice for digital transformation across the Fortune 500. Our cloud-native workflow engine processes billions of transactions daily. As a Data Analyst, you'll extract insights from massive datasets driving product and business decisions.",
+  "responsibilities": [
+    "Analyze product usage data to identify trends and patterns",
+    "Create reports and dashboards for business stakeholders",
+    "Perform ad-hoc data queries and investigations",
+    "Support metrics development and KPI tracking",
+    "Validate data quality and document data sources",
+    "Present findings and recommendations to leadership"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Data Science, Statistics, Computer Science, or related field",
+    "experience_years": "2-3 years of data analysis, business intelligence, or analytics experience",
+    "skills": [
+      "SQL",
+      "Python/R",
+      "Data visualization",
+      "Excel",
+      "Statistical analysis"
+    ],
+    "certifications": [
+      "Google Analytics certification",
+      "Tableau"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health and wellness benefits",
+    "401(k) retirement savings plan with matching",
+    "Paid vacation, holidays, and personal days",
+    "Career advancement and training opportunities",
+    "Employee recognition and incentive programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-15"
+}

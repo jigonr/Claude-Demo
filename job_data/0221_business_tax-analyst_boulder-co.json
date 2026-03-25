@@ -1,0 +1,50 @@
+{
+  "id": "0221",
+  "title": "Tax Analyst",
+  "category": "business",
+  "company": "FedEx",
+  "industry": "Logistics",
+  "location": {
+    "city": "Boulder",
+    "state": "CO",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 60000,
+    "max": 77000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "FedEx, the world's leading logistics company, seeks a Tax Analyst to support our corporate tax strategy. Working remotely from Boulder, you'll research tax regulations, prepare compliance filings, and analyze tax implications for logistics operations across multiple states. Build expertise in complex multistate tax issues while supporting one of the world's largest transportation companies.",
+  "responsibilities": [
+    "Research and analyze federal and state tax regulations relevant to logistics",
+    "Prepare corporate income tax returns and supporting schedules",
+    "Conduct tax provision analysis and estimate quarterly tax payments",
+    "Support tax planning initiatives and identify optimization opportunities",
+    "Maintain tax compliance calendars and coordinate filing deadlines",
+    "Collaborate with external tax advisors and accounting firms"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Accounting, Finance, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Federal and state income tax knowledge",
+      "Tax research and analysis",
+      "Excel and tax preparation software proficiency",
+      "Attention to detail and accuracy",
+      "Project management and organizational skills",
+      "Understanding of multistate tax issues"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Fully remote position",
+    "Health, dental, vision, and wellness coverage",
+    "401(k) with company match",
+    "Tuition reimbursement and continuing education",
+    "Flexible work schedule"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-04"
+}

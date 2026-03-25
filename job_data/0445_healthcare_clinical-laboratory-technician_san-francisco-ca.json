@@ -1,0 +1,50 @@
+{
+  "id": "0445",
+  "title": "Clinical Laboratory Technician",
+  "category": "healthcare",
+  "company": "Providence Health",
+  "industry": "Hospital System",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 62000,
+    "max": 81000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Providence Health is seeking a Clinical Laboratory Technician to perform laboratory testing that helps drive patient care decisions. You'll analyze blood and tissue samples, operate laboratory equipment, and maintain quality standards. Work hybrid in San Francisco for a leading health system dedicated to patient care and community health.",
+  "responsibilities": [
+    "Collect and process laboratory specimens following proper protocols",
+    "Operate and maintain laboratory analyzers and equipment",
+    "Perform hematology, chemistry, and immunology testing",
+    "Ensure quality control and accuracy of test results",
+    "Maintain detailed laboratory records and documentation"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Clinical Laboratory Science or Medical Technology",
+    "experience_years": "0-2",
+    "skills": [
+      "Clinical laboratory testing procedures",
+      "Laboratory equipment operation and maintenance",
+      "Strong attention to detail and accuracy",
+      "HIPAA compliance and patient confidentiality",
+      "Ability to work in fast-paced environment"
+    ],
+    "certifications": [
+      "CLT or MT certification"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with employer match",
+    "Flexible hybrid schedule",
+    "Continuing education and professional development"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-11"
+}

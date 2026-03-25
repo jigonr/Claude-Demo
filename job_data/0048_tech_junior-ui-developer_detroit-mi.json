@@ -1,0 +1,48 @@
+{
+  "id": "0048",
+  "title": "Junior UI Developer",
+  "category": "tech",
+  "company": "Fastly",
+  "industry": "Edge Computing",
+  "location": {
+    "city": "Detroit",
+    "state": "MI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 57000,
+    "max": 74000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Fastly is hiring a Junior UI Developer to build beautiful, performant user interfaces for our edge computing platform. Based in Detroit with hybrid flexibility, you'll collaborate with designers and backend engineers to create experiences that delight users. This role offers mentorship and clear pathways for frontend growth.",
+  "responsibilities": [
+    "Develop responsive web interfaces using modern frameworks (React, Vue, or similar)",
+    "Collaborate with designers to implement UI designs; ensure pixel-perfect implementations",
+    "Optimize frontend performance; identify and fix rendering and load time issues",
+    "Write clean, maintainable code; participate in code reviews and contribute to best practices",
+    "Test UI across browsers and devices; fix bugs and ensure cross-platform compatibility"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field, or equivalent experience",
+    "experience_years": "0-2",
+    "skills": [
+      "HTML, CSS, and JavaScript",
+      "React or similar framework",
+      "Git and version control",
+      "Responsive design principles",
+      "Browser developer tools"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + equity",
+    "Health, dental, vision coverage",
+    "401(k) with match",
+    "$1,000/year learning budget",
+    "Flexible work hours and hybrid options"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-04"
+}

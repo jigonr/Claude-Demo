@@ -1,0 +1,51 @@
+{
+  "id": "0356",
+  "title": "Phlebotomy Technician",
+  "category": "healthcare",
+  "company": "Abbott Laboratories",
+  "industry": "Medical Devices",
+  "location": {
+    "city": "Irvine",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 36000,
+    "max": 48000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Abbott is a diversified global healthcare company with leading diagnostics, medical devices, and nutrition franchises serving patients worldwide.\n\nWe're seeking a Phlebotomy Technician to join our Medical Devices team in Irvine. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Perform blood draws using proper phlebotomy techniques and infection control standards",
+    "Ensure specimen collection, labeling, and handling comply with laboratory standards",
+    "Interact professionally with patients to ease discomfort and address concerns",
+    "Maintain accurate records of specimens and testing results",
+    "Maintain equipment, supplies, and clean work environment",
+    "Follow OSHA and CLIA regulations for bloodborne pathogen safety"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; phlebotomy certification required",
+    "experience_years": "0-2 years of phlebotomy or laboratory specimen collection experience",
+    "skills": [
+      "Venipuncture techniques",
+      "Specimen handling",
+      "Patient communication",
+      "Attention to detail",
+      "Manual dexterity"
+    ],
+    "certifications": [
+      "Phlebotomy Technician Certification (ASCP or AABB)",
+      "BLS/CPR"
+    ]
+  },
+  "benefits": [
+    "Health insurance starting day one",
+    "Continuing education support",
+    "Shift differentials",
+    "Tuition reimbursement for further education"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-15"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0260",
+  "title": "Bookkeeper",
+  "category": "business",
+  "company": "Deloitte",
+  "industry": "Professional Services",
+  "location": {
+    "city": "Richmond",
+    "state": "VA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 34000,
+    "max": 45000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Deloitte, a global consulting powerhouse, seeks a Bookkeeper for our Richmond office to support internal financial operations and client engagements. You'll process transactions, maintain general ledgers, and reconcile accounts. Work onsite while gaining experience in a world-class professional services firm.",
+  "responsibilities": [
+    "Process accounts payable and accounts receivable transactions",
+    "Maintain general ledger accounts and reconcile to supporting documentation",
+    "Prepare bank reconciliations and cash management reports",
+    "Assist with monthly close procedures and variance analysis",
+    "Prepare financial reports and documentation for external auditors",
+    "Support expense management and billing processes"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; Associate degree in Accounting preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Bookkeeping and accounting fundamentals",
+      "Proficiency in Excel and accounting software",
+      "Attention to detail and accuracy",
+      "Organization and time management",
+      "Bank reconciliation and transaction processing",
+      "Basic understanding of GAAP principles"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision insurance",
+    "401(k) with company match",
+    "Tuition reimbursement and professional development",
+    "Onsite dining and fitness facilities",
+    "Career development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-03"
+}

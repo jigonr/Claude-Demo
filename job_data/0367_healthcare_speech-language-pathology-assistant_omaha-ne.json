@@ -1,0 +1,50 @@
+{
+  "id": "0367",
+  "title": "Speech-Language Pathology Assistant",
+  "category": "healthcare",
+  "company": "Pfizer",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Omaha",
+    "state": "NE",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 40000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Pfizer is seeking a Speech-Language Pathology Assistant to support therapeutic services and patient care. You'll assist with patient assessments, deliver therapeutic activities under supervision, and maintain patient records. Work onsite in Omaha for a biopharmaceutical company dedicated to breakthrough innovation.",
+  "responsibilities": [
+    "Assist speech-language pathologists with patient assessments and treatment",
+    "Implement therapeutic activities and exercises with patients",
+    "Maintain accurate patient treatment records and documentation",
+    "Prepare treatment materials and organize therapy spaces",
+    "Support patient motivation and therapeutic goals under supervision"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; SLP assistant certificate or coursework preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Patient communication and empathy",
+      "Speech pathology terminology and basics",
+      "Ability to follow clinical protocols",
+      "Organizational and documentation skills",
+      "Patience and ability to motivate patients"
+    ],
+    "certifications": [
+      "SLPA certification (or eligible)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "On-site training and development",
+    "Career advancement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-12"
+}

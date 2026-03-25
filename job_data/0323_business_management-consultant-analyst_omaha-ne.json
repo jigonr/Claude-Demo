@@ -1,0 +1,50 @@
+{
+  "id": "0323",
+  "title": "Management Consultant Analyst",
+  "category": "business",
+  "company": "Target",
+  "industry": "Retail",
+  "location": {
+    "city": "Omaha",
+    "state": "NE",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 56000,
+    "max": 72000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Target operates 1,900+ stores across the U.S. and serves guests through Target.com. We're committed to inclusive retail innovation.\n\nWe're seeking a Management Consultant Analyst to join our Retail team in Omaha. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Support management consulting projects with research and analysis",
+    "Develop financial models and business case analyses",
+    "Conduct market research and competitive analysis",
+    "Create presentation materials and executive summaries",
+    "Support client meetings and deliverable development",
+    "Contribute to process improvement and operational efficiency projects"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Economics, Finance, or related field",
+    "experience_years": "1-2 years in consulting, strategy, or business analysis",
+    "skills": [
+      "Financial modeling (Excel)",
+      "Business analysis",
+      "Presentation skills",
+      "Communication",
+      "Problem-solving"
+    ],
+    "certifications": [
+      "None required; consulting certifications appreciated"
+    ]
+  },
+  "benefits": [
+    "Onsite work in Omaha",
+    "Competitive salary and performance bonus",
+    "Professional development fund",
+    "Comprehensive benefits"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-15"
+}

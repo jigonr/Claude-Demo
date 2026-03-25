@@ -1,0 +1,50 @@
+{
+  "id": "0275",
+  "title": "Benefits Coordinator",
+  "category": "business",
+  "company": "Capital One",
+  "industry": "Banking",
+  "location": {
+    "city": "Research Triangle Park",
+    "state": "NC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-21",
+  "description": "Capital One is hiring a Benefits Coordinator to manage employee benefits programs, process benefits enrollments, and provide benefits education to our Research Triangle Park workforce. You will be the primary point of contact for employees with benefits questions, manage vendor relationships, and ensure compliance with benefits regulations.",
+  "responsibilities": [
+    "Coordinate annual open enrollment and manage enrollment administration",
+    "Process benefits applications and maintain accurate benefits records",
+    "Answer employee questions about health insurance, retirement, and other benefits",
+    "Prepare benefits communications and education materials",
+    "Reconcile benefits invoices and process payments to carriers",
+    "Ensure compliance with benefits regulations and audit requirements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Human Resources, Business, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Benefits administration and HRIS systems",
+      "Employee communication and customer service",
+      "Attention to detail and accuracy",
+      "Understanding of benefits regulations (ERISA, ACA)",
+      "Data management and record keeping"
+    ],
+    "certifications": [
+      "None required; PHR or SHRM-CP preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and performance bonus",
+    "Comprehensive health, dental, and vision coverage",
+    "Capital One retirement savings plan with match",
+    "Tuition reimbursement and professional development"
+  ]
+}

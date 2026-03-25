@@ -1,0 +1,50 @@
+{
+  "id": "0084",
+  "title": "SOC Analyst",
+  "category": "tech",
+  "company": "Monday.com",
+  "industry": "Work Management",
+  "location": {
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 78000,
+    "max": 101000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Monday.com is seeking a SOC (Security Operations Center) Analyst to protect our platform and customer data. You'll monitor security events, respond to incidents, and implement preventative measures across our infrastructure. Work onsite in NYC for a rapidly scaling SaaS company powering work management globally.",
+  "responsibilities": [
+    "Monitor security alerts and investigate suspicious activities",
+    "Respond to and contain security incidents with proper escalation",
+    "Analyze logs and security events to identify potential threats",
+    "Implement security best practices and hardening measures",
+    "Document incident response procedures and maintain run books"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Cybersecurity, Computer Science, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "SIEM platform experience (Splunk, ELK, or similar)",
+      "Network security principles and firewalls",
+      "Incident response and threat analysis",
+      "Linux/Windows system administration basics",
+      "Security compliance frameworks (NIST, ISO 27001)"
+    ],
+    "certifications": [
+      "Security+ or equivalent"
+    ]
+  },
+  "benefits": [
+    "Competitive salary with performance incentives",
+    "Comprehensive health, dental, and vision coverage",
+    "Stock options and equity upside",
+    "Professional development and security certifications",
+    "Collaborative NYC office culture"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-03"
+}

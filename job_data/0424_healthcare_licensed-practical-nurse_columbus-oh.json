@@ -1,0 +1,53 @@
+{
+  "id": "0424",
+  "title": "Licensed Practical Nurse",
+  "category": "healthcare",
+  "company": "Mass General Brigham",
+  "industry": "Healthcare",
+  "location": {
+    "city": "Columbus",
+    "state": "OH",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 35000,
+    "max": 46000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Mass General Brigham is a world-renowned healthcare system providing innovative care across a network of hospitals. As a Licensed Practical Nurse, you'll deliver compassionate care to diverse patient populations.",
+  "responsibilities": [
+    "Provide direct patient care under RN supervision",
+    "Assess patient vital signs and report changes to nursing staff",
+    "Administer medications and treatments as prescribed",
+    "Maintain accurate patient medical records",
+    "Support infection control and safety protocols",
+    "Assist with patient hygiene, comfort, and education"
+  ],
+  "requirements": {
+    "education": "Diploma or Associate's degree in Nursing; LPN license required",
+    "experience_years": "1-3 years of nursing or healthcare experience",
+    "skills": [
+      "Patient care",
+      "Medication administration",
+      "Vital signs monitoring",
+      "Documentation",
+      "Teamwork"
+    ],
+    "certifications": [
+      "LPN/LVN license",
+      "CPR/BLS",
+      "ACLS"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (18-22 days annually)",
+    "Professional development and continuing education support",
+    "Employee assistance program (EAP) with mental health services"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-15"
+}
