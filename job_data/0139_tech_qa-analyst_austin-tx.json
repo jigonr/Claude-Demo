@@ -1,0 +1,52 @@
+{
+  "id": "0139",
+  "title": "QA Analyst",
+  "category": "tech",
+  "company": "Snowflake",
+  "industry": "Data",
+  "location": {
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 63000,
+    "max": 81000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-01-22",
+  "description": "Snowflake is seeking a QA Analyst to ensure quality across our cloud data platform used by thousands of enterprises. You'll work hybrid in Austin, testing features and systems that power data analytics for the world's largest organizations.",
+  "responsibilities": [
+    "Design and execute test cases for Snowflake cloud platform features",
+    "Identify, document, and report bugs and quality issues",
+    "Perform manual and automated testing across multiple browsers and environments",
+    "Collaborate with product and engineering teams on quality improvements",
+    "Maintain test documentation and test case repositories",
+    "Participate in QA process improvements and best practices"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Manual and automated testing methodologies",
+      "Test case design and execution",
+      "SQL knowledge for database testing",
+      "Test automation tools (Selenium, TestNG, or similar)",
+      "Bug tracking and issue management tools",
+      "Strong attention to detail and documentation skills"
+    ],
+    "certifications": [
+      "ISTQB (International Software Testing Qualifications Board) certification preferred"
+    ]
+  },
+  "benefits": [
+    "Hybrid work (3 days on-site)",
+    "Competitive salary and equity",
+    "Comprehensive health, dental, and vision coverage",
+    "Professional development and certification support",
+    "Wellness programs and fitness benefits"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0151",
+  "title": "Data Analyst",
+  "category": "tech",
+  "company": "GitLab",
+  "industry": "DevOps",
+  "location": {
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 71000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "GitLab, the all-in-one DevOps platform used by millions of developers, is seeking a Data Analyst for our Dallas office. You'll analyze product usage, identify trends, and inform product strategy decisions. Work onsite in Dallas while collaborating with global teams to measure what matters and drive data-informed decisions across the organization.",
+  "responsibilities": [
+    "Design and run analytics queries using SQL to answer business questions",
+    "Create dashboards and visualizations to track key product metrics",
+    "Analyze user behavior and product usage patterns",
+    "Collaborate with product and engineering teams on data-driven decisions",
+    "Document analytical methodologies and findings clearly",
+    "Monitor data quality and troubleshoot analytics issues"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Statistics, Computer Science, Mathematics, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "SQL and data query languages",
+      "Data visualization tools (Tableau, Looker, or similar)",
+      "Statistical analysis and hypothesis testing",
+      "Excel and spreadsheet analysis",
+      "Attention to detail and accuracy",
+      "Communication and storytelling with data"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary and equity",
+    "Health, dental, and vision insurance",
+    "401(k) with match",
+    "Professional development budget",
+    "Flexible paid time off"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-09"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0147",
+  "title": "Scrum Master",
+  "category": "tech",
+  "company": "Intuit",
+  "industry": "Financial Software",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 64000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Support agile team success at Intuit as a Scrum Master, facilitating collaboration and removing impediments.",
+  "responsibilities": [
+    "Facilitate daily standups, sprint planning, and retrospectives",
+    "Coach teams on agile methodologies and best practices",
+    "Remove impediments and facilitate cross-team collaboration",
+    "Track team metrics and identify improvement opportunities",
+    "Support backlog management and sprint planning",
+    "Mentor junior team members and support team development"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "1-3",
+    "skills": [
+      "Agile methodologies",
+      "Scrum framework",
+      "Team facilitation",
+      "Conflict resolution",
+      "Communication"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with annual equity grants",
+    "Health, dental, and vision coverage",
+    "Equity grants",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-14"
+}

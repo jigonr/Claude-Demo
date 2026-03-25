@@ -1,0 +1,52 @@
+{
+  "id": "0112",
+  "title": "IT Support Specialist",
+  "category": "tech",
+  "company": "Plaid",
+  "industry": "Fintech",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 67000,
+    "max": 86000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-08",
+  "description": "Plaid is looking for an IT Support Specialist to join our San Francisco headquarters and support our rapidly growing engineering team. You'll ensure infrastructure and systems reliability for a fintech platform connecting millions of users to financial data. Come work at the epicenter of fintech innovation.",
+  "responsibilities": [
+    "Provide comprehensive IT support for engineers and business teams",
+    "Manage device lifecycle and ensure security compliance across all endpoints",
+    "Troubleshoot network, hardware, and software issues",
+    "Implement and maintain identity and access management systems",
+    "Support development environment setup and deployment",
+    "Participate in oncall rotation for critical infrastructure issues"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field; or equivalent experience",
+    "experience_years": "2-4",
+    "skills": [
+      "IT support and helpdesk experience",
+      "macOS and Linux system administration",
+      "Network fundamentals and troubleshooting",
+      "Identity management and access controls",
+      "Scripting and automation (Python, Bash preferred)",
+      "Strong communication and customer service skills"
+    ],
+    "certifications": [
+      "CompTIA A+ or equivalent (preferred)"
+    ]
+  },
+  "benefits": [
+    "On-site position at Plaid's San Francisco HQ",
+    "Competitive salary and equity packages",
+    "Comprehensive health, dental, and vision coverage",
+    "Free meals and beverages on campus",
+    "Professional development and learning stipend"
+  ]
+}

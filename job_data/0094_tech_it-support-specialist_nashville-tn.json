@@ -1,0 +1,52 @@
+{
+  "id": "0094",
+  "title": "IT Support Specialist",
+  "category": "tech",
+  "company": "Palo Alto Networks",
+  "industry": "Cybersecurity",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-03",
+  "description": "Palo Alto Networks is seeking an IT Support Specialist in Nashville to provide technical support to employees. You'll work hybrid, troubleshooting hardware, software, and network issues while learning cutting-edge cybersecurity technologies. Start your IT career with a world-leading security company.",
+  "responsibilities": [
+    "Provide technical support via helpdesk ticket system and phone for employee issues",
+    "Troubleshoot hardware, software, and network connectivity problems",
+    "Deploy and manage endpoint devices and ensure compliance with security policies",
+    "Maintain IT asset inventory and manage hardware lifecycle",
+    "Install software updates and security patches across the organization",
+    "Escalate complex issues to senior IT staff and document resolutions"
+  ],
+  "requirements": {
+    "education": "High School diploma or GED; IT certification or college coursework preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Customer service and communication skills",
+      "Knowledge of Windows and macOS operating systems",
+      "Basic networking and troubleshooting fundamentals",
+      "Experience with ticketing systems and IT support tools",
+      "Problem-solving and logical thinking skills",
+      "Ability to work in a hybrid environment"
+    ],
+    "certifications": [
+      "CompTIA A+ or equivalent (preferred within 12 months)"
+    ]
+  },
+  "benefits": [
+    "Hybrid work arrangement (2-3 days on-site)",
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "IT certification reimbursement and training",
+    "Career development opportunities in cybersecurity"
+  ]
+}

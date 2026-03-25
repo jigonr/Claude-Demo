@@ -1,0 +1,50 @@
+{
+  "id": "0081",
+  "title": "Junior Product Manager",
+  "category": "tech",
+  "company": "Palantir",
+  "industry": "Data Analytics",
+  "location": {
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 96000,
+    "max": 120000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Palantir Technologies, the data analytics company trusted by governments and enterprises, seeks a Junior Product Manager for our LA office. You'll own product features, work with engineering and design, and influence how organizations make better decisions with data. This high-impact role offers mentorship from Palantir's experienced PM leadership.",
+  "responsibilities": [
+    "Define product requirements and user stories for assigned features",
+    "Conduct user research and gather customer feedback",
+    "Work with engineers and designers to bring products to market",
+    "Analyze product metrics and drive data-informed decisions",
+    "Participate in product roadmap planning and prioritization",
+    "Present product updates and strategy to stakeholders"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in any field; technical background preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Analytical thinking and problem-solving",
+      "Communication and collaboration",
+      "Product sense and user empathy",
+      "Comfort with data and analytics",
+      "Project management and execution",
+      "Curiosity about technology and markets"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary and equity",
+    "Health, dental, vision, and life insurance",
+    "401(k) with company match",
+    "Learning and development opportunities",
+    "Mentorship from experienced product leaders"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-21"
+}

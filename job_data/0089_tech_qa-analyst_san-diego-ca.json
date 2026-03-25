@@ -1,0 +1,50 @@
+{
+  "id": "0089",
+  "title": "QA Analyst",
+  "category": "tech",
+  "company": "Snowflake",
+  "industry": "Data",
+  "location": {
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 69000,
+    "max": 89000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Snowflake is hiring a QA Analyst to ensure the quality of our cloud data platform. You'll design test strategies, execute comprehensive test plans, and collaborate with engineering teams to deliver reliable software. Working onsite in San Diego, you'll be part of a team passionate about quality and innovation.",
+  "responsibilities": [
+    "Design and execute test plans covering functional, performance, and integration testing",
+    "Create test cases and automated test scripts using Python or Java",
+    "Execute regression testing and identify defects; track and report issues",
+    "Collaborate with product and engineering teams on quality requirements",
+    "Monitor test coverage and quality metrics; recommend improvements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Test automation using Python, Java, or similar languages",
+      "Familiarity with testing frameworks and CI/CD tools",
+      "Strong analytical and problem-solving abilities",
+      "SQL and database testing knowledge",
+      "Excellent communication and documentation skills"
+    ],
+    "certifications": [
+      "ISTQB or similar testing certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and equity options",
+    "Comprehensive health, vision, and dental coverage",
+    "401(k) with company match",
+    "Learning and development budget",
+    "Onsite workspace and team benefits"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-14"
+}

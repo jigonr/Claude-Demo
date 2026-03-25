@@ -1,0 +1,51 @@
+{
+  "id": "0062",
+  "title": "Junior Product Manager",
+  "category": "tech",
+  "company": "Atlassian",
+  "industry": "Collaboration",
+  "location": {
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 84000,
+    "max": 105000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Atlassian serves 2M+ customers with tools like Jira, Confluence, and Bitbucket. Our mission is to unleash the potential of every team. As a Junior Product Manager, you'll have the autonomy to drive strategy for features used by millions.",
+  "responsibilities": [
+    "Define product requirements for assigned features and user stories",
+    "Work with engineering to break down features into technical tasks",
+    "Gather customer feedback through interviews and user testing",
+    "Create product specifications and success metrics",
+    "Prioritize roadmap items based on customer value and business impact",
+    "Support go-to-market planning for new feature launches"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Computer Science, Engineering, or related field",
+    "experience_years": "2-4 years of product, business, or program management experience",
+    "skills": [
+      "Product strategy",
+      "User research",
+      "Data analysis",
+      "Roadmap development",
+      "Cross-functional collaboration"
+    ],
+    "certifications": [
+      "Product certification (optional)"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match (up to 4%)",
+    "Unlimited PTO and remote work flexibility",
+    "Professional development budget ($2,000+/year)",
+    "Equity options and/or stock purchase plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-02"
+}

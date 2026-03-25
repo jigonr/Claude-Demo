@@ -1,0 +1,53 @@
+{
+  "id": "0012",
+  "title": "Data Engineer I",
+  "category": "tech",
+  "company": "Gusto",
+  "industry": "Payroll",
+  "location": {
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 90000,
+    "max": 114000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Data Engineer I at Gusto. This is an exciting opportunity to join our product-focused, SMB-obsessed, modern team and make a direct impact on our mission. If you have 0-2 years years of experience and are passionate about Payroll, we'd love to hear from you.",
+  "responsibilities": [
+    "Design and build scalable data pipelines processing petabytes of data daily",
+    "Implement data transformation logic using SQL and distributed computing frameworks",
+    "Optimize database queries and storage architecture for performance and cost",
+    "Develop monitoring and alerting for data pipeline failures and anomalies",
+    "Mentor junior engineers and establish data engineering best practices",
+    "Collaborate with analytics and machine learning teams on data requirements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience_years": "0-2 years",
+    "skills": [
+      "Python or Scala",
+      "SQL",
+      "Spark or Hadoop",
+      "Data warehousing",
+      "AWS or GCP",
+      "ETL processes"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule and remote work options",
+    "Stock options or equity compensation",
+    "Wellness programs and gym membership reimbursement",
+    "Product discounts and free subscriptions"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-24"
+}

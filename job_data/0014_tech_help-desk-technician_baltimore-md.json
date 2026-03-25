@@ -1,0 +1,50 @@
+{
+  "id": "0014",
+  "title": "Help Desk Technician",
+  "category": "tech",
+  "company": "Render",
+  "industry": "Cloud",
+  "location": {
+    "city": "Baltimore",
+    "state": "MD",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Render, a modern cloud platform for developers, seeks a Help Desk Technician to support our growing customer base. Working fully remote, you'll troubleshoot platform issues, resolve support tickets, and help developers build and deploy applications. This customer-facing role offers direct impact on developer success.",
+  "responsibilities": [
+    "Respond to and resolve customer support tickets and inquiries",
+    "Troubleshoot platform issues and provide technical guidance",
+    "Escalate complex issues to engineering teams appropriately",
+    "Document resolutions and contribute to knowledge base",
+    "Follow up with customers to ensure satisfaction",
+    "Identify patterns and suggest feature improvements"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; some college preferred",
+    "experience_years": "0-1",
+    "skills": [
+      "Customer service and communication skills",
+      "Troubleshooting and problem-solving",
+      "Basic technical knowledge (web applications, APIs, cloud concepts)",
+      "Documentation and organization skills",
+      "Patience and empathy with customers",
+      "Willingness to learn and grow technically"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Fully remote position",
+    "Health, dental, and vision insurance",
+    "401(k) with company match",
+    "Professional development and learning opportunities",
+    "Flexible paid time off"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-01"
+}

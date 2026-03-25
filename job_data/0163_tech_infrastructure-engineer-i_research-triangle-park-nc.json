@@ -1,0 +1,52 @@
+{
+  "id": "0163",
+  "title": "Infrastructure Engineer I",
+  "category": "tech",
+  "company": "Rippling",
+  "industry": "HR Tech",
+  "location": {
+    "city": "Research Triangle Park",
+    "state": "NC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 68000,
+    "max": 87000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-01-07",
+  "description": "Rippling is seeking an Infrastructure Engineer I to help build and maintain our cloud platform serving thousands of companies. You'll work on-site in our Research Triangle Park facility, developing the infrastructure that powers our workforce platform at scale.",
+  "responsibilities": [
+    "Design and implement cloud infrastructure solutions using AWS/GCP",
+    "Develop infrastructure-as-code using Terraform or CloudFormation",
+    "Implement monitoring, logging, and alerting systems",
+    "Optimize cloud costs and resource utilization",
+    "Collaborate with engineering teams on system reliability improvements",
+    "Participate in oncall rotation for production infrastructure support"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Cloud infrastructure experience (AWS or GCP)",
+      "Infrastructure-as-code tools (Terraform, CloudFormation)",
+      "Linux system administration",
+      "Scripting languages (Python, Go, or Bash)",
+      "Understanding of networking and security concepts",
+      "Problem-solving and collaborative skills"
+    ],
+    "certifications": [
+      "AWS Solutions Architect Associate or equivalent (preferred)"
+    ]
+  },
+  "benefits": [
+    "On-site position at Research Triangle Park facility",
+    "Competitive salary and equity",
+    "Health, dental, and vision insurance",
+    "Professional development and conference attendance budgets",
+    "Generous PTO and wellness programs"
+  ]
+}

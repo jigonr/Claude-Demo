@@ -1,0 +1,52 @@
+{
+  "id": "0013",
+  "title": "Cloud Engineer I",
+  "category": "tech",
+  "company": "Adobe",
+  "industry": "Creative Software",
+  "location": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 66000,
+    "max": 83000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Adobe is the global leader in digital media and marketing solutions used by millions of creatives, marketers, and enterprises. You'll build cloud infrastructure supporting billions of creative workflows.",
+  "responsibilities": [
+    "Design and deploy scalable cloud infrastructure using AWS/GCP/Azure",
+    "Implement automated infrastructure provisioning and management",
+    "Optimize cloud costs and resource utilization",
+    "Maintain high availability and disaster recovery procedures",
+    "Monitor system performance and troubleshoot infrastructure issues",
+    "Document architecture decisions and create runbooks"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "1-3 years of cloud infrastructure or DevOps experience",
+    "skills": [
+      "AWS/GCP/Azure",
+      "Infrastructure as Code",
+      "Kubernetes",
+      "Linux/Unix",
+      "CI/CD pipelines"
+    ],
+    "certifications": [
+      "AWS Solutions Architect",
+      "GCP Associate Cloud Engineer"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health and wellness benefits",
+    "401(k) retirement savings plan with matching",
+    "Paid vacation, holidays, and personal days",
+    "Career advancement and training opportunities",
+    "Employee recognition and incentive programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-01"
+}

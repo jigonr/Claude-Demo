@@ -1,0 +1,50 @@
+{
+  "id": "0041",
+  "title": "Junior UI Developer",
+  "category": "tech",
+  "company": "Rippling",
+  "industry": "HR Tech",
+  "location": {
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 78000,
+    "max": 101000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Rippling, the HR and IT management platform, seeks a Junior UI Developer to build beautiful, intuitive interfaces. Working fully remote, you'll develop React components, collaborate with designers, and impact how millions of employees manage their work lives. Join a fast-growing company transforming enterprise software.",
+  "responsibilities": [
+    "Build responsive UI components using React and modern JavaScript",
+    "Collaborate with designers and product teams on interface implementation",
+    "Write clean, maintainable code and follow engineering best practices",
+    "Optimize components for performance and accessibility",
+    "Participate in code reviews and contribute to team development",
+    "Debug issues and troubleshoot cross-browser compatibility"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, similar field, or equivalent experience",
+    "experience_years": "0-2",
+    "skills": [
+      "JavaScript/TypeScript and React",
+      "HTML, CSS, and responsive design",
+      "Git version control",
+      "RESTful APIs and frontend state management",
+      "Problem-solving and attention to detail",
+      "Communication and collaboration skills"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Fully remote position",
+    "Competitive salary and equity",
+    "Health, dental, vision, and life insurance",
+    "401(k) with company match",
+    "Learning stipend and professional development"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-25"
+}

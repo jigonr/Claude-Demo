@@ -1,0 +1,50 @@
+{
+  "id": "0046",
+  "title": "Database Administrator I",
+  "category": "tech",
+  "company": "Slack",
+  "industry": "Collaboration",
+  "location": {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 61000,
+    "max": 77000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-07",
+  "description": "Slack is seeking a Database Administrator I to manage our databases supporting millions of daily users. Work hybrid at our Ann Arbor office, ensuring data reliability and performance for our collaboration platform.",
+  "responsibilities": [
+    "Manage database installations, configurations, and upgrades",
+    "Monitor database performance and optimize queries",
+    "Implement backup and disaster recovery procedures",
+    "Troubleshoot database issues and performance problems",
+    "Maintain database security and access controls",
+    "Support development teams on database design and optimization"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience_years": "2-3",
+    "skills": [
+      "SQL and relational database management",
+      "Experience with major databases (PostgreSQL, MySQL, or Oracle)",
+      "Database backup, recovery, and replication",
+      "Query optimization and performance tuning",
+      "Linux/Unix system administration basics",
+      "Strong troubleshooting and documentation skills"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Hybrid work (3 days on-site)",
+    "Competitive salary and equity",
+    "Comprehensive health, dental, and vision coverage",
+    "Professional development and training budget",
+    "Wellness programs and mental health support"
+  ]
+}

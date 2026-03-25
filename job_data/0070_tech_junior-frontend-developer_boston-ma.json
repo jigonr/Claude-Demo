@@ -1,0 +1,50 @@
+{
+  "id": "0070",
+  "title": "Junior Frontend Developer",
+  "category": "tech",
+  "company": "ServiceNow",
+  "industry": "IT Management",
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 87000,
+    "max": 112000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-22",
+  "description": "ServiceNow is hiring a Junior Frontend Developer for our Boston office to build user interfaces for enterprise workflow automation. You'll work hybrid on real products used by thousands of organizations, building your career in full-stack development.",
+  "responsibilities": [
+    "Develop responsive user interfaces using modern web technologies",
+    "Collaborate with product and design teams on feature implementation",
+    "Write clean, maintainable code following best practices",
+    "Test and debug frontend applications",
+    "Participate in code reviews and improve code quality",
+    "Learn and contribute to our component library and design system"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Proficiency in JavaScript and modern frameworks (React, Vue, or Angular)",
+      "HTML, CSS, and responsive design knowledge",
+      "Version control (Git) and development workflows",
+      "Understanding of RESTful APIs and asynchronous programming",
+      "Problem-solving and communication skills",
+      "Familiarity with development tools and debugging"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Hybrid work (3 days on-site in Boston)",
+    "Competitive salary and equity packages",
+    "Comprehensive health, dental, and vision coverage",
+    "Professional development and training budget",
+    "Mentorship from experienced engineers"
+  ]
+}

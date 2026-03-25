@@ -1,0 +1,50 @@
+{
+  "id": "0075",
+  "title": "Database Administrator I",
+  "category": "tech",
+  "company": "Ramp",
+  "industry": "Fintech",
+  "location": {
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 58000,
+    "max": 73000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-08",
+  "description": "Ramp is seeking a Database Administrator I to manage and optimize our PostgreSQL and cloud databases supporting our corporate spend management platform. You will monitor database performance, implement backup and recovery strategies, troubleshoot issues, and work with engineering teams to ensure data reliability and security for our growing customer base.",
+  "responsibilities": [
+    "Monitor database performance and troubleshoot connectivity issues",
+    "Implement and test backup and disaster recovery procedures",
+    "Optimize database queries and maintain performance standards",
+    "Manage user access and implement security best practices",
+    "Collaborate with engineering on database design and scaling",
+    "Document database architecture and maintain runbooks"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Information Technology, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "SQL and database query optimization",
+      "PostgreSQL or MySQL administration",
+      "Cloud database platforms (AWS RDS, GCP Cloud SQL)",
+      "Backup, recovery, and disaster planning",
+      "Linux system administration"
+    ],
+    "certifications": [
+      "AWS or GCP cloud certifications preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and equity options",
+    "Health, dental, vision, and life insurance",
+    "Unlimited PTO and flexible work arrangements",
+    "Learning budget and professional development"
+  ]
+}

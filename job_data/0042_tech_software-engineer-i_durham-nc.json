@@ -1,0 +1,50 @@
+{
+  "id": "0042",
+  "title": "Software Engineer I",
+  "category": "tech",
+  "company": "Salesforce",
+  "industry": "CRM",
+  "location": {
+    "city": "Durham",
+    "state": "NC",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 71000,
+    "max": 90000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Salesforce CRM powers customer relationships for enterprises worldwide. We're #1 in customer relationship management, trusted by millions of users.\n\nWe're seeking a Software Engineer I to join our CRM team in Durham. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Develop and maintain full-stack web applications using modern frameworks",
+    "Write clean, maintainable code following team coding standards",
+    "Participate in code reviews and contribute to system architecture discussions",
+    "Implement features and fix bugs in collaboration with product and design teams",
+    "Write tests and ensure code quality through continuous integration",
+    "Support deployment and troubleshoot production issues"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or equivalent professional experience",
+    "experience_years": "1-2 years of professional software development experience",
+    "skills": [
+      "JavaScript/TypeScript",
+      "React or backend framework",
+      "SQL",
+      "Git",
+      "REST APIs"
+    ],
+    "certifications": [
+      "None required; bootcamp or open-source contributions appreciated"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and stock options",
+    "Hybrid flexibility in Durham, NC",
+    "Learning budget",
+    "Comprehensive health coverage"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-01"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0171",
+  "title": "Junior Backend Developer",
+  "category": "tech",
+  "company": "Plaid",
+  "industry": "Fintech",
+  "location": {
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 78000,
+    "max": 99000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Plaid is hiring a Junior Backend Developer to help build the infrastructure that powers financial connectivity. You'll develop APIs and backend services used by millions of developers and companies. This remote role offers the opportunity to grow your skills while working on fintech technology that shapes how people and companies access and use financial data.",
+  "responsibilities": [
+    "Develop and maintain backend services and APIs using Python or Node.js",
+    "Design and optimize database schemas and queries for performance",
+    "Implement features following agile development practices",
+    "Write unit tests and participate in code reviews",
+    "Collaborate with product and frontend teams on feature specifications"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Proficiency in Python, Java, or Node.js",
+      "Understanding of relational and NoSQL databases",
+      "Familiarity with REST API design and HTTP",
+      "Basic knowledge of cloud platforms (AWS, GCP)",
+      "Version control using Git"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary and equity options",
+    "Comprehensive health, vision, and dental coverage",
+    "401(k) with company match",
+    "Professional development and learning budget",
+    "Fully remote work environment"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-10"
+}

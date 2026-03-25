@@ -1,0 +1,48 @@
+{
+  "id": "0175",
+  "title": "Junior Backend Developer",
+  "category": "tech",
+  "company": "ServiceNow",
+  "industry": "IT Management",
+  "location": {
+    "city": "Omaha",
+    "state": "NE",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 60000,
+    "max": 76000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "ServiceNow is hiring Junior Backend Developers to join our platform engineering team in Omaha. We're building the workflow engine that powers enterprise operations at scale. In this role, you'll write clean, tested code that handles complex business logic and integrations. You'll learn best practices from senior engineers, contribute to real features used by millions, and grow your skills in a structured mentorship environment.",
+  "responsibilities": [
+    "Develop and maintain backend services using Java, Python, or JavaScript, following SOLID principles and design patterns",
+    "Write unit and integration tests to ensure code quality and prevent regressions in our platform",
+    "Participate in code reviews and contribute to architectural decisions for new features and systems",
+    "Debug production issues, analyze logs, and work with DevOps to resolve service degradations",
+    "Collaborate with frontend engineers and product managers to understand requirements and deliver scalable solutions"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Java, Python, or JavaScript",
+      "RESTful API design",
+      "SQL and database fundamentals",
+      "Version control (Git)",
+      "Linux/Unix basics"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + stock options",
+    "Comprehensive medical, dental, and vision coverage",
+    "Paid parental leave (12 weeks)",
+    "Learning and development budget ($2,500/year)",
+    "Relocation assistance available"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-25"
+}

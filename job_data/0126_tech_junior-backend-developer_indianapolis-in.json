@@ -1,0 +1,48 @@
+{
+  "id": "0126",
+  "title": "Junior Backend Developer",
+  "category": "tech",
+  "company": "Supabase",
+  "industry": "Developer Tools",
+  "location": {
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 63000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Supabase is an open-source Firebase alternative providing developers with PostgreSQL, authentication, and real-time capabilities. We're seeking a Junior Backend Developer to help scale our platform. Work hybrid from Indianapolis and contribute to the infrastructure developers love.",
+  "responsibilities": [
+    "Develop backend features using TypeScript and Node.js",
+    "Design and optimize PostgreSQL queries and database schemas",
+    "Build RESTful and GraphQL APIs that power developer applications",
+    "Write tests and improve code quality across the platform",
+    "Collaborate with the team on system design and performance improvements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "experience_years": "0-2",
+    "skills": [
+      "JavaScript or TypeScript",
+      "Node.js or similar server framework",
+      "PostgreSQL and SQL",
+      "RESTful API design",
+      "Git and version control"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with equity upside",
+    "Health, dental, and vision coverage",
+    "Flexible hybrid Indianapolis office",
+    "Learning budget and conference attendance",
+    "Generous PTO and work-life balance"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-25"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "0091",
+  "title": "Network Technician",
+  "category": "tech",
+  "company": "Block",
+  "industry": "Fintech",
+  "location": {
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 57000,
+    "max": 74000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Block is a financial services and digital payments ecosystem serving millions. From Square to Cash App to Spiral, we're building a financial world that works for everyone. You'll help customers navigate complex technical challenges on our platform.",
+  "responsibilities": [
+    "Install, configure, and maintain network infrastructure",
+    "Troubleshoot connectivity issues and network performance",
+    "Manage network security through firewalls and access controls",
+    "Monitor bandwidth utilization and optimize network traffic",
+    "Maintain network documentation and asset inventory",
+    "Support network upgrades and infrastructure projects"
+  ],
+  "requirements": {
+    "education": "Associate's degree in IT or Network Administration or equivalent experience",
+    "experience_years": "2-4 years of network administration or IT support experience",
+    "skills": [
+      "Network configuration",
+      "Troubleshooting",
+      "Switching/routing",
+      "Firewalls",
+      "Network monitoring"
+    ],
+    "certifications": [
+      "CompTIA Network+",
+      "Cisco CCNA (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match (up to 4%)",
+    "Unlimited PTO and remote work flexibility",
+    "Professional development budget ($2,000+/year)",
+    "Equity options and/or stock purchase plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-04"
+}

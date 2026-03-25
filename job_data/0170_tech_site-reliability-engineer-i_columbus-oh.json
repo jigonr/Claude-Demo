@@ -1,0 +1,50 @@
+{
+  "id": "0170",
+  "title": "Site Reliability Engineer I",
+  "category": "tech",
+  "company": "Twilio",
+  "industry": "Communications",
+  "location": {
+    "city": "Columbus",
+    "state": "OH",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 68000,
+    "max": 85000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-03",
+  "description": "Twilio seeks a Site Reliability Engineer I to help us build and maintain the infrastructure that powers customer communication across voice, SMS, and video. You'll work on observability, incident response, and deployment automation for services serving billions of requests daily. This role bridges software engineering and operations—you'll write code to make systems more reliable while being on-call to support production.",
+  "responsibilities": [
+    "Develop monitoring and alerting strategies to detect issues before they impact customer experience",
+    "Write infrastructure-as-code using Terraform or CloudFormation to manage AWS resources",
+    "Participate in on-call rotation (1-week per month) and respond to production incidents",
+    "Automate repetitive operational tasks using Python or Go scripting",
+    "Conduct post-incident reviews to identify root causes and implement preventive measures",
+    "Mentor junior engineers and document runbooks for common operational scenarios"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Linux/Unix system administration",
+      "Cloud platforms (AWS, GCP, or Azure)",
+      "Infrastructure-as-code and configuration management",
+      "Scripting languages (Python, Go, Bash)",
+      "Incident response and troubleshooting"
+    ],
+    "certifications": [
+      "AWS Solutions Architect Associate or equivalent (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, vision, and life insurance",
+    "Education and professional development budget ($3,000 annually)",
+    "On-call stipend and flexibility for work-life balance",
+    "Commuter benefits and on-site fitness facilities"
+  ]
+}

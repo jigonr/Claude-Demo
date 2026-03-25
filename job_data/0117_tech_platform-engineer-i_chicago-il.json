@@ -1,0 +1,48 @@
+{
+  "id": "0117",
+  "title": "Platform Engineer I",
+  "category": "tech",
+  "company": "Snowflake",
+  "industry": "Data",
+  "location": {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 81000,
+    "max": 102000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Snowflake is hiring a Platform Engineer I to build developer experience and internal platforms in Chicago. You'll create tools and infrastructure that enable thousands of engineers to move faster. This hybrid role combines systems thinking with software engineering, allowing you to impact how our entire company builds software.",
+  "responsibilities": [
+    "Design and implement internal developer tools and platforms that improve engineering productivity",
+    "Build APIs and services that abstract complexity and enable self-service for engineering teams",
+    "Collaborate with engineering teams to understand pain points and prioritize platform improvements",
+    "Monitor platform health and performance; implement observability and reliability improvements",
+    "Contribute to architecture discussions and help drive engineering standards across the organization"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Go, Rust, or Java",
+      "Microservices and distributed systems",
+      "API design and documentation",
+      "Cloud platforms (AWS, GCP, Azure)",
+      "Kubernetes and containerization"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + equity",
+    "Comprehensive health and wellness benefits",
+    "Unlimited PTO",
+    "$3,000/year learning budget",
+    "Home office setup grant"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-05"
+}

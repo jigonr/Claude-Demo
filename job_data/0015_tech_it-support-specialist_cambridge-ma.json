@@ -1,0 +1,52 @@
+{
+  "id": "0015",
+  "title": "IT Support Specialist",
+  "category": "tech",
+  "company": "Mixpanel",
+  "industry": "Analytics",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 62000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Mixpanel, the product analytics platform trusted by data-driven teams, seeks an IT Support Specialist to manage our internal technology infrastructure. Working fully remote, you'll provide technical support, manage hardware and software, and maintain security standards. Help power the platform that helps teams make better decisions.",
+  "responsibilities": [
+    "Provide tier-1 and tier-2 technical support to employees",
+    "Manage hardware provisioning, setup, and lifecycle",
+    "Maintain inventory of IT assets and software licenses",
+    "Troubleshoot network and connectivity issues",
+    "Support security policies and user access management",
+    "Document support tickets and maintain knowledge base"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; Associate degree in IT or related field preferred",
+    "experience_years": "2-4",
+    "skills": [
+      "Technical troubleshooting and problem-solving",
+      "Hardware and software support knowledge",
+      "Networking basics and system administration",
+      "Ticket management and documentation",
+      "Customer service and communication",
+      "Understanding of IT security best practices"
+    ],
+    "certifications": [
+      "CompTIA A+ or similar IT certification preferred"
+    ]
+  },
+  "benefits": [
+    "Fully remote position",
+    "Health, dental, and vision insurance",
+    "401(k) with company match",
+    "IT certification reimbursement",
+    "Flexible paid time off"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-18"
+}

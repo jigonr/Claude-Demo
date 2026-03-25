@@ -1,0 +1,50 @@
+{
+  "id": "0176",
+  "title": "Help Desk Technician",
+  "category": "tech",
+  "company": "Palantir",
+  "industry": "Data Analytics",
+  "location": {
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 58000,
+    "max": 77000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Palantir's data platforms empower organizations to make better decisions with their data. We serve governments and enterprises globally.\n\nWe're seeking a Help Desk Technician to join our Data Analytics team in Palo Alto. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Provide technical support to end users via phone, email, and ticket system",
+    "Troubleshoot hardware, software, and network connectivity issues",
+    "Manage IT support tickets and track resolution metrics",
+    "Document solutions and maintain knowledge base for common issues",
+    "Assist with hardware deployment and user onboarding",
+    "Escalate complex issues to senior technical staff"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; Associate's degree in IT preferred",
+    "experience_years": "1-2 years of help desk or IT support experience",
+    "skills": [
+      "Troubleshooting",
+      "Windows and/or macOS administration",
+      "Network basics",
+      "Customer service",
+      "Ticketing systems"
+    ],
+    "certifications": [
+      "CompTIA A+, Security+, or vendor certifications preferred"
+    ]
+  },
+  "benefits": [
+    "Onsite work in Palo Alto",
+    "Health and dental insurance",
+    "Professional development support",
+    "Competitive salary"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-06"
+}

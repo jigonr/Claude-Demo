@@ -1,0 +1,50 @@
+{
+  "id": "0011",
+  "title": "Site Reliability Engineer I",
+  "category": "tech",
+  "company": "Datadog",
+  "industry": "Cloud Monitoring",
+  "location": {
+    "city": "Omaha",
+    "state": "NE",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 64000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-01-08",
+  "description": "Datadog is seeking a Site Reliability Engineer I to join our Omaha office and contribute to the reliability and scalability of our global infrastructure. You'll design monitoring and alerting strategies, automate operational tasks, and be part of a team committed to keeping systems running smoothly at massive scale.",
+  "responsibilities": [
+    "Implement monitoring and alerting for critical systems using Datadog and ELK",
+    "Develop automation scripts to reduce manual operational overhead",
+    "Lead incident response activities and conduct post-mortems",
+    "Optimize system performance and cost efficiency",
+    "Document operational procedures and create training materials",
+    "Partner with engineering teams on reliability improvements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or equivalent experience",
+    "experience_years": "1-3",
+    "skills": [
+      "Linux system administration and troubleshooting",
+      "Monitoring and observability tools",
+      "Scripting (Python, Go, or Bash)",
+      "Incident response and communication",
+      "Cloud platform knowledge (AWS, GCP, or Azure)"
+    ],
+    "certifications": [
+      "None required"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and stock options",
+    "Comprehensive health, dental, and vision insurance",
+    "On-call stipend and flexibility for work-life balance",
+    "Learning budget for training and conferences"
+  ]
+}

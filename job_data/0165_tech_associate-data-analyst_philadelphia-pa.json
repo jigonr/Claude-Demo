@@ -1,0 +1,50 @@
+{
+  "id": "0165",
+  "title": "Associate Data Analyst",
+  "category": "tech",
+  "company": "HubSpot",
+  "industry": "Marketing Tech",
+  "location": {
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 58000,
+    "max": 75000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-08",
+  "description": "HubSpot is hiring an Associate Data Analyst for our Philadelphia office to support business analytics and insights. You'll analyze data from our marketing platform, helping hundreds of thousands of customers understand their growth. Work hybrid and grow your data skills at a leading SaaS company.",
+  "responsibilities": [
+    "Analyze business and product data to identify trends and opportunities",
+    "Create dashboards and reports using business intelligence tools",
+    "Support A/B testing and experimentation initiatives",
+    "Prepare data for analysis and ensure data quality",
+    "Collaborate with product and marketing teams on data-driven decisions",
+    "Document analysis methodologies and findings"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Data Science, Statistics, Mathematics, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "SQL and database fundamentals",
+      "Data analysis and statistical methods",
+      "Business intelligence tools (Tableau, Looker, or similar)",
+      "Excel and data manipulation",
+      "Python or R for data analysis",
+      "Strong communication and storytelling skills"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Hybrid work arrangement (3 days on-site)",
+    "Competitive salary and equity",
+    "Comprehensive health, dental, and vision coverage",
+    "Professional development and learning budget",
+    "Wellness programs and gym subsidies"
+  ]
+}

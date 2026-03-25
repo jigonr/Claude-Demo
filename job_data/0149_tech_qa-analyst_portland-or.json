@@ -1,0 +1,49 @@
+{
+  "id": "0149",
+  "title": "QA Analyst",
+  "category": "tech",
+  "company": "Akamai",
+  "industry": "CDN",
+  "location": {
+    "city": "Portland",
+    "state": "OR",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 63000,
+    "max": 81000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Join Akamai's QA team to ensure our products deliver world-class performance and reliability to millions of users.",
+  "responsibilities": [
+    "Develop and execute test plans for complex software systems",
+    "Identify and document bugs and performance issues with detailed reproductions",
+    "Collaborate with engineers on testing strategies and automation",
+    "Monitor production performance and user-reported issues",
+    "Create test automation scripts and frameworks",
+    "Participate in architectural reviews and performance testing"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "2-5",
+    "skills": [
+      "QA methodologies",
+      "Test automation",
+      "Performance testing",
+      "SQL",
+      "Communication"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with annual equity grants",
+    "Health, dental, and vision coverage",
+    "Equity grants",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-17"
+}

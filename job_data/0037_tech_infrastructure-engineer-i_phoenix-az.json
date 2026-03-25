@@ -1,0 +1,48 @@
+{
+  "id": "0037",
+  "title": "Infrastructure Engineer I",
+  "category": "tech",
+  "company": "Rippling",
+  "industry": "HR Tech",
+  "location": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 64000,
+    "max": 82000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Rippling is hiring an Infrastructure Engineer I to build and maintain the cloud infrastructure supporting our people management platform. Working remotely from Phoenix, you'll develop infrastructure solutions that scale with our growth. This role combines systems engineering with rapid learning.",
+  "responsibilities": [
+    "Design and implement cloud infrastructure solutions using AWS and containerization technologies",
+    "Build automation tools to reduce manual operations and improve deployment reliability",
+    "Manage infrastructure as code; maintain and improve infrastructure templates",
+    "Implement monitoring, logging, and alerting; respond to infrastructure alerts",
+    "Collaborate with platform and application teams to meet infrastructure requirements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "AWS or cloud infrastructure",
+      "Terraform or CloudFormation",
+      "Docker and Kubernetes basics",
+      "Linux system administration",
+      "Python or Go scripting"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + equity",
+    "Health, dental, vision, FSA/HSA",
+    "401(k) with match",
+    "$2,000/year learning budget",
+    "Remote work flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-11"
+}

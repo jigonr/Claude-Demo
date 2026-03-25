@@ -1,0 +1,50 @@
+{
+  "id": "0157",
+  "title": "Developer Advocate",
+  "category": "tech",
+  "company": "Intuit",
+  "industry": "Financial Software",
+  "location": {
+    "city": "Irvine",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 86000,
+    "max": 109000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Intuit, the global financial software leader, is hiring a Developer Advocate to champion our QuickBooks API ecosystem. Based hybrid in Irvine, you'll build relationships with developers, create technical content, and advocate for developer needs inside Intuit. Help small business developers build better solutions on our platform while growing your presence in the fintech community.",
+  "responsibilities": [
+    "Develop and deliver technical content including blog posts, tutorials, and code samples",
+    "Engage with developer communities and attend conferences to represent Intuit",
+    "Build sample applications demonstrating QuickBooks API capabilities",
+    "Gather developer feedback and communicate insights to product teams",
+    "Mentor external developers and help troubleshoot integration issues",
+    "Collaborate with product, marketing, and engineering on developer initiatives"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Full-stack web development (JavaScript, Python, or similar)",
+      "RESTful API design and integration",
+      "Strong technical writing and communication",
+      "Community engagement and networking",
+      "Familiarity with accounting or financial software (preferred)",
+      "Social media and content marketing experience"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary and equity",
+    "Health, dental, and vision insurance",
+    "401(k) with match",
+    "Professional development budget",
+    "Flexible work arrangements and Intuit time off policy"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-15"
+}

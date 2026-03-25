@@ -1,0 +1,52 @@
+{
+  "id": "0047",
+  "title": "IT Support Specialist",
+  "category": "tech",
+  "company": "Mixpanel",
+  "industry": "Analytics",
+  "location": {
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Mixpanel powers product analytics for 9000+ companies including Uber, Slack, and Airbnb. We help teams measure, analyze, and optimize every user interaction. You'll provide technical support to customers integrating our analytics platform at scale.",
+  "responsibilities": [
+    "Provide technical support to end-users via helpdesk",
+    "Troubleshoot hardware and software issues",
+    "Install and configure user equipment",
+    "Maintain IT ticketing system and track resolution times",
+    "Document technical procedures and solutions",
+    "Support IT security policies and data protection"
+  ],
+  "requirements": {
+    "education": "Associate's degree in IT or related field; CompTIA A+ preferred",
+    "experience_years": "1-2 years of IT support or technical support experience",
+    "skills": [
+      "Troubleshooting",
+      "Hardware/software support",
+      "Customer service",
+      "Documentation",
+      "Remote support tools"
+    ],
+    "certifications": [
+      "CompTIA A+",
+      "CompTIA Network+ (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match (up to 4%)",
+    "Unlimited PTO and remote work flexibility",
+    "Professional development budget ($2,000+/year)",
+    "Equity options and/or stock purchase plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-22"
+}

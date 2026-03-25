@@ -1,0 +1,50 @@
+{
+  "id": "0090",
+  "title": "Test Automation Engineer",
+  "category": "tech",
+  "company": "Gusto",
+  "industry": "Payroll",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 61000,
+    "max": 77000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-22",
+  "description": "Gusto is building modern payroll and HR software for small and medium businesses. We're hiring a Test Automation Engineer to design and implement automated test frameworks that ensure quality across our platform. You'll work closely with product and engineering teams to identify testable scenarios and build robust test suites that catch regressions before they reach customers.",
+  "responsibilities": [
+    "Design and implement automated test scripts using frameworks like Selenium or Cypress",
+    "Develop test strategies to balance automation coverage with testing efficiency",
+    "Collaborate with developers to identify critical user paths that need automated coverage",
+    "Maintain and refactor test code as product features evolve",
+    "Execute manual testing for exploratory and complex scenarios",
+    "Participate in sprint planning and help estimate testing effort for new features"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Test automation frameworks (Selenium, Cypress, Appium)",
+      "Programming in Java, Python, or JavaScript",
+      "REST API testing and understanding",
+      "SQL for database validation",
+      "CI/CD pipeline familiarity"
+    ],
+    "certifications": [
+      "None required; ISTQB or equivalent QA certification a plus"
+    ]
+  },
+  "benefits": [
+    "Competitive salary with stock options",
+    "Comprehensive health, dental, and vision coverage",
+    "Flexible work schedule and unlimited PTO",
+    "Professional development and learning budget"
+  ]
+}

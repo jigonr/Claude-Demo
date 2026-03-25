@@ -1,0 +1,49 @@
+{
+  "id": "0060",
+  "title": "Technical Writer",
+  "category": "tech",
+  "company": "Monday.com",
+  "industry": "Work Management",
+  "location": {
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 66000,
+    "max": 86000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Monday.com is hiring a Technical Writer to craft clear, user-focused documentation for our work OS platform. You'll translate complex product features into accessible guides, help articles, and API documentation that empower users to build powerful workflows. Work onsite in our Washington, DC office, collaborating directly with product, engineering, and design teams to shape how users experience Monday.com.",
+  "responsibilities": [
+    "Write and maintain user guides, tutorials, and how-to articles for Monday.com features",
+    "Create API documentation and developer-facing technical references",
+    "Collaborate with product managers and engineers to understand features and technical details",
+    "Develop content strategy for help centers and knowledge bases",
+    "Test product workflows and scenarios to ensure accuracy of documentation",
+    "Gather user feedback and analytics to improve documentation effectiveness"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in English, Communications, Technical Writing, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Technical writing and documentation",
+      "Ability to explain complex concepts simply",
+      "Familiarity with SaaS and web platforms",
+      "Proficiency with documentation tools (Markdown, Figma, Google Suite)",
+      "Basic understanding of APIs and developer workflows",
+      "Project management and cross-team collaboration"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive health, dental, and vision insurance",
+    "401(k) with employer match",
+    "Unlimited paid time off",
+    "Learning and development budget"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-21"
+}

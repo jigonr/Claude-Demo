@@ -1,0 +1,52 @@
+{
+  "id": "0121",
+  "title": "Cloud Operations Analyst",
+  "category": "tech",
+  "company": "Dropbox",
+  "industry": "Cloud Storage",
+  "location": {
+    "city": "Boulder",
+    "state": "CO",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 68000,
+    "max": 88000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-09",
+  "description": "Dropbox is seeking a Cloud Operations Analyst to help manage our massive-scale cloud infrastructure. You'll work on-site in our Boulder hub, collaborating with world-class engineers to optimize systems that serve millions of users. If you love tackling infrastructure challenges and want to impact how people work, let's talk.",
+  "responsibilities": [
+    "Monitor and optimize cloud infrastructure performance, scalability, and cost efficiency",
+    "Respond to production incidents, perform root cause analysis, and implement preventative solutions",
+    "Automate operational workflows and build tools to improve engineering efficiency",
+    "Collaborate with platform and infrastructure teams to design robust, scalable systems",
+    "Implement monitoring, logging, and observability improvements across the stack",
+    "Contribute to oncall rotation and maintain service SLAs exceeding 99.99% uptime"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or equivalent hands-on experience",
+    "experience_years": "2-4",
+    "skills": [
+      "Production experience with large-scale distributed systems",
+      "Proficiency with cloud platforms (AWS, GCP, or Azure)",
+      "Strong scripting skills (Python, Go, or Bash)",
+      "Experience with infrastructure automation and configuration management",
+      "Understanding of networking, storage, and compute concepts",
+      "Excellent problem-solving and communication skills"
+    ],
+    "certifications": [
+      "AWS Solutions Architect Associate or equivalent (preferred)"
+    ]
+  },
+  "benefits": [
+    "On-site work at our Boulder headquarters with mountain views",
+    "Competitive salary with equity options",
+    "Comprehensive health, dental, and vision coverage",
+    "Free lunch, snacks, and beverages on campus",
+    "Wellness programs and fitness partnerships"
+  ]
+}

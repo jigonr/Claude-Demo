@@ -1,0 +1,50 @@
+{
+  "id": "0130",
+  "title": "SOC Analyst",
+  "category": "tech",
+  "company": "Dropbox",
+  "industry": "Cloud Storage",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 81000,
+    "max": 105000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-11",
+  "description": "Dropbox Security Operations Center is seeking a SOC Analyst to monitor our infrastructure and systems for security threats and anomalies. You'll analyze security alerts, investigate incidents, and collaborate with incident response teams to defend our platform. You'll be part of a world-class security team protecting billions of files for millions of users.",
+  "responsibilities": [
+    "Monitor security tools including SIEM, endpoint detection, and network monitoring systems",
+    "Investigate and triage security alerts and false positives to reduce alert fatigue",
+    "Escalate confirmed incidents to incident response team and provide detailed context",
+    "Conduct threat hunting to proactively identify potential compromises",
+    "Document investigation findings and update threat intelligence databases",
+    "Participate in incident response calls and contribute to post-incident reviews"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Cybersecurity, Information Security, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Security monitoring and SIEM platform experience",
+      "Malware analysis and threat intelligence",
+      "Linux/Windows systems administration",
+      "Network protocols and packet analysis",
+      "Incident response procedures and frameworks"
+    ],
+    "certifications": [
+      "CISSP, GIAC certifications (GCIH, GCIA) or equivalent security certification preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health, dental, vision, and life insurance",
+    "Stock options and 401(k) matching",
+    "Professional development budget ($2,000 annually)",
+    "On-site wellness facilities and commuter benefits"
+  ]
+}

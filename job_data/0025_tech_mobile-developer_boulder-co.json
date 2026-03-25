@@ -1,0 +1,50 @@
+{
+  "id": "0025",
+  "title": "Mobile Developer",
+  "category": "tech",
+  "company": "Salesforce",
+  "industry": "CRM",
+  "location": {
+    "city": "Boulder",
+    "state": "CO",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 79000,
+    "max": 101000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Salesforce CRM powers customer relationships for enterprises worldwide. We're #1 in customer relationship management, trusted by millions of users.\n\nWe're seeking a Mobile Developer to join our CRM team in Boulder. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Develop native and cross-platform mobile applications using Swift, Kotlin, or React Native",
+    "Collaborate with designers and product managers to implement features",
+    "Optimize mobile app performance and ensure quality through testing",
+    "Debug and resolve mobile-specific issues and platform differences",
+    "Integrate with backend APIs and third-party services",
+    "Maintain code quality through code reviews and best practices"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or equivalent professional experience",
+    "experience_years": "2-4 years in mobile app development (iOS, Android, or both)",
+    "skills": [
+      "Swift/Kotlin or React Native",
+      "Mobile design patterns",
+      "REST APIs",
+      "Git",
+      "Mobile debugging tools"
+    ],
+    "certifications": [
+      "Mobile development certification or app store publications appreciated"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and stock options",
+    "Onsite work in Boulder",
+    "Learning budget",
+    "Comprehensive health coverage"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-18"
+}
