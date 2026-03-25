@@ -30,18 +30,17 @@ export function BinaryChoice({
             whileHover={isSelected ? undefined : { y: -3 }}
             whileTap={{ scale: 0.97 }}
             className={`
-              flex-1 relative px-7 py-8 rounded-xl text-left text-base
-              font-medium leading-snug
+              flex-1 relative px-7 py-8 rounded-xl text-left text-lg
+              font-semibold leading-snug
               transition-all duration-200 cursor-pointer
-              border
               ${
                 isSelected
-                  ? "border-accent bg-accent text-white shadow-lg shadow-accent/20"
-                  : "border-2 border-border bg-white hover:border-accent hover:shadow-md text-foreground"
+                  ? "border-2 border-accent bg-accent text-white shadow-lg shadow-accent/20"
+                  : "border-2 border-gray-300 bg-white hover:border-accent hover:shadow-md"
               }
             `}
           >
-            <span className="block">{option.label}</span>
+            <span className={`block ${isSelected ? "text-white" : "text-black"}`}>{option.label}</span>
             {isSelected && (
               <motion.div
                 layoutId="selected-check"

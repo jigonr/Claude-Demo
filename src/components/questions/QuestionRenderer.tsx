@@ -101,13 +101,13 @@ export function QuestionRenderer({
         className="flex flex-col items-center justify-center min-h-[80vh] px-6 py-12 w-full"
       >
         {/* Question text */}
-        <h2 className="text-2xl md:text-4xl font-bold text-center leading-snug max-w-3xl tracking-tight">
+        <h2 className="text-2xl md:text-4xl font-bold text-black text-center leading-snug max-w-3xl tracking-tight">
           {question.text}
         </h2>
 
         {/* Subtext (only for non-open types; open handles its own subtext) */}
         {question.subtext && question.type !== "open" && (
-          <p className="mt-4 text-muted text-sm md:text-base text-center max-w-2xl leading-relaxed italic">
+          <p className="mt-4 text-gray-500 text-sm md:text-base text-center max-w-2xl leading-relaxed italic">
             {question.subtext}
           </p>
         )}
