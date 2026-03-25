@@ -1,0 +1,52 @@
+{
+  "id": "0403",
+  "title": "Clinical Data Coordinator",
+  "category": "healthcare",
+  "company": "GSK",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 50000,
+    "max": 65000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "GSK is a science-led global healthcare company with a mission to discover, develop, and deliver health solutions. You'll manage clinical trial data ensuring regulatory compliance and data integrity.",
+  "responsibilities": [
+    "Manage and validate data from clinical trials",
+    "Prepare case report forms and source documentation",
+    "Resolve data discrepancies and ensure regulatory compliance",
+    "Support database development and quality assurance",
+    "Prepare regulatory submissions and audit responses",
+    "Track protocol deviations and manage data changes"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in healthcare-related field or equivalent experience",
+    "experience_years": "2-4 years of clinical data management or clinical research experience",
+    "skills": [
+      "Data management",
+      "Case report forms",
+      "Clinical trial knowledge",
+      "Regulatory compliance",
+      "Database systems"
+    ],
+    "certifications": [
+      "GCP (Good Clinical Practice) certification",
+      "ACRP certification"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (18-22 days annually)",
+    "Professional development and continuing education support",
+    "Employee assistance program (EAP) with mental health services"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-21"
+}

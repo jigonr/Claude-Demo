@@ -1,0 +1,50 @@
+{
+  "id": "0353",
+  "title": "Speech-Language Pathology Assistant",
+  "category": "healthcare",
+  "company": "Mount Sinai Health",
+  "industry": "Academic Medicine",
+  "location": {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Mount Sinai Health, a prestigious academic medical center, seeks a Speech-Language Pathology Assistant to support patient care and clinical excellence. Working onsite in Pittsburgh, you'll assist SLPs with therapy delivery, patient interaction, and clinical documentation. This role offers direct patient impact and the opportunity to develop skills in a leading medical institution.",
+  "responsibilities": [
+    "Assist speech-language pathologists with patient evaluations and therapy sessions",
+    "Support patient exercises and communication activities under SLP supervision",
+    "Maintain accurate clinical documentation and progress notes",
+    "Educate patients and families on therapeutic strategies",
+    "Maintain equipment and prepare therapy materials",
+    "Contribute to a patient-centered, collaborative care environment"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; Associate degree in related field preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Patient communication and empathy",
+      "Ability to follow treatment plans accurately",
+      "Attention to detail in documentation",
+      "Teamwork and collaboration",
+      "Basic anatomy and physiology knowledge",
+      "Willingness to learn and develop clinical skills"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, vision, and life insurance",
+    "401(k) with company match",
+    "Tuition reimbursement and continuing education",
+    "Shift flexibility and paid time off",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-12"
+}

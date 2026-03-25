@@ -1,0 +1,50 @@
+{
+  "id": "0365",
+  "title": "Medical Assistant",
+  "category": "healthcare",
+  "company": "Sanofi",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 27000,
+    "max": 35000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Sanofi, a global pharmaceutical leader, seeks a Medical Assistant to support our clinical and administrative operations. Working fully remote, you'll assist with patient care coordination, administrative tasks, and clinical support. This entry-level role offers a foundation in healthcare and pharmaceutical operations.",
+  "responsibilities": [
+    "Assist with patient intake and health history documentation",
+    "Schedule appointments and manage patient communications",
+    "Prepare examination rooms and sterilize medical equipment",
+    "Record vital signs and patient information",
+    "Support clinical staff with administrative and clinical tasks",
+    "Maintain patient confidentiality and HIPAA compliance"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED",
+    "experience_years": "0-1",
+    "skills": [
+      "Patient care and communication",
+      "Administrative and organizational skills",
+      "Basic medical knowledge and terminology",
+      "Attention to detail and accuracy",
+      "Ability to multitask and manage priorities",
+      "Understanding of HIPAA and confidentiality"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Fully remote position",
+    "Health, dental, and vision insurance",
+    "401(k) with company match",
+    "On-the-job training and development opportunities",
+    "Flexible work schedule"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-17"
+}

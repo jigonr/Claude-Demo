@@ -1,0 +1,52 @@
+{
+  "id": "0357",
+  "title": "Registered Nurse",
+  "category": "healthcare",
+  "company": "Mass General Brigham",
+  "industry": "Healthcare",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 77000,
+    "max": 100000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Mass General Brigham is a premier healthcare system advancing medicine through research, innovation, and patient-centered care across New England.\n\nWe're seeking a Registered Nurse to join our Healthcare team in San Francisco. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Provide direct patient care and coordinate nursing interventions",
+    "Assess patient condition and develop individualized care plans",
+    "Administer medications and perform nursing procedures safely",
+    "Collaborate with interdisciplinary team to optimize patient outcomes",
+    "Educate patients and families on health management",
+    "Maintain accurate medical records and ensure HIPAA compliance"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Nursing (BSN preferred, ASN acceptable)",
+    "experience_years": "1-3 years of nursing experience in acute care or specialized setting",
+    "skills": [
+      "Patient assessment and care planning",
+      "Medication administration",
+      "Clinical judgment",
+      "Communication",
+      "Emotional intelligence"
+    ],
+    "certifications": [
+      "RN License",
+      "ACLS/BLS",
+      "Specialty certification preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and sign-on bonus",
+    "Hybrid schedule flexibility",
+    "Comprehensive health coverage",
+    "Loan forgiveness programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-07"
+}

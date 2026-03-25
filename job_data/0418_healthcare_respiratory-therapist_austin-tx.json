@@ -1,0 +1,52 @@
+{
+  "id": "0418",
+  "title": "Respiratory Therapist",
+  "category": "healthcare",
+  "company": "AstraZeneca",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 50000,
+    "max": 65000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-17",
+  "description": "AstraZeneca is seeking a Respiratory Therapist for our Austin facility to support respiratory research and clinical programs. Work hybrid in a pharmaceutical environment advancing respiratory medicine.",
+  "responsibilities": [
+    "Provide respiratory care support for clinical research studies",
+    "Assist with pulmonary function testing and patient assessments",
+    "Manage respiratory equipment and ensure proper operation",
+    "Monitor patient respiratory status during research protocols",
+    "Document observations and maintain research records",
+    "Support quality control and protocol compliance"
+  ],
+  "requirements": {
+    "education": "Associate's degree or Bachelor's degree in Respiratory Therapy",
+    "experience_years": "2-4",
+    "skills": [
+      "Respiratory assessment and therapy techniques",
+      "Knowledge of pharmaceutical research and protocols",
+      "Pulmonary function testing and equipment operation",
+      "Patient care and communication skills",
+      "Attention to detail and regulatory compliance",
+      "Ability to work in research environment"
+    ],
+    "certifications": [
+      "RRT (Registered Respiratory Therapist) certification required"
+    ]
+  },
+  "benefits": [
+    "Hybrid schedule with research facility",
+    "Competitive salary and benefits",
+    "Health, dental, and vision insurance",
+    "Professional development and continuing education",
+    "Retirement plans with employer contribution"
+  ]
+}

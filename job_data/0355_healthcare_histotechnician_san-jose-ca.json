@@ -1,0 +1,50 @@
+{
+  "id": "0355",
+  "title": "Histotechnician",
+  "category": "healthcare",
+  "company": "Kaiser Permanente",
+  "industry": "Integrated Healthcare",
+  "location": {
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 60000,
+    "max": 78000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Kaiser Permanente is seeking a Histotechnician to support our pathology laboratory in San Jose. You'll process tissue specimens and prepare microscope slides for diagnostic examination. This hybrid role offers competitive compensation and the opportunity to work in an integrated healthcare environment.",
+  "responsibilities": [
+    "Process tissue specimens using manual and automated techniques; maintain quality standards throughout",
+    "Prepare slides through staining, mounting, and cover-slipping; ensure consistent preparation",
+    "Operate and maintain histology equipment; perform routine maintenance and troubleshoot issues",
+    "Maintain accurate specimen tracking and documentation throughout the workflow",
+    "Collaborate with pathologists and laboratory supervisors on quality improvement initiatives"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; completion of accredited histotechnology program",
+    "experience_years": "2-3",
+    "skills": [
+      "Tissue processing and preparation",
+      "Staining and mounting techniques",
+      "Laboratory equipment operation",
+      "Quality control procedures",
+      "Data documentation"
+    ],
+    "certifications": [
+      "Histotechnician certification (HT/HTL, ASCP)"
+    ]
+  },
+  "benefits": [
+    "Kaiser Permanente health coverage",
+    "401(k) with employer match",
+    "Paid time off (18 days)",
+    "Hybrid work flexibility",
+    "Tuition reimbursement for continued education"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-16"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0361",
+  "title": "Health Information Technician",
+  "category": "healthcare",
+  "company": "Fortrea",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 32000,
+    "max": 42000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Fortrea's Clinical Research Operations team is seeking a Health Information Technician for our Milwaukee site. You'll manage medical records, ensure regulatory compliance, and maintain the integrity of patient data that underpins critical research studies. This role is essential to our mission of advancing scientific discovery while protecting patient privacy.",
+  "responsibilities": [
+    "Manage and maintain patient medical records in accordance with HIPAA and institutional standards",
+    "Enter and verify patient data into electronic health record systems with high accuracy",
+    "Abstract clinical information from source documents to support research protocols",
+    "File, retrieve, and organize medical documentation according to established systems",
+    "Assist with audit preparation and regulatory compliance documentation"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; certification in Health Information Technology preferred",
+    "experience_years": "1-2",
+    "skills": [
+      "Proficiency with electronic health record systems",
+      "Strong organizational and filing abilities",
+      "Excellent attention to detail and accuracy",
+      "HIPAA compliance understanding",
+      "Basic computer skills and data entry competency"
+    ],
+    "certifications": [
+      "Registered Health Information Technician (RHIT) preferred"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision insurance",
+    "401(k) plan with company match",
+    "Paid time off and paid holidays",
+    "Professional development and certification support",
+    "Opportunity to contribute to advancing medical research"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-21"
+}

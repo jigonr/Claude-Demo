@@ -1,0 +1,50 @@
+{
+  "id": "0479",
+  "title": "Clinical Research Coordinator",
+  "category": "healthcare",
+  "company": "Stanford Medicine",
+  "industry": "Academic Medicine",
+  "location": {
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 67000,
+    "max": 86000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Stanford Medicine is recruiting Clinical Research Coordinators to support groundbreaking clinical trials advancing patient care. Based in Palo Alto, you'll oversee study logistics, ensure regulatory compliance, and work directly with research teams and patients. This role combines meticulous attention to detail with the satisfaction of contributing to medical discoveries that improve human health. You'll work with world-class researchers and cutting-edge medical science.",
+  "responsibilities": [
+    "Recruit, screen, and enroll eligible patients into clinical trials, ensuring informed consent and participant safety",
+    "Collect and manage study data, conducting quality checks and maintaining regulatory documentation",
+    "Maintain regulatory compliance with IRB and FDA requirements; prepare and update study documentation",
+    "Coordinate study visits, manage patient communication, and track appointments and follow-ups",
+    "Collaborate with physicians, nurses, and research teams to execute study protocols and resolve issues"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Life Sciences, Healthcare, Business, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Clinical trial management",
+      "Data management and quality assurance",
+      "Regulatory compliance (IRB, FDA)",
+      "Electronic data capture systems",
+      "Patient communication and enrollment"
+    ],
+    "certifications": [
+      "ACRP or SOCRA certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary with excellent benefits",
+    "Medical, dental, and vision coverage",
+    "Tuition reimbursement program",
+    "Retirement matching",
+    "Flexible scheduling for research needs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-15"
+}

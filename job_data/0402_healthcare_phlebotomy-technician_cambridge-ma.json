@@ -1,0 +1,51 @@
+{
+  "id": "0402",
+  "title": "Phlebotomy Technician",
+  "category": "healthcare",
+  "company": "AbbVie",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 41000,
+    "max": 54000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-15",
+  "description": "AbbVie is hiring a Phlebotomy Technician to collect blood specimens from trial participants at our Cambridge research facility. You will perform venipunctures, handle specimens according to protocol, maintain patient comfort, and ensure specimens are properly processed and labeled for analysis.",
+  "responsibilities": [
+    "Perform venipuncture and collect blood specimens from research participants",
+    "Prepare, label, and process blood samples per protocol specifications",
+    "Maintain equipment and ensure proper calibration of centrifuges",
+    "Track specimen chain of custody and maintain documentation",
+    "Monitor participant comfort and address concerns",
+    "Adhere to OSHA bloodborne pathogen standards and safety protocols"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; phlebotomy certificate or program completion required",
+    "experience_years": "0-2",
+    "skills": [
+      "Venipuncture and specimen collection",
+      "Patient safety and comfort",
+      "Attention to detail and accuracy",
+      "Ability to follow strict protocols",
+      "Understanding of bloodborne pathogen safety"
+    ],
+    "certifications": [
+      "CPT (Certified Phlebotomy Technician) required or obtainable",
+      "CPR certification required"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and benefits",
+    "Tuition reimbursement for certifications",
+    "Continuing education support",
+    "Health insurance and employee wellness programs"
+  ]
+}

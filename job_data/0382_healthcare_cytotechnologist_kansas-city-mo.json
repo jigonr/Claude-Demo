@@ -1,0 +1,54 @@
+{
+  "id": "0382",
+  "title": "Cytotechnologist",
+  "category": "healthcare",
+  "company": "Medtronic",
+  "industry": "Medical Devices",
+  "location": {
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 46000,
+    "max": 59000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Cytotechnologist at Medtronic. This is an exciting opportunity to join our patient-impact, innovation-driven, global team and make a direct impact on our mission. If you have 0-1 years years of experience and are passionate about Medical Devices, we'd love to hear from you.",
+  "responsibilities": [
+    "Prepare and examine microscopic cell samples for pathological abnormalities",
+    "Operate laboratory equipment and quality control testing",
+    "Document findings and maintain accurate laboratory records",
+    "Follow established protocols to ensure specimen integrity and accuracy",
+    "Identify abnormal cells and communicate findings to pathologists",
+    "Participate in continuing education to stay current with diagnostic advances"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Cytotechnology",
+    "experience_years": "0-1 years",
+    "skills": [
+      "Microscopy",
+      "Specimen preparation",
+      "Quality control",
+      "Medical terminology",
+      "Attention to detail"
+    ],
+    "certifications": [
+      "CT (Cytotechnologist) certification required"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule",
+    "Career development opportunities",
+    "Employee recognition programs",
+    "Community involvement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-15"
+}

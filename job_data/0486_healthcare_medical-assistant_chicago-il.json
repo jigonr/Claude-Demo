@@ -1,0 +1,50 @@
+{
+  "id": "0486",
+  "title": "Medical Assistant",
+  "category": "healthcare",
+  "company": "Syneos Health",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 33000,
+    "max": 44000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Syneos Health is seeking a Medical Assistant to support clinical research operations in Chicago. You'll assist with patient examinations, vital sign collection, and study documentation. Work onsite for a leading biopharmaceutical services company advancing patient care through innovative clinical research.",
+  "responsibilities": [
+    "Take and record vital signs (blood pressure, temperature, pulse, respiration)",
+    "Prepare examination rooms and equipment for patient visits",
+    "Assist with patient examinations and procedures under supervision",
+    "Collect blood samples and other specimens according to protocol",
+    "Maintain accurate patient records and study documentation"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; medical assistant certificate preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Patient care and communication",
+      "Medical terminology",
+      "HIPAA compliance and confidentiality",
+      "Ability to follow clinical protocols precisely",
+      "Physical stamina for clinical environment"
+    ],
+    "certifications": [
+      "CMA or RMA certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Health, dental, and vision coverage",
+    "401(k) plan",
+    "Onsite training and skill development",
+    "Clinical research experience"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-18"
+}

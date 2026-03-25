@@ -1,0 +1,50 @@
+{
+  "id": "0404",
+  "title": "EKG Technician",
+  "category": "healthcare",
+  "company": "Baxter International",
+  "industry": "Medical Products",
+  "location": {
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 36000,
+    "max": 47000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Baxter International is seeking an EKG Technician for our Austin clinical facility. You'll operate electrocardiographic equipment, record patient data, and support our healthcare operations team. This hybrid role offers the opportunity to work in medical technology with a global leader in healthcare solutions.",
+  "responsibilities": [
+    "Perform electrocardiographic (EKG) tests; operate and maintain EKG equipment",
+    "Record patient information and test results accurately; maintain records",
+    "Communicate with patients to ensure comfort and obtain necessary information",
+    "Perform routine equipment maintenance and troubleshooting",
+    "Support clinical staff with test scheduling and coordination"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; EKG certification preferred",
+    "experience_years": "1-2",
+    "skills": [
+      "Proficiency with EKG equipment and operation",
+      "Strong patient care and interpersonal abilities",
+      "Accuracy and attention to detail",
+      "Medical terminology knowledge",
+      "Ability to work in a clinical healthcare setting"
+    ],
+    "certifications": [
+      "EKG Technician Certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) plan with company match",
+    "Paid time off and paid holidays",
+    "Professional development and certification support",
+    "Hybrid work flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-17"
+}

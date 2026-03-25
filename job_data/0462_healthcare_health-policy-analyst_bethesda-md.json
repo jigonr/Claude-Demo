@@ -1,0 +1,52 @@
+{
+  "id": "0462",
+  "title": "Health Policy Analyst",
+  "category": "healthcare",
+  "company": "Dana-Farber Cancer Institute",
+  "industry": "Oncology",
+  "location": {
+    "city": "Bethesda",
+    "state": "MD",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 62000,
+    "max": 81000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Dana-Farber is a world-leading cancer research and treatment center affiliated with Harvard Medical School. You'll analyze health policy issues impacting cancer care and research.",
+  "responsibilities": [
+    "Analyze healthcare policy impact on organizational operations and research",
+    "Monitor legislative changes in oncology and cancer care regulation",
+    "Develop policy position statements and advocacy materials",
+    "Present policy analyses to leadership and board committees",
+    "Build relationships with policy stakeholders and advocacy organizations",
+    "Support grant applications and policy-focused research initiatives"
+  ],
+  "requirements": {
+    "education": "Master's degree in Public Health, Policy, Health Administration, or related field",
+    "experience_years": "3-5 years of health policy research or analysis experience",
+    "skills": [
+      "Policy analysis",
+      "Health systems knowledge",
+      "Quantitative analysis",
+      "Writing",
+      "Stakeholder engagement"
+    ],
+    "certifications": [
+      "Health policy expertise",
+      "Grant writing"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (18-22 days annually)",
+    "Professional development and continuing education support",
+    "Employee assistance program (EAP) with mental health services"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-01"
+}

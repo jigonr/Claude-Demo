@@ -1,0 +1,54 @@
+{
+  "id": "0385",
+  "title": "Cytotechnologist",
+  "category": "healthcare",
+  "company": "Cleveland Clinic",
+  "industry": "Healthcare",
+  "location": {
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 57000,
+    "max": 73000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Cytotechnologist at Cleveland Clinic. This is an exciting opportunity to join our patient-centered, clinical excellence, academic team and make a direct impact on our mission. If you have 0-1 years years of experience and are passionate about Healthcare, we'd love to hear from you.",
+  "responsibilities": [
+    "Prepare and examine microscopic cell samples for pathological abnormalities",
+    "Operate laboratory equipment and quality control testing",
+    "Document findings and maintain accurate laboratory records",
+    "Follow established protocols to ensure specimen integrity and accuracy",
+    "Identify abnormal cells and communicate findings to pathologists",
+    "Participate in continuing education to stay current with diagnostic advances"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Cytotechnology",
+    "experience_years": "0-1 years",
+    "skills": [
+      "Microscopy",
+      "Specimen preparation",
+      "Quality control",
+      "Medical terminology",
+      "Attention to detail"
+    ],
+    "certifications": [
+      "CT (Cytotechnologist) certification required"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Health insurance for dependents",
+    "Flexible scheduling options",
+    "Continuing medical education funding",
+    "Healthcare provider discounts for employees"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-22"
+}

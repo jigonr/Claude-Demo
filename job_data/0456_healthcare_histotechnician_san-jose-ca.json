@@ -1,0 +1,50 @@
+{
+  "id": "0456",
+  "title": "Histotechnician",
+  "category": "healthcare",
+  "company": "Moderna",
+  "industry": "Biotechnology",
+  "location": {
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 60000,
+    "max": 78000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Moderna is a clinical-stage biotechnology company pioneering mRNA therapeutics. We're creating a new class of transformative medicines.\n\nWe're seeking a Histotechnician to join our Biotechnology team in San Jose. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Process tissue specimens for microscopic examination following standard protocols",
+    "Operate histology equipment including microtomes, stainers, and embedding systems",
+    "Ensure specimen quality control and maintain accurate records",
+    "Prepare microscope slides for pathologist review",
+    "Maintain clean, organized laboratory environment and equipment",
+    "Support research activities and clinical sample processing"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Histotechnology or related field; certification preferred",
+    "experience_years": "1-3 years in histopathology or clinical laboratory",
+    "skills": [
+      "Histology protocols",
+      "Microscopy",
+      "Laboratory equipment operation",
+      "Attention to detail",
+      "Documentation"
+    ],
+    "certifications": [
+      "HT (Histotechnician) or HTL (Histotechnologist) certification"
+    ]
+  },
+  "benefits": [
+    "Hybrid work flexibility",
+    "Health and dental insurance",
+    "Tuition reimbursement",
+    "Career advancement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-23"
+}

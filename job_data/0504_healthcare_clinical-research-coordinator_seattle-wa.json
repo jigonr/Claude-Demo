@@ -1,0 +1,52 @@
+{
+  "id": "0504",
+  "title": "Clinical Research Coordinator",
+  "category": "healthcare",
+  "company": "Intermountain Health",
+  "industry": "Hospital System",
+  "location": {
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 60000,
+    "max": 77000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Intermountain Health, a leading integrated healthcare system, seeks a Clinical Research Coordinator to manage studies across our Seattle hospitals and clinics. You'll recruit participants, manage protocols, ensure regulatory compliance, and advance patient-centered research. This meaningful role offers the opportunity to contribute to medical breakthroughs while supporting clinical excellence.",
+  "responsibilities": [
+    "Coordinate day-to-day operations of clinical research studies",
+    "Recruit and screen study participants meeting protocol criteria",
+    "Obtain informed consent and manage participant documentation",
+    "Monitor protocol compliance and ensure regulatory adherence",
+    "Maintain study-specific databases and quality assurance records",
+    "Communicate regularly with principal investigators and study teams"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in healthcare, life sciences, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Clinical research knowledge and GCP compliance",
+      "Patient communication and interpersonal skills",
+      "Attention to detail and data management",
+      "Project coordination and organizational skills",
+      "Ability to maintain participant confidentiality",
+      "Electronic medical records (EMR) experience"
+    ],
+    "certifications": [
+      "CITI certification or GCP training (can be obtained on the job)"
+    ]
+  },
+  "benefits": [
+    "Health, dental, vision, and wellness benefits",
+    "401(k) with company match",
+    "Tuition reimbursement for continuing education",
+    "Paid time off and shift flexibility",
+    "Access to healthcare system facilities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-20"
+}

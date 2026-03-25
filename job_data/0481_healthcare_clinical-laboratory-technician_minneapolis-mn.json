@@ -1,0 +1,54 @@
+{
+  "id": "0481",
+  "title": "Clinical Laboratory Technician",
+  "category": "healthcare",
+  "company": "CDC",
+  "industry": "Government/Public Health",
+  "location": {
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Clinical Laboratory Technician at CDC. This is an exciting opportunity to join our public service, scientific rigor, emergency-ready team and make a direct impact on our mission. If you have 0-2 years years of experience and are passionate about Government/Public Health, we'd love to hear from you.",
+  "responsibilities": [
+    "Perform clinical laboratory tests on patient specimens following established protocols",
+    "Operate and maintain laboratory instrumentation and quality control systems",
+    "Collect and process patient specimens ensuring proper handling and documentation",
+    "Review results and escalate critical values to clinical staff immediately",
+    "Maintain accurate and timely laboratory information system records",
+    "Participate in quality assurance programs and continuing education"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Clinical Laboratory Science",
+    "experience_years": "0-2 years",
+    "skills": [
+      "Laboratory instrumentation",
+      "Phlebotomy",
+      "Microbiology",
+      "Chemistry",
+      "Quality control"
+    ],
+    "certifications": [
+      "Medical Lab Technician (MLT) or Medical Technologist (MT) ASCP"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule",
+    "Career development opportunities",
+    "Employee recognition programs",
+    "Community involvement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-20"
+}

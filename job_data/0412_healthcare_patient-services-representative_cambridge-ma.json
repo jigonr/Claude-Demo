@@ -1,0 +1,52 @@
+{
+  "id": "0412",
+  "title": "Patient Services Representative",
+  "category": "healthcare",
+  "company": "Pfizer",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 41000,
+    "max": 54000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-25",
+  "description": "Pfizer's Cambridge location is seeking a compassionate Patient Services Representative to support patients accessing our innovative medicines. You'll serve as a vital link between patients, healthcare providers, and our support programs, helping ensure patients receive the medications they need. This on-site role is central to our mission of delivering breakthrough medicines to patients worldwide.",
+  "responsibilities": [
+    "Answer patient and healthcare provider inquiries about Pfizer medications, side effects, and usage instructions",
+    "Process enrollment applications for patient assistance programs and support services",
+    "Manage patient documentation and maintain accurate records in our support systems",
+    "Coordinate with pharmacies and clinics to facilitate medication access and delivery",
+    "Respond to urgent patient concerns and escalate complex cases to clinical specialists",
+    "Document all interactions and generate reports on program utilization and patient outcomes"
+  ],
+  "requirements": {
+    "education": "High School diploma or GED; Associate's degree in healthcare field preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Strong customer service and empathy skills",
+      "Ability to communicate clearly with diverse patient populations",
+      "Proficiency with computer systems and phone communication tools",
+      "Knowledge of basic medical terminology",
+      "Detail-oriented with ability to handle confidential information",
+      "Organizational and multitasking abilities"
+    ],
+    "certifications": [
+      "HIPAA certification required (training provided)"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision insurance",
+    "Pharmaceutical employee discounts",
+    "Paid time off and flexible scheduling",
+    "On-site wellness facilities and health programs",
+    "Tuition reimbursement for healthcare-related coursework"
+  ]
+}

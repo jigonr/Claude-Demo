@@ -1,0 +1,51 @@
+{
+  "id": "0377",
+  "title": "Environmental Health Specialist",
+  "category": "healthcare",
+  "company": "Novartis",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-16",
+  "description": "Novartis is hiring an Environmental Health Specialist to support our Nashville manufacturing and quality operations. You will monitor workplace environmental conditions, conduct safety audits, ensure regulatory compliance with OSHA and EPA standards, and work with cross-functional teams to maintain our commitment to employee safety and environmental stewardship.",
+  "responsibilities": [
+    "Conduct monthly environmental audits of manufacturing facilities for air quality, waste management, and regulatory compliance",
+    "Monitor exposure to chemical and biological hazards, maintaining exposure monitoring data",
+    "Prepare environmental health and safety reports for regulatory submissions and internal leadership",
+    "Coordinate safety training programs and develop standard operating procedures for hazard management",
+    "Investigate environmental incidents and recommend corrective actions",
+    "Maintain inventory of safety equipment and coordinate scheduled maintenance"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Environmental Science, Public Health, Industrial Hygiene, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Knowledge of OSHA, EPA, and pharmaceutical manufacturing regulations",
+      "Environmental monitoring and assessment techniques",
+      "Data analysis and report writing",
+      "Hazard recognition and control measures",
+      "Cross-functional collaboration and communication"
+    ],
+    "certifications": [
+      "Certified Industrial Hygienist (CIH) or Certified Safety Professional (CSP) preferred",
+      "CPR/First Aid certification required"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health and wellness benefits",
+    "Professional development and continuing education support",
+    "On-site fitness center and wellness programs",
+    "Flexible work schedules and work-life balance initiatives"
+  ]
+}

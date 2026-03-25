@@ -1,0 +1,50 @@
+{
+  "id": "0442",
+  "title": "Patient Services Representative",
+  "category": "healthcare",
+  "company": "NYU Langone Health",
+  "industry": "Academic Medicine",
+  "location": {
+    "city": "Provo",
+    "state": "UT",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 27000,
+    "max": 35000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-19",
+  "description": "NYU Langone Health is seeking a Patient Services Representative to provide administrative support to our Provo clinic operations. You will schedule appointments, check patients in, collect insurance information, and ensure smooth patient flow through the facility while maintaining a welcoming and professional environment.",
+  "responsibilities": [
+    "Schedule patient appointments and manage appointment calendar",
+    "Check patients in and collect demographic and insurance information",
+    "Process payments and provide financial information to patients",
+    "Greet patients in a friendly and professional manner",
+    "Maintain patient records and ensure HIPAA compliance",
+    "Communicate appointment changes and provide patient resources"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; some college preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Patient communication and customer service",
+      "Scheduling software and administrative systems",
+      "Data entry and accuracy",
+      "Understanding of HIPAA and patient privacy",
+      "Multitasking and time management"
+    ],
+    "certifications": [
+      "None required"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision insurance",
+    "Employee discount on healthcare services",
+    "Tuition reimbursement for healthcare administration",
+    "Paid time off and employee wellness programs"
+  ]
+}

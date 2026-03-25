@@ -1,0 +1,50 @@
+{
+  "id": "0483",
+  "title": "Surgical Technologist",
+  "category": "healthcare",
+  "company": "Roche",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 35000,
+    "max": 46000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Roche is seeking a Surgical Technologist for remote support of our pharmaceutical and clinical operations. You'll coordinate surgical and clinical procedures, manage sterile fields, and ensure compliance with safety protocols. This role offers the unique opportunity to contribute to pharmaceutical research and development from a behind-the-scenes operational perspective.",
+  "responsibilities": [
+    "Prepare surgical and procedural environments, ensuring proper sterilization and organization of instruments and equipment",
+    "Monitor sterile fields and maintain compliance with infection control standards throughout procedures",
+    "Assist with procedure setup and management; coordinate communication between surgical and clinical teams",
+    "Maintain detailed records of procedures, inventory, and equipment maintenance",
+    "Support continuous quality improvement and compliance with accreditation standards"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; completion of accredited surgical technology program",
+    "experience_years": "1-3",
+    "skills": [
+      "Surgical asepsis and sterilization",
+      "Equipment operation and maintenance",
+      "Procedure coordination",
+      "Documentation and compliance",
+      "Problem-solving under pressure"
+    ],
+    "certifications": [
+      "Certified Surgical Technologist (CST)"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Paid time off (16 days)",
+    "Remote work flexibility",
+    "Professional development funding"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-18"
+}

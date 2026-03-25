@@ -1,0 +1,50 @@
+{
+  "id": "0387",
+  "title": "Speech-Language Pathology Assistant",
+  "category": "healthcare",
+  "company": "Roche",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Roche is seeking a Speech-Language Pathology Assistant to support therapeutic services and patient care. You'll assist with therapy delivery, patient assessments, and documentation. Work remotely for a global pharmaceutical company advancing patient care.",
+  "responsibilities": [
+    "Assist speech-language pathologists with patient assessment and treatment",
+    "Implement therapeutic exercises under SLP supervision",
+    "Maintain accurate treatment records and patient documentation",
+    "Prepare therapy materials and therapeutic equipment",
+    "Support patient motivation and participation in therapy"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; SLP assistant certification preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Patient care and communication",
+      "Speech pathology terminology",
+      "Ability to follow clinical protocols",
+      "Organizational and documentation skills",
+      "Compassion and patience"
+    ],
+    "certifications": [
+      "SLPA certification (or eligible)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Remote work flexibility",
+    "Professional development support"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-02"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0441",
+  "title": "Licensed Practical Nurse",
+  "category": "healthcare",
+  "company": "Fortrea",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 37000,
+    "max": 49000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-21",
+  "description": "Fortrea, a leading clinical research services company, is seeking a Licensed Practical Nurse to support patient care in our Tampa clinical research facility. You'll provide direct patient care during clinical trials while working in a hybrid model that offers flexibility. Help advance medicine while building your nursing career in a supportive research environment.",
+  "responsibilities": [
+    "Administer medications and treatments under physician supervision in accordance with protocol requirements",
+    "Collect vital signs and patient specimens for clinical research studies",
+    "Assess patient health status and document observations in electronic health records",
+    "Monitor patients for adverse events and report safety concerns to study team",
+    "Provide patient education regarding study procedures and medication adherence",
+    "Maintain infection control and safety protocols in the clinical facility"
+  ],
+  "requirements": {
+    "education": "Licensed Practical Nurse (LPN) credential from accredited program",
+    "experience_years": "1-3",
+    "skills": [
+      "Current LPN licensure in Florida",
+      "Knowledge of clinical trial procedures and Good Clinical Practice (GCP)",
+      "Strong patient assessment and communication skills",
+      "Proficiency with electronic health records (EHR) systems",
+      "Ability to work with diverse patient populations",
+      "Attention to detail and regulatory compliance"
+    ],
+    "certifications": [
+      "Current Florida LPN license required",
+      "CPR/BLS certification required",
+      "GCP certification required within 60 days of hire"
+    ]
+  },
+  "benefits": [
+    "Hybrid schedule with flexibility for on-site clinical work",
+    "Comprehensive health, dental, and vision insurance",
+    "Professional development and continuing education reimbursement",
+    "Retirement plan with employer contribution",
+    "Access to Fortrea's employee wellness resources"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "0466",
+  "title": "Medical Coder",
+  "category": "healthcare",
+  "company": "Intuitive Surgical",
+  "industry": "Medical Devices",
+  "location": {
+    "city": "Provo",
+    "state": "UT",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 34000,
+    "max": 44000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Intuitive Surgical, maker of the da Vinci Surgical System, seeks a Medical Coder to support our healthcare documentation and regulatory compliance efforts in Provo. You'll assign ICD-10 and CPT codes to medical procedures and health records, ensuring accuracy for billing and data analysis. Join our growing team in a role that bridges healthcare operations and surgical innovation.",
+  "responsibilities": [
+    "Review medical records and assign appropriate ICD-10 and CPT codes",
+    "Ensure coding accuracy and compliance with regulatory guidelines",
+    "Maintain confidentiality and handle patient information securely",
+    "Resolve coding discrepancies and questions with clinical staff",
+    "Stay current on coding updates and regulatory changes",
+    "Contribute to coding metrics and quality assurance programs"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; medical coding certification preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Knowledge of ICD-10 and CPT coding systems",
+      "Attention to detail and accuracy",
+      "Medical terminology and anatomy knowledge",
+      "Data entry and documentation skills",
+      "Ability to work independently",
+      "Understanding of HIPAA and compliance"
+    ],
+    "certifications": [
+      "AAPC or AHIMA coding certification preferred"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision insurance",
+    "401(k) with company match",
+    "Coding certification reimbursement",
+    "Continuing education support",
+    "Onsite fitness facilities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-06"
+}

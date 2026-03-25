@@ -1,0 +1,53 @@
+{
+  "id": "0498",
+  "title": "Respiratory Therapist",
+  "category": "healthcare",
+  "company": "Memorial Sloan Kettering",
+  "industry": "Oncology",
+  "location": {
+    "city": "Portland",
+    "state": "OR",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 50000,
+    "max": 65000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-13",
+  "description": "Memorial Sloan Kettering is seeking a Respiratory Therapist to support cancer patient care and treatment. Work fully remote providing respiratory support for patients undergoing cancer therapies. Help improve outcomes for cancer patients nationwide.",
+  "responsibilities": [
+    "Provide respiratory care and oxygen therapy to cancer patients",
+    "Monitor patient respiratory status and vital signs",
+    "Assist with intubation and extubation procedures",
+    "Maintain and troubleshoot respiratory equipment",
+    "Document patient assessments and care provided",
+    "Collaborate with oncology teams on patient care coordination"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Respiratory Therapy from accredited program",
+    "experience_years": "2-4",
+    "skills": [
+      "Respiratory assessment and care delivery",
+      "Mechanical ventilation management",
+      "Cardiopulmonary monitoring",
+      "Patient communication and compassion",
+      "Attention to detail and safety awareness",
+      "Ability to work in high-stress environments"
+    ],
+    "certifications": [
+      "RRT (Registered Respiratory Therapist) certification required",
+      "ACLS (Advanced Cardiac Life Support) certification required"
+    ]
+  },
+  "benefits": [
+    "Fully remote work opportunity",
+    "Competitive salary and comprehensive benefits",
+    "Health, dental, vision, and life insurance",
+    "Continuing education and professional development",
+    "Retirement plans with employer contribution"
+  ]
+}

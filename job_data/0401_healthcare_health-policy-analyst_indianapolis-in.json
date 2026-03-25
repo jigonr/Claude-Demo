@@ -1,0 +1,50 @@
+{
+  "id": "0401",
+  "title": "Health Policy Analyst",
+  "category": "healthcare",
+  "company": "Sanofi",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 44000,
+    "max": 57000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-01-19",
+  "description": "Sanofi is seeking a Health Policy Analyst to monitor healthcare policy developments, analyze regulatory impacts on our pharmaceuticals business, and provide strategic recommendations. You will track state and federal legislation, engage with policymakers, and ensure compliance with evolving regulations.",
+  "responsibilities": [
+    "Monitor federal and state healthcare legislation and regulatory developments",
+    "Analyze impact of policy changes on pharmaceutical pricing, coverage, and market access",
+    "Prepare policy briefs and impact assessments for senior leadership",
+    "Engage with policy organizations and advocacy groups",
+    "Track regulatory requirements and ensure business compliance",
+    "Support development of company policy positions and testimony"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Health Policy, Public Health, Political Science, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Healthcare policy knowledge and legislative analysis",
+      "Regulatory affairs and compliance understanding",
+      "Research and writing skills",
+      "Stakeholder engagement and communication",
+      "Data analysis and policy evaluation"
+    ],
+    "certifications": [
+      "None required; MPH or policy certification preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and benefits package",
+    "Health, dental, vision, and mental health coverage",
+    "Professional development and conference attendance",
+    "Hybrid work flexibility and work-life balance"
+  ]
+}

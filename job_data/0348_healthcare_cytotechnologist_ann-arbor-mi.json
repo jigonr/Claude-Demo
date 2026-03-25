@@ -1,0 +1,52 @@
+{
+  "id": "0348",
+  "title": "Cytotechnologist",
+  "category": "healthcare",
+  "company": "Providence Health",
+  "industry": "Hospital System",
+  "location": {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 66000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Providence Health, a mission-driven healthcare system, seeks a Cytotechnologist for our Ann Arbor laboratory. You'll examine cellular specimens, identify abnormalities, and support diagnostic accuracy for our patients. Work onsite in a collaborative laboratory environment committed to patient care and diagnostic excellence.",
+  "responsibilities": [
+    "Prepare and stain tissue and body fluid specimens for microscopic examination",
+    "Screen and examine specimens to identify abnormalities and cellular changes",
+    "Prepare quality written reports documenting findings and impressions",
+    "Collaborate with pathologists on specimen interpretation and complex cases",
+    "Maintain laboratory quality assurance and proficiency standards",
+    "Assist with special procedures and immunohistochemical staining"
+  ],
+  "requirements": {
+    "education": "Associate degree in Cytotechnology from an accredited program",
+    "experience_years": "1-3",
+    "skills": [
+      "Microscopy and specimen preparation",
+      "Cytology and cell identification",
+      "Attention to detail and diagnostic accuracy",
+      "Quality assurance and compliance",
+      "Electronic medical records (EMR)",
+      "Communication and report writing"
+    ],
+    "certifications": [
+      "ASCP certification required or eligible within 1 year"
+    ]
+  },
+  "benefits": [
+    "Health, dental, vision, and life insurance",
+    "Pension plan and 401(k) options",
+    "Tuition reimbursement for professional development",
+    "Shift flexibility and paid time off",
+    "Access to employee wellness programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-09"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0383",
+  "title": "Respiratory Therapist",
+  "category": "healthcare",
+  "company": "ICON",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 40000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "ICON is a leading contract research organization advancing clinical research for pharmaceuticals and medical devices globally.\n\nWe're seeking a Respiratory Therapist to join our Clinical Research team in Cincinnati. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Administer respiratory therapy treatments and manage patient airways",
+    "Operate and troubleshoot ventilators and other respiratory support equipment",
+    "Monitor patient response to therapy and adjust treatment parameters",
+    "Maintain accurate patient treatment records and documentation",
+    "Collaborate with clinical team to optimize respiratory care",
+    "Ensure compliance with clinical protocols and safety standards"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Respiratory Therapy; Bachelor's preferred",
+    "experience_years": "1-3 years of respiratory therapy in clinical research or hospital setting",
+    "skills": [
+      "Respiratory equipment operation",
+      "Patient assessment",
+      "Clinical knowledge",
+      "Attention to detail",
+      "Communication"
+    ],
+    "certifications": [
+      "Registered Respiratory Therapist (RRT) required, ACLS/BLS"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and shift differentials",
+    "Health and dental coverage",
+    "Continuing education support",
+    "Career advancement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-21"
+}

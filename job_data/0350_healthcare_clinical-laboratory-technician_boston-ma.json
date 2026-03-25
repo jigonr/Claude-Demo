@@ -1,0 +1,49 @@
+{
+  "id": "0350",
+  "title": "Clinical Laboratory Technician",
+  "category": "healthcare",
+  "company": "Moderna",
+  "industry": "Biotechnology",
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 56000,
+    "max": 72000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "At Moderna, support our biotech research and development efforts as a Clinical Laboratory Technician, performing complex analyses in a cutting-edge facility.",
+  "responsibilities": [
+    "Perform advanced laboratory tests and analyses on clinical and research samples",
+    "Maintain and calibrate sophisticated laboratory equipment",
+    "Prepare reagents and solutions following standard protocols",
+    "Document results and maintain comprehensive quality assurance records",
+    "Collaborate with researchers and scientists on projects",
+    "Ensure compliance with regulatory and safety standards"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "1-3",
+    "skills": [
+      "Laboratory techniques",
+      "Equipment operation",
+      "Quality assurance",
+      "Research support",
+      "Documentation"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive compensation package",
+    "Health, dental, and vision coverage",
+    "401(k) or retirement benefits",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-09"
+}

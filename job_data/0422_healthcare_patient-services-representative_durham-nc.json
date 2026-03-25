@@ -1,0 +1,48 @@
+{
+  "id": "0422",
+  "title": "Patient Services Representative",
+  "category": "healthcare",
+  "company": "Stryker",
+  "industry": "Medical Devices",
+  "location": {
+    "city": "Durham",
+    "state": "NC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 30000,
+    "max": 39000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Stryker is seeking a Patient Services Representative to support patients using our medical devices in the Durham area. You'll provide education, answer questions, and help patients navigate their medical device options. This onsite role offers direct patient impact and exposure to medical device innovation.",
+  "responsibilities": [
+    "Respond to patient inquiries about medical devices; provide education on usage and care",
+    "Coordinate with healthcare providers to ensure patient access to needed devices",
+    "Maintain patient database and communication records; ensure HIPAA compliance",
+    "Support patient education and support programs; facilitate device training sessions",
+    "Gather patient feedback and communicate insights to product and clinical teams"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED",
+    "experience_years": "0-2",
+    "skills": [
+      "Patient communication",
+      "Medical device knowledge",
+      "HIPAA awareness",
+      "Data management",
+      "Customer service"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Paid time off (14 days)",
+    "Device training and education",
+    "Career advancement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-25"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0452",
+  "title": "Healthcare Quality Associate",
+  "category": "healthcare",
+  "company": "Eli Lilly",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Eli Lilly is seeking a Healthcare Quality Associate to support quality assurance and compliance initiatives in our Atlanta operations. You'll monitor quality metrics, conduct audits, and work to ensure our pharmaceutical manufacturing meets the highest standards. This hybrid role combines regulatory compliance with operational improvement.",
+  "responsibilities": [
+    "Monitor healthcare quality metrics and performance indicators; track compliance with regulatory standards",
+    "Conduct internal audits and inspections to identify areas for improvement",
+    "Document findings and recommend corrective actions; track implementation and effectiveness",
+    "Support regulatory compliance and documentation requirements; prepare audit responses",
+    "Collaborate with operations and quality teams to identify and prevent quality issues"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Healthcare Administration, Life Sciences, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Quality assurance and auditing",
+      "Regulatory compliance knowledge",
+      "Data analysis and reporting",
+      "Documentation and record-keeping",
+      "Communication skills"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Paid time off (17 days)",
+    "Tuition reimbursement",
+    "Employee wellness programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-25"
+}

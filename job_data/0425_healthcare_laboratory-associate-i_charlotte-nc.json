@@ -1,0 +1,52 @@
+{
+  "id": "0425",
+  "title": "Laboratory Associate I",
+  "category": "healthcare",
+  "company": "PPD",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 40000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "PPD is a leading clinical research organization conducting trials across therapeutic areas. You'll perform analytical work supporting pharmaceutical and biotech research.",
+  "responsibilities": [
+    "Perform routine laboratory procedures following Standard Operating Procedures",
+    "Prepare and analyze clinical specimens for research studies",
+    "Maintain laboratory equipment and ensure quality control",
+    "Record data accurately in laboratory information systems",
+    "Clean and sterilize equipment following infection control protocols",
+    "Support compliance audits and regulatory inspections"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; some college coursework preferred",
+    "experience_years": "0-2 years of laboratory or clinical experience",
+    "skills": [
+      "Laboratory procedures",
+      "Sample preparation",
+      "Quality control",
+      "Safety protocols",
+      "ELN systems"
+    ],
+    "certifications": [
+      "Bloodborne Pathogen training",
+      "CPR/BLS"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (18-22 days annually)",
+    "Professional development and continuing education support",
+    "Employee assistance program (EAP) with mental health services"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-02"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0413",
+  "title": "Health Educator",
+  "category": "healthcare",
+  "company": "ICON",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Boulder",
+    "state": "CO",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 46000,
+    "max": 60000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "ICON is seeking a Health Educator to develop and deliver health education programs for clinical study participants. You'll create educational materials, conduct presentations, and support patient engagement in research. Work onsite in Boulder for a leading clinical research organization advancing healthcare innovation.",
+  "responsibilities": [
+    "Develop and deliver health education programs for study participants",
+    "Create educational materials and resources",
+    "Conduct presentations and group education sessions",
+    "Track participant engagement and program outcomes",
+    "Support study compliance through patient education"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Public Health, Health Education, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Health education program development",
+      "Public speaking and presentation",
+      "Patient communication and engagement",
+      "Curriculum development",
+      "Basic research knowledge (preferred)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "On-site Boulder office",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-16"
+}
