@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "0115",
+    "title": "Software Engineer I",
+    "category": "tech",
+    "company": "Rippling",
+    "industry": "HR Tech",
+    "location": {
+      "city": "Boise",
+      "state": "ID",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 63000,
+      "max": 80000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-25",
+    "filename_base": "0115_tech_software-engineer-i_boise-id"
+  },
+  {
+    "id": "0141",
+    "title": "QA Engineer",
+    "category": "tech",
+    "company": "Salesforce",
+    "industry": "CRM",
+    "location": {
+      "city": "Ann Arbor",
+      "state": "MI",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 57000,
+      "max": 74000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-23",
+    "filename_base": "0141_tech_qa-engineer_ann-arbor-mi"
+  },
+  {
+    "id": "0135",
+    "title": "Solutions Engineer",
+    "category": "tech",
+    "company": "GitLab",
+    "industry": "DevOps",
+    "location": {
+      "city": "Nashville",
+      "state": "TN",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 68000,
+      "max": 87000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-09",
+    "filename_base": "0135_tech_solutions-engineer_nashville-tn"
+  },
+  {
+    "id": "0209",
+    "title": "Digital Marketing Analyst",
+    "category": "business",
+    "company": "General Mills",
+    "industry": "Food",
+    "location": {
+      "city": "Sacramento",
+      "state": "CA",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 52000,
+      "max": 68000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-13",
+    "filename_base": "0209_business_digital-marketing-analyst_sacramento-ca"
+  },
+  {
+    "id": "0079",
+    "title": "Platform Engineer I",
+    "category": "tech",
+    "company": "Plaid",
+    "industry": "Fintech",
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 70000,
+      "max": 88000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-20",
+    "filename_base": "0079_tech_platform-engineer-i_phoenix-az"
+  },
+  {
+    "id": "0282",
+    "title": "Management Consultant Analyst",
+    "category": "business",
+    "company": "Northwestern Mutual",
+    "industry": "Financial Planning",
+    "location": {
+      "city": "Nashville",
+      "state": "TN",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 66000,
+      "max": 85000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-04",
+    "filename_base": "0282_business_management-consultant-analyst_nashville-tn"
+  },
+  {
+    "id": "0296",
+    "title": "Investment Analyst",
+    "category": "business",
+    "company": "Unilever",
+    "industry": "Consumer Goods",
+    "location": {
+      "city": "Kansas City",
+      "state": "MO",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 59000,
+      "max": 76000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-14",
+    "filename_base": "0296_business_investment-analyst_kansas-city-mo"
+  },
+  {
+    "id": "0489",
+    "title": "Radiology Technician",
+    "category": "healthcare",
+    "company": "BioNTech",
+    "industry": "Biotechnology",
+    "location": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 60000,
+      "max": 77000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-15",
+    "filename_base": "0489_healthcare_radiology-technician_boston-ma"
+  },
+  {
+    "id": "0222",
+    "title": "Staff Accountant",
+    "category": "business",
+    "company": "Honeywell",
+    "industry": "Industrial",
+    "location": {
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 47000,
+      "max": 61000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-02",
+    "filename_base": "0222_business_staff-accountant_raleigh-nc"
+  },
+  {
+    "id": "0298",
+    "title": "Pricing Analyst",
+    "category": "business",
+    "company": "Nike",
+    "industry": "Apparel",
+    "location": {
+      "city": "Cincinnati",
+      "state": "OH",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 49000,
+      "max": 63000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-10",
+    "filename_base": "0298_business_pricing-analyst_cincinnati-oh"
+  },
+  {
+    "id": "0040",
+    "title": "Business Intelligence Analyst",
+    "category": "tech",
+    "company": "Workday",
+    "industry": "HR Tech",
+    "location": {
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 62000,
+      "max": 80000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-07",
+    "filename_base": "0040_tech_business-intelligence-analyst_baltimore-md"
+  },
+  {
+    "id": "0248",
+    "title": "Budget Analyst",
+    "category": "business",
+    "company": "Aon",
+    "industry": "Insurance Brokerage",
+    "location": {
+      "city": "Sacramento",
+      "state": "CA",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 57000,
+      "max": 73000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-20",
+    "filename_base": "0248_business_budget-analyst_sacramento-ca"
+  },
+  {
+    "id": "0423",
+    "title": "Health Information Technician",
+    "category": "healthcare",
+    "company": "Takeda",
+    "industry": "Pharmaceuticals",
+    "location": {
+      "city": "St. Louis",
+      "state": "MO",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 32000,
+      "max": 42000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-10",
+    "filename_base": "0423_healthcare_health-information-technician_st-louis-mo"
+  },
+  {
+    "id": "0084",
+    "title": "SOC Analyst",
+    "category": "tech",
+    "company": "Monday.com",
+    "industry": "Work Management",
+    "location": {
+      "city": "New York",
+      "state": "NY",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 78000,
+      "max": 101000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-03",
+    "filename_base": "0084_tech_soc-analyst_new-york-ny"
+  },
+  {
+    "id": "0373",
+    "title": "Research Associate I",
+    "category": "healthcare",
+    "company": "Johns Hopkins Medicine",
+    "industry": "Academic Medicine",
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 50000,
+      "max": 65000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-11",
+    "filename_base": "0373_healthcare_research-associate-i_philadelphia-pa"
+  },
+  {
+    "id": "0450",
+    "title": "Medical Coder",
+    "category": "healthcare",
+    "company": "Bristol-Myers Squibb",
+    "industry": "Pharmaceuticals",
+    "location": {
+      "city": "Milwaukee",
+      "state": "WI",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 34000,
+      "max": 44000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-22",
+    "filename_base": "0450_healthcare_medical-coder_milwaukee-wi"
+  },
+  {
+    "id": "0486",
+    "title": "Medical Assistant",
+    "category": "healthcare",
+    "company": "Syneos Health",
+    "industry": "Clinical Research",
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 33000,
+      "max": 44000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-18",
+    "filename_base": "0486_healthcare_medical-assistant_chicago-il"
+  },
+  {
+    "id": "0126",
+    "title": "Junior Backend Developer",
+    "category": "tech",
+    "company": "Supabase",
+    "industry": "Developer Tools",
+    "location": {
+      "city": "Indianapolis",
+      "state": "IN",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 63000,
+      "max": 80000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-25",
+    "filename_base": "0126_tech_junior-backend-developer_indianapolis-in"
+  },
+  {
+    "id": "0445",
+    "title": "Clinical Laboratory Technician",
+    "category": "healthcare",
+    "company": "Providence Health",
+    "industry": "Hospital System",
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 62000,
+      "max": 81000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-11",
+    "filename_base": "0445_healthcare_clinical-laboratory-technician_san-francisco-ca"
+  },
+  {
+    "id": "0134",
+    "title": "Test Automation Engineer",
+    "category": "tech",
+    "company": "Cloudflare",
+    "industry": "Cybersecurity",
+    "location": {
+      "city": "Houston",
+      "state": "TX",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 61000,
+      "max": 77000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-11",
+    "filename_base": "0134_tech_test-automation-engineer_houston-tx"
+  },
+  {
+    "id": "0253",
+    "title": "Program Associate",
+    "category": "business",
+    "company": "State Farm",
+    "industry": "Insurance",
+    "location": {
+      "city": "Rochester",
+      "state": "MN",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 45000,
+      "max": 58000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-24",
+    "filename_base": "0253_business_program-associate_rochester-mn"
+  },
+  {
+    "id": "0286",
+    "title": "Tax Analyst",
+    "category": "business",
+    "company": "Nike",
+    "industry": "Apparel",
+    "location": {
+      "city": "Sacramento",
+      "state": "CA",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 57000,
+      "max": 73000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-04",
+    "filename_base": "0286_business_tax-analyst_sacramento-ca"
+  },
+  {
+    "id": "0397",
+    "title": "Dental Hygienist",
+    "category": "healthcare",
+    "company": "CommonSpirit Health",
+    "industry": "Hospital System",
+    "location": {
+      "city": "Salt Lake City",
+      "state": "UT",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 52000,
+      "max": 68000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-08",
+    "filename_base": "0397_healthcare_dental-hygienist_salt-lake-city-ut"
+  },
+  {
+    "id": "0105",
+    "title": "UX Researcher",
+    "category": "tech",
+    "company": "Zendesk",
+    "industry": "Customer Service",
+    "location": {
+      "city": "Omaha",
+      "state": "NE",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 52000,
+      "max": 68000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-20",
+    "filename_base": "0105_tech_ux-researcher_omaha-ne"
+  },
+  {
+    "id": "0203",
+    "title": "Marketing Coordinator",
+    "category": "business",
+    "company": "T. Rowe Price",
+    "industry": "Asset Management",
+    "location": {
+      "city": "Irvine",
+      "state": "CA",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 51000,
+      "max": 66000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-14",
+    "filename_base": "0203_business_marketing-coordinator_irvine-ca"
+  },
+  {
+    "id": "0164",
+    "title": "Developer Advocate",
+    "category": "tech",
+    "company": "Block",
+    "industry": "Fintech",
+    "location": {
+      "city": "Provo",
+      "state": "UT",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 63000,
+      "max": 80000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-25",
+    "filename_base": "0164_tech_developer-advocate_provo-ut"
+  },
+  {
+    "id": "0087",
+    "title": "Junior Frontend Developer",
+    "category": "tech",
+    "company": "HashiCorp",
+    "industry": "Infrastructure",
+    "location": {
+      "city": "Miami",
+      "state": "FL",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 73000,
+      "max": 94000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-08",
+    "filename_base": "0087_tech_junior-frontend-developer_miami-fl"
+  },
+  {
+    "id": "0220",
+    "title": "Commercial Appraiser",
+    "category": "business",
+    "company": "Johnson & Johnson",
+    "industry": "Consumer Health",
+    "location": {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 45000,
+      "max": 58000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-03",
+    "filename_base": "0220_business_commercial-appraiser_atlanta-ga"
+  },
+  {
+    "id": "0224",
+    "title": "Bookkeeper",
+    "category": "business",
+    "company": "Vanguard",
+    "industry": "Asset Management",
+    "location": {
+      "city": "Indianapolis",
+      "state": "IN",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 32000,
+      "max": 42000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-22",
+    "filename_base": "0224_business_bookkeeper_indianapolis-in"
+  },
+  {
+    "id": "0367",
+    "title": "Speech-Language Pathology Assistant",
+    "category": "healthcare",
+    "company": "Pfizer",
+    "industry": "Pharmaceuticals",
+    "location": {
+      "city": "Omaha",
+      "state": "NE",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 40000,
+      "max": 52000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-12",
+    "filename_base": "0367_healthcare_speech-language-pathology-assistant_omaha-ne"
+  },
+  {
+    "id": "0174",
+    "title": "Business Intelligence Analyst",
+    "category": "tech",
+    "company": "Adobe",
+    "industry": "Creative Software",
+    "location": {
+      "city": "Cincinnati",
+      "state": "OH",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 52000,
+      "max": 68000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-19",
+    "filename_base": "0174_tech_business-intelligence-analyst_cincinnati-oh"
+  },
+  {
+    "id": "0279",
+    "title": "Market Research Analyst",
+    "category": "business",
+    "company": "PwC",
+    "industry": "Professional Services",
+    "location": {
+      "city": "Bethesda",
+      "state": "MD",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 62000,
+      "max": 81000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-03",
+    "filename_base": "0279_business_market-research-analyst_bethesda-md"
+  },
+  {
+    "id": "0413",
+    "title": "Health Educator",
+    "category": "healthcare",
+    "company": "ICON",
+    "industry": "Clinical Research",
+    "location": {
+      "city": "Boulder",
+      "state": "CO",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 46000,
+      "max": 60000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-16",
+    "filename_base": "0413_healthcare_health-educator_boulder-co"
+  },
+  {
+    "id": "0206",
+    "title": "Revenue Analyst",
+    "category": "business",
+    "company": "UPS",
+    "industry": "Logistics",
+    "location": {
+      "city": "Indianapolis",
+      "state": "IN",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 49000,
+      "max": 63000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-17",
+    "filename_base": "0206_business_revenue-analyst_indianapolis-in"
+  },
+  {
+    "id": "0354",
+    "title": "Licensed Practical Nurse",
+    "category": "healthcare",
+    "company": "AbbVie",
+    "industry": "Pharmaceuticals",
+    "location": {
+      "city": "Washington",
+      "state": "DC",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 50000,
+      "max": 66000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-21",
+    "filename_base": "0354_healthcare_licensed-practical-nurse_washington-dc"
+  },
+  {
+    "id": "0340",
+    "title": "Program Associate",
+    "category": "business",
+    "company": "Raytheon",
+    "industry": "Defense",
+    "location": {
+      "city": "Detroit",
+      "state": "MI",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 42000,
+      "max": 55000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-22",
+    "filename_base": "0340_business_program-associate_detroit-mi"
+  },
+  {
+    "id": "0493",
+    "title": "Radiology Technician",
+    "category": "healthcare",
+    "company": "UCSF Health",
+    "industry": "Academic Medicine",
+    "location": {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 64000,
+      "max": 83000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-12",
+    "filename_base": "0493_healthcare_radiology-technician_san-jose-ca"
+  },
+  {
+    "id": "0187",
+    "title": "Business Development Representative",
+    "category": "business",
+    "company": "Procter & Gamble",
+    "industry": "Consumer Goods",
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 62000,
+      "max": 84000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-08",
+    "filename_base": "0187_business_business-development-representative_san-francisco-ca"
+  },
+  {
+    "id": "0035",
+    "title": "UX Researcher",
+    "category": "tech",
+    "company": "CrowdStrike",
+    "industry": "Cybersecurity",
+    "location": {
+      "city": "Ann Arbor",
+      "state": "MI",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 61000,
+      "max": 80000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-17",
+    "filename_base": "0035_tech_ux-researcher_ann-arbor-mi"
+  },
+  {
+    "id": "0264",
+    "title": "Actuarial Analyst",
+    "category": "business",
+    "company": "JPMorgan Chase",
+    "industry": "Investment Banking",
+    "location": {
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 61000,
+      "max": 76000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-19",
+    "filename_base": "0264_business_actuarial-analyst_charlotte-nc"
+  },
+  {
+    "id": "0295",
+    "title": "Risk Analyst",
+    "category": "business",
+    "company": "PwC",
+    "industry": "Professional Services",
+    "location": {
+      "city": "San Diego",
+      "state": "CA",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 71000,
+      "max": 92000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-02",
+    "filename_base": "0295_business_risk-analyst_san-diego-ca"
+  },
+  {
+    "id": "0229",
+    "title": "Staff Accountant",
+    "category": "business",
+    "company": "Citigroup",
+    "industry": "Banking",
+    "location": {
+      "city": "Kansas City",
+      "state": "MO",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 42000,
+      "max": 55000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-19",
+    "filename_base": "0229_business_staff-accountant_kansas-city-mo"
+  },
+  {
+    "id": "0358",
+    "title": "Healthcare Quality Associate",
+    "category": "healthcare",
+    "company": "Stryker",
+    "industry": "Medical Devices",
+    "location": {
+      "city": "Ann Arbor",
+      "state": "MI",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 45000,
+      "max": 58000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-14",
+    "filename_base": "0358_healthcare_healthcare-quality-associate_ann-arbor-mi"
+  },
+  {
+    "id": "0331",
+    "title": "Marketing Coordinator",
+    "category": "business",
+    "company": "Procter & Gamble",
+    "industry": "Consumer Goods",
+    "location": {
+      "city": "Provo",
+      "state": "UT",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 38000,
+      "max": 49000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-20",
+    "filename_base": "0331_business_marketing-coordinator_provo-ut"
+  },
+  {
+    "id": "0100",
+    "title": "Software Engineer I",
+    "category": "tech",
+    "company": "Slack",
+    "industry": "Collaboration",
+    "location": {
+      "city": "Milwaukee",
+      "state": "WI",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 63000,
+      "max": 80000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-24",
+    "filename_base": "0100_tech_software-engineer-i_milwaukee-wi"
+  },
+  {
+    "id": "0477",
+    "title": "Environmental Health Specialist",
+    "category": "healthcare",
+    "company": "Abbott Laboratories",
+    "industry": "Medical Devices",
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 43000,
+      "max": 55000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-10",
+    "filename_base": "0477_healthcare_environmental-health-specialist_phoenix-az"
+  },
+  {
+    "id": "0387",
+    "title": "Speech-Language Pathology Assistant",
+    "category": "healthcare",
+    "company": "Roche",
+    "industry": "Pharmaceuticals",
+    "location": {
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 45000,
+      "max": 58000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-02",
+    "filename_base": "0387_healthcare_speech-language-pathology-assistant_pittsburgh-pa"
+  },
+  {
+    "id": "0461",
+    "title": "Dental Hygienist",
+    "category": "healthcare",
+    "company": "NYU Langone Health",
+    "industry": "Academic Medicine",
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 66000,
+      "max": 86000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-14",
+    "filename_base": "0461_healthcare_dental-hygienist_los-angeles-ca"
+  },
+  {
+    "id": "0313",
+    "title": "Digital Marketing Analyst",
+    "category": "business",
+    "company": "Lockheed Martin",
+    "industry": "Defense",
+    "location": {
+      "city": "Cambridge",
+      "state": "MA",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 65000,
+      "max": 84000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-08",
+    "filename_base": "0313_business_digital-marketing-analyst_cambridge-ma"
+  },
+  {
+    "id": "0496",
+    "title": "Health Educator",
+    "category": "healthcare",
+    "company": "Roche",
+    "industry": "Pharmaceuticals",
+    "location": {
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 37000,
+      "max": 49000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-13",
+    "filename_base": "0496_healthcare_health-educator_pittsburgh-pa"
+  }
+]
