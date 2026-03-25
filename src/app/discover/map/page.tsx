@@ -9,8 +9,7 @@ import { JobCard } from "@/components/careers/CareerCard";
 import { Button } from "@/components/ui/Button";
 import { LoadingPulse } from "@/components/ui/LoadingPulse";
 import { JobMatch } from "@/lib/types";
-// TODO: replace with `import { jobs } from "@/data/jobs"` when David's data lands
-import { mockJobs as jobs } from "@/data/careers-mock";
+import { jobs } from "@/data/jobs";
 
 export default function MapPage() {
   const router = useRouter();
