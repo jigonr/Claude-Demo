@@ -1,0 +1,48 @@
+{
+  "id": "0331",
+  "title": "Marketing Coordinator",
+  "category": "business",
+  "company": "Procter & Gamble",
+  "industry": "Consumer Goods",
+  "location": {
+    "city": "Provo",
+    "state": "UT",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 38000,
+    "max": 49000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Procter & Gamble is seeking a Marketing Coordinator to support marketing campaigns and brand initiatives. You'll coordinate campaign execution, manage marketing materials, and support product launches. Work remotely for the global consumer goods leader.",
+  "responsibilities": [
+    "Coordinate marketing campaign planning and execution",
+    "Manage marketing collateral and brand asset libraries",
+    "Support product launches and promotional activities",
+    "Track campaign performance metrics",
+    "Assist with event coordination and logistics"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, Communications, or Business",
+    "experience_years": "0-2",
+    "skills": [
+      "Project coordination and organization",
+      "Marketing technology platforms",
+      "Content management and organization",
+      "Communication and collaboration",
+      "Ability to manage multiple priorities"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Remote work flexibility",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-20"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0282",
+  "title": "Management Consultant Analyst",
+  "category": "business",
+  "company": "Northwestern Mutual",
+  "industry": "Financial Planning",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 66000,
+    "max": 85000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Northwestern Mutual is seeking a Management Consultant Analyst to support strategic initiatives across our organization. You'll analyze operational processes, develop business cases, and recommend improvements that enhance efficiency and profitability. Work remotely for a 166-year-old financial services leader committed to sound business practices and client success.",
+  "responsibilities": [
+    "Conduct analytical research on operational and business challenges",
+    "Develop detailed recommendations supported by data analysis and industry best practices",
+    "Prepare presentations and business cases for senior leadership review",
+    "Support project implementation and track progress against KPIs",
+    "Collaborate with cross-functional teams to understand business requirements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business Administration, Economics, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Financial modeling and analysis",
+      "Advanced Excel and data manipulation",
+      "Business writing and presentation skills",
+      "Problem-solving and logical reasoning",
+      "Familiarity with insurance or financial services (preferred)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with performance bonuses",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with employer match",
+    "Professional development and consulting training",
+    "Remote-first culture with flexible scheduling"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-04"
+}

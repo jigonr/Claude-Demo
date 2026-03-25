@@ -1,0 +1,52 @@
+{
+  "id": "0328",
+  "title": "Market Research Analyst",
+  "category": "business",
+  "company": "Under Armour",
+  "industry": "Apparel",
+  "location": {
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 68000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Market Research Analyst at Under Armour. This is an exciting opportunity to join our fast-paced, ambitious, data-driven team and make a direct impact on our mission. If you have 2-4 years years of experience and are passionate about Apparel, we'd love to hear from you.",
+  "responsibilities": [
+    "Design and execute market research studies to understand consumer preferences and behavior",
+    "Analyze competitive landscape and identify market opportunities for product expansion",
+    "Synthesize qualitative and quantitative research into actionable strategic recommendations",
+    "Conduct focus groups and interviews with target consumer segments",
+    "Track industry trends and emerging technologies affecting market dynamics",
+    "Present research findings and insights to cross-functional leadership teams"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Business, Economics, or related field",
+    "experience_years": "2-4 years",
+    "skills": [
+      "Market research methodology",
+      "Qualitative analysis",
+      "Data analysis",
+      "Report writing",
+      "SPSS or similar"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule",
+    "Career development opportunities",
+    "Employee recognition programs",
+    "Community involvement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-14"
+}

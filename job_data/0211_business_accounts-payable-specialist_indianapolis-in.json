@@ -1,0 +1,50 @@
+{
+  "id": "0211",
+  "title": "Accounts Payable Specialist",
+  "category": "business",
+  "company": "UPS",
+  "industry": "Logistics",
+  "location": {
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 35000,
+    "max": 46000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-11",
+  "description": "UPS, a global leader in logistics and package delivery, is seeking an Accounts Payable Specialist for our Indianapolis operations center. You'll manage vendor payments and financial transactions in a fast-paced environment. Join our team on-site and help keep the world's largest package delivery company running smoothly.",
+  "responsibilities": [
+    "Process accounts payable invoices and payments for vendors and suppliers",
+    "Verify invoice accuracy and reconcile vendor statements",
+    "Enter payment transactions in our accounting system and maintain detailed records",
+    "Resolve discrepancies and coordinate with vendors regarding payment issues",
+    "Assist with month-end close activities and reconciliations",
+    "Support audit activities and maintain compliance with financial procedures"
+  ],
+  "requirements": {
+    "education": "High School diploma or GED; Associate's degree in Accounting or Finance preferred",
+    "experience_years": "1-2",
+    "skills": [
+      "Accounts payable processing and invoice reconciliation",
+      "Proficiency with accounting software and SAP systems",
+      "Strong attention to detail and organizational skills",
+      "Excel and spreadsheet skills",
+      "Basic understanding of accounting principles",
+      "Ability to work independently and meet deadlines"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "On-site position in UPS Indianapolis operations center",
+    "Competitive salary and benefits package",
+    "Health, dental, and vision insurance",
+    "Tuition reimbursement program",
+    "Employee discount on UPS services"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "0207",
+  "title": "Financial Analyst",
+  "category": "business",
+  "company": "Johnson & Johnson",
+  "industry": "Consumer Health",
+  "location": {
+    "city": "Provo",
+    "state": "UT",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 72000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-19",
+  "description": "Johnson & Johnson is seeking a Financial Analyst for our Provo facility to support business planning and financial analysis. Work hybrid while building financial expertise at one of the world's most trusted healthcare companies.",
+  "responsibilities": [
+    "Analyze financial data and prepare variance reports and forecasts",
+    "Support budgeting and financial planning processes",
+    "Build and maintain financial models for scenario analysis",
+    "Prepare executive presentations and financial summaries",
+    "Monitor key performance indicators and financial metrics",
+    "Assist with cost analysis and process improvement initiatives"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Accounting, Business, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Financial analysis and modeling",
+      "Excel and SQL proficiency",
+      "Understanding of accounting principles",
+      "Data visualization and presentation skills",
+      "Attention to detail and analytical thinking",
+      "Communication and teamwork abilities"
+    ],
+    "certifications": [
+      "CFA Level I or equivalent preferred"
+    ]
+  },
+  "benefits": [
+    "Hybrid schedule with flexibility",
+    "Competitive salary and performance bonus",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Professional development and tuition assistance"
+  ]
+}

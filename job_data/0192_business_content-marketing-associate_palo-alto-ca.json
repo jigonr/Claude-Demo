@@ -1,0 +1,49 @@
+{
+  "id": "0192",
+  "title": "Content Marketing Associate",
+  "category": "business",
+  "company": "PepsiCo",
+  "industry": "Food & Beverage",
+  "location": {
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 67000,
+    "max": 86000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Join PepsiCo's marketing team to create compelling content that engages our consumers and builds brand loyalty.",
+  "responsibilities": [
+    "Develop content strategies for digital and traditional channels",
+    "Create written, visual, and video content",
+    "Manage content calendars and publishing workflows",
+    "Analyze content performance and optimize engagement",
+    "Collaborate with creative and brand teams",
+    "Support campaign execution and monitoring"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "2-5",
+    "skills": [
+      "Content creation",
+      "Writing",
+      "Social media",
+      "Analytics",
+      "Creativity"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive compensation package",
+    "Health, dental, and vision coverage",
+    "401(k) or retirement benefits",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-06"
+}

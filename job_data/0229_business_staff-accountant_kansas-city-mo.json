@@ -1,0 +1,48 @@
+{
+  "id": "0229",
+  "title": "Staff Accountant",
+  "category": "business",
+  "company": "Citigroup",
+  "industry": "Banking",
+  "location": {
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Citigroup is seeking a Staff Accountant to manage financial transactions and maintain accurate accounting records. You'll record entries, reconcile accounts, and prepare financial reports. Work hybrid in Kansas City for a global financial services company.",
+  "responsibilities": [
+    "Record transactions and maintain general ledger accounts",
+    "Reconcile bank accounts and resolve discrepancies",
+    "Prepare financial statements and supporting schedules",
+    "Assist with audit and compliance activities",
+    "Monitor account balances and investigate variances"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Accounting or Finance",
+    "experience_years": "0-2",
+    "skills": [
+      "General ledger and accounting principles",
+      "Excel and accounting software",
+      "Reconciliation and account analysis",
+      "Attention to detail and accuracy",
+      "GAAP knowledge"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Flexible hybrid Kansas City schedule",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-19"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0201",
+  "title": "Management Consultant Analyst",
+  "category": "business",
+  "company": "JPMorgan Chase",
+  "industry": "Investment Banking",
+  "location": {
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 73000,
+    "max": 94000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-01-03",
+  "description": "JPMorgan Chase is seeking a Management Consultant Analyst for our Sacramento office to support business transformation and operational improvement initiatives. Work hybrid with leading financial professionals. Advance your consulting career at a global financial institution.",
+  "responsibilities": [
+    "Analyze business processes and identify improvement opportunities",
+    "Develop recommendations for operational efficiency and cost reduction",
+    "Prepare reports and presentations for executive stakeholders",
+    "Support project implementation and change management",
+    "Conduct research and competitive analysis",
+    "Collaborate with cross-functional teams on consulting engagements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, Economics, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Business analysis and process improvement",
+      "Financial analysis and metrics evaluation",
+      "Data analysis and Excel modeling",
+      "Written and presentation communication skills",
+      "Project management and organization",
+      "Strategic thinking and problem-solving"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Hybrid work arrangement",
+    "Competitive salary and bonus",
+    "Comprehensive health, dental, and vision coverage",
+    "Professional development and consulting training",
+    "401(k) with company matching"
+  ]
+}

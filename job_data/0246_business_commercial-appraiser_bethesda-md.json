@@ -1,0 +1,50 @@
+{
+  "id": "0246",
+  "title": "Commercial Appraiser",
+  "category": "business",
+  "company": "Raytheon",
+  "industry": "Defense",
+  "location": {
+    "city": "Bethesda",
+    "state": "MD",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 57000,
+    "max": 74000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Raytheon's Real Estate and Facilities team is seeking a Commercial Appraiser to assess, value, and manage our extensive commercial real estate portfolio. This role offers the opportunity to work on strategically important properties while developing expertise in commercial valuation methodologies. You'll report to our Director of Asset Management and collaborate with finance, operations, and external partners.",
+  "responsibilities": [
+    "Conduct comprehensive appraisals of commercial properties, preparing detailed valuation reports using USPAP standards",
+    "Perform market analysis and comparable property research to support valuation conclusions",
+    "Maintain detailed property documentation and databases; ensure compliance with internal and regulatory standards",
+    "Coordinate with external appraisers and third-party vendors for specialized valuation work",
+    "Support real estate transaction and portfolio management decisions through timely and accurate valuations"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Real Estate, Finance, or related field",
+    "experience_years": "3-5",
+    "skills": [
+      "Commercial real estate appraisal experience",
+      "Knowledge of USPAP and appraisal standards",
+      "Proficiency with appraisal software and valuation databases",
+      "Strong written and verbal communication",
+      "Ability to manage multiple properties and deadlines"
+    ],
+    "certifications": [
+      "State-certified commercial appraiser license required"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision plan",
+    "401(k) with 4% company match",
+    "Professional memberships (APPRAISAL Institute, NAA)",
+    "Continuing education support for license maintenance",
+    "Hybrid flexibility with home office option"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-19"
+}

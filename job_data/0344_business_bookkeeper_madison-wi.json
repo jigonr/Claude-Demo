@@ -1,0 +1,52 @@
+{
+  "id": "0344",
+  "title": "Bookkeeper",
+  "category": "business",
+  "company": "Travelers",
+  "industry": "Insurance",
+  "location": {
+    "city": "Madison",
+    "state": "WI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 34000,
+    "max": 45000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Travelers is one of the largest U.S. property casualty insurance companies with $40B in annual revenue. As a Bookkeeper, you'll ensure the integrity of our financial records.",
+  "responsibilities": [
+    "Record daily financial transactions in accounting systems",
+    "Reconcile bank accounts and credit card statements",
+    "Prepare financial statements and support financial audits",
+    "Process payroll and maintain payroll records",
+    "Manage accounts payable and receivable functions",
+    "Ensure compliance with accounting standards and regulations"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; some accounting coursework preferred",
+    "experience_years": "2-4 years of bookkeeping or accounting experience",
+    "skills": [
+      "Bookkeeping",
+      "Payroll",
+      "AP/AR",
+      "Bank reconciliation",
+      "QuickBooks/Excel"
+    ],
+    "certifications": [
+      "QuickBooks certification (preferred)",
+      "Bookkeeper certification"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health and wellness benefits",
+    "401(k) retirement savings plan with matching",
+    "Paid vacation, holidays, and personal days",
+    "Career advancement and training opportunities",
+    "Employee recognition and incentive programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-25"
+}

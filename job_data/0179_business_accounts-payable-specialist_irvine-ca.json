@@ -1,0 +1,48 @@
+{
+  "id": "0179",
+  "title": "Accounts Payable Specialist",
+  "category": "business",
+  "company": "Johnson & Johnson",
+  "industry": "Consumer Health",
+  "location": {
+    "city": "Irvine",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 48000,
+    "max": 63000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Johnson & Johnson is seeking an Accounts Payable Specialist for our Irvine operations. You'll manage vendor payments, reconcile accounts, and ensure timely processing of invoices for our global Consumer Health division. This hybrid role offers exposure to large-scale financial operations and the chance to develop expertise in accounts payable management.",
+  "responsibilities": [
+    "Process and verify vendor invoices; reconcile to purchase orders and receiving reports",
+    "Prepare and process payment runs using accounts payable software",
+    "Manage vendor relationships, resolve payment discrepancies, and maintain vendor files",
+    "Perform account reconciliations and investigate variances",
+    "Prepare accounts payable reports and analysis for management review"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Accounting, Finance, or related field",
+    "experience_years": "2-3",
+    "skills": [
+      "Proficiency with accounting software and ERP systems",
+      "Strong Excel skills for financial analysis",
+      "Solid understanding of accounting principles",
+      "Excellent organizational and attention to detail",
+      "Ability to work independently and meet deadlines"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Hybrid work flexibility with 3 days onsite",
+    "Professional development opportunities",
+    "Tuition reimbursement for job-related courses"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-23"
+}

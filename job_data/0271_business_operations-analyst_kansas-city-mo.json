@@ -1,0 +1,50 @@
+{
+  "id": "0271",
+  "title": "Operations Analyst",
+  "category": "business",
+  "company": "GE Aerospace",
+  "industry": "Aerospace",
+  "location": {
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 44000,
+    "max": 57000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-03",
+  "description": "GE Aerospace is seeking an Operations Analyst for our Kansas City Manufacturing facility. You will optimize production schedules, manage component inventory, and ensure efficient workflow across our advanced aerospace engine manufacturing operations. This role requires meticulous process management and the ability to work in a highly regulated defense contracting environment where precision and accountability are non-negotiable.",
+  "responsibilities": [
+    "Analyze production schedules and identify bottlenecks that impact delivery timelines",
+    "Monitor inventory levels across manufacturing zones and recommend reordering based on production forecasts",
+    "Prepare daily shift reports documenting production metrics, quality incidents, and workforce utilization",
+    "Coordinate with quality assurance teams on defect tracking and corrective action closure rates",
+    "Maintain compliance documentation required for ITAR and security clearance protocols",
+    "Support lean manufacturing initiatives by mapping workflows and identifying waste reduction opportunities"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Industrial Engineering, Operations Management, or related discipline",
+    "experience_years": "0-2",
+    "skills": [
+      "Manufacturing process knowledge",
+      "Inventory management systems",
+      "Data analysis and reporting",
+      "Problem-solving in regulated environments",
+      "Cross-departmental coordination"
+    ],
+    "certifications": [
+      "Secret-level security clearance or ability to obtain (required)"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health benefits with dependent coverage",
+    "Defined benefit pension plan for long-term retirement security",
+    "On-site fitness center and wellness programs",
+    "Paid parental leave and adoption assistance"
+  ]
+}

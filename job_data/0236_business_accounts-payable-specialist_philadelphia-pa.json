@@ -1,0 +1,51 @@
+{
+  "id": "0236",
+  "title": "Accounts Payable Specialist",
+  "category": "business",
+  "company": "CBRE",
+  "industry": "Commercial Real Estate",
+  "location": {
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "CBRE is the world's largest real estate services firm, managing trillions in commercial property. You'll be part of a global team managing complex transactions and operations.",
+  "responsibilities": [
+    "Process vendor invoices and match to purchase orders",
+    "Maintain vendor master files and payment terms",
+    "Reconcile AP subledger accounts and resolve discrepancies",
+    "Prepare and release payment batches",
+    "Handle vendor inquiries and resolve payment issues",
+    "Support audit activities and regulatory compliance"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; some accounting coursework preferred",
+    "experience_years": "2-4 years of accounts payable or accounting experience",
+    "skills": [
+      "AP processing",
+      "Invoice management",
+      "Vendor management",
+      "Excel",
+      "ERP systems"
+    ],
+    "certifications": [
+      "Accounts Payable Specialist certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health and wellness benefits",
+    "401(k) retirement savings plan with matching",
+    "Paid vacation, holidays, and personal days",
+    "Career advancement and training opportunities",
+    "Employee recognition and incentive programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-09"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0224",
+  "title": "Bookkeeper",
+  "category": "business",
+  "company": "Vanguard",
+  "industry": "Asset Management",
+  "location": {
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 32000,
+    "max": 42000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Vanguard is seeking a Bookkeeper to manage financial records and ensure accuracy of accounting transactions. You'll record entries, reconcile accounts, and maintain financial documentation. Work remotely for a premier investment management company serving millions of investors.",
+  "responsibilities": [
+    "Record transactions in accounting system and post to general ledger",
+    "Reconcile bank accounts and credit card statements monthly",
+    "Prepare financial reports and account summaries",
+    "Process vendor invoices and expense reports",
+    "Maintain organized financial records and documentation"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; accounting coursework preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Bookkeeping and accounting principles",
+      "Excel and accounting software",
+      "Attention to detail and accuracy",
+      "Organizational and time management skills",
+      "Basic knowledge of GAAP"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Remote work flexibility",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-22"
+}

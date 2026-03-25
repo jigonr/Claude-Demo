@@ -1,0 +1,50 @@
+{
+  "id": "0287",
+  "title": "Strategy Analyst",
+  "category": "business",
+  "company": "BCG",
+  "industry": "Management Consulting",
+  "location": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 72000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-25",
+  "description": "BCG is seeking a Strategy Analyst to support client engagements in operations, corporate strategy, and digital transformation. You will conduct business analysis, develop strategic recommendations, and collaborate with experienced consultants on projects serving Fortune 500 companies and public sector clients.",
+  "responsibilities": [
+    "Conduct market research and competitive analysis to inform strategy",
+    "Build financial models and performance dashboards",
+    "Interview stakeholders and synthesize findings into actionable insights",
+    "Develop presentation materials for client leadership",
+    "Support project management and coordinate workstream activities",
+    "Identify and develop new business opportunities"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Economics, Engineering, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Analytical and problem-solving skills",
+      "Financial and business case analysis",
+      "Data visualization and presentation skills",
+      "Stakeholder management and communication",
+      "Project coordination and time management"
+    ],
+    "certifications": [
+      "None required; MBA candidates preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and performance bonus",
+    "Comprehensive health, dental, vision, and life insurance",
+    "Professional development and MBA sponsorship opportunities",
+    "Flexible work arrangements and travel flexibility"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0248",
+  "title": "Budget Analyst",
+  "category": "business",
+  "company": "Aon",
+  "industry": "Insurance Brokerage",
+  "location": {
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 57000,
+    "max": 73000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Aon is seeking a Budget Analyst to support financial planning and analysis initiatives. You'll develop annual budgets, forecast expenses, and monitor spending variance across departments. Work hybrid in Sacramento for a global leader in professional services, risk management, and insurance solutions.",
+  "responsibilities": [
+    "Develop and maintain annual operating budgets with departmental input",
+    "Prepare quarterly forecasts and variance analysis against actual spending",
+    "Support financial planning processes and provide spending guidance",
+    "Investigate budget variances and recommend corrective actions",
+    "Prepare budget reports and presentations for leadership review"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Accounting, or Business",
+    "experience_years": "1-2",
+    "skills": [
+      "Budget development and financial planning",
+      "Advanced Excel modeling",
+      "Financial analysis and variance reporting",
+      "Attention to detail and organizational skills",
+      "Communication across organizational levels"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Flexible hybrid schedule with Sacramento office",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-20"
+}

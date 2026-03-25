@@ -1,0 +1,50 @@
+{
+  "id": "0270",
+  "title": "Risk Analyst",
+  "category": "business",
+  "company": "Fidelity Investments",
+  "industry": "Asset Management",
+  "location": {
+    "city": "Columbus",
+    "state": "OH",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 68000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Fidelity manages $11 trillion in customer assets. We're a leading provider of financial services, retirement solutions, and investment management.\n\nWe're seeking a Risk Analyst to join our Asset Management team in Columbus. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Assess financial and operational risks across investment portfolios and business operations",
+    "Develop risk models and perform scenario analysis to quantify exposure",
+    "Monitor key risk indicators and report findings to management",
+    "Recommend risk mitigation strategies and control enhancements",
+    "Maintain risk documentation and ensure regulatory compliance",
+    "Collaborate with business units to embed risk management in decision-making"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Mathematics, or related field; MBA preferred",
+    "experience_years": "2-4 years in risk management, financial analysis, or internal audit",
+    "skills": [
+      "Risk modeling",
+      "Financial analysis",
+      "Statistical analysis",
+      "Regulatory knowledge",
+      "Excel and BI tools"
+    ],
+    "certifications": [
+      "FRM, CRM, or CFA preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and benefits",
+    "Hybrid flexibility",
+    "Professional development support",
+    "Retirement plan matching"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-22"
+}

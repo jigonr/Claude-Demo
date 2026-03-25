@@ -1,0 +1,48 @@
+{
+  "id": "0293",
+  "title": "Communications Coordinator",
+  "category": "business",
+  "company": "State Farm",
+  "industry": "Insurance",
+  "location": {
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 38000,
+    "max": 49000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "State Farm seeks a Communications Coordinator to support internal and external communications initiatives from our St. Louis regional office. This role bridges marketing, HR, and operations, ensuring clear messaging across channels. You'll manage communications calendars, coordinate campaigns, and serve as a liaison between departments. This position requires attention to detail, strong organizational skills, and the ability to work cross-functionally in our hybrid environment.",
+  "responsibilities": [
+    "Develop and coordinate internal communications campaigns, including newsletters, announcements, and employee engagement content",
+    "Manage editorial calendars and ensure brand consistency across multiple platforms and channels",
+    "Collaborate with regional teams to gather content, ensure timely distribution, and measure engagement metrics",
+    "Support external communications for regional initiatives, including community involvement and stakeholder relations",
+    "Track and report on communications effectiveness, making recommendations for optimization"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Communications, Journalism, Business, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Written and verbal communication",
+      "Project management",
+      "Content management systems",
+      "Microsoft Office Suite",
+      "Social media basics"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision insurance",
+    "401(k) with company match",
+    "Paid time off (15 days)",
+    "Tuition reimbursement program",
+    "Employee discount on State Farm products"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-06"
+}

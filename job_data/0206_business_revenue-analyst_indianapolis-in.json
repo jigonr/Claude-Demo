@@ -1,0 +1,48 @@
+{
+  "id": "0206",
+  "title": "Revenue Analyst",
+  "category": "business",
+  "company": "UPS",
+  "industry": "Logistics",
+  "location": {
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 49000,
+    "max": 63000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "UPS is seeking a Revenue Analyst to analyze pricing and revenue performance across shipping and logistics services. You'll develop pricing models, track revenue metrics, and support optimization initiatives. Work hybrid in Indianapolis for the global logistics leader.",
+  "responsibilities": [
+    "Analyze revenue and pricing data across service lines",
+    "Develop pricing models and margin analyses",
+    "Track key revenue metrics and KPIs",
+    "Support pricing strategy development",
+    "Prepare reports and presentations for management"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, or Economics",
+    "experience_years": "0-2",
+    "skills": [
+      "Revenue analysis and financial modeling",
+      "Advanced Excel and data analysis",
+      "Business acumen and pricing principles",
+      "Attention to detail",
+      "Communication and presentation skills"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Flexible hybrid Indianapolis schedule",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-17"
+}

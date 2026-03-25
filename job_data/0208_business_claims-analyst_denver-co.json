@@ -1,0 +1,52 @@
+{
+  "id": "0208",
+  "title": "Claims Analyst",
+  "category": "business",
+  "company": "Charles Schwab",
+  "industry": "Brokerage",
+  "location": {
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 60000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-18",
+  "description": "Charles Schwab is seeking a detail-oriented Claims Analyst to join our Denver office. You'll process and investigate client claims, ensuring accuracy and timeliness across our brokerage operations. This hybrid role offers the flexibility to work from home while collaborating with our operations team on site when needed. If you excel at problem-solving and thrive in a fast-paced environment, we'd like to meet you.",
+  "responsibilities": [
+    "Review and process incoming claims submissions, verifying documentation and claim eligibility",
+    "Investigate discrepancies and contact clients to obtain additional information or clarification",
+    "Maintain detailed records of all claim activities and document findings in our case management system",
+    "Coordinate with legal and compliance teams to resolve complex or disputed claims",
+    "Generate monthly reports on claims volume, resolution rates, and trend analysis",
+    "Meet performance targets for claim processing time while maintaining 98%+ accuracy"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Business Administration, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Claims processing and investigation",
+      "Proficiency with claims management software",
+      "Strong attention to detail and accuracy",
+      "Excellent written and verbal communication",
+      "Ability to manage multiple priorities",
+      "Customer service mindset"
+    ],
+    "certifications": [
+      "Series 7 or Series 63 (preferred but not required)"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) matching up to 4%",
+    "Hybrid work arrangement (2-3 days on site)",
+    "Professional development and tuition reimbursement programs",
+    "Employee stock purchase plan"
+  ]
+}

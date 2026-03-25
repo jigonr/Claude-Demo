@@ -1,0 +1,50 @@
+{
+  "id": "0333",
+  "title": "Social Media Coordinator",
+  "category": "business",
+  "company": "JLL",
+  "industry": "Real Estate Services",
+  "location": {
+    "city": "Research Triangle Park",
+    "state": "NC",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 39000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "JLL, the global real estate services leader, seeks a Social Media Coordinator to build and manage our brand presence. Working fully remote, you'll create content, manage social platforms, and engage with audiences. This role combines creativity with data-driven strategy in a B2B real estate context.",
+  "responsibilities": [
+    "Create and publish social media content across multiple platforms",
+    "Develop social media calendars and campaign strategies",
+    "Engage with followers and respond to inquiries professionally",
+    "Monitor social metrics and analyze content performance",
+    "Collaborate with marketing and business teams on campaigns",
+    "Stay current with social media trends and platform updates"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, Communications, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Social media management and content creation",
+      "Writing and copywriting skills",
+      "Understanding of social media platforms (LinkedIn, Twitter, Instagram)",
+      "Analytics and metrics tracking",
+      "Basic graphic design or visual communication",
+      "Attention to brand voice and tone"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Fully remote position",
+    "Health, dental, and vision insurance",
+    "401(k) with company match",
+    "Professional development opportunities",
+    "Flexible work schedule"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-13"
+}

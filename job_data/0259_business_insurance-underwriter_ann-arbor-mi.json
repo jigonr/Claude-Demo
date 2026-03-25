@@ -1,0 +1,51 @@
+{
+  "id": "0259",
+  "title": "Insurance Underwriter",
+  "category": "business",
+  "company": "CBRE",
+  "industry": "Commercial Real Estate",
+  "location": {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 61000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "CBRE is the world's largest real estate services firm, managing trillions in commercial property. You'll be part of a global team managing complex transactions and operations.",
+  "responsibilities": [
+    "Evaluate insurance applications and assess risk",
+    "Determine coverage, terms, and pricing",
+    "Develop underwriting guidelines supporting business objectives",
+    "Manage claims and investigate coverage issues",
+    "Build relationships with agents and brokers",
+    "Support compliance with insurance regulations"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, or related field",
+    "experience_years": "2-4 years of underwriting, risk assessment, or insurance experience",
+    "skills": [
+      "Risk assessment",
+      "Insurance products",
+      "Policy analysis",
+      "Communication",
+      "Attention to detail"
+    ],
+    "certifications": [
+      "Associate in Risk Management (ARM)"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health and wellness benefits",
+    "401(k) retirement savings plan with matching",
+    "Paid vacation, holidays, and personal days",
+    "Career advancement and training opportunities",
+    "Employee recognition and incentive programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-02"
+}

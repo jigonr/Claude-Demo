@@ -1,0 +1,52 @@
+{
+  "id": "0324",
+  "title": "Insurance Underwriter",
+  "category": "business",
+  "company": "McKinsey",
+  "industry": "Management Consulting",
+  "location": {
+    "city": "Durham",
+    "state": "NC",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 61000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-16",
+  "description": "McKinsey & Company is expanding our insurance practice and seeking an Insurance Underwriter to support our management consulting engagements. This fully remote position will provide analytical and operational support to our consulting teams working with leading insurance carriers. You'll gain exposure to strategic consulting while leveraging underwriting expertise to drive client value.",
+  "responsibilities": [
+    "Analyze insurance underwriting processes and risk assessment methodologies for client organizations",
+    "Review underwriting guidelines, rating models, and policy requirements to identify optimization opportunities",
+    "Prepare detailed underwriting case studies and process maps for client presentations",
+    "Support due diligence activities for insurance company acquisitions and strategic partnerships",
+    "Collaborate with senior consultants to develop client recommendations based on underwriting insights",
+    "Maintain knowledge of insurance industry trends, regulatory changes, and competitive landscape"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Insurance, Risk Management, or related discipline",
+    "experience_years": "2-4",
+    "skills": [
+      "Underwriting principles and risk assessment",
+      "Insurance product knowledge",
+      "Analytical and problem-solving abilities",
+      "Financial modeling and data analysis",
+      "Executive communication skills",
+      "Ability to work with cross-functional teams"
+    ],
+    "certifications": [
+      "ARM (Associate in Risk Management) or CLU (Chartered Life Underwriter) preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive compensation with performance bonuses",
+    "Comprehensive health and wellness benefits",
+    "Professional development through McKinsey's learning platform",
+    "Flexible work arrangements with fully remote option",
+    "Retirement planning support with 401(k) matching"
+  ]
+}

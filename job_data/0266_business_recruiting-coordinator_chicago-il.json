@@ -1,0 +1,48 @@
+{
+  "id": "0266",
+  "title": "Recruiting Coordinator",
+  "category": "business",
+  "company": "Vanguard",
+  "industry": "Asset Management",
+  "location": {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 63000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Vanguard is seeking a Recruiting Coordinator to support our talent acquisition efforts in the Chicago region. You'll manage the recruiting calendar, communicate with candidates, and support the hiring team in building diverse, talented teams. This role offers great exposure to human resources and talent management in a company known for its people-first culture.",
+  "responsibilities": [
+    "Schedule interviews, coordinate candidate communication, and prepare interview materials",
+    "Maintain recruiting database and pipeline; track candidate status throughout hiring process",
+    "Prepare offer letters, onboarding documentation, and candidate correspondence",
+    "Assist with job posting distribution and applicant tracking system management",
+    "Support recruiting events and campus recruiting initiatives"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree preferred, or equivalent recruiting/administrative experience",
+    "experience_years": "1-2",
+    "skills": [
+      "Proficiency with applicant tracking systems and recruiting databases",
+      "Strong organizational and multitasking abilities",
+      "Excellent written and verbal communication",
+      "Attention to detail and ability to follow processes",
+      "Ability to interact professionally with diverse candidates"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with employer match",
+    "Paid time off and paid holidays",
+    "Professional development opportunities",
+    "Remote work flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-03"
+}

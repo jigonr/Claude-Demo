@@ -1,0 +1,48 @@
+{
+  "id": "0320",
+  "title": "Supply Chain Analyst",
+  "category": "business",
+  "company": "Citigroup",
+  "industry": "Banking",
+  "location": {
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 49000,
+    "max": 64000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Citigroup is seeking a Supply Chain Analyst to optimize our procurement and logistics operations from our Raleigh location. You'll analyze supply chain metrics, identify cost savings, and support vendor management. This hybrid role combines financial analysis with operational excellence.",
+  "responsibilities": [
+    "Analyze supply chain metrics and KPIs; identify opportunities for cost reduction and efficiency gains",
+    "Support procurement processes; evaluate vendor performance and manage supplier relationships",
+    "Prepare reports and dashboards on supply chain performance for management review",
+    "Collaborate with procurement and operations teams to optimize sourcing strategies",
+    "Track inventory levels and demand forecasting; make recommendations to reduce excess inventory"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, Supply Chain Management, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Supply chain analysis",
+      "Data analysis and reporting",
+      "Excel and business intelligence tools",
+      "Procurement knowledge",
+      "Process improvement"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + bonus",
+    "Health, dental, vision coverage",
+    "401(k) with company match",
+    "Paid time off (15 days)",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-15"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0261",
+  "title": "Accounting Associate",
+  "category": "business",
+  "company": "Robert Half",
+  "industry": "Staffing",
+  "location": {
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 50000,
+    "max": 65000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Robert Half is seeking an Accounting Associate for a direct-hire position with a growing professional services firm in Miami. This role offers hands-on experience across the full accounting function, from general ledger maintenance to month-end close procedures. You'll work with an experienced accounting team in a client-focused organization that values precision and professional development.",
+  "responsibilities": [
+    "Post and reconcile journal entries in the general ledger; investigate and resolve discrepancies",
+    "Support accounts payable and accounts receivable functions, including invoice processing and payment reconciliation",
+    "Prepare and maintain account reconciliations for balance sheet accounts",
+    "Assist with month-end and year-end close procedures, including accrual entries and adjustments",
+    "Prepare financial statements and supporting schedules under supervision of the accounting manager"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Accounting or Finance",
+    "experience_years": "1-3",
+    "skills": [
+      "Proficiency in accounting software (QuickBooks, NetSuite preferred)",
+      "Strong Excel skills for financial analysis and reporting",
+      "Solid understanding of accounting principles and GAAP",
+      "Excellent attention to detail and organizational abilities",
+      "Clear communication and ability to work cross-functionally"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision insurance",
+    "401(k) plan participation",
+    "Paid time off and paid holidays",
+    "Professional accounting certifications support",
+    "Direct hire opportunity with growth potential"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-11"
+}

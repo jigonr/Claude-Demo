@@ -1,0 +1,48 @@
+{
+  "id": "0256",
+  "title": "Training Coordinator",
+  "category": "business",
+  "company": "Accenture",
+  "industry": "Consulting",
+  "location": {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Accenture is seeking a Training Coordinator to develop and deliver learning programs for our Salt Lake City location. You'll support professional development, onboarding, and skills training. This onsite role offers the chance to impact employee growth across our growing consulting organization.",
+  "responsibilities": [
+    "Develop training materials, including presentations, manuals, and digital learning content",
+    "Coordinate and deliver training sessions for employee onboarding and professional development programs",
+    "Assess training effectiveness through feedback and metrics; adjust content based on results",
+    "Manage training schedules, logistics, and participant registration",
+    "Collaborate with team leads and HR to identify training needs and design relevant programs"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Education, Business, Human Resources, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Training and instructional design",
+      "Presentation and communication",
+      "Learning management systems",
+      "Project coordination",
+      "Microsoft Office Suite"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Paid time off (15 days)",
+    "Professional development budget",
+    "Mentorship program"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-22"
+}

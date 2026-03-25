@@ -1,0 +1,48 @@
+{
+  "id": "0222",
+  "title": "Staff Accountant",
+  "category": "business",
+  "company": "Honeywell",
+  "industry": "Industrial",
+  "location": {
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 61000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Honeywell is seeking a Staff Accountant to join our Finance team in Raleigh. You'll manage general ledger accounts, prepare financial statements, and ensure accuracy of our accounting records. Work onsite for a global industrial leader managing diverse operations across aerospace, building, and performance materials.",
+  "responsibilities": [
+    "Record transactions and reconcile general ledger accounts monthly",
+    "Prepare and review financial statements and supporting schedules",
+    "Assist with quarterly and annual close processes",
+    "Investigate and resolve account discrepancies",
+    "Maintain documentation and ensure compliance with accounting standards"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Accounting or Finance",
+    "experience_years": "0-2",
+    "skills": [
+      "GAAP accounting principles",
+      "Excel and accounting software",
+      "General ledger and financial reporting",
+      "Attention to detail and analytical skills",
+      "Ability to meet tight deadlines"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision plans",
+    "401(k) with company matching",
+    "Tuition reimbursement for continuing education",
+    "On-site facilities and career development programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-02"
+}

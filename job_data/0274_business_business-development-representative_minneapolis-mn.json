@@ -1,0 +1,52 @@
+{
+  "id": "0274",
+  "title": "Business Development Representative",
+  "category": "business",
+  "company": "Vanguard",
+  "industry": "Asset Management",
+  "location": {
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 60000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Business Development Representative at Vanguard. This is an exciting opportunity to join our client-centered, ethical, institutional team and make a direct impact on our mission. If you have 1-3 years years of experience and are passionate about Asset Management, we'd love to hear from you.",
+  "responsibilities": [
+    "Identify and prospect potential customers in target market segments",
+    "Conduct product demonstrations and present value propositions to prospects",
+    "Build and maintain relationships with key accounts throughout the sales cycle",
+    "Track pipeline metrics and provide weekly forecasts to sales leadership",
+    "Collaborate with solutions engineers to develop custom proposals",
+    "Achieve quarterly revenue targets through consistent prospecting and closing"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Sales, or related field",
+    "experience_years": "1-3 years",
+    "skills": [
+      "CRM software",
+      "Sales process",
+      "Relationship building",
+      "Presentation skills",
+      "Negotiation"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Performance-based bonus",
+    "Tuition reimbursement program",
+    "Life insurance (multiple of salary)",
+    "Professional certification support"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-17"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0243",
+  "title": "Compliance Analyst",
+  "category": "business",
+  "company": "FedEx",
+  "industry": "Logistics",
+  "location": {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 68000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-24",
+  "description": "FedEx Operations Support is hiring a Compliance Analyst to monitor adherence with federal transportation regulations, international shipping standards, and internal operational procedures. Working remotely from our nationwide team, you will evaluate operational processes, identify compliance gaps, and recommend corrective actions. Your analytical work ensures FedEx maintains its reputation as a trusted logistics partner while protecting the company from regulatory exposure.",
+  "responsibilities": [
+    "Review shipment documentation and carrier compliance records against DOT, IATA, and HAZMAT regulations",
+    "Conduct monthly internal audits on select facilities, documenting findings and tracking remediation timelines",
+    "Coordinate with regional operations managers to develop and implement compliance improvement plans",
+    "Analyze incident reports to identify systemic compliance issues and recommend preventive measures",
+    "Maintain tracking database of regulatory updates and their operational impact",
+    "Prepare quarterly compliance scorecards for senior leadership review"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in business, operations, regulatory affairs, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Knowledge of DOT and IATA regulations",
+      "Data analysis and spreadsheet proficiency",
+      "Report writing and documentation",
+      "Attention to detail in complex regulatory environments",
+      "Cross-functional communication"
+    ],
+    "certifications": [
+      "Preferred: DOT HazMat certification or in-progress training"
+    ]
+  },
+  "benefits": [
+    "Health, dental, vision, and life insurance coverage beginning day one",
+    "401(k) with company match (6% after one year)",
+    "Tuition reimbursement program for job-related courses",
+    "Remote work allowance and home office setup stipend"
+  ]
+}

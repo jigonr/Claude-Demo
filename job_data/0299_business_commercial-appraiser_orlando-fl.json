@@ -1,0 +1,50 @@
+{
+  "id": "0299",
+  "title": "Commercial Appraiser",
+  "category": "business",
+  "company": "Robert Half",
+  "industry": "Staffing",
+  "location": {
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 43000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Robert Half is placing a Commercial Appraiser for a direct-hire role with a property valuation firm in the Orlando area. You'll assess commercial properties, prepare valuations, and support real estate transaction decisions. This remote position offers flexibility while developing a career in commercial appraisal.",
+  "responsibilities": [
+    "Conduct commercial property appraisals and prepare comprehensive valuation reports",
+    "Perform market analysis and research comparable properties",
+    "Maintain detailed property records and documentation",
+    "Support transaction timelines and client communication",
+    "Ensure compliance with appraisal standards and regulations"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Real Estate, Finance, Appraisal, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Commercial property appraisal expertise",
+      "Knowledge of USPAP and valuation methodologies",
+      "Proficiency with appraisal software and valuation databases",
+      "Strong research and analytical abilities",
+      "Professional communication and client management"
+    ],
+    "certifications": [
+      "State-certified commercial appraiser license required"
+    ]
+  },
+  "benefits": [
+    "Competitive compensation and performance bonus",
+    "Health, dental, and vision insurance",
+    "401(k) plan with matching",
+    "Continuing education support for license maintenance",
+    "Remote work flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-22"
+}

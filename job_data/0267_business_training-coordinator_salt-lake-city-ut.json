@@ -1,0 +1,50 @@
+{
+  "id": "0267",
+  "title": "Training Coordinator",
+  "category": "business",
+  "company": "UPS",
+  "industry": "Logistics",
+  "location": {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "UPS is the global leader in package logistics, delivering to 220+ countries with 5.4M employees. We move 24M packages daily.\n\nWe're seeking a Training Coordinator to join our Logistics team in Salt Lake City. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Develop and deliver training programs for frontline and management staff",
+    "Coordinate training schedules and manage instructor resources across multiple locations",
+    "Create training materials, documentation, and assessment tools",
+    "Track training completion and performance metrics for compliance reporting",
+    "Evaluate training effectiveness and iterate on program curriculum",
+    "Collaborate with department heads to identify skills gaps and training needs"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Human Resources, Education, or Business",
+    "experience_years": "2-4 years in training, HR operations, or organizational development",
+    "skills": [
+      "Instructional design",
+      "Training delivery",
+      "Project management",
+      "LMS systems",
+      "Communication"
+    ],
+    "certifications": [
+      "SHRM-CP or equivalent HR credential preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive benefits package",
+    "Professional development budget",
+    "Hybrid work flexibility",
+    "Performance bonuses"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-19"
+}

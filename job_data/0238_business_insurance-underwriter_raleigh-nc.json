@@ -1,0 +1,51 @@
+{
+  "id": "0238",
+  "title": "Insurance Underwriter",
+  "category": "business",
+  "company": "Morgan Stanley",
+  "industry": "Investment Banking",
+  "location": {
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 61000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-02",
+  "description": "Morgan Stanley is seeking an Insurance Underwriter for our Raleigh office to assess risk, evaluate insurance applications, and make underwriting decisions for commercial insurance products. You will review medical records, financial documentation, and claim history to determine insurability and premium pricing.",
+  "responsibilities": [
+    "Review insurance applications and supporting documentation for completeness",
+    "Assess risk factors and determine insurability of applicants",
+    "Order and interpret medical reports and financial statements",
+    "Make underwriting decisions within company guidelines",
+    "Prepare underwriting decisions and communicate with brokers",
+    "Maintain accurate underwriting files and case notes"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Risk analysis and evaluation",
+      "Understanding of insurance products and underwriting guidelines",
+      "Medical and financial document interpretation",
+      "Attention to detail and accuracy",
+      "Communication and broker relationship management"
+    ],
+    "certifications": [
+      "Property and Casualty Insurance license preferred",
+      "CLU or CPCU candidate a plus"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and performance bonus",
+    "Health, dental, vision, and life insurance",
+    "Professional development and licensing support",
+    "Hybrid work arrangement and commuter benefits"
+  ]
+}

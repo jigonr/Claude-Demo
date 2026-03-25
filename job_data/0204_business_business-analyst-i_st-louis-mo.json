@@ -1,0 +1,48 @@
+{
+  "id": "0204",
+  "title": "Business Analyst I",
+  "category": "business",
+  "company": "Accenture",
+  "industry": "Consulting",
+  "location": {
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 49000,
+    "max": 63000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Accenture is hiring a Business Analyst I to support client engagements remotely. You'll gather requirements, analyze business processes, and recommend improvements. This role offers exposure to diverse industries and the opportunity to develop consulting skills.",
+  "responsibilities": [
+    "Gather and document client business requirements; conduct interviews and workshops",
+    "Analyze current business processes; identify inefficiencies and improvement opportunities",
+    "Prepare requirements documentation and process flow diagrams for development teams",
+    "Support solution design and implementation; communicate status to stakeholders",
+    "Track project metrics and prepare reports on project progress and outcomes"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, Information Systems, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Requirements gathering and documentation",
+      "Process analysis and modeling",
+      "Business process mapping tools",
+      "Data analysis and reporting",
+      "Communication and presentation"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + bonus",
+    "Health, dental, vision coverage",
+    "401(k) with company match",
+    "Paid time off (15 days)",
+    "Professional development and consulting training"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-05"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "0252",
+  "title": "Actuarial Analyst",
+  "category": "business",
+  "company": "Allstate",
+  "industry": "Insurance",
+  "location": {
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 57000,
+    "max": 72000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-22",
+  "description": "Allstate is seeking an Actuarial Analyst to support pricing, reserving, and risk analysis functions. You will build models to analyze claims data, assess financial risk, and develop rate recommendations. This role offers the opportunity to work on complex problems impacting millions of customers and support actuarial career development.",
+  "responsibilities": [
+    "Build and maintain actuarial models for pricing and reserving",
+    "Analyze claims data to identify trends and develop assumptions",
+    "Perform loss analysis and financial projections",
+    "Develop rate recommendations with supporting documentation",
+    "Conduct data quality reviews and manage databases",
+    "Support regulatory filings with actuarial exhibits and certifications"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Actuarial Science, Mathematics, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Actuarial modeling and analysis",
+      "SQL and database querying",
+      "Statistical analysis and trend analysis",
+      "Excel and financial modeling",
+      "Understanding of insurance products and risk"
+    ],
+    "certifications": [
+      "Passed at least one actuarial exam (P/FM) preferred",
+      "ASA or FSA candidate status preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and performance bonus",
+    "Comprehensive health, dental, vision, and life insurance",
+    "Actuarial exam study support and fee reimbursement",
+    "Hybrid work schedule and professional development"
+  ]
+}

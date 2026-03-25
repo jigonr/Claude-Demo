@@ -1,0 +1,52 @@
+{
+  "id": "0326",
+  "title": "Investment Analyst",
+  "category": "business",
+  "company": "T. Rowe Price",
+  "industry": "Asset Management",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 91000,
+    "max": 117000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "T. Rowe Price, a global investment management leader, seeks an Investment Analyst for our Cambridge office. You'll analyze securities, conduct investment research, and contribute to portfolio decisions for our investment teams. Work onsite in a prestigious environment where rigorous research and investment discipline drive exceptional long-term returns.",
+  "responsibilities": [
+    "Conduct fundamental security analysis and investment research",
+    "Build financial models and valuation analyses",
+    "Monitor companies and sectors within assigned coverage areas",
+    "Present findings and recommendations to portfolio managers",
+    "Evaluate risks and opportunities in assigned securities",
+    "Collaborate with portfolio management and trading teams"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Economics, Accounting, or related field; MBA preferred",
+    "experience_years": "2-4",
+    "skills": [
+      "Financial analysis and modeling (Excel proficiency required)",
+      "Understanding of accounting and financial statements",
+      "Security analysis and valuation methodologies",
+      "Research and critical thinking skills",
+      "Communication and presentation abilities",
+      "Knowledge of specific sectors or asset classes (preferred)"
+    ],
+    "certifications": [
+      "CFA Level I completed or in progress (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and bonus structure",
+    "Health, dental, vision, and wellness benefits",
+    "401(k) with company match",
+    "CFA exam study materials and reimbursement",
+    "Professional development and conference attendance"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-02"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0294",
+  "title": "Social Media Coordinator",
+  "category": "business",
+  "company": "Lockheed Martin",
+  "industry": "Defense",
+  "location": {
+    "city": "Durham",
+    "state": "NC",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 39000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Lockheed Martin is seeking a Social Media Coordinator to manage our communications across social platforms. You'll create content, engage with audiences, and support our brand voice in the defense and aerospace sector. This remote role offers the opportunity to develop marketing and communications expertise with a Fortune 500 company.",
+  "responsibilities": [
+    "Create and schedule social media content across LinkedIn, Twitter, Facebook, and Instagram",
+    "Monitor social media channels; respond to inquiries and engage with audiences",
+    "Analyze social media metrics and performance; prepare reports for management",
+    "Collaborate with marketing and communications teams on campaign strategy",
+    "Support brand reputation management and crisis communication protocols"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, Communications, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Proficiency with social media platforms and management tools",
+      "Strong written communication and storytelling abilities",
+      "Content creation and basic graphic design skills",
+      "Analytical abilities and data interpretation",
+      "Understanding of social media trends and best practices"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Paid time off and paid holidays",
+    "Professional development and marketing training",
+    "Fully remote work environment"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-20"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0264",
+  "title": "Actuarial Analyst",
+  "category": "business",
+  "company": "JPMorgan Chase",
+  "industry": "Investment Banking",
+  "location": {
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 61000,
+    "max": 76000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "JPMorgan Chase is seeking an Actuarial Analyst to support risk management and financial modeling initiatives. You'll analyze risk data, develop models, and support underwriting decisions. Work onsite in Charlotte for a leading global financial services firm.",
+  "responsibilities": [
+    "Analyze risk data and develop actuarial models",
+    "Support financial projections and forecasting",
+    "Conduct sensitivity and scenario analyses",
+    "Document methodologies and assumptions",
+    "Support regulatory compliance and reporting"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Mathematics, Statistics, Finance, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Statistical analysis and modeling",
+      "Excel and financial modeling",
+      "Risk assessment principles",
+      "Strong analytical thinking",
+      "Attention to detail and accuracy"
+    ],
+    "certifications": [
+      "SOA or CAS Exam 1 (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary with bonuses",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "On-site Charlotte office",
+    "Exam sponsorship and actuarial training"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-19"
+}

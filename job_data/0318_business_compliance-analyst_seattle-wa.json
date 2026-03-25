@@ -1,0 +1,50 @@
+{
+  "id": "0318",
+  "title": "Compliance Analyst",
+  "category": "business",
+  "company": "Travelers",
+  "industry": "Insurance",
+  "location": {
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 68000,
+    "max": 90000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Travelers is a leading property casualty insurance company with $3T in assets under administration, serving business and personal insurance.\n\nWe're seeking a Compliance Analyst to join our Insurance team in Seattle. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Monitor regulatory changes and assess impact on business operations and policies",
+    "Conduct compliance audits and identify policy violations or risk areas",
+    "Develop compliance training and communication materials for employees",
+    "Investigate compliance concerns and implement corrective action plans",
+    "Maintain compliance documentation and audit trails",
+    "Partner with department heads to ensure ongoing compliance with regulations"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Law, or related field; MBA preferred",
+    "experience_years": "2-4 years in compliance, regulatory affairs, or quality assurance",
+    "skills": [
+      "Regulatory knowledge",
+      "Audit and risk assessment",
+      "Documentation",
+      "Communication",
+      "Attention to detail"
+    ],
+    "certifications": [
+      "Compliance certification (CCE) or legal credential preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive compensation package",
+    "Onsite work in Philadelphia",
+    "Professional development fund",
+    "Retirement benefits"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-15"
+}

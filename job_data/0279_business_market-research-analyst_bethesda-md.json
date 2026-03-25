@@ -1,0 +1,48 @@
+{
+  "id": "0279",
+  "title": "Market Research Analyst",
+  "category": "business",
+  "company": "PwC",
+  "industry": "Professional Services",
+  "location": {
+    "city": "Bethesda",
+    "state": "MD",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 62000,
+    "max": 81000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "PwC is seeking a Market Research Analyst to support strategic consulting engagements with Fortune 500 clients. You'll conduct market research, analyze competitive landscapes, and develop insights that inform business strategy. Work hybrid in Bethesda for a leading professional services firm.",
+  "responsibilities": [
+    "Conduct primary and secondary market research",
+    "Analyze industry trends and competitive positioning",
+    "Develop market sizing and opportunity assessments",
+    "Create executive presentations and strategic recommendations",
+    "Support client engagements with data-driven analysis"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Economics, Marketing, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Market research methodologies",
+      "Data analysis and interpretation",
+      "Business writing and presentation",
+      "Industry research tools and databases",
+      "Problem-solving and strategic thinking"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with performance bonuses",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Flexible hybrid Bethesda schedule",
+    "Professional development and industry certifications"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-03"
+}
