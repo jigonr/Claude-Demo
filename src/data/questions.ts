@@ -52,9 +52,18 @@ const adversarial: Question[] = [
       ],
     },
   },
+  // OPEN: early interleave — force reflection before they settle into click-click-click
+  {
+    id: 'why-really',
+    text: 'What career are you "supposed" to pursue? And who decided that — you or someone else?',
+    subtext: 'Name the career. Then name the person. Be specific.',
+    type: 'open',
+    phase: 'adversarial',
+    dimensionWeights: {},
+  },
   {
     id: 'linkedin-invisible',
-    text: "If nobody could ever see your job title — no LinkedIn, no dinner party introductions — would you still want the career you're considering?",
+    text: "If nobody could ever see your job title — no LinkedIn, no introductions at parties — would you still want the career you're considering?",
     type: 'binary',
     phase: 'adversarial',
     options: [
@@ -86,6 +95,15 @@ const adversarial: Question[] = [
         { dimension: 'incomeWeight', weight: -0.3 },
       ],
     },
+  },
+  // OPEN: what does success actually look like in their head?
+  {
+    id: 'success-definition',
+    text: 'Be honest: when you picture yourself "successful" in 10 years, what does the image look like?',
+    subtext: "Don't describe what you think we want to hear. Describe the actual image in your head — the car, the office, the Tuesday morning.",
+    type: 'open',
+    phase: 'adversarial',
+    dimensionWeights: {},
   },
   {
     id: 'friend-got-dream-job',
@@ -130,36 +148,23 @@ const adversarial: Question[] = [
       ],
     },
   },
+  // OPEN: what scares them — this is where real signal lives
   {
-    id: 'worst-at-table',
-    text: 'Would you rather be the least talented person in a room of geniuses, or the smartest person everywhere you go?',
-    type: 'binary',
+    id: 'biggest-fear',
+    text: "What's the scariest thing about choosing a career? Say it plainly.",
+    subtext: "Picking wrong? Disappointing someone? Being stuck? Being broke? Name the fear.",
+    type: 'open',
     phase: 'adversarial',
-    options: [
-      { id: 'least-talented', label: 'Least talented among geniuses' },
-      { id: 'smartest', label: 'Smartest in the room' },
-    ],
-    dimensionWeights: {
-      'least-talented': [
-        { dimension: 'cognitiveStyle', weight: 0.5 },
-        { dimension: 'riskTolerance', weight: 0.4 },
-        { dimension: 'statusWeight', weight: -0.5 },
-      ],
-      smartest: [
-        { dimension: 'statusWeight', weight: 0.7 },
-        { dimension: 'riskTolerance', weight: -0.4 },
-        { dimension: 'autonomy', weight: 0.3 },
-      ],
-    },
+    dimensionWeights: {},
   },
   {
     id: 'creative-poverty-boring-wealth',
-    text: 'You get two offers on the same day. One: total creative freedom, €25K/year. Two: mind-numbing work, €90K/year. Which do you take?',
+    text: 'Two offers, same day. One: total creative freedom, pays half the average wage. Two: mind-numbing work, pays double the average.',
     subtext: "You can't negotiate. You can't switch for 5 years.",
     type: 'slider',
     phase: 'adversarial',
-    sliderMin: 'Creative freedom at €25K',
-    sliderMax: 'Boring stability at €90K',
+    sliderMin: 'Creative freedom, half pay',
+    sliderMax: 'Boring stability, double pay',
     dimensionWeights: {
       __slider__: [
         { dimension: 'incomeWeight', weight: 0.9 },
@@ -170,7 +175,7 @@ const adversarial: Question[] = [
   },
   {
     id: 'move-to-nowhere',
-    text: "The perfect opportunity appears — but it's in a city where you know absolutely nobody, 4,000km from home. Do you go?",
+    text: "The perfect opportunity appears — but it's in a city where you know absolutely nobody, far from everyone you love. Do you go?",
     type: 'binary',
     phase: 'adversarial',
     options: [
@@ -213,22 +218,6 @@ const adversarial: Question[] = [
       ],
     },
   },
-  {
-    id: 'why-really',
-    text: 'What career are you "supposed" to pursue? And who decided that — you or someone else?',
-    subtext: 'Name the career. Then name the person. Be specific.',
-    type: 'open',
-    phase: 'adversarial',
-    dimensionWeights: {},
-  },
-  {
-    id: 'success-definition',
-    text: 'Be honest: when you picture yourself "successful" in 10 years, what does the image look like?',
-    subtext: "Don't describe what you think we want to hear. Describe the actual image in your head.",
-    type: 'open',
-    phase: 'adversarial',
-    dimensionWeights: {},
-  },
 ];
 
 // ─────────────────────────────────────────────────────────
@@ -239,6 +228,7 @@ const adversarial: Question[] = [
 // ─────────────────────────────────────────────────────────
 
 const redirecting: Question[] = [
+  // OPEN first: shift the energy from adversarial to reflective
   {
     id: 'lost-track-of-time',
     text: 'Think of the last time you completely lost track of time doing something. What were you doing?',
@@ -288,6 +278,15 @@ const redirecting: Question[] = [
       ],
     },
   },
+  // OPEN: what actually pulls them — this feeds the AI with the richest signal
+  {
+    id: 'uncomfortable-truth',
+    text: "What's the career you've secretly thought about but would never say out loud?",
+    subtext: "The one that makes you feel a little embarrassed. That one.",
+    type: 'open',
+    phase: 'redirecting',
+    dimensionWeights: {},
+  },
   {
     id: 'chaos-or-order',
     text: 'Your ideal Monday morning:',
@@ -324,6 +323,15 @@ const redirecting: Question[] = [
       ],
     },
   },
+  // OPEN: Saturday night — reveals intrinsic motivation
+  {
+    id: 'saturday-night-work',
+    text: "It's Saturday night and you're voluntarily working on something. What is it?",
+    subtext: "This is the thing you'd do even if nobody paid you. Name it.",
+    type: 'open',
+    phase: 'redirecting',
+    dimensionWeights: {},
+  },
   {
     id: 'mastery-or-variety',
     text: 'Would you rather master one skill so deeply nobody can touch you, or be decent at 20 different things?',
@@ -334,7 +342,7 @@ const redirecting: Question[] = [
     dimensionWeights: {
       __slider__: [
         { dimension: 'cognitiveStyle', weight: 0.8 },
-        { dimension: 'timeHorizon', weight: -0.5 },
+        { dimension: 'timeHorizon', weight: 0.5 },
         { dimension: 'riskTolerance', weight: 0.3 },
       ],
     },
@@ -383,22 +391,6 @@ const redirecting: Question[] = [
     dimensionWeights: {
       __slider__: [{ dimension: 'socialDensity', weight: 1.0 }],
     },
-  },
-  {
-    id: 'saturday-night-work',
-    text: "It's Saturday night and you're voluntarily working on something. What is it?",
-    subtext: "This is the thing you'd do even if nobody paid you. Name it.",
-    type: 'open',
-    phase: 'redirecting',
-    dimensionWeights: {},
-  },
-  {
-    id: 'uncomfortable-truth',
-    text: "What's the career you've secretly thought about but would never say out loud?",
-    subtext: "The one you'd be embarrassed to put on a university application. That one.",
-    type: 'open',
-    phase: 'redirecting',
-    dimensionWeights: {},
   },
 ];
 
