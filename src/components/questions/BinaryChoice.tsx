@@ -37,7 +37,7 @@ export function BinaryChoice({
               ${
                 isSelected
                   ? "border-accent bg-accent text-white shadow-lg shadow-accent/20"
-                  : "border-2 border-border bg-surface hover:border-accent/50 hover:shadow-md text-foreground"
+                  : "border-2 border-border bg-white hover:border-accent hover:shadow-md text-foreground"
               }
             `}
           >
