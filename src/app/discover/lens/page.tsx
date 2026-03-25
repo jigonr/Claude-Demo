@@ -1,218 +1,140 @@
 "use client";
 
-import { useEffect, useState, useRef } from "react";
+import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
 import { useDiscoverStore } from "@/lib/store";
-import { Reflection } from "@/lib/types";
+import { derivePreferences } from "@/lib/scoring";
+import { detectContradictions } from "@/lib/contradictions";
+import { DimensionBar } from "@/components/ui/DimensionBar";
+import { Badge } from "@/components/ui/Badge";
+import { Button } from "@/components/ui/Button";
+import { LoadingPulse } from "@/components/ui/LoadingPulse";
+import { Reflection, RevealedPreferences } from "@/lib/types";
+
+const dimensionLabels: Record<keyof RevealedPreferences, { label: string; min: string; max: string; range: "bipolar" | "unipolar" }> = {
+  autonomy: { label: "Autonomy", min: "Structure", max: "Independence", range: "bipolar" },
+  timeHorizon: { label: "Time Horizon", min: "Now", max: "Long-term", range: "bipolar" },
+  socialDensity: { label: "Social Style", min: "Solo", max: "Team", range: "bipolar" },
+  riskTolerance: { label: "Risk Tolerance", min: "Safe", max: "Bold", range: "bipolar" },
+  cognitiveStyle: { label: "Thinking Style", min: "Concrete", max: "Abstract", range: "bipolar" },
+  incomeWeight: { label: "Income Priority", min: "Low", max: "High", range: "unipolar" },
+  statusWeight: { label: "Status Priority", min: "Low", max: "High", range: "unipolar" },
+  meaningWeight: { label: "Meaning Priority", min: "Low", max: "High", range: "unipolar" },
+  geographicFlex: { label: "Geographic Flexibility", min: "Rooted", max: "Nomadic", range: "bipolar" },
+};
 
 export default function LensPage() {
   const router = useRouter();
-  const { answers, revealedPreferences, setReflections, setIsReflecting } =
-    useDiscoverStore();
-  const [streamedText, setStreamedText] = useState("");
-  const [parsedReflections, setParsedReflections] = useState<Reflection[]>([]);
-  const [done, setDone] = useState(false);
-  const [error, setError] = useState<string | null>(null);
-  const hasStarted = useRef(false);
+  const { answers, setPreferences, setReflections } = useDiscoverStore();
+  const [localReflections, setLocalReflections] = useState<Reflection[]>([]);
+  const [prefs, setPrefs] = useState<RevealedPreferences | null>(null);
+  const [loading, setLoading] = useState(true);
 
-  // Redirect if no answers
   useEffect(() => {
     if (answers.length === 0) {
       router.push("/discover/mirror");
-    }
-  }, [answers, router]);
-
-  // Fetch reflections from API
-  useEffect(() => {
-    if (answers.length === 0 || hasStarted.current) return;
-    hasStarted.current = true;
-
-    async function fetchReflections() {
-      setIsReflecting(true);
-
-      try {
-        const response = await fetch("/api/reflect", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            answers,
-            preferences: revealedPreferences,
-          }),
-        });
-
-        if (!response.ok) {
-          throw new Error("Failed to get reflections");
-        }
-
-        const reader = response.body?.getReader();
-        if (!reader) throw new Error("No response stream");
-
-        const decoder = new TextDecoder();
-        let accumulated = "";
-
-        while (true) {
-          const { done: streamDone, value } = await reader.read();
-          if (streamDone) break;
-
-          const chunk = decoder.decode(value);
-          for (const line of chunk.split("\n")) {
-            if (line.startsWith("data: ") && line !== "data: [DONE]") {
-              try {
-                const text = JSON.parse(line.slice(6));
-                accumulated += text;
-                setStreamedText(accumulated);
-              } catch {
-                // skip malformed chunks
-              }
-            }
-          }
-        }
-
-        // Parse the final JSON
-        try {
-          const reflections: Reflection[] = JSON.parse(accumulated);
-          setParsedReflections(reflections);
-          setReflections(reflections);
-        } catch {
-          // Try to extract JSON from the accumulated text
-          const jsonMatch = accumulated.match(/\[[\s\S]*\]/);
-          if (jsonMatch) {
-            const reflections: Reflection[] = JSON.parse(jsonMatch[0]);
-            setParsedReflections(reflections);
-            setReflections(reflections);
-          } else {
-            throw new Error("Could not parse reflections");
-          }
-        }
-
-        setDone(true);
-      } catch (err) {
-        setError(err instanceof Error ? err.message : "Something went wrong");
-      } finally {
-        setIsReflecting(false);
-      }
+      return;
     }
 
-    fetchReflections();
-  }, [answers, revealedPreferences, setReflections, setIsReflecting]);
+    const derived = derivePreferences(answers);
+    setPreferences(derived);
+    setPrefs(derived);
 
-  if (answers.length === 0) return null;
+    const reflections = detectContradictions(answers, derived);
+    setReflections(reflections);
+    setLocalReflections(reflections);
 
-  const typeLabels: Record<Reflection["type"], string> = {
-    contradiction: "Contradiction",
-    assumption: "Hidden Assumption",
-    surprise: "Surprise",
-    reframe: "Reframe",
-  };
+    const timer = setTimeout(() => setLoading(false), 1500);
+    return () => clearTimeout(timer);
+  }, [answers, setPreferences, setReflections, router]);
 
-  const typeColors: Record<Reflection["type"], string> = {
-    contradiction: "border-red-400/40",
-    assumption: "border-amber-400/40",
-    surprise: "border-emerald-400/40",
-    reframe: "border-accent/40",
-  };
+  if (loading || !prefs) {
+    return <LoadingPulse title="Reading between the lines..." subtitle="Analyzing your patterns and contradictions." />;
+  }
 
   return (
-    <div>
-      {/* Header */}
-      <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.6 }}
-        className="mb-12 text-center"
-      >
-        <h1 className="font-[family-name:var(--font-heading)] text-3xl md:text-5xl text-foreground mb-4">
-          What you revealed
-        </h1>
-        <p className="text-muted text-lg">
-          Between the lines of your answers, here&apos;s what we found.
-        </p>
-      </motion.div>
-
-      {/* Loading state — streaming text */}
-      {!done && !error && (
+    <div className="min-h-dvh py-16 px-4">
+      <div className="max-w-3xl mx-auto">
         <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          className="mb-8"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.5 }}
         >
-          <div className="flex items-center gap-3 mb-6">
-            <motion.div
-              animate={{ opacity: [0.4, 1, 0.4] }}
-              transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
-              className="w-2 h-2 rounded-full bg-accent"
-            />
-            <p className="text-muted text-sm">
-              Analyzing your pattern across 22 answers...
-            </p>
-          </div>
-          {streamedText && (
-            <div className="text-muted/50 text-xs font-mono overflow-hidden max-h-24 leading-relaxed">
-              {streamedText.slice(-200)}
-            </div>
-          )}
+          <h1 className="font-[family-name:var(--font-heading)] text-3xl md:text-4xl text-foreground">
+            Here&rsquo;s what we noticed.
+          </h1>
+          <p className="mt-4 text-muted text-lg leading-relaxed">
+            Your answers tell a story. Some of it you already know. Some might surprise you.
+          </p>
         </motion.div>
-      )}
 
-      {/* Error state */}
-      {error && (
+        {/* Dimension Profile */}
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          className="text-center py-12"
+          transition={{ delay: 0.3, duration: 0.5 }}
+          className="mt-12 space-y-4"
         >
-          <p className="text-red-500 mb-4">{error}</p>
-          <button
-            onClick={() => router.push("/discover/mirror")}
-            className="text-accent underline underline-offset-4"
+          <h2 className="font-[family-name:var(--font-heading)] text-xl text-foreground mb-6">
+            Your preference profile
+          </h2>
+          {(Object.keys(dimensionLabels) as (keyof RevealedPreferences)[]).map((key) => {
+            const dim = dimensionLabels[key];
+            return (
+              <DimensionBar
+                key={key}
+                label={dim.label}
+                value={prefs[key]}
+                minLabel={dim.min}
+                maxLabel={dim.max}
+                range={dim.range}
+              />
+            );
+          })}
+        </motion.div>
+
+        {/* Reflections */}
+        <div className="mt-16 space-y-8">
+          <motion.h2
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.6, duration: 0.5 }}
+            className="font-[family-name:var(--font-heading)] text-xl text-foreground"
           >
-            Try again
-          </button>
-        </motion.div>
-      )}
+            What your answers reveal
+          </motion.h2>
 
-      {/* Reflections */}
-      {done && parsedReflections.length > 0 && (
-        <div className="space-y-6">
-          {parsedReflections.map((reflection, i) => (
+          {localReflections.map((reflection, i) => (
             <motion.div
               key={reflection.id}
-              initial={{ opacity: 0, y: 30 }}
+              initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5, delay: i * 0.15 }}
-              className={`border-l-4 ${typeColors[reflection.type]} bg-foreground/[0.03] rounded-r-lg p-6`}
+              transition={{ delay: 0.8 + i * 0.3, duration: 0.5 }}
+              className="rounded-2xl border-2 border-foreground/10 p-6"
             >
-              <div className="flex items-center gap-2 mb-2">
-                <span className="text-xs font-medium text-muted uppercase tracking-wider">
-                  {typeLabels[reflection.type]}
-                </span>
-              </div>
-              <h3 className="font-[family-name:var(--font-heading)] text-xl text-foreground mb-2">
+              <Badge label={reflection.type} type={reflection.type} />
+              <h3 className="mt-3 font-[family-name:var(--font-heading)] text-lg text-foreground">
                 {reflection.title}
               </h3>
-              <p className="text-foreground/80 leading-relaxed">
+              <p className="mt-2 text-sm text-muted leading-relaxed">
                 {reflection.body}
               </p>
             </motion.div>
           ))}
-
-          {/* Continue button */}
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ delay: parsedReflections.length * 0.15 + 0.3 }}
-            className="pt-8 text-center"
-          >
-            <button
-              onClick={() => router.push("/discover/map")}
-              className="bg-accent text-white px-8 py-3 rounded-lg font-medium hover:bg-accent-light transition-colors"
-            >
-              See your career map
-            </button>
-          </motion.div>
         </div>
-      )}
+
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 0.8 + localReflections.length * 0.3 + 0.3 }}
+          className="mt-16 text-center"
+        >
+          <Button size="lg" onClick={() => router.push("/discover/map")}>
+            See Your Matches &rarr;
+          </Button>
+        </motion.div>
+      </div>
     </div>
   );
 }
