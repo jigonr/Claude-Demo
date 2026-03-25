@@ -75,27 +75,62 @@ git push origin --delete feature/my-feature
 
 ---
 
+## MVP SPEC (V1 — ship this first)
+
+**Goal:** End-to-end flow from questions to career matches. No API dependencies. No AI. Ship fast.
+
+### Three screens after the questionnaire:
+
+**Screen 1: Mirror Recap** (`/discover/lens`)
+- Show the user's 9 dimensions as a simple radar/bar visualization
+- 2-3 **deterministic contradictions** detected from answer pairs (no Claude API needed)
+- Example: "You want creative freedom but chose the €90K boring job. Financial security matters more to you than you think."
+- Contradiction detection = pure logic: if answer A conflicts with answer B → show insight
+- "See Your Matches" button → `/discover/map`
+
+**Screen 2: Your Matches** (`/discover/map`)
+- Run `matchCareers()` against career database
+- Show **top 5 career cards**: title, match score, one-line "why this fits"
+- Include 1 **surprise pick** that scores lower but challenges an assumption
+- Card shows: title, salary range, match %, one-sentence explanation
+- "Explore Your Path" button → `/discover/path`
+
+**Screen 3: What Now** (`/discover/path`)
+- For each matched career: one **micro-experiment** (shadow someone, free course, weekend project)
+- Keep it dead simple: list of 5 careers × 1 action each
+- "Start Over" button → reset store, back to `/`
+
+### What is CUT from V1 (do NOT build these yet):
+- ~~Claude API reflection~~ → replaced by deterministic contradiction detection
+- ~~Detailed career profiles~~ → just the match card
+- ~~Learning path timelines~~ → V2
+- ~~Income trajectory charts~~ → V2
+- ~~Career stories~~ → V2
+- ~~Export/share~~ → V2
+
+---
+
 ## ROADMAP & TASK ASSIGNMENTS
 
-### Sprint 1: Core Flow (NOW -- target: working end-to-end demo)
+### Sprint 1: MVP (NOW — target: working end-to-end demo)
 
 | # | Task | Owner | Status | Files | Blocked By |
 |---|------|-------|--------|-------|------------|
-| 1 | Career database with queryable schema | **David** | IN PROGRESS | `src/data/careers.ts` | -- |
-| 2 | Claude API integration + reflection prompts | **Maks** | IN PROGRESS | `src/app/api/reflect/route.ts`, `src/app/discover/lens/page.tsx` | -- |
-| 3 | Map page UI (career match cards) | **Jose** | TODO | `src/app/discover/map/page.tsx`, `src/components/careers/` | #1 (needs careers data) |
-| 4 | Path page UI (action plans) | **Jose** | TODO | `src/app/discover/path/page.tsx` | #1 |
-| 5 | Shared UI components (buttons, loading states) | **Jose** | TODO | `src/components/ui/` | -- |
+| 1 | Career database with dimension vectors | **David** | IN PROGRESS | `src/data/careers.ts`, `job_data/` | -- |
+| 2 | Contradiction detection logic | **Next up** | TODO | `src/lib/contradictions.ts` | -- |
+| 3 | Mirror Recap page (replace lens stub) | **Maks** | TODO | `src/app/discover/lens/page.tsx` | #2 |
+| 4 | Map page — 5 career match cards | **Maks** | TODO | `src/app/discover/map/page.tsx`, `src/components/careers/` | #1 |
+| 5 | Path page — micro-experiments list | **Maks** | TODO | `src/app/discover/path/page.tsx` | #1 |
 
-### Sprint 2: Polish & Integration
+### Sprint 2: AI + Polish (after MVP ships)
 
 | # | Task | Owner | Status | Files |
 |---|------|-------|--------|-------|
-| 6 | Fix question data bugs (see Known Issues) | Anyone | TODO | `src/data/questions.ts` |
-| 7 | End-to-end flow testing | All | TODO | -- |
-| 8 | Mobile responsiveness pass | Jose | TODO | All pages |
-| 9 | Error handling (API failures, empty states) | Maks | TODO | Lens page, API route |
-| 10 | Landing page polish & copy review | Jose | TODO | `src/app/page.tsx` |
+| 6 | Claude API integration (upgrade lens to AI reflection) | Maks | TODO | `src/app/api/reflect/route.ts` |
+| 7 | Fix data bugs (mastery-or-variety weight, legacy-question type) | Anyone | TODO | `src/data/questions.ts` |
+| 8 | End-to-end flow testing | All | TODO | -- |
+| 9 | Mobile responsiveness pass | Maks | TODO | All pages |
+| 10 | Career detail expansion (stories, income, learning paths) | David | TODO | `src/data/careers.ts` |
 
 ---
 
@@ -422,18 +457,20 @@ Flat-file dataset of entry-level job postings. **No database** -- filenames are 
 - [x] Landing page + About page
 
 ### In Progress
-- [ ] Career database with queryable schema (David)
-- [ ] Claude API integration + reflection prompts (Maks)
+- [ ] Career database with dimension vectors (David)
+- [ ] Web app UI for question flow (Maks)
 
-### Up Next
-- [ ] Map page UI with career cards (Jose)
-- [ ] Path page UI with action plans (Jose)
-- [ ] Shared UI components (Jose)
+### Up Next (MVP critical path)
+- [ ] Contradiction detection logic (`src/lib/contradictions.ts`)
+- [ ] Mirror Recap page — deterministic insights, no AI
+- [ ] Map page — 5 career cards with match scores
+- [ ] Path page — micro-experiments list
 
-### Backlog
+### Backlog (V2)
+- [ ] Claude API reflection (upgrade lens to AI)
 - [ ] Fix data bugs (mastery-or-variety weight, legacy-question type)
+- [ ] Career detail pages (stories, income trajectory, learning paths)
 - [ ] Slider semantics audit
 - [ ] Question count reduction
-- [ ] End-to-end flow test
 - [ ] Mobile responsiveness pass
-- [ ] Error handling for API failures
+- [ ] Export/share functionality
