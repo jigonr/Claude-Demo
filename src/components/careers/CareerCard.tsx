@@ -37,8 +37,9 @@ export function JobCard({ match, index, isSurprise = false }: JobCardProps) {
             )}
           </div>
           <p className="mt-1 text-sm text-muted">
-            {job.company} &middot; {job.location.city}, {job.location.state}
-            {job.location.remote !== "on-site" && ` \u00b7 ${job.location.remote}`}
+            {job.company}
+            {job.location?.city && <> &middot; {job.location.city}, {job.location.state}</>}
+            {job.location?.remote && job.location.remote !== "on-site" && <> &middot; {job.location.remote}</>}
           </p>
           <p className="mt-2 text-sm text-muted leading-relaxed">
             {matchExplanation}
@@ -51,16 +52,20 @@ export function JobCard({ match, index, isSurprise = false }: JobCardProps) {
       </div>
 
       {/* Tags */}
-      <div className="mt-4 flex flex-wrap gap-2">
-        {job.tags.map((tag) => (
-          <Badge key={tag} label={tag} />
-        ))}
-      </div>
+      {(job.tags?.length ?? 0) > 0 && (
+        <div className="mt-4 flex flex-wrap gap-2">
+          {job.tags.map((tag) => (
+            <Badge key={tag} label={tag} />
+          ))}
+        </div>
+      )}
 
       {/* Salary range */}
-      <div className="mt-4 text-sm text-muted">
-        ${(job.salary.min / 1000).toFixed(0)}K &ndash; ${(job.salary.max / 1000).toFixed(0)}K / year
-      </div>
+      {job.salary?.min != null && (
+        <div className="mt-4 text-sm text-muted">
+          ${(job.salary.min / 1000).toFixed(0)}K &ndash; ${(job.salary.max / 1000).toFixed(0)}K / year
+        </div>
+      )}
 
       {/* Expanded detail */}
       <AnimatePresence>
@@ -80,28 +85,37 @@ export function JobCard({ match, index, isSurprise = false }: JobCardProps) {
               </div>
 
               {/* Responsibilities */}
-              <div>
-                <h4 className="text-sm font-semibold text-foreground mb-2">What you&rsquo;d do</h4>
-                <ul className="text-sm text-muted leading-relaxed space-y-1 list-disc list-inside">
-                  {job.responsibilities.slice(0, 5).map((r, i) => (
-                    <li key={i}>{r}</li>
-                  ))}
-                </ul>
-              </div>
+              {(job.responsibilities?.length ?? 0) > 0 && (
+                <div>
+                  <h4 className="text-sm font-semibold text-foreground mb-2">What you&rsquo;d do</h4>
+                  <ul className="text-sm text-muted leading-relaxed space-y-1 list-disc list-inside">
+                    {job.responsibilities.slice(0, 5).map((r, i) => (
+                      <li key={i}>{r}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
 
               {/* Requirements */}
-              <div>
-                <h4 className="text-sm font-semibold text-foreground mb-2">What they&rsquo;re looking for</h4>
-                <p className="text-sm text-muted">{job.requirements.education} &middot; {job.requirements.experience_years} years experience</p>
-                <div className="mt-2 flex flex-wrap gap-2">
-                  {job.requirements.skills.map((skill) => (
-                    <Badge key={skill} label={skill} />
-                  ))}
+              {job.requirements && (
+                <div>
+                  <h4 className="text-sm font-semibold text-foreground mb-2">What they&rsquo;re looking for</h4>
+                  <p className="text-sm text-muted">
+                    {job.requirements.education || "No specific degree required"}
+                    {job.requirements.experience_years && <> &middot; {job.requirements.experience_years} years experience</>}
+                  </p>
+                  {(job.requirements.skills?.length ?? 0) > 0 && (
+                    <div className="mt-2 flex flex-wrap gap-2">
+                      {job.requirements.skills.map((skill) => (
+                        <Badge key={skill} label={skill} />
+                      ))}
+                    </div>
+                  )}
                 </div>
-              </div>
+              )}
 
               {/* Benefits */}
-              {job.benefits.length > 0 && (
+              {(job.benefits?.length ?? 0) > 0 && (
                 <div>
                   <h4 className="text-sm font-semibold text-foreground mb-2">Benefits</h4>
                   <ul className="text-sm text-muted leading-relaxed space-y-1 list-disc list-inside">

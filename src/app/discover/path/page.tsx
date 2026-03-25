@@ -188,52 +188,57 @@ export default function PathPage() {
                     />
                   </div>
                   <p className="mt-1 text-sm text-muted">
-                    {match.job.company} &middot; {match.job.location.city},{" "}
-                    {match.job.location.state} &middot; $
-                    {(match.job.salary.min / 1000).toFixed(0)}K&ndash;$
-                    {(match.job.salary.max / 1000).toFixed(0)}K/year
+                    {match.job.company}
+                    {match.job.location?.city && <> &middot; {match.job.location.city}, {match.job.location.state}</>}
+                    {match.job.salary?.min != null && <> &middot; ${(match.job.salary.min / 1000).toFixed(0)}K&ndash;${(match.job.salary.max / 1000).toFixed(0)}K/year</>}
                   </p>
 
                   {/* Key skills */}
-                  <div className="mt-4">
-                    <h4 className="text-sm font-semibold text-foreground mb-3">
-                      Skills to build
-                    </h4>
-                    <div className="flex flex-wrap gap-2">
-                      {match.job.requirements.skills.map((skill) => (
-                        <Badge key={skill} label={skill} />
-                      ))}
+                  {(match.job.requirements?.skills?.length ?? 0) > 0 && (
+                    <div className="mt-4">
+                      <h4 className="text-sm font-semibold text-foreground mb-3">
+                        Skills to build
+                      </h4>
+                      <div className="flex flex-wrap gap-2">
+                        {match.job.requirements.skills.map((skill) => (
+                          <Badge key={skill} label={skill} />
+                        ))}
+                      </div>
                     </div>
-                  </div>
+                  )}
 
                   {/* Getting started */}
-                  <div className="mt-4 bg-accent/5 rounded-xl p-4">
-                    <h4 className="text-sm font-semibold text-accent">
-                      Getting started
-                    </h4>
-                    <p className="mt-1 text-sm text-foreground leading-relaxed">
-                      {match.job.requirements.education} &middot;{" "}
-                      {match.job.requirements.experience_years} years experience
-                    </p>
-                    {match.job.requirements.certifications.length > 0 && (
-                      <p className="mt-2 text-sm text-muted">
-                        Certifications:{" "}
-                        {match.job.requirements.certifications.join(", ")}
+                  {match.job.requirements && (
+                    <div className="mt-4 bg-accent/5 rounded-xl p-4">
+                      <h4 className="text-sm font-semibold text-accent">
+                        Getting started
+                      </h4>
+                      <p className="mt-1 text-sm text-foreground leading-relaxed">
+                        {match.job.requirements.education || "No specific degree required"}
+                        {match.job.requirements.experience_years && <> &middot; {match.job.requirements.experience_years} years experience</>}
                       </p>
-                    )}
-                  </div>
+                      {(match.job.requirements.certifications?.length ?? 0) > 0 && (
+                        <p className="mt-2 text-sm text-muted">
+                          Certifications:{" "}
+                          {match.job.requirements.certifications.join(", ")}
+                        </p>
+                      )}
+                    </div>
+                  )}
 
                   {/* Responsibilities */}
-                  <div className="mt-4">
-                    <h4 className="text-sm font-semibold text-foreground mb-2">
-                      What you&rsquo;d actually do
-                    </h4>
-                    <ul className="text-sm text-muted leading-relaxed space-y-1 list-disc list-inside">
-                      {match.job.responsibilities.slice(0, 3).map((r, j) => (
-                        <li key={j}>{r}</li>
-                      ))}
-                    </ul>
-                  </div>
+                  {(match.job.responsibilities?.length ?? 0) > 0 && (
+                    <div className="mt-4">
+                      <h4 className="text-sm font-semibold text-foreground mb-2">
+                        What you&rsquo;d actually do
+                      </h4>
+                      <ul className="text-sm text-muted leading-relaxed space-y-1 list-disc list-inside">
+                        {match.job.responsibilities.slice(0, 3).map((r, j) => (
+                          <li key={j}>{r}</li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
                 </motion.div>
               ))}
             </div>
