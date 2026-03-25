@@ -23,8 +23,8 @@ src/
     discover/layout.tsx             Shared layout for discover flow (BUILT)
     discover/mirror/page.tsx        Phase 1: Questions (BUILT)
     discover/lens/page.tsx          Phase 2: AI reflection (STUB -- Maks)
-    discover/map/page.tsx           Phase 3: Career matches (STUB -- Jose)
-    discover/path/page.tsx          Phase 4: Action plans (STUB -- Jose)
+    discover/map/page.tsx           Phase 3: Job matches (STUB -- Maks)
+    discover/path/page.tsx          Phase 4: Action plans (STUB -- Maks)
     api/reflect/route.ts            Claude API endpoint (TODO -- Maks)
   components/
     questions/                  --> Question-type components (BUILT)
@@ -32,15 +32,16 @@ src/
       SliderQuestion.tsx            Range slider
       OpenTextQuestion.tsx          Free text
       QuestionRenderer.tsx          Orchestrator
-    careers/                    --> Career card components (TODO -- Jose)
-    ui/                         --> Shared UI components (TODO -- Jose)
+    jobs/                       --> Job card components (TODO -- Maks)
+    ui/                         --> Shared UI components (TODO -- Maks)
   data/
     questions.ts                --> 22 questions in two phases (BUILT)
-    careers.ts                  --> Career database (TODO -- David)
+    jobs.ts                     --> Job data + dimension vectors (TODO -- David)
   lib/
-    types.ts                    --> All shared TypeScript types (BUILT)
-    store.ts                    --> Zustand store (BUILT)
-    scoring.ts                  --> Preference derivation + career matching (BUILT)
+    types.ts                    --> All shared TypeScript types (NEEDS UPDATE -- David)
+    store.ts                    --> Zustand store (NEEDS UPDATE -- rename career→job)
+    scoring.ts                  --> Preference derivation + job matching (NEEDS UPDATE -- rename career→job)
+job_data/                       --> Source flat-file dataset (300+ JSON + MD files, READ-ONLY)
 ```
 
 ---
@@ -91,19 +92,19 @@ git push origin --delete feature/my-feature
 - "See Your Matches" button → `/discover/map`
 
 **Screen 2: Your Matches** (`/discover/map`)
-- Run `matchCareers()` against career database
-- Show **top 5 career cards**: title, match score, one-line "why this fits"
+- Run `matchCareers()` against job database
+- Show **top 5 job cards**: title, company, location, match score, one-line "why this fits"
 - Include 1 **surprise pick** that scores lower but challenges an assumption
-- Card shows: title, salary range, match %, one-sentence explanation
+- Card shows: title, company, salary range, match %, one-sentence explanation
 - "Explore Your Path" button → `/discover/path`
 
 **Screen 3: What Now** (`/discover/path`)
-- For each matched career: one **micro-experiment** (shadow someone, free course, weekend project)
-- Keep it dead simple: list of 5 careers × 1 action each
+- For each matched job: one **micro-experiment** (shadow someone, free course, weekend project)
+- Keep it dead simple: list of 5 jobs × 1 action each
 - "Start Over" button → reset store, back to `/`
 
 ### What is CUT from V1 (do NOT build these yet):
-- ~~Detailed career profiles~~ → just the match card
+- ~~Detailed job profiles~~ → just the match card
 - ~~Learning path timelines~~ → V2
 - ~~Income trajectory charts~~ → V2
 - ~~Career stories~~ → V2
@@ -117,9 +118,9 @@ git push origin --delete feature/my-feature
 
 | # | Task | Owner | Status | Files | Blocked By |
 |---|------|-------|--------|-------|------------|
-| 1 | Career database with dimension vectors | **David** | IN PROGRESS | `src/data/careers.ts`, `job_data/` | -- |
+| 1 | Job database with dimension vectors | **David** | IN PROGRESS | `src/data/jobs.ts`, `job_data/` | -- |
 | 2 | Claude API reflection + contradiction detection in prompt | **Maks** | IN PROGRESS | `src/app/api/reflect/route.ts`, `src/app/discover/lens/page.tsx` | -- |
-| 3 | Map page — 5 career match cards | **Maks** | TODO | `src/app/discover/map/page.tsx`, `src/components/careers/` | #1 |
+| 3 | Map page — 5 job match cards | **Maks** | TODO | `src/app/discover/map/page.tsx`, `src/components/careers/` | #1 |
 | 4 | Path page — micro-experiments list | **Maks** | TODO | `src/app/discover/path/page.tsx` | #1 |
 
 ### Sprint 2: Polish (after MVP ships)
@@ -129,67 +130,73 @@ git push origin --delete feature/my-feature
 | 5 | Fix data bugs (mastery-or-variety weight, legacy-question type) | Anyone | TODO | `src/data/questions.ts` |
 | 6 | End-to-end flow testing | All | TODO | -- |
 | 7 | Mobile responsiveness pass | Maks | TODO | All pages |
-| 8 | Career detail expansion (stories, income, learning paths) | David | TODO | `src/data/careers.ts` |
+| 8 | Job detail expansion (stories, income, learning paths) | David | TODO | `src/data/jobs.ts` |
 
 ---
 
-## INSTRUCTIONS FOR DAVID: Career Database Schema
+## INSTRUCTIONS FOR DAVID: Job Database Integration
 
-**File:** `src/data/careers.ts`
+**Data source:** `job_data/` flat-file dataset (already exists -- ~300+ entry-level job postings as JSON + Markdown). This data is READ-ONLY -- do not modify the files in `job_data/`.
 
-David, the careers data MUST conform to the `Career` interface in `src/lib/types.ts`. Each career needs a `dimensions` object with the same 9 fields as `RevealedPreferences` -- this is what the cosine similarity matching runs against.
+**Files to create/update:**
+1. `src/data/jobs.ts` -- Export a `Job[]` array with dimension vectors added
+2. `src/lib/types.ts` -- Replace the `Career` interface with `Job` (mirrors `job_data` JSON schema + `dimensions` + `tags`)
+3. `src/lib/scoring.ts` -- Rename `matchCareers()` → `matchJobs()`, use `Job` and `JobMatch` types
+4. `src/lib/store.ts` -- Rename `careerMatches` → `jobMatches`, `setCareerMatches` → `setJobMatches`, use `JobMatch` type
 
-### Required schema for each career:
+### The `Job` type should mirror the `job_data` JSON schema directly, plus matching fields:
 ```typescript
-import { Career } from '@/lib/types';
+export interface Job {
+  // -- Fields that come straight from job_data/*.json --
+  id: string;
+  title: string;
+  category: 'tech' | 'business' | 'healthcare';
+  company: string;
+  industry: string;
+  location: { city: string; state: string; country: string; remote: string };
+  salary: { min: number; max: number; currency: string; period: string };
+  employment_type: string;
+  posted_date: string;
+  description: string;
+  responsibilities: string[];
+  requirements: { education: string; experience_years: string; skills: string[]; certifications: string[] };
+  benefits: string[];
+  // -- Fields David adds for matching --
+  dimensions: RevealedPreferences;  // 9D vector for cosine similarity
+  tags: string[];                    // [category, ...derived from skills/industry]
+}
 
-export const careers: Career[] = [
-  {
-    id: 'ux-researcher',                    // kebab-case unique id
-    title: 'UX Researcher',
-    description: 'Short paragraph of what this job ACTUALLY involves (not textbook)',
-    dayInLife: '2-3 sentences: a vivid typical day',
-    dimensions: {
-      autonomy: 0.6,        // -1 to 1
-      timeHorizon: 0.3,     // -1 to 1
-      socialDensity: 0.5,   // -1 to 1
-      riskTolerance: -0.2,  // -1 to 1
-      cognitiveStyle: 0.4,  // -1 to 1
-      incomeWeight: 0.5,    // 0 to 1
-      statusWeight: 0.3,    // 0 to 1
-      meaningWeight: 0.7,   // 0 to 1
-      geographicFlex: 0.4,  // -1 to 1
-    },
-    surpriseFactor: 'Why a 19-year-old wouldn\'t know about this job',
-    learningPath: [
-      { title: 'Step 1', description: '...', timeframe: '3 months' },
-      { title: 'Step 2', description: '...', timeframe: '6 months' },
-      { title: 'Step 3', description: '...', timeframe: '1-2 years' },
-    ],
-    microExperiment: 'Something they can try THIS WEEK to taste this career',
-    optionValue: ['Other careers this path keeps open'],
-    incomeTrajectory: [
-      { year: 1, amount: 45000 },
-      { year: 5, amount: 70000 },
-      { year: 10, amount: 95000 },
-      { year: 20, amount: 120000 },
-    ],
-    stories: [{
-      name: 'Real-sounding name',
-      background: 'Where they started',
-      journey: 'How they got here',
-      currentRole: 'What they do now',
-    }],
-    tags: ['research', 'tech', 'psychology'],  // for filtering
-  },
-];
+export interface JobMatch {
+  job: Job;
+  score: number;
+  matchExplanation: string;
+}
 ```
 
+### What David needs to build:
+1. **`src/data/jobs.ts`** -- Import all `job_data/*.json` files, add `dimensions` and `tags` to each, export as `Job[]`
+2. **Derive `dimensions`** for each job -- 9D `RevealedPreferences` vector. Use the job's category, responsibilities, skills, company, and industry to infer values.
+3. **Each job posting is its own entry** -- "SRE I at Datadog in Omaha" and "SRE I at Stripe in Austin" are separate jobs with potentially different dimensions (different companies, industries, locations).
+4. **Update types.ts** -- Replace `Career`/`CareerMatch`/`CareerStory`/`LearningStep` with `Job`/`JobMatch`. Remove fields that don't exist in job_data (`dayInLife`, `surpriseFactor`, `learningPath`, `microExperiment`, `optionValue`, `incomeTrajectory`, `stories`).
+5. **Update scoring.ts** -- `matchCareers()` → `matchJobs()`, operate on `Job[]` and return `JobMatch[]`
+6. **Update store.ts** -- `careerMatches` → `jobMatches`, `setCareerMatches()` → `setJobMatches()`
+
+### Dimension mapping guidance:
+Each dimension ranges -1 to 1 (except incomeWeight/statusWeight/meaningWeight: 0 to 1):
+- **autonomy**: How much independence does this role have? (SRE = moderate, Help Desk = low)
+- **timeHorizon**: Fast feedback vs long-term projects? (QA = short, Research = long)
+- **socialDensity**: Solo vs team-heavy? (Developer = lower, Scrum Master = high)
+- **riskTolerance**: Stable vs uncertain? (Government analyst = low, Startup engineer = high)
+- **cognitiveStyle**: Concrete/hands-on vs abstract/theoretical? (Technician = concrete, ML Engineer = abstract)
+- **incomeWeight**: How much does this job optimize for pay? (Finance = high, Nonprofit = low)
+- **statusWeight**: How much prestige/recognition? (Management Consultant = high, Help Desk = low)
+- **meaningWeight**: Mission-driven? (Healthcare = high, Trading = low)
+- **geographicFlex**: Remote-friendly? (Cloud Engineer = high, Lab Technician = low)
+
 ### Queryability requirements:
-- **Tags array** on every career for easy filtering (`careers.filter(c => c.tags.includes('tech'))`)
-- **Consistent dimension values** -- think carefully about what each career actually requires/offers. The matching algorithm uses cosine similarity, so relative positions matter more than absolute values.
-- Target **30-50 careers** spanning: tech-adjacent, creative-analytical, finance-adjacent, skilled trades, social impact, emerging fields, non-traditional paths.
-- Include "hidden gems" most 18-year-olds wouldn't know: actuarial science, computational linguistics, industrial design, forensic accounting, climate adaptation consulting, etc.
+- **Tags array** on every job for filtering (`jobs.filter(j => j.tags.includes('tech'))`)
+- **Consistent dimension values** -- relative positions matter more than absolute values (cosine similarity)
+- All ~300+ jobs get dimension vectors (no deduplication -- the matching engine picks the best individual job postings)
 
 ---
 
@@ -303,15 +310,15 @@ Create `.env.local` with `ANTHROPIC_API_KEY=sk-ant-...` (get from Jose).
 
 ---
 
-## INSTRUCTIONS FOR JOSE: UI Frontend
+## INSTRUCTIONS FOR MAKS: UI Frontend (in addition to API work above)
 
 **Your focus:** Make the user experience feel polished and real. You own everything the user sees and touches.
 
 ### Priority order:
 1. **Shared UI components** (`src/components/ui/`) -- Button, Card, LoadingPulse, Badge, AnimatedPage wrapper
-2. **Career card components** (`src/components/careers/CareerCard.tsx`, `CareerMatchList.tsx`)
-3. **Map page** (`src/app/discover/map/page.tsx`) -- replace stub with real career match UI
-4. **Path page** (`src/app/discover/path/page.tsx`) -- replace stub with action plans
+2. **Job card components** (`src/components/jobs/JobCard.tsx`, `JobMatchList.tsx`)
+3. **Map page** (`src/app/discover/map/page.tsx`) -- replace stub with real job match UI
+4. **Path page** (`src/app/discover/path/page.tsx`) -- replace stub with next steps
 5. **Mobile responsiveness** -- test all pages at 375px width
 
 ### Design system reference:
@@ -324,15 +331,17 @@ Create `.env.local` with `ANTHROPIC_API_KEY=sk-ant-...` (get from Jose).
 - Cards: `rounded-2xl border-2 border-foreground/10` with hover shadow
 
 ### Map page spec:
-- Read `careerMatches` from store (populated by scoring engine after Lens phase)
-- If no matches yet, run `matchCareers(preferences, careers)` from `@/lib/scoring`
-- Display top 8 careers as cards with: title, match score (%), match explanation, surprise factor
-- Expandable detail: dayInLife, income trajectory, tags
+- Read `jobMatches` from store (populated by scoring engine after Lens phase)
+- If no matches yet, run `matchJobs(preferences, jobs)` from `@/lib/scoring`
+- Display top 5 jobs as cards with: title, company, location, salary range, match score (%), match explanation
+- Include 1 surprise pick that scores lower but challenges an assumption
+- Expandable detail: description, responsibilities, requirements, benefits (all from job_data)
 - "See Your Path" button → `/discover/path`
 
 ### Path page spec:
-- Read career matches from store
-- For each matched career: learning path steps, micro-experiment, option value
+- Read job matches from store
+- For each matched job: show key requirements/skills as actionable next steps
+- Keep it simple: 5 jobs × concrete actions (courses, certifications, skills to learn)
 - "Start Over" button that calls `store.reset()` and redirects to `/`
 
 ---
@@ -361,14 +370,14 @@ Each dimension ranges from -1 to 1 unless noted:
 
 Exported as `[...adversarial, ...redirecting]`.
 
-### Career Matching
-Cosine similarity between user's 9D preference vector and each career's dimension vector. Top 8 returned with auto-generated match explanations.
+### Job Matching
+Cosine similarity between user's 9D preference vector and each job's dimension vector. Top 5 + 1 surprise pick returned with auto-generated match explanations. Matches against all ~300+ individual job postings from `job_data/`.
 
 ### Four Phases
 1. **Mirror** (`/discover/mirror`) -- Questions
 2. **Lens** (`/discover/lens`) -- AI reflection
-3. **Map** (`/discover/map`) -- Career matches
-4. **Path** (`/discover/path`) -- Action plans
+3. **Map** (`/discover/map`) -- Job matches
+4. **Path** (`/discover/path`) -- Next steps
 
 ## Commands
 - `bun dev` -- start dev server
@@ -378,7 +387,7 @@ Cosine similarity between user's 9D preference vector and each career's dimensio
 ## Coding Conventions
 - Use `@/` path alias for imports from `src/`
 - Components use **named exports**; pages use **default exports**
-- All data files in `src/data/`, all shared types in `src/lib/types.ts`
+- All data files in `src/data/`, source job data in `job_data/` (read-only), all shared types in `src/lib/types.ts`
 - Prefer Framer Motion `motion` components for any animation
 - No progress bars in question flow (avoids completion anxiety)
 - Questions have a `phase` field: `'adversarial' | 'redirecting'`
@@ -449,26 +458,22 @@ Flat-file dataset of entry-level job postings. **No database** -- filenames are 
 - [x] Type system with all core interfaces
 - [x] 22 questions across 2 phases (adversarial + redirecting)
 - [x] Question components: BinaryChoice, SliderQuestion, OpenTextQuestion, QuestionRenderer
-- [x] Scoring engine: `derivePreferences()` + `matchCareers()` with cosine similarity
+- [x] Scoring engine: `derivePreferences()` + `matchCareers()` with cosine similarity (NEEDS RENAME to `matchJobs()`)
 - [x] Zustand store for discover flow
 - [x] Design system with editorial palette and dark mode
 - [x] All routes stubbed (landing, about, mirror, lens, map, path)
 - [x] Landing page + About page
 
 ### In Progress
-- [ ] Career database with dimension vectors (David)
-- [ ] Web app UI for question flow (Maks)
+- [ ] Job database with dimension vectors -- `src/data/jobs.ts` + type/scoring/store renames (David)
+- [ ] Claude API reflection + contradiction detection in prompt (Maks)
 
 ### Up Next (MVP critical path)
-- [ ] Contradiction detection logic (`src/lib/contradictions.ts`)
-- [ ] Mirror Recap page — deterministic insights, no AI
-- [ ] Map page — 5 career cards with match scores
-- [ ] Path page — micro-experiments list
+- [ ] Map page -- 5 job match cards + 1 surprise pick (Maks, blocked by David)
+- [ ] Path page -- next steps list (Maks, blocked by David)
 
 ### Backlog (V2)
-- [ ] Claude API reflection (upgrade lens to AI)
 - [ ] Fix data bugs (mastery-or-variety weight, legacy-question type)
-- [ ] Career detail pages (stories, income trajectory, learning paths)
 - [ ] Slider semantics audit
 - [ ] Question count reduction
 - [ ] Mobile responsiveness pass
