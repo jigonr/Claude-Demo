@@ -1,24 +1,31 @@
 @import "tailwindcss";
 
 :root {
-  --background: #FAF8F5;
-  --foreground: #1C1917;
-  --color-cream: #FAF8F5;
-  --color-charcoal: #1C1917;
-  --color-accent: #C45D3E;
-  --color-accent-light: #E8927A;
-  --color-muted: #78716C;
-  --font-heading: Georgia, 'Times New Roman', serif;
+  /* Dark, confident palette — NOT cream/beige */
+  --background: #FFFFFF;
+  --foreground: #111111;
+  --color-surface: #F5F5F0;
+  --color-charcoal: #111111;
+  --color-accent: #E85D04;
+  --color-accent-light: #FF8C42;
+  --color-accent-subtle: #FFF3E0;
+  --color-muted: #6B7280;
+  --color-border: #E5E5E5;
+  --color-highlight: #1A1A2E;
+  --font-heading: 'Geist', system-ui, -apple-system, sans-serif;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --color-cream: var(--color-cream);
+  --color-surface: var(--color-surface);
   --color-charcoal: var(--color-charcoal);
   --color-accent: var(--color-accent);
   --color-accent-light: var(--color-accent-light);
+  --color-accent-subtle: var(--color-accent-subtle);
   --color-muted: var(--color-muted);
+  --color-border: var(--color-border);
+  --color-highlight: var(--color-highlight);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
   --font-heading: var(--font-heading);
@@ -26,15 +33,56 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #1C1917;
-    --foreground: #FAF8F5;
-    --color-cream: #1C1917;
-    --color-charcoal: #FAF8F5;
-    --color-muted: #A8A29E;
+    --background: #0A0A0A;
+    --foreground: #F5F5F0;
+    --color-surface: #1A1A1A;
+    --color-charcoal: #F5F5F0;
+    --color-muted: #9CA3AF;
+    --color-border: #2A2A2A;
+    --color-accent-subtle: #1A1008;
+    --color-highlight: #F5F5F0;
   }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
+  font-feature-settings: "ss01", "ss02";
+}
+
+/* Custom selection */
+::selection {
+  background: var(--color-accent);
+  color: white;
+}
+
+/* Smooth slider track */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+}
+
+input[type="range"]::-webkit-slider-track {
+  height: 6px;
+  border-radius: 3px;
+  background: var(--color-border);
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: var(--color-accent);
+  border: 3px solid white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  cursor: pointer;
+  margin-top: -9px;
+}
+
+/* Textarea focus */
+textarea:focus {
+  outline: none;
+  border-color: var(--color-accent) !important;
 }

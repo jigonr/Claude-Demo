@@ -17,30 +17,43 @@ export function BinaryChoice({
   const options = question.options ?? [];
 
   return (
-    <div className="flex flex-col gap-4 sm:flex-row sm:gap-6 w-full max-w-2xl mx-auto mt-10">
-      {options.map((option) => {
+    <div className="flex flex-col gap-4 sm:flex-row sm:gap-5 w-full max-w-2xl mx-auto mt-10">
+      {options.map((option, i) => {
         const isSelected = currentAnswer === option.id;
         return (
           <motion.button
             key={option.id}
             onClick={() => onAnswer(option.id)}
-            whileHover={{ scale: 1.03 }}
-            whileTap={{ scale: 0.98 }}
+            initial={{ opacity: 0, y: 15 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: i * 0.1, duration: 0.3 }}
+            whileHover={isSelected ? undefined : { y: -3 }}
+            whileTap={{ scale: 0.97 }}
             className={`
-              flex-1 px-8 py-10 rounded-2xl text-left text-lg
-              font-[family-name:var(--font-heading)]
+              flex-1 relative px-7 py-8 rounded-xl text-left text-base
+              font-medium leading-snug
               transition-all duration-200 cursor-pointer
-              border-2
+              border
               ${
                 isSelected
-                  ? "border-accent bg-accent/5 shadow-lg"
-                  : "border-foreground/10 bg-white/50 hover:shadow-md hover:border-foreground/20"
+                  ? "border-accent bg-accent text-white shadow-lg shadow-accent/20"
+                  : "border-border bg-surface hover:border-accent/40 hover:shadow-md text-foreground"
               }
             `}
           >
-            <span className={isSelected ? "text-accent" : "text-foreground"}>
-              {option.label}
-            </span>
+            <span className="block">{option.label}</span>
+            {isSelected && (
+              <motion.div
+                layoutId="selected-check"
+                className="absolute top-3 right-3 w-5 h-5 rounded-full bg-white/20 flex items-center justify-center"
+                initial={{ scale: 0 }}
+                animate={{ scale: 1 }}
+              >
+                <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+                  <path d="M2 6L5 9L10 3" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                </svg>
+              </motion.div>
+            )}
           </motion.button>
         );
       })}
