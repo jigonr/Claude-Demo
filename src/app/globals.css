@@ -1,16 +1,16 @@
 @import "tailwindcss";
 
 :root {
-  /* Dark, confident palette — NOT cream/beige */
+  /* Clean, high-contrast palette */
   --background: #FFFFFF;
   --foreground: #111111;
-  --color-surface: #F5F5F0;
+  --color-surface: #F3F4F6;
   --color-charcoal: #111111;
   --color-accent: #E85D04;
   --color-accent-light: #FF8C42;
   --color-accent-subtle: #FFF3E0;
   --color-muted: #6B7280;
-  --color-border: #E5E5E5;
+  --color-border: #D4D4D4;
   --color-highlight: #1A1A2E;
   --font-heading: 'Geist', system-ui, -apple-system, sans-serif;
 }
