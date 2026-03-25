@@ -1,0 +1,48 @@
+{
+  "id": "0105",
+  "title": "UX Researcher",
+  "category": "tech",
+  "company": "Zendesk",
+  "industry": "Customer Service",
+  "location": {
+    "city": "Omaha",
+    "state": "NE",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 68000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Zendesk is seeking a UX Researcher to uncover customer insights that shape product direction. You'll conduct user interviews, analyze usage data, and translate findings into actionable design recommendations. Work onsite in Omaha for a company building software that improves customer service worldwide.",
+  "responsibilities": [
+    "Conduct user interviews and usability testing sessions",
+    "Analyze user behavior data and identify patterns",
+    "Create research reports and visualizations for stakeholders",
+    "Collaborate with design and product teams on findings",
+    "Develop research methodologies and testing frameworks"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Psychology, HCI, Design, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Qualitative research methods",
+      "User interview and testing facilitation",
+      "Data analysis and synthesis",
+      "Clear communication and presentation",
+      "Empathy and listening skills"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "On-site office in Omaha with collaborative culture",
+    "Professional development and conference attendance"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-20"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0166",
+  "title": "Test Automation Engineer",
+  "category": "tech",
+  "company": "Elastic",
+  "industry": "Search",
+  "location": {
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 87000,
+    "max": 110000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Elastic is seeking a Test Automation Engineer to ensure quality across our search and analytics platform. Working remotely from New York, you'll design test frameworks, build automation, and catch bugs before they reach production. You'll collaborate with product and engineering teams to maintain the high standards our users depend on.",
+  "responsibilities": [
+    "Design and implement automated test frameworks for web, API, and backend components",
+    "Create comprehensive test cases and automation scripts using modern testing tools and languages",
+    "Identify gaps in test coverage and recommend improvements to testing strategy",
+    "Work with development teams to understand features and requirements before implementation",
+    "Monitor test metrics and quality indicators; report findings and recommend process improvements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Test automation frameworks (Selenium, Cypress, Pytest)",
+      "Java, JavaScript, or Python",
+      "API testing and tools",
+      "CI/CD integration",
+      "SQL and databases"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + equity",
+    "Health, dental, vision coverage",
+    "Unlimited PTO",
+    "$2,500/year learning budget",
+    "Home office equipment stipend"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-18"
+}

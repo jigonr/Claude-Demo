@@ -1,0 +1,49 @@
+{
+  "id": "0021",
+  "title": "Junior UI Developer",
+  "category": "tech",
+  "company": "Canva",
+  "industry": "Design",
+  "location": {
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 68000,
+    "max": 88000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Canva is used by 185+ million people globally to create beautiful designs. We're democratizing design, one drag-and-drop at a time. As a UI Developer, you'll build interfaces that millions use to express themselves creatively.",
+  "responsibilities": [
+    "Support business operations and contribute to team objectives",
+    "Collaborate with cross-functional teams on key projects",
+    "Maintain accurate records and documentation",
+    "Identify improvement opportunities and implement solutions",
+    "Support training and development initiatives",
+    "Ensure compliance with company policies and regulations"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in related field",
+    "experience_years": "68000 years of relevant experience",
+    "skills": [
+      "Core competency 1",
+      "Core competency 2",
+      "Core competency 3"
+    ],
+    "certifications": [
+      "Relevant certifications"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match (up to 4%)",
+    "Unlimited PTO and remote work flexibility",
+    "Professional development budget ($2,000+/year)",
+    "Equity options and/or stock purchase plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-03"
+}

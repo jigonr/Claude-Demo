@@ -1,0 +1,47 @@
+{
+  "id": "0141",
+  "title": "QA Engineer",
+  "category": "tech",
+  "company": "Salesforce",
+  "industry": "CRM",
+  "location": {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 57000,
+    "max": 74000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Join Salesforce's Quality Assurance team and ensure our customers receive the highest-quality CRM platform. As a QA Engineer, you'll test critical features across our cloud platform, develop automation frameworks, and collaborate with engineers to catch issues before they impact millions of users. Work remotely while maintaining direct connections to our Ann Arbor tech hub.",
+  "responsibilities": [
+    "Execute comprehensive test plans covering new feature releases and platform updates",
+    "Design and implement automated test scripts using Selenium, Cypress, or similar frameworks",
+    "Document test results and create detailed bug reports with reproduction steps",
+    "Collaborate with development teams to clarify requirements and acceptance criteria",
+    "Participate in quality metrics analysis and continuous improvement initiatives"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; degree in Computer Science preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Test case design and execution",
+      "Selenium, Cypress, or similar automation tools",
+      "SQL for database validation",
+      "Clear written communication",
+      "Salesforce platform knowledge (preferred)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision plans",
+    "Flexible PTO with paid time off guidance",
+    "Professional development opportunities and Salesforce certifications",
+    "Remote-first culture with occasional in-person collaboration"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-23"
+}

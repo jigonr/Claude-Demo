@@ -1,0 +1,50 @@
+{
+  "id": "0085",
+  "title": "QA Analyst",
+  "category": "tech",
+  "company": "Asana",
+  "industry": "Project Management",
+  "location": {
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 81000,
+    "max": 105000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Asana is hiring a QA Analyst to ensure the reliability and quality of our work management platform. You'll design comprehensive test strategies, execute testing across web and mobile platforms, and collaborate with engineering teams. This hybrid role offers the opportunity to impact the experience of millions of Asana users globally.",
+  "responsibilities": [
+    "Design and execute comprehensive test plans covering functionality, performance, and usability",
+    "Write test automation scripts using Python or JavaScript; maintain test automation frameworks",
+    "Conduct regression testing and performance testing; identify and document defects",
+    "Collaborate with product managers and engineers on testing requirements",
+    "Monitor quality metrics and test coverage; provide recommendations for improvement"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "3-5",
+    "skills": [
+      "Test automation using Python, JavaScript, or similar languages",
+      "Experience with testing frameworks and CI/CD pipelines",
+      "Proficiency with API testing and SQL",
+      "Strong analytical and problem-solving abilities",
+      "Excellent communication and documentation skills"
+    ],
+    "certifications": [
+      "ISTQB certification or similar (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and equity options",
+    "Comprehensive health, vision, and dental coverage",
+    "401(k) with generous match",
+    "Learning and development budget",
+    "Hybrid work flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-19"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "0038",
+  "title": "Associate Data Analyst",
+  "category": "tech",
+  "company": "Akamai",
+  "industry": "CDN",
+  "location": {
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 66000,
+    "max": 86000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Associate Data Analyst at Akamai. This is an exciting opportunity to join our performance-obsessed, global-operations, technical team and make a direct impact on our mission. If you have 2-4 years years of experience and are passionate about CDN, we'd love to hear from you.",
+  "responsibilities": [
+    "Build and maintain data pipelines that connect disparate systems for unified analytics",
+    "Develop dashboards and reports enabling stakeholders to make data-driven decisions",
+    "Investigate data quality issues and implement solutions to improve accuracy",
+    "Partner with product and engineering teams to instrument product for analytics",
+    "Transform raw data into actionable insights supporting business strategy",
+    "Establish metrics frameworks and KPI tracking systems across the organization"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "2-4 years",
+    "skills": [
+      "SQL",
+      "Python or R",
+      "Data visualization",
+      "BI tools (Tableau/PowerBI)",
+      "Statistical analysis"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule and remote work options",
+    "Stock options or equity compensation",
+    "Wellness programs and gym membership reimbursement",
+    "Product discounts and free subscriptions"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-01"
+}

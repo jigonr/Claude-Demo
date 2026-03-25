@@ -1,0 +1,48 @@
+{
+  "id": "0148",
+  "title": "DevOps Engineer I",
+  "category": "tech",
+  "company": "Akamai",
+  "industry": "CDN",
+  "location": {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 71000,
+    "max": 90000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Akamai is hiring a DevOps Engineer I to build and maintain the infrastructure supporting our global content delivery network. Working remotely from Salt Lake City, you'll deploy systems, monitor performance, and improve reliability. This role combines hands-on infrastructure work with continuous learning.",
+  "responsibilities": [
+    "Build and manage cloud infrastructure using Terraform and other Infrastructure-as-Code tools",
+    "Develop and maintain CI/CD pipelines; automate deployment processes",
+    "Monitor system performance and health; implement alerting and observability solutions",
+    "Troubleshoot infrastructure issues; optimize systems for reliability and cost",
+    "Document infrastructure architecture and runbooks; mentor junior engineers"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Kubernetes and container orchestration",
+      "Cloud infrastructure (AWS, GCP)",
+      "Infrastructure as Code (Terraform)",
+      "CI/CD tools (Jenkins, GitLab CI)",
+      "Linux and shell scripting"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + bonus",
+    "Health, dental, vision coverage",
+    "401(k) with match",
+    "$1,500/year professional development",
+    "Flexible remote work schedule"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-15"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "0022",
+  "title": "Systems Administrator",
+  "category": "tech",
+  "company": "Anduril",
+  "industry": "Defense Tech",
+  "location": {
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 58000,
+    "max": 75000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Anduril is building autonomous systems that power modern defense and security. We're at the intersection of cutting-edge AI, robotics, and government technology. You'll maintain the infrastructure backbone supporting mission-critical autonomous systems.",
+  "responsibilities": [
+    "Manage user accounts, access controls, and security policies",
+    "Deploy and maintain servers, networks, and IT infrastructure",
+    "Monitor system performance and troubleshoot technical issues",
+    "Implement backup and disaster recovery procedures",
+    "Maintain IT documentation and runbooks",
+    "Support hardware procurement and lifecycle management"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, IT, or related field",
+    "experience_years": "2-4 years of systems administration or IT infrastructure experience",
+    "skills": [
+      "Windows/Linux",
+      "Active Directory",
+      "Networking",
+      "Virtualization",
+      "Scripting"
+    ],
+    "certifications": [
+      "CompTIA Security+",
+      "Microsoft Azure Administrator"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match (up to 4%)",
+    "Unlimited PTO and remote work flexibility",
+    "Professional development budget ($2,000+/year)",
+    "Equity options and/or stock purchase plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-08"
+}

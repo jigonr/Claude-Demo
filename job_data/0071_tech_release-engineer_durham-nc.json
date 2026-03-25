@@ -1,0 +1,48 @@
+{
+  "id": "0071",
+  "title": "Release Engineer",
+  "category": "tech",
+  "company": "Slack",
+  "industry": "Collaboration",
+  "location": {
+    "city": "Durham",
+    "state": "NC",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 66000,
+    "max": 83000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Slack is hiring a Release Engineer to manage our deployment pipeline and release processes. Based in Durham with hybrid flexibility, you'll own the infrastructure that gets code from developers to millions of users worldwide. You'll work across teams to improve velocity, reliability, and tooling. This role blends operations, automation, and strategic thinking.",
+  "responsibilities": [
+    "Design and maintain release pipelines and deployment automation across cloud infrastructure",
+    "Coordinate releases with product and engineering teams; manage rollout strategies and rollback procedures",
+    "Monitor deployment metrics, incident response, and system health; implement improvements based on observations",
+    "Build tools and automation to reduce manual release work and improve developer experience",
+    "Document processes and knowledge; mentor engineers on release procedures and best practices"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field, or equivalent experience",
+    "experience_years": "2-4",
+    "skills": [
+      "CI/CD pipelines and tools (Jenkins, GitLab, GitHub Actions)",
+      "Cloud platforms (AWS, GCP, or Azure)",
+      "Bash and Python scripting",
+      "Git and version control",
+      "Kubernetes or container orchestration"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + equity",
+    "Comprehensive health and wellness benefits",
+    "Unlimited PTO",
+    "$1,500/year professional development",
+    "Home office setup budget"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-07"
+}

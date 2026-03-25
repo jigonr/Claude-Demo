@@ -1,0 +1,49 @@
+{
+  "id": "0172",
+  "title": "Network Technician",
+  "category": "tech",
+  "company": "Toast",
+  "industry": "Restaurant Tech",
+  "location": {
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 68000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're seeking a Network Technician to help maintain and optimize Toast's infrastructure. You'll troubleshoot connectivity issues, monitor network performance, and contribute to infrastructure modernization.",
+  "responsibilities": [
+    "Monitor and maintain network infrastructure across data centers and cloud environments",
+    "Troubleshoot connectivity issues and document root causes in incident tracking systems",
+    "Collaborate with infrastructure engineers to optimize routing configurations and performance",
+    "Respond to on-call alerts and provide support",
+    "Maintain accurate network documentation and runbooks",
+    "Assist with security audits and infrastructure optimization"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "0-3",
+    "skills": [
+      "TCP/IP networking",
+      "Network monitoring tools",
+      "Linux command-line",
+      "Cloud networking",
+      "Troubleshooting"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with annual equity grants",
+    "Health, dental, and vision coverage",
+    "Equity grants",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-20"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0124",
+  "title": "UX Researcher",
+  "category": "tech",
+  "company": "Amplitude",
+  "industry": "Product Analytics",
+  "location": {
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 68000,
+    "max": 89000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Amplitude is seeking a UX Researcher to help us understand our users and improve our product analytics platform. You'll conduct user research, analyze user behavior data, and provide insights to guide product decisions. This remote role offers the opportunity to impact how teams across the world use data to make decisions.",
+  "responsibilities": [
+    "Design and conduct user research studies including interviews, surveys, and usability testing",
+    "Analyze user behavior data and behavioral metrics from analytics platforms",
+    "Synthesize research findings and create actionable recommendations for product teams",
+    "Present research insights to stakeholders and influence product decisions",
+    "Maintain research documentation and build a repository of user insights"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Psychology, HCI, Design, or related field",
+    "experience_years": "2-3",
+    "skills": [
+      "User research methodologies and design thinking",
+      "Proficiency with research tools (UserTesting, Qualtrics, or similar)",
+      "Data analysis and interpretation abilities",
+      "Strong presentation and communication skills",
+      "Familiarity with analytics platforms and product thinking"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary and equity options",
+    "Comprehensive health, vision, and dental coverage",
+    "401(k) with company match",
+    "Professional development and conference attendance",
+    "Fully remote work environment"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-07"
+}

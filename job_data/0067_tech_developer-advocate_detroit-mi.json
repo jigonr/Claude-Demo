@@ -1,0 +1,50 @@
+{
+  "id": "0067",
+  "title": "Developer Advocate",
+  "category": "tech",
+  "company": "Zoom",
+  "industry": "Communications",
+  "location": {
+    "city": "Detroit",
+    "state": "MI",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 63000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-02",
+  "description": "Zoom is hiring a Developer Advocate to build relationships with developers and create engaging technical content around our video platform APIs and SDKs. You'll be the voice of the developer community back to our product teams and create resources that help developers build on Zoom. This is a hands-on role combining technical depth with a passion for developer enablement.",
+  "responsibilities": [
+    "Create technical blog posts, tutorials, code samples, and documentation for Zoom platform APIs",
+    "Engage with developer communities through forums, social media, and developer events",
+    "Conduct technical workshops and webinars showcasing Zoom API capabilities",
+    "Gather developer feedback and synthesize it into actionable product insights",
+    "Collaborate with product and engineering teams to identify barriers to adoption",
+    "Maintain and improve code samples and developer resources for various programming languages"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Strong programming knowledge in JavaScript, Python, or Java",
+      "API design and integration understanding",
+      "Technical communication and content creation",
+      "Community engagement and public speaking",
+      "Ability to learn new technologies quickly"
+    ],
+    "certifications": [
+      "None required"
+    ]
+  },
+  "benefits": [
+    "Competitive salary plus stock options",
+    "Health, dental, vision, and life insurance",
+    "Conference and travel budget for community events",
+    "Unlimited PTO and flexible work arrangements"
+  ]
+}

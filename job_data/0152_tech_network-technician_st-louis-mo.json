@@ -1,0 +1,52 @@
+{
+  "id": "0152",
+  "title": "Network Technician",
+  "category": "tech",
+  "company": "Rippling",
+  "industry": "HR Tech",
+  "location": {
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-20",
+  "description": "Rippling is building the world's most powerful workforce platform. We're hiring a Network Technician to support our infrastructure and keep our systems running smoothly for thousands of companies. You'll work fully remote, troubleshooting network issues and implementing improvements that directly impact our product's reliability.",
+  "responsibilities": [
+    "Monitor network infrastructure health and respond to connectivity issues and alerts",
+    "Troubleshoot network problems using diagnostic tools and follow systematic troubleshooting procedures",
+    "Maintain network documentation and update network diagrams and configurations",
+    "Support network security initiatives by implementing firewalls and access controls",
+    "Collaborate with infrastructure team on network upgrades and optimization projects",
+    "Provide technical support to remote employees regarding connectivity and network access"
+  ],
+  "requirements": {
+    "education": "Associate's degree in IT or Network Administration; or equivalent hands-on experience",
+    "experience_years": "1-2",
+    "skills": [
+      "Knowledge of networking fundamentals (TCP/IP, DNS, DHCP, routing)",
+      "Experience with network monitoring and diagnostic tools",
+      "Familiarity with firewall and router configuration",
+      "Basic Linux or Windows system administration",
+      "Problem-solving and troubleshooting skills",
+      "Strong communication and documentation abilities"
+    ],
+    "certifications": [
+      "CompTIA Network+ or equivalent (preferred within 6 months)"
+    ]
+  },
+  "benefits": [
+    "Fully remote work with flexible scheduling",
+    "Competitive salary and equity packages",
+    "Comprehensive health, dental, and vision coverage",
+    "Professional development and certification reimbursement",
+    "Generous PTO and flexible time off"
+  ]
+}

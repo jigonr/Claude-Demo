@@ -1,0 +1,51 @@
+{
+  "id": "0027",
+  "title": "Platform Engineer I",
+  "category": "tech",
+  "company": "Render",
+  "industry": "Cloud",
+  "location": {
+    "city": "Bethesda",
+    "state": "MD",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 93000,
+    "max": 117000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Join Render's platform engineering team to build the infrastructure enabling developers to deploy and scale applications effortlessly.",
+  "responsibilities": [
+    "Design and implement platform services for developer productivity",
+    "Build automation and tooling for deployment and infrastructure management",
+    "Optimize platform performance and reliability",
+    "Collaborate with customer-facing teams on feature development",
+    "Contribute to platform documentation and best practices",
+    "Participate in on-call rotation and incident response"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "2-5",
+    "skills": [
+      "Cloud platforms",
+      "Container orchestration",
+      "Infrastructure as code",
+      "Systems design",
+      "Go or Rust",
+      "Cloud platforms",
+      "Scripting"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with annual equity grants",
+    "Health, dental, and vision coverage",
+    "Equity grants",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-25"
+}

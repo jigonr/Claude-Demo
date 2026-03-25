@@ -1,0 +1,48 @@
+{
+  "id": "0087",
+  "title": "Junior Frontend Developer",
+  "category": "tech",
+  "company": "HashiCorp",
+  "industry": "Infrastructure",
+  "location": {
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 73000,
+    "max": 94000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "HashiCorp is seeking a Junior Frontend Developer to build user interfaces for infrastructure-as-code tools. You'll work with React, develop responsive UIs, and collaborate with design and backend teams. Work remotely for the company making infrastructure automation accessible to everyone.",
+  "responsibilities": [
+    "Build interactive user interfaces using React and modern JavaScript",
+    "Implement responsive designs that work across browsers and devices",
+    "Collaborate with designers to translate designs into code",
+    "Write clean, maintainable code with comprehensive tests",
+    "Optimize frontend performance and user experience"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field (or equivalent experience)",
+    "experience_years": "0-2",
+    "skills": [
+      "React or similar frontend framework",
+      "JavaScript (ES6+)",
+      "HTML and CSS",
+      "Git and version control",
+      "UI/UX principles and responsive design"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with equity upside",
+    "Health, dental, and vision coverage",
+    "Remote-first with flexible scheduling",
+    "Learning budget and conference attendance",
+    "Generous PTO and work-life balance"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-08"
+}

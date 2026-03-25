@@ -1,0 +1,52 @@
+{
+  "id": "0074",
+  "title": "Release Engineer",
+  "category": "tech",
+  "company": "HubSpot",
+  "industry": "Marketing Tech",
+  "location": {
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 87000,
+    "max": 110000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Release Engineer at HubSpot. This is an exciting opportunity to join our inbound-focused, customer-obsessed, open team and make a direct impact on our mission. If you have 0-2 years years of experience and are passionate about Marketing Tech, we'd love to hear from you.",
+  "responsibilities": [
+    "Design and maintain CI/CD pipelines enabling safe, frequent releases to production",
+    "Automate deployment processes, reducing manual effort and human error",
+    "Develop release management tools and processes improving developer productivity",
+    "Monitor build and deployment metrics, identifying bottlenecks and optimization opportunities",
+    "Implement release coordination procedures ensuring smooth multi-system deployments",
+    "Support incident response when production issues require rollback or remediation"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience_years": "0-2 years",
+    "skills": [
+      "CI/CD tools",
+      "Docker/Kubernetes",
+      "Shell scripting",
+      "Linux",
+      "Version control"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule and remote work options",
+    "Stock options or equity compensation",
+    "Wellness programs and gym membership reimbursement",
+    "Product discounts and free subscriptions"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-07"
+}

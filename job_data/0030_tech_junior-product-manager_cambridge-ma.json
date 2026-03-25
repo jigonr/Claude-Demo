@@ -1,0 +1,50 @@
+{
+  "id": "0030",
+  "title": "Junior Product Manager",
+  "category": "tech",
+  "company": "Palo Alto Networks",
+  "industry": "Cybersecurity",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 104000,
+    "max": 130000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-05",
+  "description": "Palo Alto Networks is seeking a Junior Product Manager to help define the future of cybersecurity products. Work hybrid in our Cambridge office alongside experienced PMs and engineers. You'll own product initiatives that impact millions of security professionals worldwide.",
+  "responsibilities": [
+    "Define product requirements and develop feature specifications",
+    "Collaborate with engineering teams on product development and rollout",
+    "Conduct market research and gather customer feedback",
+    "Analyze product metrics and recommend improvements",
+    "Participate in product planning and roadmap development",
+    "Communicate with stakeholders on product progress and impact"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Business, Engineering, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Product management fundamentals and frameworks",
+      "Understanding of cybersecurity products and markets",
+      "Data analysis and metrics interpretation",
+      "Communication and stakeholder management",
+      "Problem-solving and strategic thinking",
+      "Technical literacy and software development knowledge"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Hybrid work arrangement in Cambridge",
+    "Competitive salary with equity packages",
+    "Comprehensive health, dental, and vision coverage",
+    "Professional development and executive coaching",
+    "Unlimited PTO and flexible work arrangements"
+  ]
+}

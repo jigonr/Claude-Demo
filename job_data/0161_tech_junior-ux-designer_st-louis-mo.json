@@ -1,0 +1,51 @@
+{
+  "id": "0161",
+  "title": "Junior UX Designer",
+  "category": "tech",
+  "company": "Amplitude",
+  "industry": "Product Analytics",
+  "location": {
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 72000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Amplitude is the Product Intelligence platform trusted by 5000+ customers including Spotify, Instacart, and DraftKings. We help product teams understand user behavior and ship winning features. You'll drive security and stability while our platform processes trillions of analytics events.",
+  "responsibilities": [
+    "Design user interfaces for analytics platform features",
+    "Create wireframes and prototypes for user validation",
+    "Conduct design reviews and incorporate feedback",
+    "Ensure consistency with design system standards",
+    "Collaborate with product and engineering teams",
+    "Support usability testing and iterate on designs"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Design, HCI, or related field (portfolio required)",
+    "experience_years": "1-2 years of UX/UI design experience",
+    "skills": [
+      "Figma/Sketch",
+      "Wireframing",
+      "Prototyping",
+      "Design systems",
+      "User-centered design"
+    ],
+    "certifications": [
+      "Portfolio demonstrating design work"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match (up to 4%)",
+    "Unlimited PTO and remote work flexibility",
+    "Professional development budget ($2,000+/year)",
+    "Equity options and/or stock purchase plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-10"
+}

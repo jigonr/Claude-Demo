@@ -1,0 +1,48 @@
+{
+  "id": "0135",
+  "title": "Solutions Engineer",
+  "category": "tech",
+  "company": "GitLab",
+  "industry": "DevOps",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 68000,
+    "max": 87000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "GitLab is revolutionizing DevOps with an all-in-one platform that unifies the entire software development lifecycle. As a Solutions Engineer, you'll bridge the gap between our product and customers' technical needs. Help enterprises modernize their CI/CD pipelines and accelerate deployment cycles. Work hybrid from Nashville while collaborating with distributed teams.",
+  "responsibilities": [
+    "Design technical solutions tailored to customer requirements and business challenges",
+    "Conduct product demonstrations and proof-of-concept implementations",
+    "Troubleshoot complex integration issues and provide technical guidance",
+    "Collaborate with sales, support, and engineering teams on customer success",
+    "Develop technical documentation and best practices for customer implementations"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Software Engineering, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "CI/CD pipelines and DevOps practices",
+      "Git and version control workflows",
+      "Linux system administration",
+      "Scripting (bash, Python, or Go)",
+      "Strong customer-facing communication"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary and stock options",
+    "Premium health, dental, and vision coverage",
+    "Flexible work schedule with hybrid Nashville office",
+    "Professional development budget and learning opportunities",
+    "Generous PTO and team flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-09"
+}

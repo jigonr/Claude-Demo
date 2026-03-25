@@ -1,0 +1,50 @@
+{
+  "id": "0132",
+  "title": "Infrastructure Engineer I",
+  "category": "tech",
+  "company": "Datadog",
+  "industry": "Cloud Monitoring",
+  "location": {
+    "city": "Columbus",
+    "state": "OH",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 61000,
+    "max": 78000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-19",
+  "description": "Datadog is hiring an Infrastructure Engineer I to help build and maintain the resilient infrastructure that powers our cloud monitoring platform. You'll own pieces of our production environment, learn from experienced engineers, and develop expertise in cloud operations, infrastructure automation, and system reliability.",
+  "responsibilities": [
+    "Deploy, configure, and maintain Kubernetes clusters across multiple cloud providers",
+    "Write Terraform and Ansible code to automate infrastructure provisioning",
+    "Troubleshoot infrastructure issues and implement preventive monitoring",
+    "Participate in on-call rotation and respond to production incidents",
+    "Document infrastructure decisions and maintain runbooks",
+    "Collaborate with platform teams to ensure scalability and reliability"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Linux/Unix system administration",
+      "Kubernetes or container orchestration",
+      "Infrastructure-as-code (Terraform, CloudFormation)",
+      "Cloud platforms (AWS, GCP, or Azure)",
+      "Networking and TCP/IP fundamentals"
+    ],
+    "certifications": [
+      "None required; cloud certifications preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and stock options",
+    "Health, dental, vision, and life insurance",
+    "Unlimited PTO and flexible work schedule",
+    "Professional development budget and conference attendance"
+  ]
+}

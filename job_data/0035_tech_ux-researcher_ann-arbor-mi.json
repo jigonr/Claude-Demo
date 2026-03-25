@@ -1,0 +1,48 @@
+{
+  "id": "0035",
+  "title": "UX Researcher",
+  "category": "tech",
+  "company": "CrowdStrike",
+  "industry": "Cybersecurity",
+  "location": {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 61000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "CrowdStrike is seeking a UX Researcher to uncover customer insights that drive product innovation. You'll conduct user research, analyze usability data, and translate findings into design improvements. Work hybrid from Ann Arbor for the leading cybersecurity platform protecting enterprises.",
+  "responsibilities": [
+    "Conduct user interviews and usability testing with customers",
+    "Analyze user behavior data and identify pain points",
+    "Create research insights and recommendations",
+    "Collaborate with product and design teams",
+    "Develop testing methodologies and research plans"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Psychology, HCI, Design, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "User research methodologies",
+      "Interview and testing facilitation",
+      "Data analysis and synthesis",
+      "Communication and presentation",
+      "Empathy and user-centered thinking"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with performance bonuses",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Flexible hybrid Ann Arbor schedule",
+    "Professional development and conference attendance"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-17"
+}

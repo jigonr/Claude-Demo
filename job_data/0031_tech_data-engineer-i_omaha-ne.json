@@ -1,0 +1,48 @@
+{
+  "id": "0031",
+  "title": "Data Engineer I",
+  "category": "tech",
+  "company": "Snowflake",
+  "industry": "Data",
+  "location": {
+    "city": "Omaha",
+    "state": "NE",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 60000,
+    "max": 76000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Snowflake is hiring a Data Engineer I to build data pipelines and infrastructure supporting our cloud data platform. Working remotely from Omaha, you'll design scalable data systems, optimize performance, and enable analytics at scale. This role offers exposure to cutting-edge data engineering practices.",
+  "responsibilities": [
+    "Design and implement data pipelines using ETL tools; ensure data quality and reliability",
+    "Optimize database performance; write efficient SQL queries and analyze execution plans",
+    "Collaborate with data scientists and analysts to understand data requirements",
+    "Monitor data pipelines and troubleshoot issues; implement monitoring and alerting",
+    "Document data architecture and maintain data catalogs; contribute to knowledge sharing"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "SQL and database design",
+      "Python or Java",
+      "ETL tools (Apache Spark, Airflow, or similar)",
+      "Cloud data warehouses (Snowflake, BigQuery, Redshift)",
+      "Data modeling"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + equity",
+    "Comprehensive health and wellness benefits",
+    "Unlimited PTO",
+    "$3,000/year learning budget",
+    "Home office equipment stipend"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-18"
+}

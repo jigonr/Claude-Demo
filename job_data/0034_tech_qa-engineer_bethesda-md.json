@@ -1,0 +1,50 @@
+{
+  "id": "0034",
+  "title": "QA Engineer",
+  "category": "tech",
+  "company": "SpaceX",
+  "industry": "Aerospace",
+  "location": {
+    "city": "Bethesda",
+    "state": "MD",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 72000,
+    "max": 93000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "SpaceX is seeking a QA Engineer for our Bethesda facility to ensure the quality and reliability of our aerospace systems and software. You'll design rigorous testing protocols, execute comprehensive test plans, and contribute to the mission of making humanity multiplanetary. This hybrid role offers the opportunity to work on cutting-edge aerospace technology.",
+  "responsibilities": [
+    "Design and execute comprehensive test strategies for aerospace software and hardware systems",
+    "Create and maintain automated test suites using Python or C++",
+    "Conduct integration testing, performance testing, and failure mode analysis",
+    "Document test results, identify defects, and track resolution",
+    "Collaborate with engineering teams on quality assurance requirements and improvements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Engineering, Computer Science, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Test automation using Python, C++, or similar languages",
+      "Understanding of aerospace or safety-critical systems",
+      "Experience with testing frameworks and CI/CD tools",
+      "Strong analytical and problem-solving abilities",
+      "Excellent documentation and technical communication"
+    ],
+    "certifications": [
+      "ISTQB or aerospace-related certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and equity options",
+    "Comprehensive health, vision, and dental coverage",
+    "401(k) with company match",
+    "Professional development and training opportunities",
+    "Hybrid work arrangement"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-20"
+}

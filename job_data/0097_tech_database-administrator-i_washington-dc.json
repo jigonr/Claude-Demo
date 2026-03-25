@@ -1,0 +1,50 @@
+{
+  "id": "0097",
+  "title": "Database Administrator I",
+  "category": "tech",
+  "company": "Cisco",
+  "industry": "Networking",
+  "location": {
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 78000,
+    "max": 98000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Join Cisco's Infrastructure team as a Database Administrator and help manage the systems that power our networking platforms. You'll gain hands-on experience with enterprise-scale databases while working alongside senior DBAs who are passionate about performance optimization and reliability. If you love solving complex data challenges and building systems people can trust, this is your opportunity.",
+  "responsibilities": [
+    "Monitor database performance and health, proactively identifying and resolving bottlenecks",
+    "Execute backup and recovery procedures, testing disaster recovery plans quarterly",
+    "Manage user access, privileges, and security policies across Oracle and PostgreSQL environments",
+    "Optimize query performance and index structures based on execution plans and workload analysis",
+    "Collaborate with application teams to understand schema requirements and design efficient databases"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Information Technology, or equivalent professional experience",
+    "experience_years": "1-3",
+    "skills": [
+      "Oracle or PostgreSQL database administration",
+      "Linux/Unix system administration",
+      "SQL query writing and optimization",
+      "Bash or Python scripting",
+      "Understanding of replication, clustering, and backup technologies"
+    ],
+    "certifications": [
+      "Oracle Associate DBA or PostgreSQL certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive health and wellness benefits",
+    "401(k) with company match",
+    "Ongoing technical training and certification support",
+    "Flexible remote work arrangement",
+    "Annual learning stipend of $3,000"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-14"
+}

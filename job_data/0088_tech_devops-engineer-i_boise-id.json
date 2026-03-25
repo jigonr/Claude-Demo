@@ -1,0 +1,50 @@
+{
+  "id": "0088",
+  "title": "DevOps Engineer I",
+  "category": "tech",
+  "company": "HashiCorp",
+  "industry": "Infrastructure",
+  "location": {
+    "city": "Boise",
+    "state": "ID",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 63000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "HashiCorp, the infrastructure automation leader, seeks a DevOps Engineer I to support cloud infrastructure and deployment pipelines. Working fully remote, you'll manage infrastructure-as-code, optimize CI/CD workflows, and contribute to reliability across our platform. Join a distributed team building the tools that power modern infrastructure.",
+  "responsibilities": [
+    "Deploy and manage cloud infrastructure using Terraform and Kubernetes",
+    "Develop and maintain CI/CD pipelines and deployment automation",
+    "Monitor system performance and troubleshoot infrastructure issues",
+    "Implement infrastructure-as-code best practices",
+    "Collaborate with engineering teams on infrastructure improvements",
+    "Contribute to runbooks and documentation"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Cloud platforms (AWS, Azure, or GCP)",
+      "Container orchestration (Kubernetes or Docker)",
+      "Infrastructure-as-code tools (Terraform preferred)",
+      "CI/CD tools and practices",
+      "Linux/Unix systems and bash scripting",
+      "Version control (Git)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Fully remote position",
+    "Competitive health, dental, and vision insurance",
+    "401(k) with company match",
+    "Learning and certification budget",
+    "Flexible time off"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-14"
+}

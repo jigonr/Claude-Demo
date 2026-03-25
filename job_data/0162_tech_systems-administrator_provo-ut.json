@@ -1,0 +1,50 @@
+{
+  "id": "0162",
+  "title": "Systems Administrator",
+  "category": "tech",
+  "company": "Toast",
+  "industry": "Restaurant Tech",
+  "location": {
+    "city": "Provo",
+    "state": "UT",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 49000,
+    "max": 63000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Toast is hiring a Systems Administrator for our Provo office to manage and maintain our IT infrastructure. You'll support both internal operations and work with customer deployments. This role offers broad exposure to systems administration and the opportunity to work for a fast-growing restaurant technology company.",
+  "responsibilities": [
+    "Manage Windows and Linux servers; perform patches, updates, and maintenance",
+    "Administer network infrastructure, firewalls, and VPN connections",
+    "Support user accounts, permissions, and IT security policies",
+    "Troubleshoot hardware and software issues; provide technical support",
+    "Document systems, procedures, and maintain IT asset inventory"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in IT, Computer Science, or related field; or equivalent experience",
+    "experience_years": "1-2",
+    "skills": [
+      "Windows and Linux system administration",
+      "Networking fundamentals and TCP/IP",
+      "Active Directory and user management",
+      "Troubleshooting and problem-solving abilities",
+      "Strong communication and customer service skills"
+    ],
+    "certifications": [
+      "CompTIA A+ or Network+ certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Paid time off and paid holidays",
+    "Professional development and certification support",
+    "Team events and company culture"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-11"
+}

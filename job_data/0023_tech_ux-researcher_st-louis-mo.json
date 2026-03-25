@@ -1,0 +1,51 @@
+{
+  "id": "0023",
+  "title": "UX Researcher",
+  "category": "tech",
+  "company": "Block",
+  "industry": "Fintech",
+  "location": {
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 72000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Block is a financial services and digital payments ecosystem serving millions. From Square to Cash App to Spiral, we're building a financial world that works for everyone. You'll help customers navigate complex technical challenges on our platform.",
+  "responsibilities": [
+    "Conduct user research through interviews, surveys, and usability testing",
+    "Analyze user behavior patterns to inform product strategy",
+    "Create research reports and present findings to product teams",
+    "Collaborate with designers to validate design assumptions",
+    "Track user satisfaction metrics and identify pain points",
+    "Recommend feature priorities based on user research insights"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Psychology, HCI, Communication, or related field",
+    "experience_years": "2-4 years of UX research, user research, or product research experience",
+    "skills": [
+      "User research methodologies",
+      "Data analysis",
+      "Qualitative analysis",
+      "Prototyping",
+      "Presentation"
+    ],
+    "certifications": [
+      "Nielsen NN/g certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match (up to 4%)",
+    "Unlimited PTO and remote work flexibility",
+    "Professional development budget ($2,000+/year)",
+    "Equity options and/or stock purchase plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-12"
+}

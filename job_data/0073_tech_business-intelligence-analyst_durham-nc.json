@@ -1,0 +1,52 @@
+{
+  "id": "0073",
+  "title": "Business Intelligence Analyst",
+  "category": "tech",
+  "company": "DigitalOcean",
+  "industry": "Cloud",
+  "location": {
+    "city": "Durham",
+    "state": "NC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 58000,
+    "max": 76000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Business Intelligence Analyst at DigitalOcean. This is an exciting opportunity to join our open, inclusive, dev-centric team and make a direct impact on our mission. If you have 2-4 years years of experience and are passionate about Cloud, we'd love to hear from you.",
+  "responsibilities": [
+    "Build and maintain data pipelines that connect disparate systems for unified analytics",
+    "Develop dashboards and reports enabling stakeholders to make data-driven decisions",
+    "Investigate data quality issues and implement solutions to improve accuracy",
+    "Partner with product and engineering teams to instrument product for analytics",
+    "Transform raw data into actionable insights supporting business strategy",
+    "Establish metrics frameworks and KPI tracking systems across the organization"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field",
+    "experience_years": "2-4 years",
+    "skills": [
+      "SQL",
+      "Python or R",
+      "Data visualization",
+      "BI tools (Tableau/PowerBI)",
+      "Statistical analysis"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule",
+    "Career development opportunities",
+    "Employee recognition programs",
+    "Community involvement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-01"
+}

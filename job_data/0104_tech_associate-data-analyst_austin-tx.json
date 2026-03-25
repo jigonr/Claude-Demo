@@ -1,0 +1,52 @@
+{
+  "id": "0104",
+  "title": "Associate Data Analyst",
+  "category": "tech",
+  "company": "Monday.com",
+  "industry": "Work Management",
+  "location": {
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 60000,
+    "max": 78000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Monday.com is the Work OS powering over 200K teams globally. We're building the operating system for work itself\u2014where work management, productivity, and automation converge. We're looking for talent that thrives on solving complex problems at scale.",
+  "responsibilities": [
+    "Extract and analyze data from product databases to support decision-making",
+    "Create dashboards and visualizations for business stakeholders",
+    "Perform statistical analysis on user behavior and product metrics",
+    "Validate data quality and identify discrepancies",
+    "Document analytical methods and findings for reproducibility",
+    "Support A/B testing and experiment analysis"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Data Science, Statistics, Mathematics, Business, or related field",
+    "experience_years": "1-2 years of data analysis, business analytics, or BI experience",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Data visualization",
+      "Python/R (preferred)",
+      "Statistical analysis"
+    ],
+    "certifications": [
+      "Google Data Analytics Certificate (acceptable)",
+      "Tableau"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) with company match (up to 4%)",
+    "Unlimited PTO and remote work flexibility",
+    "Professional development budget ($2,000+/year)",
+    "Equity options and/or stock purchase plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-14"
+}

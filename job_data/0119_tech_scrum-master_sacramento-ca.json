@@ -1,0 +1,50 @@
+{
+  "id": "0119",
+  "title": "Scrum Master",
+  "category": "tech",
+  "company": "Akamai",
+  "industry": "CDN",
+  "location": {
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 71000,
+    "max": 89000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Akamai is seeking a Scrum Master to support engineering teams in Sacramento. You'll facilitate agile ceremonies, remove blockers, and coach teams to deliver value faster. In this hybrid role, you'll drive continuous improvement across multiple squads, working with product managers and engineers to optimize velocity and quality.",
+  "responsibilities": [
+    "Facilitate sprint planning, daily standups, retrospectives, and other agile ceremonies across assigned teams",
+    "Identify and help resolve impediments that slow team productivity; escalate blocked work quickly",
+    "Coach teams on agile practices and help them refine processes to improve efficiency",
+    "Work with product owners and stakeholders to understand priorities and manage dependencies",
+    "Track sprint metrics and health indicators; recommend process improvements based on data"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Business, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Agile and Scrum methodologies",
+      "Team facilitation and coaching",
+      "Conflict resolution",
+      "Project management tools (Jira, Azure DevOps)",
+      "Communication and leadership"
+    ],
+    "certifications": [
+      "Certified Scrum Master (CSM)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary + bonus",
+    "Health, dental, vision coverage",
+    "401(k) with match",
+    "$1,200/year training budget",
+    "Flexible work hours and hybrid options"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-06"
+}

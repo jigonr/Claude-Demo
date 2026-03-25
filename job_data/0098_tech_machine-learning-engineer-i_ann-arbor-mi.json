@@ -1,0 +1,52 @@
+{
+  "id": "0098",
+  "title": "Machine Learning Engineer I",
+  "category": "tech",
+  "company": "Akamai",
+  "industry": "CDN",
+  "location": {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 80000,
+    "max": 104000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Join Akamai's ML team to build scalable machine learning systems. You'll work with modern ML frameworks and infrastructure, collaborating with data scientists and engineers.",
+  "responsibilities": [
+    "Design and implement machine learning pipelines for production systems",
+    "Optimize model training and inference performance",
+    "Build data preprocessing and feature engineering frameworks",
+    "Collaborate with data scientists on model deployment and monitoring",
+    "Contribute to open source ML libraries and tools",
+    "Participate in code reviews and architectural discussions"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "2-5",
+    "skills": [
+      "Python",
+      "TensorFlow or PyTorch",
+      "SQL",
+      "Statistics",
+      "Data pipelines",
+      "Cloud ML platforms",
+      "Cloud platforms",
+      "Scripting"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary with annual equity grants",
+    "Health, dental, and vision coverage",
+    "Equity grants",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-04"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0055",
+  "title": "DevOps Engineer I",
+  "category": "tech",
+  "company": "DocuSign",
+  "industry": "E-Signature",
+  "location": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 63000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "DocuSign's Agreement Cloud manages 1M+ agreements daily, helping organizations go digital. We're the global standard for e-signatures and agreement workflows across 180+ countries.\n\nWe're seeking a DevOps Engineer I to join our E-Signature team in Cincinnati. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Deploy, monitor, and maintain CI/CD pipelines using Jenkins, GitLab CI, or equivalent platforms",
+    "Provision and manage cloud infrastructure (AWS/Azure/GCP) with Infrastructure as Code",
+    "Implement logging, monitoring, and alerting solutions for system reliability",
+    "Collaborate with software engineers to resolve deployment and operational issues",
+    "Automate routine operational tasks and improve deployment efficiency",
+    "Participate on-call rotation to respond to production incidents and outages"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or equivalent experience",
+    "experience_years": "1-3 years in DevOps, Cloud Operations, or Systems Engineering",
+    "skills": [
+      "Linux/Unix administration",
+      "Docker/Kubernetes",
+      "Infrastructure as Code (Terraform)",
+      "Cloud platforms (AWS/Azure/GCP)",
+      "Python/Bash scripting"
+    ],
+    "certifications": [
+      "AWS Solutions Architect Associate or Cloud certifications"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and equity",
+    "Health and wellness programs",
+    "Learning stipend for certifications",
+    "Flexible work arrangements"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-14"
+}

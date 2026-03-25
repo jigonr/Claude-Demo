@@ -1,0 +1,50 @@
+{
+  "id": "0137",
+  "title": "Junior Backend Developer",
+  "category": "tech",
+  "company": "HashiCorp",
+  "industry": "Infrastructure",
+  "location": {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 71000,
+    "max": 90000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-03",
+  "description": "HashiCorp is hiring a Junior Backend Developer to build and enhance infrastructure automation tools that thousands of organizations use to manage their cloud environments. You'll work on Go-based projects, collaborate with senior engineers, and grow your skills in distributed systems and infrastructure software.",
+  "responsibilities": [
+    "Develop and maintain backend services and APIs in Go",
+    "Write unit and integration tests for code quality and reliability",
+    "Collaborate with product and infrastructure teams on feature development",
+    "Debug and fix production issues with support from senior engineers",
+    "Participate in code reviews and learn from team feedback",
+    "Document code changes and contribute to internal knowledge base"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or equivalent experience",
+    "experience_years": "0-2",
+    "skills": [
+      "Go programming language",
+      "SQL and database fundamentals",
+      "Git and version control",
+      "REST API design and development",
+      "Linux command line and shell scripting"
+    ],
+    "certifications": [
+      "None required"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and equity options",
+    "Health, dental, vision, and life insurance",
+    "Unlimited PTO and flexible work arrangements",
+    "Professional development budget and conference attendance"
+  ]
+}

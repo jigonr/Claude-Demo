@@ -1,0 +1,50 @@
+{
+  "id": "0080",
+  "title": "AI Research Assistant",
+  "category": "tech",
+  "company": "Supabase",
+  "industry": "Developer Tools",
+  "location": {
+    "city": "Bethesda",
+    "state": "MD",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 96000,
+    "max": 126000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-09",
+  "description": "Supabase is expanding its AI research and is seeking an AI Research Assistant to help build the next generation of developer tools. You'll work fully remote, collaborating with our research team on machine learning, LLM applications, and data infrastructure. Help shape the future of open-source databases and AI integration.",
+  "responsibilities": [
+    "Conduct research on AI/ML architectures and techniques for database optimization",
+    "Develop prototypes and proof-of-concepts for new AI-powered features",
+    "Analyze large-scale data to identify patterns and optimization opportunities",
+    "Collaborate with engineering teams to implement research findings",
+    "Contribute to research papers and documentation",
+    "Stay current with latest AI/ML advancements and evaluate their relevance to Supabase"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Machine Learning, Statistics, or related field; Master's preferred",
+    "experience_years": "2-4",
+    "skills": [
+      "Strong programming skills in Python and SQL",
+      "Experience with machine learning frameworks (PyTorch, TensorFlow, JAX)",
+      "Understanding of neural networks and deep learning",
+      "Experience with large language models and transformers",
+      "Knowledge of database systems and optimization",
+      "Strong research and analytical skills"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Fully remote work with flexible schedule",
+    "Competitive salary and equity packages",
+    "Comprehensive health, dental, and vision coverage",
+    "Professional development budget for courses and conferences",
+    "Unlimited PTO and wellness benefits"
+  ]
+}

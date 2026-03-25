@@ -1,0 +1,50 @@
+{
+  "id": "0099",
+  "title": "Release Engineer",
+  "category": "tech",
+  "company": "Vercel",
+  "industry": "Developer Tools",
+  "location": {
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 66000,
+    "max": 83000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-23",
+  "description": "Vercel is seeking a Release Engineer for our Houston office to manage deployments and releases of our Next.js hosting platform. You'll ensure reliable deployments for millions of developers worldwide. Work on-site in a fast-paced infrastructure team.",
+  "responsibilities": [
+    "Manage software release cycles and deployment processes",
+    "Automate release and deployment pipelines",
+    "Monitor deployment health and troubleshoot release issues",
+    "Collaborate with engineering teams on deployment strategies",
+    "Document release procedures and maintain runbooks",
+    "Ensure minimal downtime during production deployments"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or related field; or equivalent experience",
+    "experience_years": "2-3",
+    "skills": [
+      "CI/CD pipeline development and management",
+      "Linux and container technologies (Docker, Kubernetes)",
+      "Scripting languages (Python, Bash, Go)",
+      "Version control (Git) and release management tools",
+      "Understanding of deployment strategies and monitoring",
+      "Problem-solving and communication skills"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "On-site position in Houston office",
+    "Competitive salary and equity",
+    "Comprehensive health, dental, and vision coverage",
+    "Professional development and learning opportunities",
+    "Work on widely-used developer tools"
+  ]
+}

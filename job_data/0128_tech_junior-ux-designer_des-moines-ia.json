@@ -1,0 +1,48 @@
+{
+  "id": "0128",
+  "title": "Junior UX Designer",
+  "category": "tech",
+  "company": "Elastic",
+  "industry": "Search",
+  "location": {
+    "city": "Des Moines",
+    "state": "IA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 68000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Elastic is hiring a Junior UX Designer to help shape the user experience of our search and analytics platform. You'll work with product managers and engineers to design intuitive interfaces, conduct user research, and iterate based on feedback. This hybrid role offers mentorship from experienced designers and the chance to impact millions of users globally.",
+  "responsibilities": [
+    "Design user interfaces and user flows for new features and products",
+    "Create wireframes, mockups, and interactive prototypes using Figma",
+    "Conduct user research, usability testing, and gather feedback on designs",
+    "Collaborate with product and engineering teams on design implementation",
+    "Document design decisions and maintain design systems and component libraries"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Design, HCI, or related field; or equivalent portfolio demonstrating design skills",
+    "experience_years": "0-2",
+    "skills": [
+      "Proficiency with design tools (Figma, Sketch, Adobe XD)",
+      "Understanding of UX principles and design thinking",
+      "Basic prototyping and wireframing capabilities",
+      "Communication and collaboration abilities",
+      "Familiarity with design systems and component-based design"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary and equity options",
+    "Comprehensive health, vision, and dental coverage",
+    "401(k) with company match",
+    "Professional development and design conference attendance",
+    "Hybrid work flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-14"
+}

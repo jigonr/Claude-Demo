@@ -1,0 +1,55 @@
+{
+  "id": "0033",
+  "title": "Scrum Master",
+  "category": "tech",
+  "company": "Dropbox",
+  "industry": "Cloud Storage",
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 85000,
+    "max": 106000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Scrum Master at Dropbox. This is an exciting opportunity to join our efficient, user-focused, scaling team and make a direct impact on our mission. If you have 2-4 years years of experience and are passionate about Cloud Storage, we'd love to hear from you.",
+  "responsibilities": [
+    "Facilitate daily standups and sprint ceremonies ensuring team alignment",
+    "Remove impediments enabling teams to deliver on sprint commitments",
+    "Track metrics including velocity and burndown identifying improvement areas",
+    "Work with product owners to maintain and prioritize product backlog",
+    "Coach teams on agile practices and continuous improvement mindset",
+    "Report on team health and sprint progress to stakeholders"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree or relevant experience",
+    "experience_years": "2-4 years",
+    "skills": [
+      "Agile methodologies",
+      "Team facilitation",
+      "Process improvement",
+      "Communication",
+      "Conflict resolution"
+    ],
+    "certifications": [
+      "Certified ScrumMaster (CSM)",
+      "Safe Scrum Master preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule and remote work options",
+    "Stock options or equity compensation",
+    "Wellness programs and gym membership reimbursement",
+    "Product discounts and free subscriptions"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-04"
+}

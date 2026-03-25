@@ -1,0 +1,52 @@
+{
+  "id": "0049",
+  "title": "Systems Administrator",
+  "category": "tech",
+  "company": "Twilio",
+  "industry": "Communications",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 71000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Twilio, the communications platform trusted by developers worldwide, seeks a Systems Administrator for our Nashville office. You'll manage servers, maintain network infrastructure, and support our growing operations. Work onsite while enabling seamless communications for millions of users globally.",
+  "responsibilities": [
+    "Manage and maintain Windows and Linux servers",
+    "Monitor system performance and respond to alerts",
+    "Manage user accounts, access controls, and security policies",
+    "Support software deployments and system upgrades",
+    "Troubleshoot technical issues and provide end-user support",
+    "Maintain documentation and standard operating procedures"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; Associate degree in IT preferred",
+    "experience_years": "1-3",
+    "skills": [
+      "Windows and Linux system administration",
+      "Networking fundamentals and TCP/IP",
+      "Active Directory and user management",
+      "Ticketing systems and technical support",
+      "Bash/PowerShell scripting basics",
+      "Problem-solving and communication skills"
+    ],
+    "certifications": [
+      "CompTIA A+ or Microsoft certification preferred"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision insurance",
+    "401(k) with company match",
+    "Professional development and certification support",
+    "Flexible paid time off",
+    "Collaborative team environment"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-19"
+}

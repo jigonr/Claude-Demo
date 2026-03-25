@@ -1,0 +1,48 @@
+{
+  "id": "0133",
+  "title": "Associate Software Engineer",
+  "category": "tech",
+  "company": "Shopify",
+  "industry": "E-Commerce",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 97000,
+    "max": 123000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Shopify is hiring Associate Software Engineers to help build commerce tools that enable entrepreneurs worldwide. We're expanding our Cambridge engineering hub and looking for talented developers eager to make an impact at scale. You'll work on features and infrastructure powering thousands of stores, with access to mentorship and growth opportunities. This hybrid role lets you collaborate with a distributed team while building real products that drive business value.",
+  "responsibilities": [
+    "Build and ship features across our commerce platform using Ruby, JavaScript, or Python, following our engineering standards",
+    "Contribute to system design discussions and help improve our architecture for millions of concurrent users",
+    "Participate in on-call rotation to support production services and resolve incidents with urgency",
+    "Work with product managers and designers to understand requirements and deliver customer-focused solutions",
+    "Mentor newer engineers and contribute to team knowledge-sharing through code reviews and technical discussions"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science or equivalent demonstrated experience",
+    "experience_years": "1-3",
+    "skills": [
+      "Ruby or JavaScript",
+      "Database design and optimization",
+      "REST API development",
+      "Git workflows",
+      "Basic cloud infrastructure (AWS preferred)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary + equity package",
+    "Health, dental, and vision coverage",
+    "Unlimited PTO",
+    "$2,000/year learning budget",
+    "Fitness stipend and wellness programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-05"
+}

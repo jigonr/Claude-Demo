@@ -1,0 +1,52 @@
+{
+  "id": "0160",
+  "title": "Cloud Operations Analyst",
+  "category": "tech",
+  "company": "HashiCorp",
+  "industry": "Infrastructure",
+  "location": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 68000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-18",
+  "description": "HashiCorp is hiring a Cloud Operations Analyst to help manage and optimize our infrastructure-as-code platforms. You'll work with teams using Terraform and Vault to automate and secure cloud infrastructure at scale. This fully remote role is perfect for someone who loves solving operational challenges and building tools that empower engineers worldwide. No relocation needed—work from anywhere.",
+  "responsibilities": [
+    "Monitor cloud infrastructure health, performance metrics, and resource utilization across AWS, Azure, and GCP",
+    "Troubleshoot and resolve operational incidents affecting cloud deployments and services",
+    "Optimize cloud resource configurations for cost efficiency and performance",
+    "Collaborate with infrastructure and platform engineering teams on automation improvements",
+    "Document operational procedures and maintain runbooks for common issues",
+    "Participate in on-call rotation and support escalations during production incidents"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or related field; or equivalent hands-on experience",
+    "experience_years": "1-3",
+    "skills": [
+      "Experience with AWS, Azure, or GCP cloud platforms",
+      "Familiarity with Terraform or Infrastructure-as-Code tools",
+      "Linux/Unix system administration fundamentals",
+      "Understanding of networking, DNS, and load balancing concepts",
+      "Scripting or programming (Bash, Python, or Go preferred)",
+      "Strong troubleshooting and analytical skills"
+    ],
+    "certifications": [
+      "AWS Solutions Architect Associate or equivalent certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Fully remote work with flexible hours",
+    "Competitive salary and equity options",
+    "Comprehensive health, dental, and vision coverage",
+    "Professional development budget for courses and certifications",
+    "Generous PTO and mental health days"
+  ]
+}

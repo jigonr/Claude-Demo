@@ -1,0 +1,50 @@
+{
+  "id": "0102",
+  "title": "Machine Learning Engineer I",
+  "category": "tech",
+  "company": "DocuSign",
+  "industry": "E-Signature",
+  "location": {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 89000,
+    "max": 115000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "DocuSign is hiring a Machine Learning Engineer I to build intelligent features that automate document workflows. Working fully remote from Chicago or anywhere in the US, you'll develop models for signature detection, document classification, and anomaly detection. Join our AI team advancing how millions of people sign and manage agreements globally.",
+  "responsibilities": [
+    "Design and train machine learning models for document understanding and processing",
+    "Implement data pipelines and feature engineering workflows",
+    "Evaluate model performance using appropriate metrics and experimentation frameworks",
+    "Collaborate with product and engineering teams to integrate models into production systems",
+    "Document model architecture and maintain reproducible ML workflows",
+    "Contribute to model optimization and inference performance improvements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Mathematics, Statistics, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Python and TensorFlow or PyTorch",
+      "Machine learning fundamentals and algorithms",
+      "SQL and data manipulation",
+      "Statistical analysis and experimental design",
+      "Git version control and Linux/Unix",
+      "Understanding of computer vision or NLP (preferred)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Fully remote position",
+    "Competitive health, dental, vision, and FSA/HSA options",
+    "401(k) with 4% company match",
+    "Learning stipend and conference attendance",
+    "Flexible paid time off"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-10"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0111",
+  "title": "Cloud Engineer I",
+  "category": "tech",
+  "company": "Rippling",
+  "industry": "HR Tech",
+  "location": {
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 74000,
+    "max": 93000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Rippling is seeking a Cloud Engineer I to help scale our HR platform infrastructure. You'll design and implement cloud solutions, manage deployments, and collaborate with product teams to ensure our systems can support rapid growth. If you're passionate about cloud architecture and want to work on infrastructure that powers thousands of companies, this is your opportunity.",
+  "responsibilities": [
+    "Design and implement cloud infrastructure on AWS or GCP, following best practices for security and scalability",
+    "Manage containerization using Docker and Kubernetes; implement CI/CD pipelines",
+    "Monitor system performance, troubleshoot issues, and implement optimizations",
+    "Collaborate with development teams to support deployment and scaling requirements",
+    "Maintain infrastructure documentation and implement infrastructure-as-code practices"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Computer Science, Engineering, or equivalent experience",
+    "experience_years": "1-3",
+    "skills": [
+      "Experience with AWS or GCP cloud platforms",
+      "Docker and Kubernetes fundamentals",
+      "Proficiency with Linux and bash scripting",
+      "Understanding of networking, databases, and system architecture",
+      "Familiarity with infrastructure-as-code tools (Terraform, CloudFormation)"
+    ],
+    "certifications": [
+      "AWS Cloud Practitioner or Associate certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and equity options",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Professional development and learning budget",
+    "Fully remote work environment"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-10"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0107",
+  "title": "Help Desk Technician",
+  "category": "tech",
+  "company": "Akamai",
+  "industry": "CDN",
+  "location": {
+    "city": "Rochester",
+    "state": "MN",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 37000,
+    "max": 49000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Akamai is hiring a Help Desk Technician to support our employees and customers remotely. You'll troubleshoot technical issues, manage tickets, and provide excellent customer support. This fully remote role offers flexibility while supporting a global technology organization.",
+  "responsibilities": [
+    "Respond to help desk tickets via email, chat, and phone; resolve technical issues efficiently",
+    "Troubleshoot hardware, software, and network problems; escalate complex issues appropriately",
+    "Provide remote support and remote access to assist users; maintain documentation of solutions",
+    "Install software and updates; manage employee hardware provisioning and deprovisioning",
+    "Track tickets and metrics; contribute to team knowledge base and documentation"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; CompTIA A+ or equivalent knowledge",
+    "experience_years": "1-2",
+    "skills": [
+      "Windows and Mac OS support",
+      "Networking basics",
+      "Help desk ticketing systems",
+      "Remote support tools",
+      "Customer service"
+    ],
+    "certifications": [
+      "CompTIA A+ (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Health, dental, vision coverage",
+    "401(k) with match",
+    "$800/year tech allowance",
+    "Flexible remote work schedule"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-21"
+}
