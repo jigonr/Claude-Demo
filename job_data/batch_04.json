@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "0208",
+    "title": "Claims Analyst",
+    "category": "business",
+    "company": "Charles Schwab",
+    "industry": "Brokerage",
+    "location": {
+      "city": "Denver",
+      "state": "CO",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 47000,
+      "max": 60000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-18",
+    "filename_base": "0208_business_claims-analyst_denver-co"
+  },
+  {
+    "id": "0324",
+    "title": "Insurance Underwriter",
+    "category": "business",
+    "company": "McKinsey",
+    "industry": "Management Consulting",
+    "location": {
+      "city": "Durham",
+      "state": "NC",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 47000,
+      "max": 61000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-16",
+    "filename_base": "0324_business_insurance-underwriter_durham-nc"
+  },
+  {
+    "id": "0427",
+    "title": "Medical Coder",
+    "category": "healthcare",
+    "company": "Mayo Clinic",
+    "industry": "Healthcare",
+    "location": {
+      "city": "Washington",
+      "state": "DC",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 48000,
+      "max": 62000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-05",
+    "filename_base": "0427_healthcare_medical-coder_washington-dc"
+  },
+  {
+    "id": "0412",
+    "title": "Patient Services Representative",
+    "category": "healthcare",
+    "company": "Pfizer",
+    "industry": "Pharmaceuticals",
+    "location": {
+      "city": "Cambridge",
+      "state": "MA",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 41000,
+      "max": 54000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-25",
+    "filename_base": "0412_healthcare_patient-services-representative_cambridge-ma"
+  },
+  {
+    "id": "0160",
+    "title": "Cloud Operations Analyst",
+    "category": "tech",
+    "company": "HashiCorp",
+    "industry": "Infrastructure",
+    "location": {
+      "city": "Cincinnati",
+      "state": "OH",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 52000,
+      "max": 68000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-18",
+    "filename_base": "0160_tech_cloud-operations-analyst_cincinnati-oh"
+  },
+  {
+    "id": "0185",
+    "title": "HR Coordinator",
+    "category": "business",
+    "company": "Unilever",
+    "industry": "Consumer Goods",
+    "location": {
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 45000,
+      "max": 58000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-16",
+    "filename_base": "0185_business_hr-coordinator_baltimore-md"
+  },
+  {
+    "id": "0501",
+    "title": "Medical Coder",
+    "category": "healthcare",
+    "company": "Novartis",
+    "industry": "Pharmaceuticals",
+    "location": {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 38000,
+      "max": 49000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-15",
+    "filename_base": "0501_healthcare_medical-coder_atlanta-ga"
+  },
+  {
+    "id": "0121",
+    "title": "Cloud Operations Analyst",
+    "category": "tech",
+    "company": "Dropbox",
+    "industry": "Cloud Storage",
+    "location": {
+      "city": "Boulder",
+      "state": "CO",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 68000,
+      "max": 88000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-09",
+    "filename_base": "0121_tech_cloud-operations-analyst_boulder-co"
+  },
+  {
+    "id": "0441",
+    "title": "Licensed Practical Nurse",
+    "category": "healthcare",
+    "company": "Fortrea",
+    "industry": "Clinical Research",
+    "location": {
+      "city": "Tampa",
+      "state": "FL",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 37000,
+      "max": 49000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-21",
+    "filename_base": "0441_healthcare_licensed-practical-nurse_tampa-fl"
+  },
+  {
+    "id": "0152",
+    "title": "Network Technician",
+    "category": "tech",
+    "company": "Rippling",
+    "industry": "HR Tech",
+    "location": {
+      "city": "St. Louis",
+      "state": "MO",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 42000,
+      "max": 55000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-20",
+    "filename_base": "0152_tech_network-technician_st-louis-mo"
+  },
+  {
+    "id": "0272",
+    "title": "Business Development Representative",
+    "category": "business",
+    "company": "PwC",
+    "industry": "Professional Services",
+    "location": {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 56000,
+      "max": 75000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-09",
+    "filename_base": "0272_business_business-development-representative_seattle-wa"
+  },
+  {
+    "id": "0069",
+    "title": "Network Technician",
+    "category": "tech",
+    "company": "Palo Alto Networks",
+    "industry": "Cybersecurity",
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 52000,
+      "max": 68000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-08",
+    "filename_base": "0069_tech_network-technician_chicago-il"
+  },
+  {
+    "id": "0475",
+    "title": "Public Health Analyst",
+    "category": "healthcare",
+    "company": "Broad Institute",
+    "industry": "Research",
+    "location": {
+      "city": "Washington",
+      "state": "DC",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 57000,
+      "max": 74000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-05",
+    "filename_base": "0475_healthcare_public-health-analyst_washington-dc"
+  },
+  {
+    "id": "0426",
+    "title": "Health Information Technician",
+    "category": "healthcare",
+    "company": "Fortrea",
+    "industry": "Clinical Research",
+    "location": {
+      "city": "Cambridge",
+      "state": "MA",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 49000,
+      "max": 65000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-16",
+    "filename_base": "0426_healthcare_health-information-technician_cambridge-ma"
+  },
+  {
+    "id": "0211",
+    "title": "Accounts Payable Specialist",
+    "category": "business",
+    "company": "UPS",
+    "industry": "Logistics",
+    "location": {
+      "city": "Indianapolis",
+      "state": "IN",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 35000,
+      "max": 46000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-11",
+    "filename_base": "0211_business_accounts-payable-specialist_indianapolis-in"
+  },
+  {
+    "id": "0080",
+    "title": "AI Research Assistant",
+    "category": "tech",
+    "company": "Supabase",
+    "industry": "Developer Tools",
+    "location": {
+      "city": "Bethesda",
+      "state": "MD",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 96000,
+      "max": 126000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-09",
+    "filename_base": "0080_tech_ai-research-assistant_bethesda-md"
+  },
+  {
+    "id": "0173",
+    "title": "Systems Administrator",
+    "category": "tech",
+    "company": "Anduril",
+    "industry": "Defense Tech",
+    "location": {
+      "city": "Detroit",
+      "state": "MI",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 49000,
+      "max": 63000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-15",
+    "filename_base": "0173_tech_systems-administrator_detroit-mi"
+  },
+  {
+    "id": "0429",
+    "title": "Patient Care Coordinator",
+    "category": "healthcare",
+    "company": "Syneos Health",
+    "industry": "Clinical Research",
+    "location": {
+      "city": "Sacramento",
+      "state": "CA",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 44000,
+      "max": 57000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-12",
+    "filename_base": "0429_healthcare_patient-care-coordinator_sacramento-ca"
+  },
+  {
+    "id": "0094",
+    "title": "IT Support Specialist",
+    "category": "tech",
+    "company": "Palo Alto Networks",
+    "industry": "Cybersecurity",
+    "location": {
+      "city": "Nashville",
+      "state": "TN",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 45000,
+      "max": 58000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-03",
+    "filename_base": "0094_tech_it-support-specialist_nashville-tn"
+  },
+  {
+    "id": "0464",
+    "title": "Research Associate I",
+    "category": "healthcare",
+    "company": "Abbott Laboratories",
+    "industry": "Medical Devices",
+    "location": {
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 50000,
+      "max": 65000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-10",
+    "filename_base": "0464_healthcare_research-associate-i_minneapolis-mn"
+  },
+  {
+    "id": "0112",
+    "title": "IT Support Specialist",
+    "category": "tech",
+    "company": "Plaid",
+    "industry": "Fintech",
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 67000,
+      "max": 86000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-08",
+    "filename_base": "0112_tech_it-support-specialist_san-francisco-ca"
+  },
+  {
+    "id": "0163",
+    "title": "Infrastructure Engineer I",
+    "category": "tech",
+    "company": "Rippling",
+    "industry": "HR Tech",
+    "location": {
+      "city": "Research Triangle Park",
+      "state": "NC",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 68000,
+      "max": 87000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-07",
+    "filename_base": "0163_tech_infrastructure-engineer-i_research-triangle-park-nc"
+  },
+  {
+    "id": "0405",
+    "title": "Clinical Laboratory Technician",
+    "category": "healthcare",
+    "company": "Sanofi",
+    "industry": "Pharmaceuticals",
+    "location": {
+      "city": "Denver",
+      "state": "CO",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 47000,
+      "max": 60000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-06",
+    "filename_base": "0405_healthcare_clinical-laboratory-technician_denver-co"
+  },
+  {
+    "id": "0207",
+    "title": "Financial Analyst",
+    "category": "business",
+    "company": "Johnson & Johnson",
+    "industry": "Consumer Health",
+    "location": {
+      "city": "Provo",
+      "state": "UT",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 55000,
+      "max": 72000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-19",
+    "filename_base": "0207_business_financial-analyst_provo-ut"
+  },
+  {
+    "id": "0165",
+    "title": "Associate Data Analyst",
+    "category": "tech",
+    "company": "HubSpot",
+    "industry": "Marketing Tech",
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 58000,
+      "max": 75000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-08",
+    "filename_base": "0165_tech_associate-data-analyst_philadelphia-pa"
+  },
+  {
+    "id": "0446",
+    "title": "Histotechnician",
+    "category": "healthcare",
+    "company": "Genentech",
+    "industry": "Biotechnology",
+    "location": {
+      "city": "Research Triangle Park",
+      "state": "NC",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 42000,
+      "max": 55000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-14",
+    "filename_base": "0446_healthcare_histotechnician_research-triangle-park-nc"
+  },
+  {
+    "id": "0030",
+    "title": "Junior Product Manager",
+    "category": "tech",
+    "company": "Palo Alto Networks",
+    "industry": "Cybersecurity",
+    "location": {
+      "city": "Cambridge",
+      "state": "MA",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 104000,
+      "max": 130000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-05",
+    "filename_base": "0030_tech_junior-product-manager_cambridge-ma"
+  },
+  {
+    "id": "0225",
+    "title": "Staff Accountant",
+    "category": "business",
+    "company": "KPMG",
+    "industry": "Professional Services",
+    "location": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 62000,
+      "max": 81000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-13",
+    "filename_base": "0225_business_staff-accountant_boston-ma"
+  },
+  {
+    "id": "0070",
+    "title": "Junior Frontend Developer",
+    "category": "tech",
+    "company": "ServiceNow",
+    "industry": "IT Management",
+    "location": {
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 87000,
+      "max": 112000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-22",
+    "filename_base": "0070_tech_junior-frontend-developer_boston-ma"
+  },
+  {
+    "id": "0510",
+    "title": "Clinical Research Associate",
+    "category": "healthcare",
+    "company": "Genentech",
+    "industry": "Biotechnology",
+    "location": {
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 47000,
+      "max": 61000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-02",
+    "filename_base": "0510_healthcare_clinical-research-associate_raleigh-nc"
+  },
+  {
+    "id": "0036",
+    "title": "Platform Engineer I",
+    "category": "tech",
+    "company": "Stripe",
+    "industry": "Fintech",
+    "location": {
+      "city": "Bethesda",
+      "state": "MD",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 93000,
+      "max": 117000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-04",
+    "filename_base": "0036_tech_platform-engineer-i_bethesda-md"
+  },
+  {
+    "id": "0024",
+    "title": "Junior UI Developer",
+    "category": "tech",
+    "company": "HashiCorp",
+    "industry": "Infrastructure",
+    "location": {
+      "city": "Miami",
+      "state": "FL",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 71000,
+      "max": 92000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-09",
+    "filename_base": "0024_tech_junior-ui-developer_miami-fl"
+  },
+  {
+    "id": "0099",
+    "title": "Release Engineer",
+    "category": "tech",
+    "company": "Vercel",
+    "industry": "Developer Tools",
+    "location": {
+      "city": "Houston",
+      "state": "TX",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 66000,
+      "max": 83000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-23",
+    "filename_base": "0099_tech_release-engineer_houston-tx"
+  },
+  {
+    "id": "0201",
+    "title": "Management Consultant Analyst",
+    "category": "business",
+    "company": "JPMorgan Chase",
+    "industry": "Investment Banking",
+    "location": {
+      "city": "Sacramento",
+      "state": "CA",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 73000,
+      "max": 94000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-03",
+    "filename_base": "0201_business_management-consultant-analyst_sacramento-ca"
+  },
+  {
+    "id": "0139",
+    "title": "QA Analyst",
+    "category": "tech",
+    "company": "Snowflake",
+    "industry": "Data",
+    "location": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 63000,
+      "max": 81000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-22",
+    "filename_base": "0139_tech_qa-analyst_austin-tx"
+  },
+  {
+    "id": "0443",
+    "title": "Cytotechnologist",
+    "category": "healthcare",
+    "company": "Sanofi",
+    "industry": "Pharmaceuticals",
+    "location": {
+      "city": "Boulder",
+      "state": "CO",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 60000,
+      "max": 77000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-20",
+    "filename_base": "0443_healthcare_cytotechnologist_boulder-co"
+  },
+  {
+    "id": "0196",
+    "title": "Claims Analyst",
+    "category": "business",
+    "company": "BlackRock",
+    "industry": "Asset Management",
+    "location": {
+      "city": "St. Louis",
+      "state": "MO",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 38000,
+      "max": 49000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-01-02",
+    "filename_base": "0196_business_claims-analyst_st-louis-mo"
+  },
+  {
+    "id": "0498",
+    "title": "Respiratory Therapist",
+    "category": "healthcare",
+    "company": "Memorial Sloan Kettering",
+    "industry": "Oncology",
+    "location": {
+      "city": "Portland",
+      "state": "OR",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 50000,
+      "max": 65000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-13",
+    "filename_base": "0498_healthcare_respiratory-therapist_portland-or"
+  },
+  {
+    "id": "0213",
+    "title": "Compliance Analyst",
+    "category": "business",
+    "company": "Charles Schwab",
+    "industry": "Brokerage",
+    "location": {
+      "city": "San Jose",
+      "state": "CA",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 74000,
+      "max": 97000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-17",
+    "filename_base": "0213_business_compliance-analyst_san-jose-ca"
+  },
+  {
+    "id": "0046",
+    "title": "Database Administrator I",
+    "category": "tech",
+    "company": "Slack",
+    "industry": "Collaboration",
+    "location": {
+      "city": "Ann Arbor",
+      "state": "MI",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 61000,
+      "max": 77000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-07",
+    "filename_base": "0046_tech_database-administrator-i_ann-arbor-mi"
+  },
+  {
+    "id": "0394",
+    "title": "Phlebotomy Technician",
+    "category": "healthcare",
+    "company": "UCSF Health",
+    "industry": "Academic Medicine",
+    "location": {
+      "city": "Kansas City",
+      "state": "MO",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 27000,
+      "max": 35000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-23",
+    "filename_base": "0394_healthcare_phlebotomy-technician_kansas-city-mo"
+  },
+  {
+    "id": "0418",
+    "title": "Respiratory Therapist",
+    "category": "healthcare",
+    "company": "AstraZeneca",
+    "industry": "Pharmaceuticals",
+    "location": {
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 50000,
+      "max": 65000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-17",
+    "filename_base": "0418_healthcare_respiratory-therapist_austin-tx"
+  },
+  {
+    "id": "0438",
+    "title": "Medical Records Technician",
+    "category": "healthcare",
+    "company": "IQVIA",
+    "industry": "Clinical Research",
+    "location": {
+      "city": "Orlando",
+      "state": "FL",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 31000,
+      "max": 40000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-19",
+    "filename_base": "0438_healthcare_medical-records-technician_orlando-fl"
+  },
+  {
+    "id": "0095",
+    "title": "Junior UX Designer",
+    "category": "tech",
+    "company": "Intuit",
+    "industry": "Financial Software",
+    "location": {
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 65000,
+      "max": 85000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-22",
+    "filename_base": "0095_tech_junior-ux-designer_baltimore-md"
+  },
+  {
+    "id": "0277",
+    "title": "Recruiting Coordinator",
+    "category": "business",
+    "company": "General Mills",
+    "industry": "Food",
+    "location": {
+      "city": "St. Louis",
+      "state": "MO",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 38000,
+      "max": 51000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-14",
+    "filename_base": "0277_business_recruiting-coordinator_st-louis-mo"
+  },
+  {
+    "id": "0240",
+    "title": "Recruiting Coordinator",
+    "category": "business",
+    "company": "KPMG",
+    "industry": "Professional Services",
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "US",
+      "remote": "onsite"
+    },
+    "salary": {
+      "min": 45000,
+      "max": 60000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-18",
+    "filename_base": "0240_business_recruiting-coordinator_philadelphia-pa"
+  },
+  {
+    "id": "0184",
+    "title": "Marketing Coordinator",
+    "category": "business",
+    "company": "Travelers",
+    "industry": "Insurance",
+    "location": {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 47000,
+      "max": 60000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-23",
+    "filename_base": "0184_business_marketing-coordinator_chicago-il"
+  },
+  {
+    "id": "0110",
+    "title": "Associate Data Analyst",
+    "category": "tech",
+    "company": "Zoom",
+    "industry": "Communications",
+    "location": {
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 81000,
+      "max": 105000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-02-20",
+    "filename_base": "0110_tech_associate-data-analyst_palo-alto-ca"
+  },
+  {
+    "id": "0228",
+    "title": "Financial Analyst",
+    "category": "business",
+    "company": "Costco",
+    "industry": "Retail",
+    "location": {
+      "city": "St. Louis",
+      "state": "MO",
+      "country": "US",
+      "remote": "hybrid"
+    },
+    "salary": {
+      "min": 55000,
+      "max": 72000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-22",
+    "filename_base": "0228_business_financial-analyst_st-louis-mo"
+  },
+  {
+    "id": "0437",
+    "title": "Sterile Processing Technician",
+    "category": "healthcare",
+    "company": "Intuitive Surgical",
+    "industry": "Medical Devices",
+    "location": {
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "US",
+      "remote": "remote"
+    },
+    "salary": {
+      "min": 33000,
+      "max": 42000,
+      "currency": "USD",
+      "period": "yearly"
+    },
+    "employment_type": "full-time",
+    "posted_date": "2026-03-11",
+    "filename_base": "0437_healthcare_sterile-processing-technician_raleigh-nc"
+  }
+]
