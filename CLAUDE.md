@@ -35,10 +35,8 @@ src/
     questions.ts                    22 questions -- adversarial + redirecting, interleaved (DONE)
     jobs.ts                         500 jobs with 9D dimension vectors from job_data.json (DONE)
     job_data.json                   Master list of all 500 job postings (DONE)
-    careers.ts                      30 curated careers with rich descriptions (DONE -- Maks)
-    careers-mock.ts                 5 placeholder careers for fallback (LEGACY)
   lib/
-    types.ts                        Job, JobMatch, Career, Reflection, RevealedPreferences (DONE)
+    types.ts                        Job, JobMatch, Reflection, RevealedPreferences (DONE)
     store.ts                        Zustand: answers, preferences, reflections, jobMatches (DONE)
     scoring.ts                      derivePreferences() + matchJobs() with cosine similarity (DONE)
     contradictions.ts               6 deterministic rules for local reflection fallback (DONE)
@@ -93,34 +91,26 @@ git worktree remove .worktrees/my-feature
 - [x] All UI components (Button, Badge, Card, DimensionBar, LoadingPulse)
 - [x] Design system (editorial palette, dark mode, Framer Motion animations)
 - [x] **500 job postings dataset** (159 tech, 149 business, 158 healthcare) with 9D dimension vectors (David)
-- [x] **30 curated careers** with rich descriptions, learning paths, micro-experiments (Maks)
-- [x] Career->Job type refactor across codebase (David)
+- [x] Career->Job type refactor + data source consolidation (David)
 
-### NEXT PRIORITY: Integration & Polish
+### NEXT PRIORITY: Polish
 
 | # | Task | Owner | Status |
 |---|------|-------|--------|
 | 1 | **End-to-end flow testing** -- walk through all 22 questions, lens, map, path, verify no dead ends | All | TODO |
-| 2 | **Reconcile dual data sources** -- map/path pages should use `jobs.ts` (500 real postings) not `careers.ts` (30 curated). Decide which to keep or merge. | David | TODO |
-| 3 | **Mobile responsiveness pass** -- test all pages at 375px width | Maks | TODO |
-| 4 | **Fix data bugs** -- `mastery-or-variety` timeHorizon weight, `legacy-question` type | Anyone | TODO |
-| 5 | **Slider semantics audit** -- min/max semantics inconsistent across questions | Anyone | TODO |
+| 2 | **Mobile responsiveness pass** -- test all pages at 375px width | Maks | TODO |
+| 3 | **Fix data bugs** -- `mastery-or-variety` timeHorizon weight, `legacy-question` type | Anyone | TODO |
+| 4 | **Slider semantics audit** -- min/max semantics inconsistent across questions | Anyone | TODO |
 
 ---
 
 ## Data Architecture
 
-### Two data sources (needs reconciliation):
-1. **`src/data/jobs.ts`** -- 500 real job postings from `job_data/`, each with programmatically derived 9D dimension vectors. Uses `Job` type. Map page imports this.
-2. **`src/data/careers.ts`** -- 30 curated career profiles with rich descriptions, learning paths, micro-experiments, stories. Uses `Career` type. Built by Maks for the path page.
-
-**Decision needed:** Merge these into one source, or use jobs.ts for matching and careers.ts for enrichment?
+**Single source of truth:** `src/data/jobs.ts` exports 500 real job postings from `job_data/`, each with programmatically derived 9D dimension vectors.
 
 ### Type system:
 - `Job` -- mirrors `job_data/*.json` schema + `dimensions` + `tags`
 - `JobMatch` -- `{ job: Job; score: number; matchExplanation: string }`
-- `Career` -- rich career profiles with `dayInLife`, `learningPath`, `microExperiment`, `stories` (from Maks)
-- Both `Career` and `Job` exist in `types.ts` for backward compatibility
 
 ---
 
@@ -181,4 +171,3 @@ Cosine similarity between user's 9D preference vector and each job's dimension v
 - **`mastery-or-variety`**: `timeHorizon` weight is -0.5 but should be positive (mastery = long time horizon)
 - **`legacy-question`**: type is `'binary'` but has 4 options. Needs `'multi-choice'` type or reduction to 2
 - **Slider semantics**: min/max semantics inconsistent across questions. Audit needed.
-- **Dual data sources**: `jobs.ts` (500 real postings) and `careers.ts` (30 curated) coexist -- needs reconciliation
