@@ -1,0 +1,52 @@
+{
+  "id": "0484",
+  "title": "Medical Coder",
+  "category": "healthcare",
+  "company": "Broad Institute",
+  "industry": "Research",
+  "location": {
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 54000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Broad Institute, a leading research center, seeks a Medical Coder to support our clinical research operations in Miami. You'll code clinical research data, maintain regulatory databases, and ensure accuracy in research documentation. Work onsite in a research-focused healthcare setting.",
+  "responsibilities": [
+    "Code clinical research events and diagnoses using appropriate standards",
+    "Validate and verify source documents for coding accuracy",
+    "Maintain regulatory databases and audit trails",
+    "Ensure data integrity and completeness in research systems",
+    "Collaborate with research coordinators and clinical staff",
+    "Support regulatory compliance and FDA standards"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; certification in medical coding preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Medical coding standards (ICD-10, MedDRA, or similar)",
+      "Clinical research knowledge and terminology",
+      "Attention to detail and accuracy",
+      "Database management and data entry",
+      "Understanding of regulatory compliance",
+      "Documentation and record-keeping skills"
+    ],
+    "certifications": [
+      "Medical coding certification preferred"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision insurance",
+    "401(k) with company match",
+    "Continuing education and certification support",
+    "Paid time off and shift flexibility",
+    "Research-focused work environment"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-22"
+}

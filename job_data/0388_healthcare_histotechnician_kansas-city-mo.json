@@ -1,0 +1,54 @@
+{
+  "id": "0388",
+  "title": "Histotechnician",
+  "category": "healthcare",
+  "company": "Scripps Research",
+  "industry": "Research",
+  "location": {
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 38000,
+    "max": 49000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Histotechnician at Scripps Research. This is an exciting opportunity to join our scientific excellence, collaborative, impact-oriented team and make a direct impact on our mission. If you have 0-2 years years of experience and are passionate about Research, we'd love to hear from you.",
+  "responsibilities": [
+    "Process and prepare tissue specimens for microscopic examination",
+    "Operate automated staining and processing equipment",
+    "Perform quality control testing on processed specimens",
+    "Maintain laboratory supplies and equipment functionality",
+    "Document specimen handling and maintain chain of custody",
+    "Support pathologists in preparing slides for diagnosis"
+  ],
+  "requirements": {
+    "education": "Certificate in Histotechnology from accredited program",
+    "experience_years": "0-2 years",
+    "skills": [
+      "Tissue processing",
+      "Staining techniques",
+      "Laboratory equipment",
+      "Quality control",
+      "Medical terminology"
+    ],
+    "certifications": [
+      "HT (Histotechnician) ASCP certification preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Health insurance for dependents",
+    "Flexible scheduling options",
+    "Continuing medical education funding",
+    "Healthcare provider discounts for employees"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-12"
+}

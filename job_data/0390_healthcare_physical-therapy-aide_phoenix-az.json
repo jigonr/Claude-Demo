@@ -1,0 +1,48 @@
+{
+  "id": "0390",
+  "title": "Physical Therapy Aide",
+  "category": "healthcare",
+  "company": "NIH",
+  "industry": "Government/Research",
+  "location": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 25000,
+    "max": 34000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "The National Institutes of Health seeks Physical Therapy Aides to support patient care and rehabilitation services at our Phoenix facility. You'll assist physical therapists in implementing treatment plans, maintain equipment, and provide direct patient support. This onsite role offers meaningful work in a federal research and healthcare setting.",
+  "responsibilities": [
+    "Assist physical therapists in patient treatment sessions, supporting exercises and rehabilitation activities",
+    "Prepare and maintain treatment rooms and equipment; ensure a safe, clean clinical environment",
+    "Document patient progress and treatment sessions in electronic medical records",
+    "Help patients with mobility and daily living activities as directed by supervising therapists",
+    "Maintain inventory of supplies and report equipment needs to supervisory staff"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED",
+    "experience_years": "0-2",
+    "skills": [
+      "Patient care and assistance",
+      "Physical therapy terminology",
+      "Equipment operation",
+      "Data entry and EMR",
+      "Interpersonal communication"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Federal health insurance options",
+    "401(k) with agency match",
+    "12 days annual leave + 13 days sick leave",
+    "Federal employee benefits",
+    "Career advancement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-04"
+}

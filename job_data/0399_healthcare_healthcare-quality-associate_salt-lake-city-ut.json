@@ -1,0 +1,50 @@
+{
+  "id": "0399",
+  "title": "Healthcare Quality Associate",
+  "category": "healthcare",
+  "company": "Syneos Health",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-01-18",
+  "description": "Syneos Health is hiring a Healthcare Quality Associate to support quality assurance and compliance activities for our Salt Lake City clinical research operations. You will conduct quality reviews, document findings, develop corrective action plans, and work collaboratively with site teams to ensure adherence to GCP standards and regulatory requirements.",
+  "responsibilities": [
+    "Conduct quality audits and site inspections for clinical research facilities",
+    "Document audit findings and develop corrective action plans",
+    "Verify compliance with GCP, ICH, and regulatory guidelines",
+    "Prepare quality reports for management and regulatory submissions",
+    "Coordinate with site teams on quality improvements",
+    "Maintain audit documentation and regulatory files"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Healthcare, Life Sciences, Business, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Knowledge of Good Clinical Practice (GCP) standards",
+      "Audit and compliance assessment",
+      "Documentation and report writing",
+      "Attention to regulatory detail",
+      "Cross-functional communication skills"
+    ],
+    "certifications": [
+      "ACRP or SOCRA training preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance including medical, dental, and vision",
+    "Tuition reimbursement for regulatory and compliance certifications",
+    "Hybrid work schedule with collaborative environment",
+    "Professional development and training opportunities"
+  ]
+}

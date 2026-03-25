@@ -1,0 +1,52 @@
+{
+  "id": "0501",
+  "title": "Medical Coder",
+  "category": "healthcare",
+  "company": "Novartis",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 38000,
+    "max": 49000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-15",
+  "description": "Novartis is seeking a Medical Coder for our Atlanta operations to support clinical trial documentation and biotech research operations. You'll code medical records from our research programs, ensuring accurate documentation that advances our mission to discover and develop innovative medicines. Join Novartis and contribute to life-changing treatments.",
+  "responsibilities": [
+    "Review and code patient medical records from clinical research studies using ICD-10, CPT, and study-specific coding conventions",
+    "Verify source documents and coded data for completeness, accuracy, and regulatory compliance",
+    "Communicate with clinical staff and researchers regarding coding inconsistencies or documentation gaps",
+    "Maintain proficiency with study-specific coding manuals and protocol requirements",
+    "Support quality control audits of coded data to ensure compliance with FDA and regulatory guidelines",
+    "Track coding productivity metrics and participate in continuous improvement initiatives"
+  ],
+  "requirements": {
+    "education": "High School diploma with completion of medical coding or health information technology program; Associate's degree preferred",
+    "experience_years": "1-2",
+    "skills": [
+      "Knowledge of ICD-10, CPT, and HCPCS coding systems",
+      "Understanding of medical terminology and anatomy",
+      "Attention to detail and accuracy in documentation review",
+      "Ability to work with electronic data capture systems",
+      "Strong organizational skills and ability to prioritize tasks",
+      "Commitment to regulatory compliance and quality standards"
+    ],
+    "certifications": [
+      "AAPC CPC (Certified Professional Coder) or AHIMA RHIT certification required or attainment within 12 months"
+    ]
+  },
+  "benefits": [
+    "Competitive compensation and benefits package",
+    "Health, dental, and vision coverage",
+    "Tuition reimbursement for coding certification programs",
+    "On-site parking and cafeteria",
+    "Employee wellness programs and fitness benefits"
+  ]
+}

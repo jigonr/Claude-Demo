@@ -1,0 +1,51 @@
+{
+  "id": "0473",
+  "title": "Pharmacy Technician",
+  "category": "healthcare",
+  "company": "Syneos Health",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Bethesda",
+    "state": "MD",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 57000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Syneos Health is a fully integrated biopharmaceutical services company supporting clinical research and patient care innovations.\n\nWe're seeking a Pharmacy Technician to join our Clinical Research team in Bethesda. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Prepare and dispense medications under supervision of licensed pharmacist",
+    "Maintain pharmacy inventory and track medication usage",
+    "Process prescription orders and insurance claims",
+    "Ensure accurate labeling and patient safety in medication dispensing",
+    "Maintain clean, organized pharmacy workspace and equipment",
+    "Support clinical trial medication management and documentation"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; pharmacy technician certification required",
+    "experience_years": "1-2 years of pharmacy or medication handling experience",
+    "skills": [
+      "Pharmacy operations",
+      "Attention to detail",
+      "Customer service",
+      "Medication knowledge",
+      "HIPAA compliance"
+    ],
+    "certifications": [
+      "Certified Pharmacy Technician (CPhT)",
+      "BLS/CPR"
+    ]
+  },
+  "benefits": [
+    "Health insurance coverage",
+    "Tuition reimbursement for RN/RPh programs",
+    "Onsite work in Bethesda",
+    "Paid time off"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-06"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0372",
+  "title": "Medical Assistant",
+  "category": "healthcare",
+  "company": "Boston Scientific",
+  "industry": "Medical Devices",
+  "location": {
+    "city": "Boise",
+    "state": "ID",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 27000,
+    "max": 35000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Join Boston Scientific's clinical team as a Medical Assistant, providing essential patient care and clinical support in our facilities.",
+  "responsibilities": [
+    "Welcome patients and obtain vital signs and medical histories",
+    "Assist providers with clinical examinations and procedures",
+    "Draw blood samples and prepare for laboratory testing",
+    "Maintain accurate patient records and scheduling",
+    "Clean and sterilize medical instruments",
+    "Provide patient education and support"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "0-3",
+    "skills": [
+      "Patient care",
+      "Phlebotomy",
+      "Medical terminology",
+      "EHR systems",
+      "Clinical procedures"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive compensation package",
+    "Health, dental, and vision coverage",
+    "401(k) or retirement benefits",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-02"
+}

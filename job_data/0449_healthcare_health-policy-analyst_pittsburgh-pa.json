@@ -1,0 +1,52 @@
+{
+  "id": "0449",
+  "title": "Health Policy Analyst",
+  "category": "healthcare",
+  "company": "Sanofi",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 46000,
+    "max": 61000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Health Policy Analyst at Sanofi. This is an exciting opportunity to join our regulated, quality-focused, international team and make a direct impact on our mission. If you have 2-4 years years of experience and are passionate about Pharmaceuticals, we'd love to hear from you.",
+  "responsibilities": [
+    "Monitor regulatory changes and healthcare policy developments affecting the industry",
+    "Develop policy positions and advocacy strategies for key legislative issues",
+    "Analyze healthcare economics and reimbursement models impacting business",
+    "Collaborate with government affairs and legal teams on policy implementation",
+    "Research health system trends and competitive policy positioning",
+    "Support development of healthcare solutions aligned with policy environment"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Healthcare Management, Public Health, or related field",
+    "experience_years": "2-4 years",
+    "skills": [
+      "Policy analysis",
+      "Healthcare knowledge",
+      "Research skills",
+      "Communication",
+      "Data analysis"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Employee wellness programs",
+    "Tuition reimbursement",
+    "On-site health services",
+    "Charitable giving match program"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-06"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "0378",
+  "title": "Health Information Technician",
+  "category": "healthcare",
+  "company": "Roche",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Detroit",
+    "state": "MI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 32000,
+    "max": 42000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Roche is a global healthcare leader in diagnostics and pharmaceuticals. We're committed to advancing personalized healthcare across all therapeutic areas.\n\nWe're seeking a Health Information Technician to join our Pharmaceuticals team in Detroit. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Manage and maintain accurate electronic health records",
+    "Code diagnoses and procedures for billing and compliance purposes",
+    "Ensure data quality and completeness in health information systems",
+    "Release medical records in compliance with privacy regulations",
+    "Assist with audit activities and regulatory compliance",
+    "Support health information system implementation and training"
+  ],
+  "requirements": {
+    "education": "High school diploma; associate's degree in health information technology preferred",
+    "experience_years": "1-2 years in health information management or medical coding",
+    "skills": [
+      "Medical coding knowledge",
+      "EHR systems",
+      "Attention to detail",
+      "Regulatory compliance",
+      "Communication"
+    ],
+    "certifications": [
+      "Registered Health Information Technician (RHIT)",
+      "HIPAA compliance knowledge"
+    ]
+  },
+  "benefits": [
+    "Health and dental insurance",
+    "Hybrid work arrangement",
+    "Continuing education support",
+    "Professional development"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-03"
+}

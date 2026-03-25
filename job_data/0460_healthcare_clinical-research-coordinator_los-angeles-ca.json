@@ -1,0 +1,47 @@
+{
+  "id": "0460",
+  "title": "Clinical Research Coordinator",
+  "category": "healthcare",
+  "company": "Mount Sinai Health",
+  "industry": "Academic Medicine",
+  "location": {
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 57000,
+    "max": 74000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Join Mount Sinai Health as a Clinical Research Coordinator, contributing to our mission.",
+  "responsibilities": [
+    "Support core operations",
+    "Collaborate with team",
+    "Maintain quality standards",
+    "Develop skills",
+    "Support organizational goals"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "1-3",
+    "skills": [
+      "Communication",
+      "Attention to detail",
+      "Teamwork",
+      "Problem-solving"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive compensation package",
+    "Health, dental, and vision coverage",
+    "401(k) or retirement benefits",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-17"
+}

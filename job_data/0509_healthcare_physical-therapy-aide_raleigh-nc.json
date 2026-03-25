@@ -1,0 +1,49 @@
+{
+  "id": "0509",
+  "title": "Physical Therapy Aide",
+  "category": "healthcare",
+  "company": "Mount Sinai Health",
+  "industry": "Academic Medicine",
+  "location": {
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 26000,
+    "max": 36000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Support our physical therapy team at Mount Sinai Health, helping patients recover and regain mobility through compassionate care and attention to detail.",
+  "responsibilities": [
+    "Assist patients with exercises and therapeutic activities under therapist supervision",
+    "Help patients transfer safely between equipment and positions",
+    "Maintain clean, organized therapy spaces and equipment",
+    "Document patient progress and communicate updates to therapists",
+    "Provide emotional support and encouragement to patients during recovery",
+    "Help schedule appointments and maintain patient records"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "0-3",
+    "skills": [
+      "Patient care",
+      "Physical assistance",
+      "Empathy",
+      "HIPAA compliance",
+      "Attention to detail"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive compensation package",
+    "Health, dental, and vision coverage",
+    "401(k) or retirement benefits",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-22"
+}

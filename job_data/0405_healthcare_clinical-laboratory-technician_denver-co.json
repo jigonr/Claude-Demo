@@ -1,0 +1,52 @@
+{
+  "id": "0405",
+  "title": "Clinical Laboratory Technician",
+  "category": "healthcare",
+  "company": "Sanofi",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 60000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-01-06",
+  "description": "Sanofi is seeking a Clinical Laboratory Technician for our Denver facility to support pharmaceutical research and quality control. Work hybrid in a scientific environment where your laboratory skills contribute to developing life-saving medicines.",
+  "responsibilities": [
+    "Perform clinical and analytical laboratory tests on patient specimens",
+    "Operate and maintain laboratory equipment and instruments",
+    "Prepare specimens and reagents according to established protocols",
+    "Record and report laboratory test results accurately",
+    "Maintain laboratory safety standards and regulatory compliance",
+    "Support quality control and assurance procedures"
+  ],
+  "requirements": {
+    "education": "Associate's degree or Bachelor's degree in Clinical Laboratory Science or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Clinical laboratory testing procedures",
+      "Laboratory equipment operation and maintenance",
+      "Knowledge of laboratory safety and biosafety protocols",
+      "Attention to detail and accuracy",
+      "Understanding of quality control procedures",
+      "Computer skills and data entry proficiency"
+    ],
+    "certifications": [
+      "Clinical Laboratory Scientist (CLS) or Clinical Laboratory Technician (CLT) certification required"
+    ]
+  },
+  "benefits": [
+    "Hybrid work arrangement",
+    "Competitive salary and benefits",
+    "Health, dental, and vision insurance",
+    "Tuition reimbursement for certifications",
+    "On-site training and mentorship"
+  ]
+}

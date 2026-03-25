@@ -1,0 +1,50 @@
+{
+  "id": "0469",
+  "title": "Medical Laboratory Technician",
+  "category": "healthcare",
+  "company": "Bristol-Myers Squibb",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Bristol-Myers Squibb is seeking a Medical Laboratory Technician for our Minneapolis facility. You'll perform laboratory analyses, maintain equipment, and support our pharmaceutical research and development operations. This hybrid role is essential to our mission of developing innovative medicines to treat patients.",
+  "responsibilities": [
+    "Perform laboratory tests and analyses using standard procedures and protocols",
+    "Collect and prepare patient or research samples for testing",
+    "Operate laboratory equipment and instruments; perform routine maintenance",
+    "Record and verify test results; maintain accurate laboratory records",
+    "Quality assurance testing and adherence to laboratory standards"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Clinical Laboratory Science or High School diploma with certification",
+    "experience_years": "1-3",
+    "skills": [
+      "Proficiency with laboratory equipment and instrumentation",
+      "Knowledge of laboratory safety and quality standards",
+      "Strong attention to detail and accuracy",
+      "Basic understanding of medical terminology",
+      "Ability to follow laboratory protocols and procedures"
+    ],
+    "certifications": [
+      "Clinical Laboratory Technician (CLT) or Medical Laboratory Technician (MLT) certification"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) plan with company match",
+    "Paid time off and paid holidays",
+    "Professional development and certification support",
+    "Hybrid work flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-21"
+}

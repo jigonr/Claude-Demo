@@ -1,0 +1,52 @@
+{
+  "id": "0394",
+  "title": "Phlebotomy Technician",
+  "category": "healthcare",
+  "company": "UCSF Health",
+  "industry": "Academic Medicine",
+  "location": {
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 27000,
+    "max": 35000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-23",
+  "description": "UCSF Health is seeking a Phlebotomy Technician to draw blood specimens in our Kansas City location. Work on-site in a leading academic medical center, providing essential patient care services.",
+  "responsibilities": [
+    "Draw blood specimens from patients following proper collection procedures",
+    "Ensure patient safety and comfort during blood draws",
+    "Label and process blood samples for laboratory testing",
+    "Maintain proper infection control and safety protocols",
+    "Document collection information in patient records",
+    "Handle and transport specimens according to protocols"
+  ],
+  "requirements": {
+    "education": "High School diploma or GED; Phlebotomy certification course completion",
+    "experience_years": "0-1",
+    "skills": [
+      "Phlebotomy techniques and blood draw procedures",
+      "Patient communication and empathy",
+      "Attention to detail and accuracy",
+      "Knowledge of medical terminology",
+      "Infection control and safety practices",
+      "Ability to work in fast-paced healthcare environment"
+    ],
+    "certifications": [
+      "Phlebotomy Technician certification (CPT or equivalent) required or within 6 months"
+    ]
+  },
+  "benefits": [
+    "On-site position at UCSF Health Kansas City",
+    "Competitive salary and benefits",
+    "Health, dental, and vision insurance",
+    "Tuition assistance for healthcare credentials",
+    "Career development in healthcare field"
+  ]
+}

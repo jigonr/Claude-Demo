@@ -1,0 +1,54 @@
+{
+  "id": "0502",
+  "title": "Histotechnician",
+  "category": "healthcare",
+  "company": "Merck",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Histotechnician at Merck. This is an exciting opportunity to join our compliance-driven, research-intensive, patient-centered team and make a direct impact on our mission. If you have 0-2 years years of experience and are passionate about Pharmaceuticals, we'd love to hear from you.",
+  "responsibilities": [
+    "Process and prepare tissue specimens for microscopic examination",
+    "Operate automated staining and processing equipment",
+    "Perform quality control testing on processed specimens",
+    "Maintain laboratory supplies and equipment functionality",
+    "Document specimen handling and maintain chain of custody",
+    "Support pathologists in preparing slides for diagnosis"
+  ],
+  "requirements": {
+    "education": "Certificate in Histotechnology from accredited program",
+    "experience_years": "0-2 years",
+    "skills": [
+      "Tissue processing",
+      "Staining techniques",
+      "Laboratory equipment",
+      "Quality control",
+      "Medical terminology"
+    ],
+    "certifications": [
+      "HT (Histotechnician) ASCP certification preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Employee wellness programs",
+    "Tuition reimbursement",
+    "On-site health services",
+    "Charitable giving match program"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-25"
+}

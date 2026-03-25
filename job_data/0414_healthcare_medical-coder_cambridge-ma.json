@@ -1,0 +1,52 @@
+{
+  "id": "0414",
+  "title": "Medical Coder",
+  "category": "healthcare",
+  "company": "Moderna",
+  "industry": "Biotechnology",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 67000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Moderna, the mRNA biotechnology pioneer, seeks a Medical Coder to support clinical trial documentation and regulatory compliance for our vaccine development programs. Working hybrid in Cambridge, you'll code clinical trial data, maintain regulatory databases, and ensure accurate documentation for FDA submissions. Join our team advancing mRNA therapeutics.",
+  "responsibilities": [
+    "Code clinical trial adverse events and medical diagnoses using MedDRA and ICD-10",
+    "Review and validate source documents for clinical trial accuracy",
+    "Maintain regulatory databases and audit trails for FDA compliance",
+    "Ensure data integrity and completeness in clinical databases",
+    "Collaborate with clinical operations and regulatory teams",
+    "Support regulatory submissions and inspections"
+  ],
+  "requirements": {
+    "education": "Associate degree or certification in medical coding, or high school diploma with relevant training",
+    "experience_years": "1-2",
+    "skills": [
+      "Medical coding standards (ICD-10, CPT, MedDRA)",
+      "Clinical trial knowledge and regulatory requirements",
+      "Medical terminology and condition understanding",
+      "Attention to detail and data accuracy",
+      "Database management and data entry",
+      "Understanding of HIPAA and compliance"
+    ],
+    "certifications": [
+      "AAPC, AHIMA, or clinical trial coding certification preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision insurance",
+    "401(k) with company match",
+    "Continuing education and certification support",
+    "Hybrid flexibility",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-16"
+}

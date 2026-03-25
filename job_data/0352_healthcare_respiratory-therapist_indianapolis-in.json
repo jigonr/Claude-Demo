@@ -1,0 +1,51 @@
+{
+  "id": "0352",
+  "title": "Respiratory Therapist",
+  "category": "healthcare",
+  "company": "Cleveland Clinic",
+  "industry": "Healthcare",
+  "location": {
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 40000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Cleveland Clinic, one of the nation's top healthcare systems, seeks a licensed Respiratory Therapist to provide critical respiratory care across our Indianapolis facility. You'll manage ventilators, administer aerosol medications, and support patients with respiratory conditions in ICU, general care, and emergency settings. Join our mission-driven team dedicated to exceptional patient outcomes.",
+  "responsibilities": [
+    "Evaluate patients and initiate appropriate respiratory therapy protocols",
+    "Manage and monitor mechanical ventilation systems and patient response",
+    "Administer aerosol medications and perform chest physiotherapy",
+    "Collect and analyze blood gas samples to assess respiratory status",
+    "Educate patients and families on breathing exercises and respiratory hygiene",
+    "Collaborate with physicians and nursing staff on treatment plans and adjustments"
+  ],
+  "requirements": {
+    "education": "Associate degree in Respiratory Therapy from an accredited program",
+    "experience_years": "0-2",
+    "skills": [
+      "Patient assessment and respiratory physiology",
+      "Mechanical ventilation management",
+      "Blood gas analysis interpretation",
+      "Communication and patient education",
+      "Critical thinking and clinical judgment",
+      "Electronic health records (EHR) systems"
+    ],
+    "certifications": [
+      "Current RRT or CRT licensure required"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision coverage",
+    "Tuition reimbursement and continuing education support",
+    "Pension plan and 401(k) with match",
+    "Flexible scheduling and shift options"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-13"
+}

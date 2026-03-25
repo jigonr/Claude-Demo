@@ -1,0 +1,52 @@
+{
+  "id": "0429",
+  "title": "Patient Care Coordinator",
+  "category": "healthcare",
+  "company": "Syneos Health",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 44000,
+    "max": 57000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-12",
+  "description": "Syneos Health is seeking a Patient Care Coordinator to support our Sacramento clinical research site. You'll work directly with study participants, scheduling appointments and ensuring smooth trial operations. Join a healthcare company dedicated to bringing innovative treatments to patients faster.",
+  "responsibilities": [
+    "Schedule patient visits and manage appointment calendars for clinical trials",
+    "Conduct patient phone screening calls and collect baseline health information",
+    "Escort patients through study procedures and ensure informed consent compliance",
+    "Collect and organize patient case report forms and study documentation",
+    "Communicate trial status updates to study sponsors and monitors",
+    "Maintain patient confidentiality and follow HIPAA protocols"
+  ],
+  "requirements": {
+    "education": "High School diploma or GED; Associate's degree in healthcare preferred",
+    "experience_years": "1-2",
+    "skills": [
+      "Strong communication and patient interaction skills",
+      "Organizational ability and attention to detail",
+      "Proficiency with computer systems and data entry",
+      "Knowledge of clinical trial procedures (training provided)",
+      "Customer service mindset and empathy",
+      "Ability to manage multiple priorities"
+    ],
+    "certifications": [
+      "HIPAA certification required (training provided)"
+    ]
+  },
+  "benefits": [
+    "On-site position in Sacramento clinical research facility",
+    "Competitive salary and benefits",
+    "Health, dental, and vision insurance",
+    "Paid time off and holidays",
+    "Tuition assistance for continuing education"
+  ]
+}

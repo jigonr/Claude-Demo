@@ -1,0 +1,51 @@
+{
+  "id": "0471",
+  "title": "Research Associate I",
+  "category": "healthcare",
+  "company": "Memorial Sloan Kettering",
+  "industry": "Oncology",
+  "location": {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 61000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Memorial Sloan Kettering is one of the world's most prestigious cancer centers, treating 30K+ patients annually. You'll support groundbreaking cancer research as a Research Associate.",
+  "responsibilities": [
+    "Coordinate clinical trial activities and participant enrollment",
+    "Collect and process biological specimens per protocol requirements",
+    "Maintain research records and ensure regulatory compliance",
+    "Monitor participant safety and report adverse events",
+    "Assist with data analysis and manuscript preparation",
+    "Support grant reporting and regulatory submissions"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in a biological science, nursing, or related field",
+    "experience_years": "1-3 years of clinical research or laboratory experience",
+    "skills": [
+      "Clinical research",
+      "Regulatory compliance",
+      "Data management",
+      "Patient communication",
+      "EHR/CTMS"
+    ],
+    "certifications": [
+      "GCP (Good Clinical Practice) certification"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (18-22 days annually)",
+    "Professional development and continuing education support",
+    "Employee assistance program (EAP) with mental health services"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-24"
+}

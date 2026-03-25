@@ -1,0 +1,49 @@
+{
+  "id": "0487",
+  "title": "Research Associate I",
+  "category": "healthcare",
+  "company": "Syneos Health",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Syneos Health, a leading contract research organization, is hiring a Research Associate I to support clinical trial operations in Milwaukee. You'll coordinate patient recruitment, manage study documentation, ensure compliance with regulatory requirements, and assist with data collection. This entry-level position offers a clear pathway into clinical research for someone with strong organizational skills and attention to detail.",
+  "responsibilities": [
+    "Recruit and screen potential study participants according to protocol-specified inclusion/exclusion criteria",
+    "Obtain informed consent and document participant enrollment procedures",
+    "Schedule participant visits and coordinate study-related appointments",
+    "Maintain confidential participant records and trial documentation",
+    "Assist with data collection, entry, and verification under supervision",
+    "Ensure compliance with Good Clinical Practice (GCP) guidelines and regulatory requirements"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; some college coursework preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Attention to detail and documentation skills",
+      "Patient communication and interpersonal skills",
+      "Basic computer literacy and data entry",
+      "Ability to maintain confidentiality",
+      "Organizational and time management skills",
+      "Knowledge of clinical research basics (training provided)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health insurance with dental and vision coverage",
+    "401(k) retirement plan",
+    "Paid time off",
+    "On-the-job clinical research training"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-06"
+}

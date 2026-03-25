@@ -1,0 +1,50 @@
+{
+  "id": "0477",
+  "title": "Environmental Health Specialist",
+  "category": "healthcare",
+  "company": "Abbott Laboratories",
+  "industry": "Medical Devices",
+  "location": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 43000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Abbott Laboratories is seeking an Environmental Health Specialist to ensure safe and healthy environments in healthcare settings. You'll assess environmental risks, develop safety plans, and ensure regulatory compliance. Work hybrid in Phoenix for a leading global healthcare company.",
+  "responsibilities": [
+    "Assess environmental health risks in healthcare facilities",
+    "Develop and implement environmental safety programs",
+    "Monitor compliance with environmental regulations",
+    "Conduct training on environmental safety practices",
+    "Prepare documentation and reports on findings"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Environmental Health, Public Health, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Environmental health assessment techniques",
+      "Regulatory compliance and standards",
+      "Risk identification and mitigation",
+      "Communication and training abilities",
+      "Attention to detail and safety focus"
+    ],
+    "certifications": [
+      "REHS or DAPH certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Flexible hybrid Phoenix schedule",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-10"
+}

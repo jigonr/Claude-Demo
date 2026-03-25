@@ -1,0 +1,50 @@
+{
+  "id": "0453",
+  "title": "Laboratory Associate I",
+  "category": "healthcare",
+  "company": "Medtronic",
+  "industry": "Medical Devices",
+  "location": {
+    "city": "Irvine",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 51000,
+    "max": 66000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Medtronic, a leader in medical device technology, seeks a Laboratory Associate I to support biocompatibility and materials testing for cardiac and vascular devices. Working hybrid in Irvine, you'll conduct laboratory tests, prepare samples, and maintain testing equipment. This role combines hands-on laboratory work with exposure to cutting-edge medical device development.",
+  "responsibilities": [
+    "Conduct biocompatibility and materials testing according to established protocols",
+    "Prepare specimens and materials for testing and analysis",
+    "Operate and maintain laboratory equipment and instruments",
+    "Record test data and maintain laboratory documentation",
+    "Assist with quality assurance checks and regulatory testing",
+    "Support senior laboratory staff and contribute to test development"
+  ],
+  "requirements": {
+    "education": "High school diploma or Associate degree in a laboratory science field",
+    "experience_years": "0-2",
+    "skills": [
+      "Laboratory techniques and safety protocols",
+      "Attention to detail and record-keeping",
+      "Basic chemistry and materials science knowledge",
+      "Equipment operation and maintenance",
+      "Data entry and documentation",
+      "Problem-solving and critical thinking"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive health, dental, vision, and life insurance",
+    "401(k) with company match",
+    "Educational tuition assistance",
+    "Hybrid work flexibility",
+    "Onsite cafeteria and wellness programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-11"
+}

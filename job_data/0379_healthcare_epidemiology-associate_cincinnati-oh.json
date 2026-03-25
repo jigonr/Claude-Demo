@@ -1,0 +1,48 @@
+{
+  "id": "0379",
+  "title": "Epidemiology Associate",
+  "category": "healthcare",
+  "company": "Mass General Brigham",
+  "industry": "Healthcare",
+  "location": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 44000,
+    "max": 57000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Mass General Brigham is seeking an Epidemiology Associate to support our research and population health initiatives. You'll analyze health data, assist with research studies, and contribute to projects aimed at improving patient outcomes. This remote role offers meaningful work in population health science and the opportunity to contribute to healthcare advancement.",
+  "responsibilities": [
+    "Perform data collection, entry, and cleaning for epidemiological studies",
+    "Conduct literature reviews and assist with research protocol development",
+    "Analyze health data using statistical software; support publication preparation",
+    "Maintain confidentiality of patient data; ensure compliance with HIPAA",
+    "Support grant applications and research documentation"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Epidemiology, Public Health, or related life sciences field",
+    "experience_years": "1-2",
+    "skills": [
+      "Familiarity with epidemiological research methods",
+      "Proficiency with statistical software (R, Python, SAS, or STATA)",
+      "Strong data management and organizational skills",
+      "Scientific writing and communication abilities",
+      "Understanding of data privacy and healthcare regulations"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) plan with employer matching",
+    "Flexible remote work arrangement",
+    "Professional development and conference support",
+    "Tuition reimbursement for continued education"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-06"
+}

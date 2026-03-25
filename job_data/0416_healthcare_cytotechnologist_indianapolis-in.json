@@ -1,0 +1,49 @@
+{
+  "id": "0416",
+  "title": "Cytotechnologist",
+  "category": "healthcare",
+  "company": "Gilead Sciences",
+  "industry": "Biotechnology",
+  "location": {
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 46000,
+    "max": 59000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Gilead Sciences seeks a Cytotechnologist to analyze cellular specimens and support diagnostic decision-making.",
+  "responsibilities": [
+    "Examine and analyze cytology specimens under microscope",
+    "Identify abnormal cells and prepare reports",
+    "Maintain accurate specimen tracking and documentation",
+    "Support quality assurance and continuous improvement",
+    "Collaborate with pathologists and clinicians",
+    "Maintain laboratory standards and safety protocols"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; relevant degree or certification strongly preferred",
+    "experience_years": "1-3",
+    "skills": [
+      "Cytology",
+      "Microscopy",
+      "Specimen handling",
+      "Attention to detail",
+      "Technical accuracy"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive compensation package",
+    "Health, dental, and vision coverage",
+    "401(k) or retirement benefits",
+    "Flexible time off and work arrangements",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-15"
+}

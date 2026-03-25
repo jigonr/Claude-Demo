@@ -1,0 +1,50 @@
+{
+  "id": "0410",
+  "title": "Cytotechnologist",
+  "category": "healthcare",
+  "company": "Broad Institute",
+  "industry": "Research",
+  "location": {
+    "city": "Madison",
+    "state": "WI",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 49000,
+    "max": 63000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "The Broad Institute is seeking a Cytotechnologist to support our genomic and cellular research initiatives. You'll perform microscopic examinations and prepare cell specimens for advanced research applications. This role is critical to our mission of advancing biomedical science and developing new therapeutic approaches.",
+  "responsibilities": [
+    "Prepare, stain, and examine cell and tissue specimens using microscopic techniques",
+    "Perform quality assurance on laboratory processes and cell preparations",
+    "Maintain detailed records of specimen data and analysis results",
+    "Collaborate with research scientists to understand analytical requirements",
+    "Prepare reports and documentation supporting research findings"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Cytotechnology or Bachelor's degree in life sciences field",
+    "experience_years": "2-4",
+    "skills": [
+      "Proficiency with microscopy and cell preparation techniques",
+      "Laboratory information systems experience",
+      "Strong attention to detail and accuracy",
+      "Understanding of cell biology and staining procedures",
+      "Ability to follow strict laboratory protocols"
+    ],
+    "certifications": [
+      "ASCP Certification in Cytotechnology (CT) preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) plan with employer matching",
+    "Flexible remote work arrangement",
+    "Professional development and conference support",
+    "Continuing education allowance"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-20"
+}

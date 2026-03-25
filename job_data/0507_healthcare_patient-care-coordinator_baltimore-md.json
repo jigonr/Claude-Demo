@@ -1,0 +1,50 @@
+{
+  "id": "0507",
+  "title": "Patient Care Coordinator",
+  "category": "healthcare",
+  "company": "Kaiser Permanente",
+  "industry": "Integrated Healthcare",
+  "location": {
+    "city": "Baltimore",
+    "state": "MD",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Kaiser Permanente, a leading integrated healthcare organization, seeks a Patient Care Coordinator to support clinical operations at our Baltimore facility. You'll schedule appointments, manage patient communications, and coordinate care delivery. Work hybrid while contributing to Kaiser's mission of providing high-quality, affordable healthcare.",
+  "responsibilities": [
+    "Schedule and manage patient appointments across departments",
+    "Respond to patient inquiries and coordinate care requests",
+    "Verify patient insurance and gather required documentation",
+    "Prepare clinical materials and maintain patient records",
+    "Communicate with clinical staff to coordinate care delivery",
+    "Follow up with patients on test results and treatment plans"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; some college preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Patient communication and customer service",
+      "Scheduling and organizational skills",
+      "Attention to detail and accuracy",
+      "Electronic health records (EHR) proficiency",
+      "Ability to multitask and manage priorities",
+      "Understanding of HIPAA and patient confidentiality"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with employer match",
+    "Paid time off and shift flexibility",
+    "Training and professional development opportunities",
+    "Access to Kaiser Permanente healthcare services"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-08"
+}

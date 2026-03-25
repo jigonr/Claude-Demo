@@ -1,0 +1,52 @@
+{
+  "id": "0426",
+  "title": "Health Information Technician",
+  "category": "healthcare",
+  "company": "Fortrea",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 49000,
+    "max": 65000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-16",
+  "description": "Fortrea is seeking a Health Information Technician to manage clinical trial data and health information systems. You'll work fully remote, maintaining records and ensuring data integrity for research studies that advance medicine. If you're detail-oriented and passionate about healthcare research, this is your opportunity.",
+  "responsibilities": [
+    "Manage and organize electronic health records for clinical research studies",
+    "Verify data accuracy and completeness according to study protocols and regulatory requirements",
+    "Prepare reports on data quality metrics and audit findings",
+    "Support data entry and ensure adherence to data governance standards",
+    "Assist in developing and maintaining standard operating procedures for data management",
+    "Coordinate with clinical and research teams regarding data-related questions"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Health Information Technology, Health Information Management, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Experience with electronic health record (EHR) systems",
+      "Knowledge of HIPAA and data privacy regulations",
+      "Proficiency with healthcare data management software",
+      "Strong organizational and attention to detail skills",
+      "Excel and database skills",
+      "Excellent communication and problem-solving abilities"
+    ],
+    "certifications": [
+      "RHIT (Registered Health Information Technician) or RHIA (Registered Health Information Administrator) preferred"
+    ]
+  },
+  "benefits": [
+    "Fully remote work arrangement",
+    "Competitive salary and benefits",
+    "Health, dental, and vision insurance coverage",
+    "Tuition reimbursement for continuing education and certifications",
+    "Flexible work hours"
+  ]
+}

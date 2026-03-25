@@ -1,0 +1,51 @@
+{
+  "id": "0457",
+  "title": "Respiratory Therapist",
+  "category": "healthcare",
+  "company": "Gilead Sciences",
+  "industry": "Biotechnology",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 62000,
+    "max": 80000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-24",
+  "description": "Gilead Sciences is seeking a Respiratory Therapist to join our clinical research operations team in Cambridge, MA. You'll work directly with patient cohorts enrolled in our Phase II/III trials, administering evidence-based respiratory interventions and monitoring patient outcomes. This role bridges clinical practice and research methodology, requiring both technical expertise and meticulous attention to protocol adherence. You'll contribute to advancing treatments for serious respiratory and infectious diseases.",
+  "responsibilities": [
+    "Administer pulmonary function tests and interpret baseline/follow-up measurements with clinical accuracy",
+    "Monitor patient vital signs and oxygen saturation during study procedures, documenting all findings in electronic case report forms",
+    "Educate trial participants on proper inhaler technique and medication adherence protocols",
+    "Collaborate with principal investigators to identify safety concerns and protocol deviations",
+    "Maintain comprehensive records of patient interactions and maintain strict study participant confidentiality",
+    "Train and supervise junior clinical staff on respiratory assessment procedures"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Respiratory Care from an accredited program; current ARDS credential or equivalent required",
+    "experience_years": "2-4",
+    "skills": [
+      "Pulmonary function testing and interpretation",
+      "Electronic health record management",
+      "Patient education and communication",
+      "Protocol compliance and documentation",
+      "Clinical trial experience preferred"
+    ],
+    "certifications": [
+      "ARDS (American Respiratory Care Society)",
+      "BLS/CPR certification current"
+    ]
+  },
+  "benefits": [
+    "Comprehensive medical, dental, and vision coverage with company contribution",
+    "Continuing education support and tuition reimbursement up to $5,000 annually",
+    "Hybrid work schedule with flexible start times",
+    "Paid time off: 15 days vacation, 10 days sick leave, 6 paid holidays"
+  ]
+}

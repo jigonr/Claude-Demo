@@ -1,0 +1,50 @@
+{
+  "id": "0397",
+  "title": "Dental Hygienist",
+  "category": "healthcare",
+  "company": "CommonSpirit Health",
+  "industry": "Hospital System",
+  "location": {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 52000,
+    "max": 68000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "CommonSpirit Health is seeking a Dental Hygienist to provide preventive oral healthcare services. You'll perform cleanings, take radiographs, and educate patients on oral health. Work remotely for a health system dedicated to making a visible difference in the lives of patients and communities served.",
+  "responsibilities": [
+    "Perform prophylactic cleaning and scaling on patient teeth",
+    "Take and develop dental radiographs and intraoral images",
+    "Screen patients for oral cancer and other pathology",
+    "Apply protective agents like fluoride and sealants",
+    "Educate patients on proper oral hygiene and prevention"
+  ],
+  "requirements": {
+    "education": "Associate's or Bachelor's degree in Dental Hygiene",
+    "experience_years": "0-2",
+    "skills": [
+      "Dental hygiene procedures and techniques",
+      "Patient communication and education",
+      "Radiography operation and safety",
+      "HIPAA compliance and patient confidentiality",
+      "Strong manual dexterity"
+    ],
+    "certifications": [
+      "RDH license (state-specific)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with employer match",
+    "Flexible remote scheduling",
+    "Continuing education support"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-08"
+}

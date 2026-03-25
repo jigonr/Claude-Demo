@@ -1,0 +1,51 @@
+{
+  "id": "0503",
+  "title": "Certified Nursing Assistant",
+  "category": "healthcare",
+  "company": "Broad Institute",
+  "industry": "Research",
+  "location": {
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 27000,
+    "max": 35000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "The Broad Institute advances biomedical research through genomic science. Our research has pioneered breakthroughs in cancer, infectious disease, and stem cell biology.\n\nWe're seeking a Certified Nursing Assistant to join our Research team in Indianapolis. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Provide personal care and assistance with activities of daily living for patients",
+    "Monitor and report changes in patient condition to nursing staff",
+    "Maintain patient comfort and ensure safe environment",
+    "Assist with bathing, grooming, dressing, and toileting",
+    "Document care activities and patient interactions",
+    "Support nursing staff with clinical procedures and patient transport"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; CNA certification required",
+    "experience_years": "0-2 years of direct patient care experience",
+    "skills": [
+      "Patient care",
+      "Empathy",
+      "Physical stamina",
+      "Communication",
+      "Attention to detail"
+    ],
+    "certifications": [
+      "Certified Nursing Assistant (CNA)",
+      "BLS/CPR"
+    ]
+  },
+  "benefits": [
+    "Remote work flexibility",
+    "Health insurance",
+    "Tuition assistance for RN programs",
+    "Paid time off"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-25"
+}

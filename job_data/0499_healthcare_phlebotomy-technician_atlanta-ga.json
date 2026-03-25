@@ -1,0 +1,52 @@
+{
+  "id": "0499",
+  "title": "Phlebotomy Technician",
+  "category": "healthcare",
+  "company": "Stryker",
+  "industry": "Medical Devices",
+  "location": {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 30000,
+    "max": 39000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Stryker, a global leader in medical devices, seeks a Phlebotomy Technician to support our clinical operations and blood collection services in Atlanta. You'll draw blood samples, maintain equipment, and provide excellent patient care. Work onsite in a healthcare setting supporting critical medical work.",
+  "responsibilities": [
+    "Draw blood samples from patients using proper phlebotomy techniques",
+    "Label and process blood samples according to protocols",
+    "Maintain venipuncture equipment and supplies",
+    "Ensure patient comfort and safety during procedures",
+    "Maintain confidentiality and handle sensitive patient information",
+    "Document procedures and maintain accurate records"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED",
+    "experience_years": "0-1",
+    "skills": [
+      "Phlebotomy techniques and safe blood handling",
+      "Patient communication and bedside manner",
+      "Attention to detail and accuracy",
+      "Physical stamina and manual dexterity",
+      "Understanding of HIPAA and patient confidentiality",
+      "Ability to work efficiently under pressure"
+    ],
+    "certifications": [
+      "Phlebotomy certification (may be obtained after hire)"
+    ]
+  },
+  "benefits": [
+    "Health, dental, and vision insurance",
+    "401(k) with company match",
+    "Phlebotomy certification support and reimbursement",
+    "Paid time off and shift flexibility",
+    "On-the-job training and mentorship"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-25"
+}

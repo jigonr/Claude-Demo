@@ -1,0 +1,54 @@
+{
+  "id": "0345",
+  "title": "Environmental Health Specialist",
+  "category": "healthcare",
+  "company": "NYU Langone Health",
+  "industry": "Academic Medicine",
+  "location": {
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 40000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Environmental Health Specialist at NYU Langone Health. This is an exciting opportunity to join our academic, research-focused, NYC-based team and make a direct impact on our mission. If you have 2-3 years years of experience and are passionate about Academic Medicine, we'd love to hear from you.",
+  "responsibilities": [
+    "Contribute to team projects and strategic initiatives",
+    "Collaborate with cross-functional teams on deliverables",
+    "Support management with analysis and reporting",
+    "Identify process improvements and efficiency opportunities",
+    "Maintain accurate documentation and records",
+    "Participate in professional development and training activities"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Environmental Health, Public Health, or related field",
+    "experience_years": "2-3 years",
+    "skills": [
+      "Environmental compliance",
+      "Inspection procedures",
+      "Report writing",
+      "Communication",
+      "Attention to detail"
+    ],
+    "certifications": [
+      "Registered Environmental Health Specialist (REHS) preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Health insurance for dependents",
+    "Flexible scheduling options",
+    "Continuing medical education funding",
+    "Healthcare provider discounts for employees"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-10"
+}

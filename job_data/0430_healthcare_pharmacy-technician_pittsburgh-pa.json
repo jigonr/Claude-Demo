@@ -1,0 +1,51 @@
+{
+  "id": "0430",
+  "title": "Pharmacy Technician",
+  "category": "healthcare",
+  "company": "UCSF Health",
+  "industry": "Academic Medicine",
+  "location": {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 31000,
+    "max": 43000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-15",
+  "description": "UCSF Health is expanding its remote pharmacy operations and seeking a Pharmacy Technician to support our mail-order and telehealth prescription services. You will compound medications, verify prescriptions, manage medication inventory systems, and ensure compliance with state pharmacy regulations. Working remotely, you'll be part of a mission-driven healthcare organization serving patients across California and beyond.",
+  "responsibilities": [
+    "Prepare and compound medications according to pharmacist-verified prescriptions",
+    "Verify patient information and insurance coverage in pharmacy management systems",
+    "Label medications and prepare packaging for mail distribution",
+    "Monitor pharmacy inventory and flag items requiring reorder",
+    "Process refill requests and coordinate with patient services teams",
+    "Maintain detailed records for DEA compliance and regulatory audits"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; pharmacy technician program completion or in-progress",
+    "experience_years": "1-3",
+    "skills": [
+      "Pharmacy compounding and preparation",
+      "Medication safety and accuracy",
+      "Pharmacy information systems",
+      "Attention to detail in patient safety-critical work",
+      "Customer service and communication"
+    ],
+    "certifications": [
+      "California Pharmacy Technician License (or eligible to obtain)",
+      "Recommended: Certified Pharmacy Technician (CPhT)"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance including medical, dental, and vision",
+    "Tuition reimbursement for pharmacy technician certification and continuing education",
+    "Flexible schedule with remote-first work environment",
+    "Employee wellness programs and mental health resources"
+  ]
+}

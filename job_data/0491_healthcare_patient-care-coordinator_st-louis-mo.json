@@ -1,0 +1,48 @@
+{
+  "id": "0491",
+  "title": "Patient Care Coordinator",
+  "category": "healthcare",
+  "company": "Parexel",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 35000,
+    "max": 46000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Parexel is seeking a Patient Care Coordinator to support our clinical research operations in St. Louis. You'll manage patient communications, schedule visits, and ensure excellent participant experiences throughout clinical trials. This remote role allows you to contribute to advancing medical science while working flexibly.",
+  "responsibilities": [
+    "Schedule and coordinate patient appointments and clinical study visits",
+    "Communicate with patients via phone and email; address questions and concerns",
+    "Maintain patient records and ensure compliance with regulatory requirements",
+    "Support patient recruitment and retention activities",
+    "Assist with protocol implementation and patient education"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; Bachelor's degree preferred",
+    "experience_years": "1-2",
+    "skills": [
+      "Strong communication and customer service abilities",
+      "Organization and attention to detail",
+      "Ability to manage multiple tasks and priorities",
+      "Basic computer proficiency and data entry",
+      "Understanding of patient confidentiality and HIPAA"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) plan with company match",
+    "Paid time off and paid holidays",
+    "Professional development opportunities",
+    "Remote work flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-10"
+}

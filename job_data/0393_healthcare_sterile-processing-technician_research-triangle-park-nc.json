@@ -1,0 +1,50 @@
+{
+  "id": "0393",
+  "title": "Sterile Processing Technician",
+  "category": "healthcare",
+  "company": "Moderna",
+  "industry": "Biotechnology",
+  "location": {
+    "city": "Research Triangle Park",
+    "state": "NC",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 33000,
+    "max": 42000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Moderna is recruiting a Sterile Processing Technician to support our clinical and research operations in Research Triangle Park. You'll ensure that all surgical instruments and equipment are properly sterilized and maintained, supporting the precision required in biotechnology research. This hybrid role offers flexibility while maintaining critical on-site responsibilities.",
+  "responsibilities": [
+    "Decontaminate, process, and sterilize surgical instruments and medical equipment using various sterilization methods",
+    "Inspect instruments for damage and functionality; perform preventive maintenance and repairs as needed",
+    "Organize and maintain inventory of sterile supplies and instruments; track usage and reorder as required",
+    "Maintain detailed records of sterilization cycles and equipment maintenance",
+    "Ensure compliance with CDC guidelines and laboratory safety standards"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; completion of sterile processing technician program",
+    "experience_years": "1-2",
+    "skills": [
+      "Sterilization techniques and protocols",
+      "Equipment operation and maintenance",
+      "Attention to detail",
+      "Inventory management",
+      "Data documentation"
+    ],
+    "certifications": [
+      "Certified Sterile Processing Technician (CSPT, preferred)"
+    ]
+  },
+  "benefits": [
+    "Health, dental, vision, and hearing coverage",
+    "401(k) with company match",
+    "Paid time off (16 days)",
+    "Hybrid work flexibility",
+    "Professional advancement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-07"
+}

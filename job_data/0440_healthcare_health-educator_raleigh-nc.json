@@ -1,0 +1,50 @@
+{
+  "id": "0440",
+  "title": "Health Educator",
+  "category": "healthcare",
+  "company": "PPD",
+  "industry": "Clinical Research",
+  "location": {
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 39000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-23",
+  "description": "PPD is seeking a Health Educator to develop and deliver patient education materials and training programs for clinical trial participants. You will create educational content about study procedures, disease states, and medication adherence, ensuring participants understand their role in clinical research.",
+  "responsibilities": [
+    "Develop educational materials and patient guides for clinical trials",
+    "Deliver patient education sessions via virtual and in-person formats",
+    "Create videos and interactive content explaining study procedures",
+    "Assess participant comprehension and learning needs",
+    "Collaborate with physicians and coordinators on educational content",
+    "Track participant satisfaction and education outcomes"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Health Education, Public Health, Nursing, or related field",
+    "experience_years": "1-2",
+    "skills": [
+      "Health education and patient communication",
+      "Content creation and instructional design",
+      "Presentation and public speaking skills",
+      "Understanding of clinical trial processes",
+      "Basic multimedia or presentation tool proficiency"
+    ],
+    "certifications": [
+      "CHES certification preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Health, dental, and vision insurance",
+    "Tuition reimbursement for health education certifications",
+    "Flexible remote work schedule"
+  ]
+}

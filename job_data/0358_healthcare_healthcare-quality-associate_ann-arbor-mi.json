@@ -1,0 +1,50 @@
+{
+  "id": "0358",
+  "title": "Healthcare Quality Associate",
+  "category": "healthcare",
+  "company": "Stryker",
+  "industry": "Medical Devices",
+  "location": {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Stryker is seeking a Healthcare Quality Associate to support quality assurance and regulatory compliance initiatives. You'll audit processes, document findings, and ensure adherence to quality standards. Work remotely for a leading global medical technology company.",
+  "responsibilities": [
+    "Conduct quality audits and inspections of healthcare processes",
+    "Document findings and develop corrective action plans",
+    "Monitor compliance with quality standards and regulations",
+    "Prepare quality reports and metrics",
+    "Support continuous improvement initiatives"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Healthcare Administration, Quality Management, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Quality assurance and audit procedures",
+      "Healthcare regulations and compliance",
+      "Data analysis and reporting",
+      "Attention to detail and organization",
+      "Communication and documentation"
+    ],
+    "certifications": [
+      "ASQ or healthcare quality certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Remote work flexibility",
+    "Professional certification support"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-14"
+}

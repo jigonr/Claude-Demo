@@ -1,0 +1,52 @@
+{
+  "id": "0434",
+  "title": "Certified Nursing Assistant",
+  "category": "healthcare",
+  "company": "Johns Hopkins Medicine",
+  "industry": "Academic Medicine",
+  "location": {
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 43000,
+    "max": 56000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Johns Hopkins Medicine, renowned for clinical excellence and research innovation, seeks a Certified Nursing Assistant for our San Jose location. You'll provide direct patient care, support nurses, and contribute to patient comfort and recovery. Join a world-class healthcare system dedicated to exceptional patient outcomes.",
+  "responsibilities": [
+    "Provide direct patient care under nursing supervision",
+    "Assist patients with personal hygiene, grooming, and activities of daily living",
+    "Monitor and report patient vital signs and comfort concerns",
+    "Maintain clean and safe patient environments",
+    "Support nursing staff with patient care procedures",
+    "Contribute to patient communication and emotional support"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; CNA certification required",
+    "experience_years": "0-2",
+    "skills": [
+      "Patient care and bedside manner",
+      "Physical stamina and ability to lift and move patients",
+      "Attention to patient comfort and safety",
+      "Communication and empathy",
+      "Teamwork and collaboration",
+      "Understanding of patient confidentiality and HIPAA"
+    ],
+    "certifications": [
+      "CNA certification required (California state certification)"
+    ]
+  },
+  "benefits": [
+    "Health, dental, vision, and life insurance",
+    "401(k) with employer match",
+    "Tuition reimbursement for nursing education",
+    "Shift flexibility and paid time off",
+    "Access to Johns Hopkins education and development programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-23"
+}

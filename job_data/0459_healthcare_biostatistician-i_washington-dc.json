@@ -1,0 +1,50 @@
+{
+  "id": "0459",
+  "title": "Biostatistician I",
+  "category": "healthcare",
+  "company": "Kaiser Permanente",
+  "industry": "Integrated Healthcare",
+  "location": {
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 72000,
+    "max": 93000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-24",
+  "description": "Kaiser Permanente is seeking a Biostatistician I to support clinical research and health services research initiatives. You will design studies, analyze healthcare data, and provide statistical expertise to researchers and clinicians studying treatment effectiveness and health outcomes. Your work contributes to evidence-based medicine and care improvement.",
+  "responsibilities": [
+    "Design statistical analysis plans for clinical and observational studies",
+    "Analyze healthcare data using SAS, R, or Python",
+    "Develop statistical models to evaluate treatment outcomes",
+    "Create statistical tables, figures, and reports for publications",
+    "Collaborate with physicians and researchers on study protocol design",
+    "Present statistical findings to clinical and research teams"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Statistics, Biostatistics, Mathematics, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Statistical analysis and study design",
+      "SAS, R, or Python programming",
+      "Healthcare data and EHR systems understanding",
+      "Report writing and presentation skills",
+      "Understanding of clinical research fundamentals"
+    ],
+    "certifications": [
+      "None required; MS in Biostatistics or related field preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and comprehensive health insurance",
+    "Kaiser Permanente wellness programs and preventive care",
+    "Tuition reimbursement for advanced degrees",
+    "Flexible remote work and professional development"
+  ]
+}

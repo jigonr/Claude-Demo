@@ -1,0 +1,48 @@
+{
+  "id": "0455",
+  "title": "Patient Services Representative",
+  "category": "healthcare",
+  "company": "Scripps Research",
+  "industry": "Research",
+  "location": {
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 27000,
+    "max": 35000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Scripps Research is seeking a Patient Services Representative for our Milwaukee site. You'll support research participants, coordinate clinical visits, and ensure positive patient experiences. This hybrid role is central to our mission of conducting groundbreaking biomedical research that improves human health.",
+  "responsibilities": [
+    "Schedule and coordinate patient appointments and clinical visits",
+    "Provide patient education and answer questions about research protocols",
+    "Collect consent forms and maintain patient documentation",
+    "Assist with screening activities and data collection",
+    "Support patient retention and follow-up communication"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; some college or healthcare experience preferred",
+    "experience_years": "0-1",
+    "skills": [
+      "Strong interpersonal and communication abilities",
+      "Excellent organizational and customer service skills",
+      "Basic computer proficiency",
+      "Ability to maintain patient confidentiality",
+      "Flexibility and ability to work with diverse populations"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) plan with company match",
+    "Paid time off and paid holidays",
+    "Opportunity to contribute to scientific research",
+    "Hybrid work flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-13"
+}

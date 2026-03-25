@@ -1,0 +1,50 @@
+{
+  "id": "0423",
+  "title": "Health Information Technician",
+  "category": "healthcare",
+  "company": "Takeda",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 32000,
+    "max": 42000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Takeda is seeking a Health Information Technician to manage patient health records and ensure data integrity across our clinical operations. You'll organize, maintain, and secure health information systems while supporting HIPAA compliance. Work hybrid in St. Louis for a global biopharmaceutical company committed to developing innovative medicines.",
+  "responsibilities": [
+    "Manage patient health records and maintain data accuracy and completeness",
+    "Organize and file health information using electronic and paper systems",
+    "Verify insurance information and process authorization requests",
+    "Ensure compliance with HIPAA regulations and privacy standards",
+    "Respond to records requests from authorized healthcare providers"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; HIT certification preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "Medical terminology and health record systems",
+      "Electronic health record (EHR) software",
+      "HIPAA and privacy law knowledge",
+      "Attention to detail and organizational skills",
+      "Ability to maintain patient confidentiality"
+    ],
+    "certifications": [
+      "RHIT or RHIA (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Flexible hybrid schedule",
+    "Professional certification support"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-10"
+}

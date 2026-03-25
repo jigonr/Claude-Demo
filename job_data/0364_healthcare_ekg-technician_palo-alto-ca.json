@@ -1,0 +1,50 @@
+{
+  "id": "0364",
+  "title": "EKG Technician",
+  "category": "healthcare",
+  "company": "Broad Institute",
+  "industry": "Research",
+  "location": {
+    "city": "Palo Alto",
+    "state": "CA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 49000,
+    "max": 62000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "The Broad Institute advances biomedical research through genomic science. Our research has pioneered breakthroughs in cancer, infectious disease, and stem cell biology.\n\nWe're seeking a EKG Technician to join our Research team in Palo Alto. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Perform electrocardiogram tests and operate EKG equipment",
+    "Prepare patients for EKG testing and explain procedures",
+    "Ensure accurate electrode placement and signal quality",
+    "Maintain equipment and perform routine calibration",
+    "Document test results and communicate findings to physicians",
+    "Maintain patient privacy and comply with infection control standards"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; EKG technician certification preferred",
+    "experience_years": "0-2 years in clinical testing or EKG operations",
+    "skills": [
+      "EKG equipment operation",
+      "Patient communication",
+      "Attention to detail",
+      "Infection control",
+      "Medical terminology"
+    ],
+    "certifications": [
+      "Certified EKG Technician (CET) or equivalent"
+    ]
+  },
+  "benefits": [
+    "Onsite work in Palo Alto",
+    "Health insurance",
+    "Continuing education support",
+    "Growth into clinical roles"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-17"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0450",
+  "title": "Medical Coder",
+  "category": "healthcare",
+  "company": "Bristol-Myers Squibb",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 34000,
+    "max": 44000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Bristol-Myers Squibb is seeking a Medical Coder to translate clinical documentation into accurate medical codes. You'll ensure proper coding for diagnosis, procedures, and treatments while maintaining compliance with coding standards. Work hybrid in Milwaukee for a biopharmaceutical company dedicated to developing innovative medicines.",
+  "responsibilities": [
+    "Review medical documentation and assign appropriate diagnostic and procedural codes",
+    "Ensure coding accuracy and compliance with ICD-10, CPT, and HCPCS coding standards",
+    "Verify insurance coverage and resolve coding discrepancies",
+    "Maintain detailed coding records and documentation",
+    "Participate in coding audits and quality assurance reviews"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; medical coding program certificate preferred",
+    "experience_years": "0-2",
+    "skills": [
+      "ICD-10, CPT, and HCPCS coding knowledge",
+      "Medical terminology proficiency",
+      "Attention to detail and accuracy",
+      "Medical coding software and systems",
+      "Knowledge of healthcare billing regulations"
+    ],
+    "certifications": [
+      "CPC or RHIT certification (or eligible)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Flexible hybrid schedule",
+    "Certification exam reimbursement"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-22"
+}

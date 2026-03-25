@@ -1,0 +1,50 @@
+{
+  "id": "0468",
+  "title": "Pharmacy Technician",
+  "category": "healthcare",
+  "company": "Johns Hopkins Medicine",
+  "industry": "Academic Medicine",
+  "location": {
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 64000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Johns Hopkins Medicine is seeking a Pharmacy Technician for our New York clinical facility. You'll prepare medications, manage inventory, and support pharmacists in providing comprehensive patient care. This hybrid role is part of a world-renowned academic medical center committed to excellence in patient care and research.",
+  "responsibilities": [
+    "Prepare medications under pharmacist supervision; verify calculations and dosages",
+    "Manage pharmacy inventory, ordering, and stock rotation",
+    "Process prescription orders and maintain accurate patient medication records",
+    "Assist patients with medication education and answer questions",
+    "Maintain pharmacy cleanliness and comply with safety standards"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; pharmacy technician certification preferred",
+    "experience_years": "1-3",
+    "skills": [
+      "Proficiency with pharmacy software and dispensing systems",
+      "Strong organizational and attention to detail",
+      "Excellent customer service and patient interaction skills",
+      "Understanding of pharmaceutical terminology and medications",
+      "Ability to work in a fast-paced healthcare environment"
+    ],
+    "certifications": [
+      "Pharmacy Technician Certification (CPhT) preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) plan with employer match",
+    "Paid time off and paid holidays",
+    "Tuition reimbursement for pharmacy-related education",
+    "Hybrid work arrangement with flexibility"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-19"
+}

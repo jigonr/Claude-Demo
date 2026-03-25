@@ -1,0 +1,50 @@
+{
+  "id": "0373",
+  "title": "Research Associate I",
+  "category": "healthcare",
+  "company": "Johns Hopkins Medicine",
+  "industry": "Academic Medicine",
+  "location": {
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 50000,
+    "max": 65000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Johns Hopkins Medicine is seeking a Research Associate I to support groundbreaking clinical and translational research. You'll assist with patient recruitment, data collection, and regulatory documentation. Work onsite in Philadelphia at a world-renowned academic medical center advancing medical knowledge.",
+  "responsibilities": [
+    "Recruit and screen study participants according to protocol criteria",
+    "Collect biological samples and clinical data with attention to quality",
+    "Maintain detailed research records and ensure regulatory compliance",
+    "Support patient follow-up appointments and retention efforts",
+    "Assist with study reporting and data quality reviews"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Life Sciences, Healthcare, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Strong attention to detail and accuracy",
+      "Patient communication and empathy",
+      "Knowledge of GCP and research ethics",
+      "Electronic data capture (EDC) systems",
+      "Organizational and time management skills"
+    ],
+    "certifications": [
+      "CITI Human Subjects Research certification (or eligible)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision benefits",
+    "Tuition assistance for continuing education",
+    "Research publication and career development opportunities",
+    "On-site Johns Hopkins facilities and resources"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-11"
+}

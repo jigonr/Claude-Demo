@@ -1,0 +1,52 @@
+{
+  "id": "0492",
+  "title": "Licensed Practical Nurse",
+  "category": "healthcare",
+  "company": "AstraZeneca",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 39000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "AstraZeneca, a global biopharmaceutical company, seeks a Licensed Practical Nurse to support clinical operations and employee health services. Working onsite in Houston, you'll provide patient care, administer medications, and support clinical team operations. Join a mission-driven organization advancing healthcare innovation.",
+  "responsibilities": [
+    "Provide direct patient care and monitoring under RN supervision",
+    "Administer medications and treatments per established protocols",
+    "Maintain accurate patient records and clinical documentation",
+    "Assist with clinical procedures and patient preparation",
+    "Communicate with patients and families about care plans",
+    "Monitor vital signs and report changes to nursing staff"
+  ],
+  "requirements": {
+    "education": "Practical Nursing diploma or Associate degree in nursing",
+    "experience_years": "0-2",
+    "skills": [
+      "Patient care and clinical nursing skills",
+      "Medication administration knowledge",
+      "Medical terminology and anatomy",
+      "Communication and patient interaction",
+      "Electronic health records (EHR) proficiency",
+      "Ability to follow clinical protocols accurately"
+    ],
+    "certifications": [
+      "Current LPN/LVN license in Texas"
+    ]
+  },
+  "benefits": [
+    "Health, dental, vision, and life insurance",
+    "401(k) with company match",
+    "Tuition reimbursement for RN advancement",
+    "Shift flexibility and paid time off",
+    "Continuing education support"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-24"
+}

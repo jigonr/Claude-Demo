@@ -1,0 +1,50 @@
+{
+  "id": "0489",
+  "title": "Radiology Technician",
+  "category": "healthcare",
+  "company": "BioNTech",
+  "industry": "Biotechnology",
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 60000,
+    "max": 77000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "BioNTech is seeking a Radiology Technician to support our clinical and research imaging operations in Boston. You'll operate diagnostic imaging equipment, prepare patients for procedures, and maintain technical standards that enable our groundbreaking biotechnology work. Work with a global leader in mRNA technology advancing personalized medicine.",
+  "responsibilities": [
+    "Operate diagnostic imaging equipment (X-ray, CT, MRI, ultrasound) with precision and safety",
+    "Prepare patients for imaging procedures and ensure their comfort throughout",
+    "Maintain detailed records of imaging studies and ensure regulatory compliance",
+    "Perform equipment maintenance and quality assurance checks",
+    "Collaborate with radiologists and clinical staff on imaging protocols"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Radiologic Technology from AERS-accredited program",
+    "experience_years": "0-2",
+    "skills": [
+      "ARRT certification or eligible for certification",
+      "PACS system proficiency",
+      "Infection control and patient safety protocols",
+      "Ability to follow strict technical imaging standards",
+      "Strong attention to detail and documentation"
+    ],
+    "certifications": [
+      "ARRT Certification (or eligible)"
+    ]
+  },
+  "benefits": [
+    "Competitive salary with performance bonuses",
+    "Comprehensive health, dental, and vision coverage",
+    "Continuing education support and certification maintenance",
+    "Flexible scheduling and remote coordination",
+    "Employee wellness programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-15"
+}

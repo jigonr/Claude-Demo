@@ -1,0 +1,48 @@
+{
+  "id": "0508",
+  "title": "Patient Services Representative",
+  "category": "healthcare",
+  "company": "AbbVie",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Richmond",
+    "state": "VA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 28000,
+    "max": 37000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "AbbVie seeks Patient Services Representatives to support patients on our medication programs through remote outreach. You'll respond to patient inquiries, provide treatment information, and help connect patients with resources. This role requires compassion, attention to detail, and strong communication skills. Working from home, you'll be part of our commitment to improving patient outcomes and access to care.",
+  "responsibilities": [
+    "Answer patient inquiries about medications, side effects, and treatment options via phone, email, and secure messaging",
+    "Provide education materials and connect patients with copay assistance programs and support services",
+    "Document patient interactions accurately in our CRM system and escalate complex cases appropriately",
+    "Maintain confidentiality and HIPAA compliance in all patient communications",
+    "Collaborate with clinical teams to stay updated on treatment guidelines and patient support programs"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED",
+    "experience_years": "0-2",
+    "skills": [
+      "Customer service and communication",
+      "Phone and email support",
+      "HIPAA awareness",
+      "CRM systems",
+      "Healthcare knowledge (preferred)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Paid time off (15 days)",
+    "Free EAP counseling services",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-25"
+}

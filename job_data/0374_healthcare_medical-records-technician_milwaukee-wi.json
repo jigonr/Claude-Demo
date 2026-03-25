@@ -1,0 +1,52 @@
+{
+  "id": "0374",
+  "title": "Medical Records Technician",
+  "category": "healthcare",
+  "company": "AstraZeneca",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Milwaukee",
+    "state": "WI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 29000,
+    "max": 38000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "AstraZeneca is a global biopharmaceutical company focused on oncology, cardiovascular, and respiratory treatments. You'll maintain critical medical records for our research and clinical operations.",
+  "responsibilities": [
+    "Manage patient medical records ensuring accuracy and compliance",
+    "Code medical procedures and diagnoses for billing and research",
+    "Maintain confidentiality and enforce HIPAA protocols",
+    "Prepare records for internal audits and external reviews",
+    "Respond to records requests from patients and providers",
+    "Update systems with clinical information from various sources"
+  ],
+  "requirements": {
+    "education": "Associate's degree in Health Information Technology or related field",
+    "experience_years": "1-3 years of medical records or health information management experience",
+    "skills": [
+      "ICD/CPT coding",
+      "Medical terminology",
+      "HIPAA compliance",
+      "EHR systems",
+      "Quality assurance"
+    ],
+    "certifications": [
+      "RHIT or pursuing RHIT",
+      "HIPAA certification"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (18-22 days annually)",
+    "Professional development and continuing education support",
+    "Employee assistance program (EAP) with mental health services"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-09"
+}

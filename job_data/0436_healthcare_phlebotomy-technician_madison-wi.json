@@ -1,0 +1,52 @@
+{
+  "id": "0436",
+  "title": "Phlebotomy Technician",
+  "category": "healthcare",
+  "company": "AbbVie",
+  "industry": "Pharmaceuticals",
+  "location": {
+    "city": "Madison",
+    "state": "WI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 28000,
+    "max": 37000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "AbbVie is a globally renowned biopharmaceutical company dedicated to developing treatments for serious diseases. As a Phlebotomy Technician, you'll collect specimens for clinical research advancing patient care.",
+  "responsibilities": [
+    "Collect blood samples from study participants following strict clinical protocols",
+    "Maintain sterile technique and adhere to OSHA bloodborne pathogen standards",
+    "Process and label specimens with precise documentation",
+    "Monitor participant safety and comfort during collection",
+    "Maintain equipment and supply inventory for collection stations",
+    "Record all collection activities in electronic health records"
+  ],
+  "requirements": {
+    "education": "High school diploma or equivalent; phlebotomy certification required",
+    "experience_years": "0-1 year of phlebotomy or clinical specimen collection experience",
+    "skills": [
+      "Venipuncture techniques",
+      "OSHA compliance",
+      "Patient communication",
+      "Laboratory safety",
+      "EHR/LIS systems"
+    ],
+    "certifications": [
+      "CPT certification",
+      "CPR/BLS certification"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (18-22 days annually)",
+    "Professional development and continuing education support",
+    "Employee assistance program (EAP) with mental health services"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-06"
+}
