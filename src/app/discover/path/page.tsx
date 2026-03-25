@@ -9,7 +9,7 @@ import { Badge } from "@/components/ui/Badge";
 
 export default function PathPage() {
   const router = useRouter();
-  const { answers, careerMatches, reset } = useDiscoverStore();
+  const { answers, jobMatches, reset } = useDiscoverStore();
 
   useEffect(() => {
     if (answers.length === 0) {
@@ -17,7 +17,7 @@ export default function PathPage() {
     }
   }, [answers, router]);
 
-  if (careerMatches.length === 0) {
+  if (jobMatches.length === 0) {
     return (
       <div className="min-h-dvh flex items-center justify-center">
         <div className="text-center">
@@ -48,14 +48,14 @@ export default function PathPage() {
           </h1>
           <p className="mt-4 text-muted text-lg leading-relaxed">
             Big career decisions don&rsquo;t start with commitment. They start with experiments.
-            Here&rsquo;s one small thing you can do this week for each match.
+            Here&rsquo;s what you can do this week for each match.
           </p>
         </motion.div>
 
         <div className="mt-12 space-y-10">
-          {careerMatches.map((match, i) => (
+          {jobMatches.map((match, i) => (
             <motion.div
-              key={match.career.id}
+              key={match.job.id}
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: i * 0.15, duration: 0.4 }}
@@ -63,46 +63,46 @@ export default function PathPage() {
             >
               <div className="flex items-center gap-3 flex-wrap">
                 <h3 className="font-[family-name:var(--font-heading)] text-xl text-foreground">
-                  {match.career.title}
+                  {match.job.title}
                 </h3>
                 <Badge label={`${Math.round(match.score * 100)}% match`} type="surprise" />
               </div>
+              <p className="mt-1 text-sm text-muted">
+                {match.job.company} &middot; {match.job.location.city}, {match.job.location.state}
+              </p>
 
-              <div className="mt-4 bg-accent/5 rounded-xl p-4">
-                <h4 className="text-sm font-semibold text-accent">Try it this week</h4>
-                <p className="mt-1 text-sm text-foreground leading-relaxed">
-                  {match.career.microExperiment}
-                </p>
-              </div>
-
-              <div className="mt-6">
-                <h4 className="text-sm font-semibold text-foreground mb-3">The path from here</h4>
-                <div className="space-y-3">
-                  {match.career.learningPath.map((step, j) => (
-                    <div key={j} className="flex gap-3">
-                      <div className="flex-shrink-0 w-6 h-6 rounded-full bg-accent/10 text-accent text-xs font-bold flex items-center justify-center mt-0.5">
-                        {j + 1}
-                      </div>
-                      <div>
-                        <p className="text-sm font-medium text-foreground">{step.title}</p>
-                        <p className="text-sm text-muted">{step.description}</p>
-                        <p className="text-xs text-muted mt-1">{step.timeframe}</p>
-                      </div>
-                    </div>
+              {/* Key skills to develop */}
+              <div className="mt-4">
+                <h4 className="text-sm font-semibold text-foreground mb-3">Skills to build</h4>
+                <div className="flex flex-wrap gap-2">
+                  {match.job.requirements.skills.map((skill) => (
+                    <Badge key={skill} label={skill} />
                   ))}
                 </div>
               </div>
 
-              {match.career.optionValue.length > 0 && (
-                <div className="mt-6">
-                  <h4 className="text-sm font-semibold text-foreground mb-2">Also opens doors to</h4>
-                  <div className="flex flex-wrap gap-2">
-                    {match.career.optionValue.map((opt) => (
-                      <Badge key={opt} label={opt} />
-                    ))}
-                  </div>
-                </div>
-              )}
+              {/* Education & experience */}
+              <div className="mt-4 bg-accent/5 rounded-xl p-4">
+                <h4 className="text-sm font-semibold text-accent">Getting started</h4>
+                <p className="mt-1 text-sm text-foreground leading-relaxed">
+                  {match.job.requirements.education} &middot; {match.job.requirements.experience_years} years experience
+                </p>
+                {match.job.requirements.certifications.length > 0 && (
+                  <p className="mt-2 text-sm text-muted">
+                    Certifications: {match.job.requirements.certifications.join(", ")}
+                  </p>
+                )}
+              </div>
+
+              {/* Top responsibilities as preview */}
+              <div className="mt-4">
+                <h4 className="text-sm font-semibold text-foreground mb-2">What you&rsquo;d actually do</h4>
+                <ul className="text-sm text-muted leading-relaxed space-y-1 list-disc list-inside">
+                  {match.job.responsibilities.slice(0, 3).map((r, j) => (
+                    <li key={j}>{r}</li>
+                  ))}
+                </ul>
+              </div>
             </motion.div>
           ))}
         </div>
@@ -110,7 +110,7 @@ export default function PathPage() {
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          transition={{ delay: careerMatches.length * 0.15 + 0.5 }}
+          transition={{ delay: jobMatches.length * 0.15 + 0.5 }}
           className="mt-16 text-center space-y-4"
         >
           <p className="text-muted text-sm">

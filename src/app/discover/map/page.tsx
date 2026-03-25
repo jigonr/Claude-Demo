@@ -4,19 +4,19 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
 import { useDiscoverStore } from "@/lib/store";
-import { matchCareers, derivePreferences } from "@/lib/scoring";
-import { CareerCard } from "@/components/careers/CareerCard";
+import { matchJobs, derivePreferences } from "@/lib/scoring";
+import { JobCard } from "@/components/careers/CareerCard";
 import { Button } from "@/components/ui/Button";
 import { LoadingPulse } from "@/components/ui/LoadingPulse";
-import { CareerMatch } from "@/lib/types";
-// TODO: replace with `import { careers } from "@/data/careers"` when David's data lands
-import { mockCareers as careers } from "@/data/careers-mock";
+import { JobMatch } from "@/lib/types";
+// TODO: replace with `import { jobs } from "@/data/jobs"` when David's data lands
+import { mockJobs as jobs } from "@/data/careers-mock";
 
 export default function MapPage() {
   const router = useRouter();
-  const { answers, revealedPreferences, careerMatches, setCareerMatches, setPreferences } = useDiscoverStore();
-  const [matches, setMatches] = useState<CareerMatch[]>(careerMatches);
-  const [loading, setLoading] = useState(careerMatches.length === 0);
+  const { answers, revealedPreferences, jobMatches, setJobMatches, setPreferences } = useDiscoverStore();
+  const [matches, setMatches] = useState<JobMatch[]>(jobMatches);
+  const [loading, setLoading] = useState(jobMatches.length === 0);
 
   useEffect(() => {
     if (answers.length === 0) {
@@ -24,8 +24,8 @@ export default function MapPage() {
       return;
     }
 
-    if (careerMatches.length > 0) {
-      setMatches(careerMatches);
+    if (jobMatches.length > 0) {
+      setMatches(jobMatches);
       setLoading(false);
       return;
     }
@@ -37,13 +37,12 @@ export default function MapPage() {
         setPreferences(prefs);
       }
 
-      // careers imported at top — swap to David's data when ready
-      const results = matchCareers(prefs, careers, 5);
-      setCareerMatches(results);
+      const results = matchJobs(prefs, jobs, 5);
+      setJobMatches(results);
       setMatches(results);
       setTimeout(() => setLoading(false), 800);
     })();
-  }, [answers, revealedPreferences, careerMatches, setCareerMatches, setPreferences, router]);
+  }, [answers, revealedPreferences, jobMatches, setJobMatches, setPreferences, router]);
 
   if (loading) {
     return <LoadingPulse title="Mapping your career landscape..." subtitle="Finding careers that match who you actually are." />;
@@ -68,8 +67,8 @@ export default function MapPage() {
 
         <div className="mt-12 space-y-6">
           {matches.map((match, i) => (
-            <CareerCard
-              key={match.career.id}
+            <JobCard
+              key={match.job.id}
               match={match}
               index={i}
               isSurprise={i === matches.length - 1}

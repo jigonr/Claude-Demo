@@ -1,4 +1,4 @@
-import { Answer, RevealedPreferences, Career, CareerMatch } from './types';
+import { Answer, RevealedPreferences, Job, JobMatch } from './types';
 import { questions } from '@/data/questions';
 
 export function derivePreferences(answers: Answer[]): RevealedPreferences {
@@ -64,12 +64,12 @@ function prefsToVector(p: RevealedPreferences): number[] {
     p.incomeWeight, p.statusWeight, p.meaningWeight, p.geographicFlex];
 }
 
-export function matchCareers(prefs: RevealedPreferences, careers: Career[], topN = 8): CareerMatch[] {
+export function matchJobs(prefs: RevealedPreferences, jobs: Job[], topN = 8): JobMatch[] {
   const userVec = prefsToVector(prefs);
 
-  const scored = careers.map((career) => ({
-    career,
-    score: cosineSimilarity(userVec, prefsToVector(career.dimensions)),
+  const scored = jobs.map((job) => ({
+    job,
+    score: cosineSimilarity(userVec, prefsToVector(job.dimensions)),
     matchExplanation: '',
   }));
 
@@ -77,7 +77,7 @@ export function matchCareers(prefs: RevealedPreferences, careers: Career[], topN
   const top = scored.slice(0, topN);
 
   for (const m of top) {
-    const d = m.career.dimensions;
+    const d = m.job.dimensions;
     const reasons: string[] = [];
     if (Math.abs(prefs.autonomy - d.autonomy) < 0.3)
       reasons.push(prefs.autonomy > 0 ? 'matches your independence streak' : 'offers the structure you prefer');

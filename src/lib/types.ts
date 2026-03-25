@@ -49,33 +49,30 @@ export interface Assumption {
   relatedAnswers: string[];
 }
 
-export interface LearningStep {
-  title: string;
-  description: string;
-  timeframe: string;
-  resources?: string[];
-}
-
-export interface CareerStory {
-  name: string;
-  background: string;
-  journey: string;
-  currentRole: string;
-}
-
-export interface Career {
+export interface Job {
+  // Fields from job_data/*.json
   id: string;
   title: string;
+  category: 'tech' | 'business' | 'healthcare';
+  company: string;
+  industry: string;
+  location: { city: string; state: string; country: string; remote: string };
+  salary: { min: number; max: number; currency: string; period: string };
+  employment_type: string;
+  posted_date: string;
   description: string;
-  dayInLife: string;
+  responsibilities: string[];
+  requirements: { education: string; experience_years: string; skills: string[]; certifications: string[] };
+  benefits: string[];
+  // Fields added for matching
   dimensions: RevealedPreferences;
-  surpriseFactor: string;
-  learningPath: LearningStep[];
-  microExperiment: string;
-  optionValue: string[];
-  incomeTrajectory: { year: number; amount: number }[];
-  stories: CareerStory[];
   tags: string[];
+}
+
+export interface JobMatch {
+  job: Job;
+  score: number;
+  matchExplanation: string;
 }
 
 export interface UserProfile {
@@ -92,10 +89,4 @@ export interface Reflection {
   body: string;
   type: 'contradiction' | 'assumption' | 'surprise' | 'reframe';
   relatedAnswers: string[];
-}
-
-export interface CareerMatch {
-  career: Career;
-  score: number;
-  matchExplanation: string;
 }

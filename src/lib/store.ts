@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import { Answer, RevealedPreferences, Reflection, CareerMatch } from './types';
+import { Answer, RevealedPreferences, Reflection, JobMatch } from './types';
 
 const DEFAULT_PREFERENCES: RevealedPreferences = {
   autonomy: 0,
@@ -18,7 +18,7 @@ interface DiscoverStore {
   answers: Answer[];
   revealedPreferences: RevealedPreferences;
   reflections: Reflection[];
-  careerMatches: CareerMatch[];
+  jobMatches: JobMatch[];
   isReflecting: boolean;
 
   setAnswer: (answer: Answer) => void;
@@ -26,7 +26,7 @@ interface DiscoverStore {
   prevQuestion: () => void;
   setPreferences: (prefs: RevealedPreferences) => void;
   setReflections: (reflections: Reflection[]) => void;
-  setCareerMatches: (matches: CareerMatch[]) => void;
+  setJobMatches: (matches: JobMatch[]) => void;
   setIsReflecting: (v: boolean) => void;
   reset: () => void;
 }
@@ -36,7 +36,7 @@ export const useDiscoverStore = create<DiscoverStore>((set) => ({
   answers: [],
   revealedPreferences: DEFAULT_PREFERENCES,
   reflections: [],
-  careerMatches: [],
+  jobMatches: [],
   isReflecting: false,
 
   setAnswer: (answer) =>
@@ -56,7 +56,7 @@ export const useDiscoverStore = create<DiscoverStore>((set) => ({
 
   setPreferences: (revealedPreferences) => set({ revealedPreferences }),
   setReflections: (reflections) => set({ reflections }),
-  setCareerMatches: (careerMatches) => set({ careerMatches }),
+  setJobMatches: (jobMatches) => set({ jobMatches }),
   setIsReflecting: (isReflecting) => set({ isReflecting }),
 
   reset: () =>
@@ -65,7 +65,7 @@ export const useDiscoverStore = create<DiscoverStore>((set) => ({
       answers: [],
       revealedPreferences: DEFAULT_PREFERENCES,
       reflections: [],
-      careerMatches: [],
+      jobMatches: [],
       isReflecting: false,
     }),
 }));

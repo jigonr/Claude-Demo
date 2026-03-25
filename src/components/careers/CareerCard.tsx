@@ -2,18 +2,18 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { CareerMatch } from "@/lib/types";
+import { JobMatch } from "@/lib/types";
 import { Badge } from "@/components/ui/Badge";
 
-interface CareerCardProps {
-  match: CareerMatch;
+interface JobCardProps {
+  match: JobMatch;
   index: number;
   isSurprise?: boolean;
 }
 
-export function CareerCard({ match, index, isSurprise = false }: CareerCardProps) {
+export function JobCard({ match, index, isSurprise = false }: JobCardProps) {
   const [expanded, setExpanded] = useState(false);
-  const { career, score, matchExplanation } = match;
+  const { job, score, matchExplanation } = match;
   const matchPct = Math.round(score * 100);
 
   return (
@@ -30,12 +30,16 @@ export function CareerCard({ match, index, isSurprise = false }: CareerCardProps
         <div className="flex-1">
           <div className="flex items-center gap-3 flex-wrap">
             <h3 className="font-[family-name:var(--font-heading)] text-xl text-foreground">
-              {career.title}
+              {job.title}
             </h3>
             {isSurprise && (
               <Badge label="Surprise pick" type="surprise" />
             )}
           </div>
+          <p className="mt-1 text-sm text-muted">
+            {job.company} &middot; {job.location.city}, {job.location.state}
+            {job.location.remote !== "on-site" && ` \u00b7 ${job.location.remote}`}
+          </p>
           <p className="mt-2 text-sm text-muted leading-relaxed">
             {matchExplanation}
           </p>
@@ -48,20 +52,14 @@ export function CareerCard({ match, index, isSurprise = false }: CareerCardProps
 
       {/* Tags */}
       <div className="mt-4 flex flex-wrap gap-2">
-        {career.tags.map((tag) => (
+        {job.tags.map((tag) => (
           <Badge key={tag} label={tag} />
         ))}
       </div>
 
       {/* Salary range */}
       <div className="mt-4 text-sm text-muted">
-        {career.incomeTrajectory.length > 0 && (
-          <span>
-            ${(career.incomeTrajectory[0].amount / 1000).toFixed(0)}K →{" "}
-            ${(career.incomeTrajectory[career.incomeTrajectory.length - 1].amount / 1000).toFixed(0)}K
-            over {career.incomeTrajectory[career.incomeTrajectory.length - 1].year} years
-          </span>
-        )}
+        ${(job.salary.min / 1000).toFixed(0)}K &ndash; ${(job.salary.max / 1000).toFixed(0)}K / year
       </div>
 
       {/* Expanded detail */}
@@ -77,27 +75,42 @@ export function CareerCard({ match, index, isSurprise = false }: CareerCardProps
             <div className="mt-6 pt-6 border-t border-foreground/10 space-y-6">
               {/* Description */}
               <div>
-                <h4 className="text-sm font-semibold text-foreground mb-2">What it actually involves</h4>
-                <p className="text-sm text-muted leading-relaxed">{career.description}</p>
+                <h4 className="text-sm font-semibold text-foreground mb-2">About this role</h4>
+                <p className="text-sm text-muted leading-relaxed">{job.description}</p>
               </div>
 
-              {/* Day in life */}
+              {/* Responsibilities */}
               <div>
-                <h4 className="text-sm font-semibold text-foreground mb-2">A typical day</h4>
-                <p className="text-sm text-muted leading-relaxed italic">{career.dayInLife}</p>
+                <h4 className="text-sm font-semibold text-foreground mb-2">What you&rsquo;d do</h4>
+                <ul className="text-sm text-muted leading-relaxed space-y-1 list-disc list-inside">
+                  {job.responsibilities.slice(0, 5).map((r, i) => (
+                    <li key={i}>{r}</li>
+                  ))}
+                </ul>
               </div>
 
-              {/* Surprise factor */}
+              {/* Requirements */}
               <div>
-                <h4 className="text-sm font-semibold text-foreground mb-2">Why you wouldn&rsquo;t have found this</h4>
-                <p className="text-sm text-muted leading-relaxed">{career.surpriseFactor}</p>
+                <h4 className="text-sm font-semibold text-foreground mb-2">What they&rsquo;re looking for</h4>
+                <p className="text-sm text-muted">{job.requirements.education} &middot; {job.requirements.experience_years} years experience</p>
+                <div className="mt-2 flex flex-wrap gap-2">
+                  {job.requirements.skills.map((skill) => (
+                    <Badge key={skill} label={skill} />
+                  ))}
+                </div>
               </div>
 
-              {/* Micro experiment */}
-              <div className="bg-accent/5 rounded-xl p-4">
-                <h4 className="text-sm font-semibold text-accent mb-1">Try it this week</h4>
-                <p className="text-sm text-foreground leading-relaxed">{career.microExperiment}</p>
-              </div>
+              {/* Benefits */}
+              {job.benefits.length > 0 && (
+                <div>
+                  <h4 className="text-sm font-semibold text-foreground mb-2">Benefits</h4>
+                  <ul className="text-sm text-muted leading-relaxed space-y-1 list-disc list-inside">
+                    {job.benefits.slice(0, 4).map((b, i) => (
+                      <li key={i}>{b}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
             </div>
           </motion.div>
         )}
