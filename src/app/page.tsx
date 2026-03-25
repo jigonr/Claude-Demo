@@ -129,7 +129,7 @@ export default function Home() {
       </main>
 
       {/* Stats strip */}
-      <section className="border-b border-border px-6 py-14 bg-surface">
+      <section className="px-6 py-14 bg-highlight text-white">
         <div className="mx-auto max-w-3xl grid grid-cols-3 gap-8 text-center">
           {stats.map((stat, i) => (
             <motion.div
@@ -140,14 +140,14 @@ export default function Home() {
               transition={{ delay: i * 0.1, duration: 0.5 }}
             >
               <div className="text-3xl sm:text-4xl font-bold text-accent">{stat.number}</div>
-              <div className="mt-2 text-xs sm:text-sm text-muted leading-snug">{stat.label}</div>
+              <div className="mt-2 text-xs sm:text-sm text-white/50 leading-snug">{stat.label}</div>
             </motion.div>
           ))}
         </div>
       </section>
 
       {/* Approach cards */}
-      <section className="px-6 py-24 sm:py-32">
+      <section className="px-6 py-24 sm:py-32 bg-white">
         <div className="mx-auto max-w-3xl">
           <motion.p
             className="text-sm font-semibold uppercase tracking-widest text-accent mb-4"
