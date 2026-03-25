@@ -77,15 +77,17 @@ git push origin --delete feature/my-feature
 
 ## MVP SPEC (V1 — ship this first)
 
-**Goal:** End-to-end flow from questions to career matches. No API dependencies. No AI. Ship fast.
+**Goal:** End-to-end flow from questions → AI reflection → career matches → next steps. The Claude API reflection IS the product — it's what makes Pathfinder different from every career quiz on the internet.
 
 ### Three screens after the questionnaire:
 
-**Screen 1: Mirror Recap** (`/discover/lens`)
-- Show the user's 9 dimensions as a simple radar/bar visualization
-- 2-3 **deterministic contradictions** detected from answer pairs (no Claude API needed)
-- Example: "You want creative freedom but chose the €90K boring job. Financial security matters more to you than you think."
-- Contradiction detection = pure logic: if answer A conflicts with answer B → show insight
+**Screen 1: AI Reflection** (`/discover/lens`) — THE CORE VALUE
+- Call Claude API with user's answers + derived preferences
+- Claude detects contradictions, hidden assumptions, and surprises in the answers
+- Contradiction detection is embedded in the prompt (not separate deterministic logic)
+- Display 3-5 reflections with staggered reveal animation
+- Each reflection: punchy title, 2-4 sentence body, type badge (contradiction/assumption/surprise/reframe)
+- Interactive feel: fast responses, conversational tone
 - "See Your Matches" button → `/discover/map`
 
 **Screen 2: Your Matches** (`/discover/map`)
@@ -101,7 +103,6 @@ git push origin --delete feature/my-feature
 - "Start Over" button → reset store, back to `/`
 
 ### What is CUT from V1 (do NOT build these yet):
-- ~~Claude API reflection~~ → replaced by deterministic contradiction detection
 - ~~Detailed career profiles~~ → just the match card
 - ~~Learning path timelines~~ → V2
 - ~~Income trajectory charts~~ → V2
@@ -117,20 +118,18 @@ git push origin --delete feature/my-feature
 | # | Task | Owner | Status | Files | Blocked By |
 |---|------|-------|--------|-------|------------|
 | 1 | Career database with dimension vectors | **David** | IN PROGRESS | `src/data/careers.ts`, `job_data/` | -- |
-| 2 | Contradiction detection logic | **Next up** | TODO | `src/lib/contradictions.ts` | -- |
-| 3 | Mirror Recap page (replace lens stub) | **Maks** | TODO | `src/app/discover/lens/page.tsx` | #2 |
-| 4 | Map page — 5 career match cards | **Maks** | TODO | `src/app/discover/map/page.tsx`, `src/components/careers/` | #1 |
-| 5 | Path page — micro-experiments list | **Maks** | TODO | `src/app/discover/path/page.tsx` | #1 |
+| 2 | Claude API reflection + contradiction detection in prompt | **Maks** | IN PROGRESS | `src/app/api/reflect/route.ts`, `src/app/discover/lens/page.tsx` | -- |
+| 3 | Map page — 5 career match cards | **Maks** | TODO | `src/app/discover/map/page.tsx`, `src/components/careers/` | #1 |
+| 4 | Path page — micro-experiments list | **Maks** | TODO | `src/app/discover/path/page.tsx` | #1 |
 
-### Sprint 2: AI + Polish (after MVP ships)
+### Sprint 2: Polish (after MVP ships)
 
 | # | Task | Owner | Status | Files |
 |---|------|-------|--------|-------|
-| 6 | Claude API integration (upgrade lens to AI reflection) | Maks | TODO | `src/app/api/reflect/route.ts` |
-| 7 | Fix data bugs (mastery-or-variety weight, legacy-question type) | Anyone | TODO | `src/data/questions.ts` |
-| 8 | End-to-end flow testing | All | TODO | -- |
-| 9 | Mobile responsiveness pass | Maks | TODO | All pages |
-| 10 | Career detail expansion (stories, income, learning paths) | David | TODO | `src/data/careers.ts` |
+| 5 | Fix data bugs (mastery-or-variety weight, legacy-question type) | Anyone | TODO | `src/data/questions.ts` |
+| 6 | End-to-end flow testing | All | TODO | -- |
+| 7 | Mobile responsiveness pass | Maks | TODO | All pages |
+| 8 | Career detail expansion (stories, income, learning paths) | David | TODO | `src/data/careers.ts` |
 
 ---
 
