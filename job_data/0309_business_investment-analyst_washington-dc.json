@@ -1,0 +1,50 @@
+{
+  "id": "0309",
+  "title": "Investment Analyst",
+  "category": "business",
+  "company": "GEICO",
+  "industry": "Insurance",
+  "location": {
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 84000,
+    "max": 108000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "GEICO is a Fortune 500 car insurance company serving 13M+ policy holders. We've become synonymous with affordable insurance.\n\nWe're seeking a Investment Analyst to join our Insurance team in Washington. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Research and analyze investment opportunities across public equities and fixed income securities",
+    "Develop financial models and valuation analyses to support investment decisions",
+    "Monitor portfolio performance and prepare performance reports for leadership",
+    "Analyze company financial statements and assess investment risk/return profiles",
+    "Present investment recommendations to the investment committee",
+    "Stay current on market trends, economic conditions, and industry developments"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Economics, Business, or related field",
+    "experience_years": "2-4 years in investment management, equity research, or financial analysis",
+    "skills": [
+      "Financial modeling (Excel)",
+      "Securities analysis",
+      "Valuation methodologies",
+      "Portfolio analysis",
+      "Communication"
+    ],
+    "certifications": [
+      "CFA Level I or II, or Series 7/63 preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and performance bonus",
+    "Onsite in Washington, DC",
+    "Flexible benefits",
+    "Retirement plan matching"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-14"
+}

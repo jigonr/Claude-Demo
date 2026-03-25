@@ -1,0 +1,50 @@
+{
+  "id": "0272",
+  "title": "Business Development Representative",
+  "category": "business",
+  "company": "PwC",
+  "industry": "Professional Services",
+  "location": {
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 56000,
+    "max": 75000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-09",
+  "description": "PwC is expanding our Seattle market presence and seeking Business Development Representatives to drive new client acquisition and relationship growth. You'll be part of a world-class consulting firm where your sales and client relationship skills can grow your career. Join us on-site in our Seattle office.",
+  "responsibilities": [
+    "Identify and prospect new business opportunities within assigned market segments",
+    "Conduct needs assessments with prospective clients and present tailored consulting solutions",
+    "Build and maintain strong relationships with decision-makers and key stakeholders",
+    "Collaborate with service teams to develop compelling proposals and pitches",
+    "Track pipeline activity and maintain accurate forecasts in CRM systems",
+    "Exceed quarterly revenue targets and contribute to team goals"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, Marketing, or related field",
+    "experience_years": "2-4",
+    "skills": [
+      "Proven sales ability with track record of quota attainment",
+      "Understanding of consulting services and business solutions",
+      "Strong relationship-building and communication skills",
+      "Proficiency with CRM systems and sales tools",
+      "Strategic thinking and problem-solving abilities",
+      "Ability to work in a team-oriented environment"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive base salary with performance-based bonus",
+    "Comprehensive health, dental, and vision coverage",
+    "Retirement plan with matching contributions",
+    "Professional development and coaching programs",
+    "On-site perks including cafeteria and fitness center"
+  ]
+}

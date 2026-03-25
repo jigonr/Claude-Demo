@@ -1,0 +1,50 @@
+{
+  "id": "0316",
+  "title": "Strategy Analyst",
+  "category": "business",
+  "company": "FedEx",
+  "industry": "Logistics",
+  "location": {
+    "city": "Rochester",
+    "state": "MN",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 58000,
+    "max": 76000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "FedEx operates the world's largest express delivery network, shipping to 220+ countries with cutting-edge logistics technology.\n\nWe're seeking a Strategy Analyst to join our Logistics team in Rochester. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Conduct market and competitive analysis to inform corporate strategy",
+    "Develop financial models and business case analyses for strategic initiatives",
+    "Support long-range planning and scenario analysis for logistics network optimization",
+    "Analyze operational data to identify efficiency opportunities and cost reduction",
+    "Prepare executive presentations and strategic recommendations",
+    "Monitor industry trends and assess impact on business strategy"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Economics, Engineering, or related field",
+    "experience_years": "2-4 years in strategy, operations, management consulting, or finance",
+    "skills": [
+      "Financial modeling (Excel)",
+      "Strategic thinking",
+      "Business analysis",
+      "Data visualization",
+      "Communication"
+    ],
+    "certifications": [
+      "CPA, MBA, or consulting certifications preferred but not required"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and performance bonus",
+    "Hybrid work arrangement",
+    "Professional development fund",
+    "Comprehensive benefits"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-22"
+}

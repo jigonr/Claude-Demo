@@ -1,0 +1,50 @@
+{
+  "id": "0263",
+  "title": "Payroll Coordinator",
+  "category": "business",
+  "company": "Costco",
+  "industry": "Retail",
+  "location": {
+    "city": "Portland",
+    "state": "OR",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 47000,
+    "max": 60000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-01-22",
+  "description": "Costco is seeking a Payroll Coordinator to manage payroll processing for our Portland distribution center and regional headquarters. You will process pay cycles, manage employee data, ensure regulatory compliance, and provide payroll support to managers and employees. This role requires meticulous attention to accuracy and deadlines.",
+  "responsibilities": [
+    "Process bi-weekly payroll for hourly and salaried employees",
+    "Verify timekeeping data and resolve discrepancies",
+    "Manage employee master data and maintain data accuracy",
+    "Prepare and distribute pay statements and tax documents",
+    "Ensure compliance with federal, state, and local tax regulations",
+    "Support managers with payroll questions and documentation"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Accounting, Finance, or Business Administration preferred; high school diploma minimum",
+    "experience_years": "1-2",
+    "skills": [
+      "Payroll processing systems and HRIS platforms",
+      "Attention to detail and accuracy",
+      "Knowledge of payroll taxes and regulations",
+      "Data entry and spreadsheet skills",
+      "Communication and employee service orientation"
+    ],
+    "certifications": [
+      "None required; CPP certification preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and health benefits",
+    "Costco employee discount (2% of salary or more)",
+    "401(k) plan with company match",
+    "Paid time off and health/wellness programs"
+  ]
+}

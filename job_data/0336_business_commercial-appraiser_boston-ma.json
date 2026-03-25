@@ -1,0 +1,50 @@
+{
+  "id": "0336",
+  "title": "Commercial Appraiser",
+  "category": "business",
+  "company": "Vanguard",
+  "industry": "Asset Management",
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 60000,
+    "max": 77000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Vanguard manages $8 trillion in global assets, serving millions of investors with a client-first philosophy since 1975.\n\nWe're seeking a Commercial Appraiser to join our Asset Management team in Boston. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Conduct comprehensive valuations of commercial real estate properties",
+    "Analyze comparable property sales and market conditions to determine fair value",
+    "Prepare detailed appraisal reports and supporting documentation",
+    "Interpret financial statements and property operating statements",
+    "Stay current on market trends and property valuation methodologies",
+    "Maintain professional credentials and comply with appraisal standards"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Real Estate, Finance, or related field",
+    "experience_years": "3-5 years of commercial real estate appraisal experience",
+    "skills": [
+      "Commercial real estate analysis",
+      "Financial modeling",
+      "Market research",
+      "Appraisal software",
+      "Attention to detail"
+    ],
+    "certifications": [
+      "State-licensed Commercial Real Estate Appraiser, MAI credential preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive base salary with performance incentives",
+    "Remote work flexibility",
+    "Professional development support",
+    "Benefits package"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-22"
+}

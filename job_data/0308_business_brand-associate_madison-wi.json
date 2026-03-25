@@ -1,0 +1,51 @@
+{
+  "id": "0308",
+  "title": "Brand Associate",
+  "category": "business",
+  "company": "EY",
+  "industry": "Professional Services",
+  "location": {
+    "city": "Madison",
+    "state": "WI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 43000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "EY is a leading professional services firm with 312K employees serving clients across audit, tax, consulting, and advisory. You'll work with top-tier clients on strategic brand initiatives.",
+  "responsibilities": [
+    "Develop and implement brand strategy initiatives",
+    "Create brand guidelines and marketing standards",
+    "Support brand awareness campaigns",
+    "Analyze brand perception and market positioning",
+    "Manage brand partnerships and collaborations",
+    "Present brand recommendations to leadership"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, Communications, or Business Administration",
+    "experience_years": "1-3 years of brand management, marketing, or communications experience",
+    "skills": [
+      "Brand strategy",
+      "Marketing communications",
+      "Design basics",
+      "Analytics",
+      "Project management"
+    ],
+    "certifications": [
+      "Brand management certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health and wellness benefits",
+    "401(k) retirement savings plan with matching",
+    "Paid vacation, holidays, and personal days",
+    "Career advancement and training opportunities",
+    "Employee recognition and incentive programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-23"
+}

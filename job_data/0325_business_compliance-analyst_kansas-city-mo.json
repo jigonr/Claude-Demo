@@ -1,0 +1,49 @@
+{
+  "id": "0325",
+  "title": "Compliance Analyst",
+  "category": "business",
+  "company": "Bank of America",
+  "industry": "Banking",
+  "location": {
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 46000,
+    "max": 61000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Bank of America, America's largest bank, seeks a Compliance Analyst for our Kansas City operations center. You'll monitor transactions, assess regulatory risks, and ensure our operations meet stringent federal and state compliance requirements. Work onsite in a structured environment where you'll contribute to BofA's mission of managing systemic financial risk.",
+  "responsibilities": [
+    "Monitor financial transactions and flag suspicious activity for investigation",
+    "Review customer accounts and documentation for compliance with regulatory requirements",
+    "Prepare compliance reports and audit materials for internal and external regulators",
+    "Maintain transaction monitoring systems and update compliance procedures",
+    "Coordinate with multiple departments to address compliance issues",
+    "Participate in regulatory examinations and respond to audit findings"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Accounting, Business, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Understanding of banking compliance and Anti-Money Laundering (AML) regulations",
+      "Attention to detail and accuracy",
+      "Data analysis and reporting",
+      "Proficiency in SQL or financial systems",
+      "Communication and documentation skills",
+      "Ability to handle sensitive information confidentially"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, vision, life, and disability insurance",
+    "401(k) with company match",
+    "Employee Stock Purchase Plan",
+    "Tuition reimbursement and professional development"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-11"
+}

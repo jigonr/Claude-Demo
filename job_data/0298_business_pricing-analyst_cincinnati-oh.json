@@ -1,0 +1,48 @@
+{
+  "id": "0298",
+  "title": "Pricing Analyst",
+  "category": "business",
+  "company": "Nike",
+  "industry": "Apparel",
+  "location": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 49000,
+    "max": 63000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Nike is seeking a Pricing Analyst to optimize pricing strategies across our global product portfolio. Analyze market dynamics, competitor pricing, and demand elasticity to recommend pricing that maximizes revenue and market share. Work onsite in Cincinnati, home to Nike World Headquarters, contributing to iconic athletic brands.",
+  "responsibilities": [
+    "Analyze sales data, market trends, and competitor pricing to inform pricing recommendations",
+    "Develop pricing models using statistical analysis and Excel tools",
+    "Monitor price performance and elasticity across product categories",
+    "Support promotional planning and margin optimization initiatives",
+    "Prepare reports and presentations for merchandising and finance teams"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Economics, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Statistical analysis and modeling",
+      "Advanced Excel with data analysis functions",
+      "Retail and demand understanding",
+      "Business acumen and market awareness",
+      "Clear communication and presentation skills"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with generous company match",
+    "Employee product discounts",
+    "Professional development and tuition assistance"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-03-10"
+}

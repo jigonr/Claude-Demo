@@ -1,0 +1,48 @@
+{
+  "id": "0319",
+  "title": "Social Media Coordinator",
+  "category": "business",
+  "company": "Target",
+  "industry": "Retail",
+  "location": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 37000,
+    "max": 49000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Target is seeking a Social Media Coordinator to manage our community engagement and brand presence remotely. You'll create content, respond to customer inquiries, and track analytics across social platforms. This role offers the opportunity to connect with millions of Target guests and build authentic brand relationships.",
+  "responsibilities": [
+    "Create and schedule engaging social media content across platforms (Instagram, TikTok, Facebook, Twitter)",
+    "Respond to customer inquiries and comments; provide excellent customer service on social channels",
+    "Monitor social media trends and competitor activity; recommend content strategies",
+    "Track social metrics and performance; prepare reports on engagement and reach",
+    "Collaborate with marketing and merchandising teams to align social content with campaigns"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, Communications, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Social media platforms and tools",
+      "Content creation and copywriting",
+      "Scheduling and publishing tools",
+      "Analytics and reporting",
+      "Community management"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Health, dental, vision coverage",
+    "401(k) with company match",
+    "Paid time off (15 days)",
+    "Exclusive Target discounts"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-02"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0191",
+  "title": "Sales Operations Analyst",
+  "category": "business",
+  "company": "Charles Schwab",
+  "industry": "Brokerage",
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 65000,
+    "max": 85000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Charles Schwab is seeking a Sales Operations Analyst to support our growing Boston sales team. You'll be the backbone of our revenue operations, ensuring our sales force has the tools, data, and processes they need to excel in serving our clients. We're looking for someone analytical, detail-oriented, and passionate about enabling sales success through operational excellence.",
+  "responsibilities": [
+    "Maintain and analyze Salesforce data integrity, identifying trends and anomalies affecting sales team performance",
+    "Create and maintain sales dashboards and reporting frameworks that track pipeline, conversion rates, and forecast accuracy",
+    "Collaborate with sales leadership to design compensation models and territory structures that drive optimal results",
+    "Support the implementation of new sales tools and processes, providing training and ongoing support to end users",
+    "Generate weekly and monthly sales reports, conducting variance analysis and recommending process improvements"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business Administration, Finance, or related field preferred",
+    "experience_years": "2-4",
+    "skills": [
+      "Salesforce administration and configuration",
+      "Excel and SQL for data analysis",
+      "Strong analytical and problem-solving abilities",
+      "Excellent communication and stakeholder management",
+      "Process documentation and optimization"
+    ],
+    "certifications": [
+      "Salesforce Administrator certification (preferred)"
+    ]
+  },
+  "benefits": [
+    "Competitive health, dental, and vision coverage",
+    "401(k) matching up to 6% of salary",
+    "Professional development budget of $2,000 annually",
+    "Flexible work arrangement with 3 days onsite, 2 days remote",
+    "Tuition reimbursement for job-related courses"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-12"
+}

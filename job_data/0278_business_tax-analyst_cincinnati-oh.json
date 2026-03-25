@@ -1,0 +1,52 @@
+{
+  "id": "0278",
+  "title": "Tax Analyst",
+  "category": "business",
+  "company": "PepsiCo",
+  "industry": "Food & Beverage",
+  "location": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 46000,
+    "max": 59000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "PepsiCo is the world's leading food and beverage company with $91B in net revenue and operations in 200+ countries. As a Tax Analyst, you'll ensure compliance and optimize our global tax position.",
+  "responsibilities": [
+    "Prepare and review tax compliance filings across multiple jurisdictions",
+    "Analyze tax implications of corporate transactions and restructurings",
+    "Maintain tax provision calculations and support external audits",
+    "Research tax law changes and assess impact on company strategy",
+    "Work with business units to identify tax planning opportunities",
+    "Document tax positions and maintain supporting schedules"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Accounting, Finance, or related field",
+    "experience_years": "2-4 years of tax preparation or tax compliance experience",
+    "skills": [
+      "Tax research",
+      "Federal/state tax preparation",
+      "Tax software",
+      "Financial analysis",
+      "Attention to detail"
+    ],
+    "certifications": [
+      "CPA (preferred)",
+      "Enrolled Agent (preferred)"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health and wellness benefits",
+    "401(k) retirement savings plan with matching",
+    "Paid vacation, holidays, and personal days",
+    "Career advancement and training opportunities",
+    "Employee recognition and incentive programs"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-22"
+}

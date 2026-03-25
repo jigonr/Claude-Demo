@@ -1,0 +1,48 @@
+{
+  "id": "0253",
+  "title": "Program Associate",
+  "category": "business",
+  "company": "State Farm",
+  "industry": "Insurance",
+  "location": {
+    "city": "Rochester",
+    "state": "MN",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 45000,
+    "max": 58000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "State Farm is seeking a Program Associate to support operational initiatives across our organization. You'll coordinate program activities, manage stakeholder communications, and ensure successful execution of key business initiatives. Work remotely for one of America's largest insurance companies committed to being a good neighbor.",
+  "responsibilities": [
+    "Coordinate program activities and track progress against timelines",
+    "Support project teams with scheduling, documentation, and reporting",
+    "Communicate with stakeholders to gather requirements and provide updates",
+    "Maintain program records and develop tracking tools",
+    "Identify process improvements and recommend optimization opportunities"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Project Management, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Project coordination and organization",
+      "Strong written and verbal communication",
+      "Excel and data tracking",
+      "Ability to juggle multiple priorities",
+      "Attention to detail"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Professional development programs",
+    "Remote-first culture with flexible scheduling"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-24"
+}

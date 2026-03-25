@@ -1,0 +1,50 @@
+{
+  "id": "0197",
+  "title": "Project Coordinator",
+  "category": "business",
+  "company": "Under Armour",
+  "industry": "Apparel",
+  "location": {
+    "city": "Madison",
+    "state": "WI",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 43000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Under Armour is a global athletic apparel company creating performance equipment for athletes across 190+ countries.\n\nWe're seeking a Project Coordinator to join our Apparel team in Madison. This role offers the opportunity to contribute meaningfully to our mission while developing your professional skills in a collaborative environment.",
+  "responsibilities": [
+    "Support project managers in planning, executing, and closing projects",
+    "Maintain project schedules, budgets, and status documentation",
+    "Coordinate communication between project team and stakeholders",
+    "Track project deliverables and ensure timely completion",
+    "Prepare status reports and project documentation",
+    "Support process improvement initiatives and best practices"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Project Management, or related field",
+    "experience_years": "1-2 years in project coordination, operations, or business administration",
+    "skills": [
+      "Project management tools (Asana, Monday.com)",
+      "Scheduling and planning",
+      "Communication",
+      "Attention to detail",
+      "Organizational skills"
+    ],
+    "certifications": [
+      "CAPM or equivalent project management certification preferred"
+    ]
+  },
+  "benefits": [
+    "Hybrid work flexibility in Madison",
+    "Health and dental insurance",
+    "401(k) matching",
+    "Professional development budget"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-21"
+}

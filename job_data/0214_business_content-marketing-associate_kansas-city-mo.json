@@ -1,0 +1,48 @@
+{
+  "id": "0214",
+  "title": "Content Marketing Associate",
+  "category": "business",
+  "company": "Capital One",
+  "industry": "Banking",
+  "location": {
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 40000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Capital One is looking for a Content Marketing Associate to create compelling financial education content and marketing materials from our Kansas City headquarters. You'll help drive brand awareness and customer engagement by producing blog posts, guides, and digital assets. Working within our Marketing organization, you'll support campaigns that resonate with our diverse customer base, learning financial services marketing in a Fortune 500 environment.",
+  "responsibilities": [
+    "Create engaging blog posts, whitepapers, and guides on financial topics tailored to customer segments and personas",
+    "Develop marketing copy for digital campaigns, email, and website that drive engagement and conversions",
+    "Conduct keyword research and optimize content for search engines to increase organic visibility",
+    "Collaborate with product marketing and design teams to ensure consistent messaging across channels",
+    "Track content performance through analytics and provide insights to improve strategy and results"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, Communications, English, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Content writing and editing",
+      "SEO fundamentals",
+      "Google Analytics",
+      "Project management tools",
+      "Basic HTML knowledge"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Health, dental, and vision coverage",
+    "401(k) with company match",
+    "Paid time off (17 days)",
+    "Tuition assistance program",
+    "Employee stock purchase plan"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-17"
+}

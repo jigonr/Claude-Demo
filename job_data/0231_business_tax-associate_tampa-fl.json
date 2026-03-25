@@ -1,0 +1,49 @@
+{
+  "id": "0231",
+  "title": "Tax Associate",
+  "category": "business",
+  "company": "Allstate",
+  "industry": "Insurance",
+  "location": {
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 49000,
+    "max": 61000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Allstate, one of America's leading insurers, seeks a Tax Associate for our Tampa service center. You'll support corporate tax compliance, prepare tax filings, and conduct tax research for Allstate's insurance operations. This role combines technical tax expertise with exposure to a Fortune 500 company's complex tax strategy. Working onsite in Tampa, you'll grow your tax career with structured mentorship and advancement opportunities.",
+  "responsibilities": [
+    "Prepare corporate income tax returns and supporting documentation",
+    "Conduct tax research on multistate tax issues and insurance-specific regulations",
+    "Maintain tax compliance calendars and monitor filing deadlines",
+    "Assist with tax provision analysis and estimated quarterly tax calculations",
+    "Organize and maintain tax workpapers and compliance documentation",
+    "Support tax planning initiatives and coordinate with external tax advisors"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Accounting, Finance, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Tax knowledge including federal and state tax concepts",
+      "Attention to detail and accuracy",
+      "Proficiency in Excel and tax software",
+      "Strong written and verbal communication",
+      "Ability to manage multiple priorities",
+      "Knowledge of insurance industry (preferred)"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Tuition reimbursement for continuing education",
+    "Onsite fitness center and dining options"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-08"
+}

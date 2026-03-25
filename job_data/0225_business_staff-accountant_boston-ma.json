@@ -1,0 +1,52 @@
+{
+  "id": "0225",
+  "title": "Staff Accountant",
+  "category": "business",
+  "company": "KPMG",
+  "industry": "Professional Services",
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 62000,
+    "max": 81000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-03-13",
+  "description": "KPMG is seeking a Staff Accountant to support our Boston office's accounting and audit services. Work fully remote while building your expertise in financial accounting and compliance. Join one of the Big Four accounting firms serving the world's leading organizations.",
+  "responsibilities": [
+    "Perform audit procedures and financial statement analysis",
+    "Prepare accounting adjustments and journal entries",
+    "Develop and review working papers and audit documentation",
+    "Assist with client financial statement preparation and reviews",
+    "Support tax compliance and regulatory filings",
+    "Communicate with clients and team members on audit findings"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Accounting or Finance",
+    "experience_years": "2-4",
+    "skills": [
+      "GAAP knowledge and accounting principles",
+      "Excel and accounting software proficiency",
+      "Audit and financial analysis skills",
+      "Attention to detail and regulatory compliance",
+      "Written and verbal communication skills",
+      "Ability to work independently and in teams"
+    ],
+    "certifications": [
+      "CPA (Certified Public Accountant) or pursuing licensure"
+    ]
+  },
+  "benefits": [
+    "Fully remote work arrangement",
+    "Competitive salary with performance bonus",
+    "Comprehensive health, dental, and vision coverage",
+    "CPA exam and professional development support",
+    "Flexible work arrangements and career advancement"
+  ]
+}

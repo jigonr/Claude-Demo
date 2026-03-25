@@ -1,0 +1,50 @@
+{
+  "id": "0327",
+  "title": "Training Coordinator",
+  "category": "business",
+  "company": "Travelers",
+  "industry": "Insurance",
+  "location": {
+    "city": "Detroit",
+    "state": "MI",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 40000,
+    "max": 52000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Travelers, a leading insurance company, seeks a Training Coordinator to deliver employee development programs across our organization. Working fully remote, you'll design training content, manage schedules, and support compliance education. Build your career in learning and development while supporting an organization that values continuous growth.",
+  "responsibilities": [
+    "Coordinate scheduling and logistics for training programs and workshops",
+    "Develop training materials and support curriculum design",
+    "Track training completion, engagement, and learner feedback",
+    "Manage learning management systems and training records",
+    "Support compliance and regulatory training requirements",
+    "Communicate training needs and deadlines to managers"
+  ],
+  "requirements": {
+    "education": "High school diploma or GED; Bachelor's degree preferred",
+    "experience_years": "1-2",
+    "skills": [
+      "Project coordination and organizational skills",
+      "Communication and presentation abilities",
+      "Microsoft Office and training technology platforms",
+      "Attention to detail and follow-through",
+      "Customer service orientation",
+      "Basic knowledge of training principles"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Fully remote position",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Professional development and learning opportunities",
+    "Flexible paid time off"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-01-20"
+}

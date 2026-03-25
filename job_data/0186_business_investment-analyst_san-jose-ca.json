@@ -1,0 +1,54 @@
+{
+  "id": "0186",
+  "title": "Investment Analyst",
+  "category": "business",
+  "company": "Marsh McLennan",
+  "industry": "Risk Management",
+  "location": {
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 94000,
+    "max": 121000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Investment Analyst at Marsh McLennan. This is an exciting opportunity to join our prestigious, client-focused, institutional team and make a direct impact on our mission. If you have 3-5 years years of experience and are passionate about Risk Management, we'd love to hear from you.",
+  "responsibilities": [
+    "Evaluate investment opportunities across multiple asset classes and geographies",
+    "Conduct due diligence on portfolio companies and fund managers",
+    "Build financial models to assess risk-adjusted returns and valuation scenarios",
+    "Monitor portfolio performance against benchmarks and provide quarterly analysis",
+    "Present investment theses and recommendations to investment committee",
+    "Support deal sourcing and negotiations with internal and external stakeholders"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Economics, or Business",
+    "experience_years": "3-5 years",
+    "skills": [
+      "Financial modeling",
+      "Valuation methods",
+      "Due diligence",
+      "Excel",
+      "Investment analysis"
+    ],
+    "certifications": [
+      "CFA Level I preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule",
+    "Career development opportunities",
+    "Employee recognition programs",
+    "Community involvement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-24"
+}

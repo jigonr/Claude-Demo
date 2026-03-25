@@ -1,0 +1,50 @@
+{
+  "id": "0255",
+  "title": "Revenue Analyst",
+  "category": "business",
+  "company": "Morgan Stanley",
+  "industry": "Investment Banking",
+  "location": {
+    "city": "Research Triangle Park",
+    "state": "NC",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 71000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-07",
+  "description": "Morgan Stanley seeks a Revenue Analyst for our Research Triangle Park office to support revenue forecasting, client billing analysis, and profitability reporting across our wealth management division. You will partner with finance and operations teams to ensure accurate revenue recognition, analyze client revenue trends, and develop reporting frameworks that guide strategic decision-making.",
+  "responsibilities": [
+    "Maintain revenue forecasting models and update projections based on market conditions and client activity",
+    "Analyze client billing data and reconcile revenue recognized to actual client contracts",
+    "Prepare monthly and quarterly revenue reports for management review",
+    "Investigate revenue variances and provide explanations to finance leadership",
+    "Support audit preparation by organizing revenue documentation and supporting schedules",
+    "Develop dashboards to track key revenue metrics and client profitability trends"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Accounting, Economics, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "Financial analysis and revenue forecasting",
+      "Advanced Excel and data modeling",
+      "Understanding of ASC 606 revenue recognition standards",
+      "Client profitability analysis",
+      "Financial reporting and presentation"
+    ],
+    "certifications": [
+      "CPA or CFA candidate status preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary and annual bonus structure",
+    "Comprehensive health, dental, vision, and life insurance",
+    "Morgan Stanley 401(k) plan with company match",
+    "Professional development and continuing education support"
+  ]
+}

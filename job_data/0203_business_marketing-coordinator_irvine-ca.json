@@ -1,0 +1,48 @@
+{
+  "id": "0203",
+  "title": "Marketing Coordinator",
+  "category": "business",
+  "company": "T. Rowe Price",
+  "industry": "Asset Management",
+  "location": {
+    "city": "Irvine",
+    "state": "CA",
+    "country": "US",
+    "remote": "hybrid"
+  },
+  "salary": {
+    "min": 51000,
+    "max": 66000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "T. Rowe Price is seeking a Marketing Coordinator to support marketing campaigns and communications for our investment services. You'll coordinate event logistics, manage campaign materials, and support product marketing initiatives. Work hybrid in Irvine for a leading independent investment management company.",
+  "responsibilities": [
+    "Coordinate marketing campaign execution and timeline management",
+    "Manage marketing materials and asset libraries",
+    "Support event logistics and attendee coordination",
+    "Assist with email marketing campaign setup and tracking",
+    "Prepare marketing reports and performance summaries"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Marketing, Communications, or Business",
+    "experience_years": "0-2",
+    "skills": [
+      "Project coordination and attention to detail",
+      "Marketing technology platforms and email tools",
+      "Content management and organization",
+      "Clear written and verbal communication",
+      "Ability to manage multiple projects"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "Flexible hybrid Irvine office schedule",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-14"
+}

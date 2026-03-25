@@ -1,0 +1,50 @@
+{
+  "id": "0312",
+  "title": "Sales Operations Analyst",
+  "category": "business",
+  "company": "PNC Financial",
+  "industry": "Banking",
+  "location": {
+    "city": "Detroit",
+    "state": "MI",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 44000,
+    "max": 57000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "employment_type": "full-time",
+  "posted_date": "2026-02-07",
+  "description": "PNC Financial is seeking a Sales Operations Analyst to optimize our sales processes, manage CRM systems, and provide analytical support to our banking teams. You will maintain customer data quality, track sales metrics, generate reports, and identify opportunities to improve sales effectiveness.",
+  "responsibilities": [
+    "Maintain and optimize our CRM system and customer database",
+    "Generate sales reports and analyze performance metrics",
+    "Develop dashboards to track sales pipeline and conversion rates",
+    "Create and manage sales tools, templates, and collateral",
+    "Identify process improvements and support implementation",
+    "Provide training on CRM systems and sales tools"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Finance, or related field",
+    "experience_years": "1-3",
+    "skills": [
+      "CRM systems (Salesforce preferred)",
+      "Sales process knowledge",
+      "Data analysis and reporting",
+      "SQL for basic queries",
+      "Communication and training skills"
+    ],
+    "certifications": [
+      "Salesforce certifications preferred"
+    ]
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, vision, and life insurance",
+    "PNC 401(k) with matching",
+    "Professional development and tuition assistance"
+  ]
+}

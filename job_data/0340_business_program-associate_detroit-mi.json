@@ -1,0 +1,48 @@
+{
+  "id": "0340",
+  "title": "Program Associate",
+  "category": "business",
+  "company": "Raytheon",
+  "industry": "Defense",
+  "location": {
+    "city": "Detroit",
+    "state": "MI",
+    "country": "US",
+    "remote": "onsite"
+  },
+  "salary": {
+    "min": 42000,
+    "max": 55000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "Raytheon is seeking a Program Associate to support defense and security programs. You'll coordinate program activities, manage documentation, and support project execution. Work onsite in Detroit for a global aerospace and defense leader.",
+  "responsibilities": [
+    "Coordinate program activities and track schedule performance",
+    "Maintain project documentation and records",
+    "Support program meetings and status reporting",
+    "Communicate with internal and external stakeholders",
+    "Assist with compliance and audit support activities"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Business, Engineering, or related field",
+    "experience_years": "0-2",
+    "skills": [
+      "Program coordination and organization",
+      "Project tracking tools and systems",
+      "Professional communication",
+      "Attention to detail",
+      "Ability to manage multiple priorities"
+    ],
+    "certifications": []
+  },
+  "benefits": [
+    "Competitive salary",
+    "Comprehensive health, dental, and vision coverage",
+    "401(k) with company match",
+    "On-site Detroit office",
+    "Professional development opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-22"
+}

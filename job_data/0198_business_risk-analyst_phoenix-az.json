@@ -1,0 +1,54 @@
+{
+  "id": "0198",
+  "title": "Risk Analyst",
+  "category": "business",
+  "company": "Bain & Company",
+  "industry": "Management Consulting",
+  "location": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "remote": "remote"
+  },
+  "salary": {
+    "min": 55000,
+    "max": 72000,
+    "currency": "USD",
+    "period": "yearly"
+  },
+  "description": "We're hiring a Risk Analyst at Bain & Company. This is an exciting opportunity to join our intellectually rigorous, client-obsessed, elite team and make a direct impact on our mission. If you have 2-4 years years of experience and are passionate about Management Consulting, we'd love to hear from you.",
+  "responsibilities": [
+    "Conduct comprehensive risk assessments across business units and identify mitigation strategies",
+    "Develop and maintain risk frameworks and documentation for regulatory compliance",
+    "Monitor emerging market and operational risks, presenting findings to senior leadership",
+    "Collaborate with cross-functional teams to integrate risk management into strategic initiatives",
+    "Create detailed risk reports with actionable recommendations and implementation timelines",
+    "Evaluate vendor and third-party risk profiles before partnership engagement"
+  ],
+  "requirements": {
+    "education": "Bachelor's degree in Finance, Business, Economics, or related field",
+    "experience_years": "2-4 years",
+    "skills": [
+      "Risk assessment",
+      "Financial analysis",
+      "Microsoft Excel",
+      "Data analysis",
+      "Report writing"
+    ],
+    "certifications": [
+      "FRM (Financial Risk Manager) preferred"
+    ]
+  },
+  "benefits": [
+    "Comprehensive health insurance (medical, dental, vision)",
+    "401(k) retirement plan with company match",
+    "Paid time off (PTO) and holidays",
+    "Professional development and training budget",
+    "Flexible work schedule",
+    "Career development opportunities",
+    "Employee recognition programs",
+    "Community involvement opportunities"
+  ],
+  "employment_type": "full-time",
+  "posted_date": "2026-02-05"
+}
