@@ -239,6 +239,31 @@ export default function PathPage() {
             </div>
 
             <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: jobMatches.length * 0.15 + 0.5 }}
+              className="mt-16 rounded-2xl border-2 border-accent/20 bg-accent/5 p-8"
+            >
+              <h3 className="font-[family-name:var(--font-heading)] text-xl text-foreground">
+                Coming soon: Skills Intelligence
+              </h3>
+              <p className="mt-3 text-sm text-muted leading-relaxed">
+                Imagine connecting your LinkedIn profile and seeing exactly which skills you already
+                have — and which gaps to close for each career match. Using real-time labor market
+                data from providers like <strong className="text-foreground">Revelio Labs</strong>,
+                we can map your existing skills to actual job demand, show you the fastest
+                upskilling paths, and track which skills are rising or declining in your target fields.
+              </p>
+              <div className="mt-4 flex flex-wrap gap-2">
+                {["LinkedIn Skills Import", "Real-time Labor Market Data", "Skills Gap Analysis", "Upskilling Pathways", "Salary Benchmarking"].map((tag) => (
+                  <span key={tag} className="inline-block rounded-full bg-accent/10 px-3 py-1 text-xs text-accent font-medium">
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            </motion.div>
+
+            <motion.div
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ delay: jobMatches.length * 0.15 + 0.5 }}

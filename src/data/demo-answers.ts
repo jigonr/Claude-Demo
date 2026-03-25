@@ -1,0 +1,26 @@
+import { Answer } from '@/lib/types';
+
+export const demoAnswers: Answer[] = [
+  { questionId: 'dream-job-pay-cut', value: 'still-want' },
+  { questionId: 'parent-disappointment', value: 'do-it-anyway' },
+  { questionId: 'linkedin-invisible', value: 'yes-still' },
+  { questionId: 'seventy-hour-weeks', value: 0.6 },
+  { questionId: 'friend-got-dream-job', value: 'gutted' },
+  { questionId: 'automation-threat', value: 'pursue-anyway' },
+  { questionId: 'worst-at-table', value: 'least-talented' },
+  { questionId: 'creative-poverty-boring-wealth', value: 0.3 },
+  { questionId: 'move-to-nowhere', value: 'go' },
+  { questionId: 'quitting-signal', value: 'quit' },
+  { questionId: 'why-really', value: 'My dad is a lawyer and everyone assumes I should be one too. But honestly I never chose that — he did.' },
+  { questionId: 'success-definition', value: 'I see myself running a small studio, making things people actually use. Not rich, but proud of the work.' },
+  { questionId: 'lost-track-of-time', value: 'Redesigning the UI for a side project. I spent 6 hours and didn\'t eat.' },
+  { questionId: 'problems-cant-ignore', value: 'systems' },
+  { questionId: 'explain-or-build', value: 'build' },
+  { questionId: 'chaos-or-order', value: 'chaos' },
+  { questionId: 'audience-size', value: -0.4 },
+  { questionId: 'mastery-or-variety', value: -0.3 },
+  { questionId: 'legacy-question', value: 'built' },
+  { questionId: 'team-or-alone', value: -0.2 },
+  { questionId: 'saturday-night-work', value: 'Building a generative art tool that turns data into visual patterns.' },
+  { questionId: 'uncomfortable-truth', value: 'Game designer. I know it sounds childish but I think about it constantly.' },
+];

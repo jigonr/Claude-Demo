@@ -1,7 +1,11 @@
 "use client";
 
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import { motion, type Variants } from "framer-motion";
+import { useDiscoverStore } from "@/lib/store";
+import { demoAnswers } from "@/data/demo-answers";
+import { derivePreferences } from "@/lib/scoring";
 
 const fadeUp: Variants = {
   hidden: { opacity: 0, y: 30 },
@@ -40,6 +44,18 @@ const approaches = [
 ];
 
 export default function Home() {
+  const router = useRouter();
+  const { setAnswer, setPreferences } = useDiscoverStore();
+
+  const handleDemoSkip = () => {
+    for (const answer of demoAnswers) {
+      setAnswer(answer);
+    }
+    const prefs = derivePreferences(demoAnswers);
+    setPreferences(prefs);
+    router.push("/discover/lens");
+  };
+
   return (
     <div className="flex flex-col flex-1">
       {/* Hero — dark, bold, not beige */}
@@ -88,12 +104,20 @@ export default function Home() {
             animate="visible"
             custom={3}
           >
-            <Link
-              href="/discover/mirror"
-              className="inline-flex items-center justify-center rounded-full bg-accent px-8 py-4 text-base font-semibold text-white transition-all hover:bg-accent-light hover:shadow-lg hover:shadow-accent/25"
-            >
-              Start Discovering &rarr;
-            </Link>
+            <div className="flex flex-wrap gap-4 items-center">
+              <Link
+                href="/discover/mirror"
+                className="inline-flex items-center justify-center rounded-full bg-accent px-8 py-4 text-base font-semibold text-white transition-all hover:bg-accent-light hover:shadow-lg hover:shadow-accent/25"
+              >
+                Start Discovering &rarr;
+              </Link>
+              <button
+                onClick={handleDemoSkip}
+                className="inline-block rounded-full border-2 border-foreground/20 px-6 py-3.5 text-sm font-medium text-muted transition-colors hover:border-accent hover:text-accent"
+              >
+                Skip to Demo &rarr;
+              </button>
+            </div>
             <Link
               href="/about"
               className="inline-flex items-center justify-center rounded-full border border-white/20 px-8 py-4 text-base font-medium text-white/80 transition-colors hover:bg-white/10"
